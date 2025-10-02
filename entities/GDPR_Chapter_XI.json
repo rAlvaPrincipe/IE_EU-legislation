@@ -1,0 +1,27 @@
+{
+  "REGULATION_REF": [
+    "Directive 95/46/EC",
+    "Regulation",
+    "Directive 2002/58/EC",
+    "Article 29 of Directive 95/46/EC",
+    "Article 45(3) of this Regulation",
+    "Article 25(6) of Directive 95/46/EC",
+    "Regulation",
+    "Regulation"
+  ],
+  "ACTOR_ROLE": [
+    "Commission",
+    "supervisory authorities",
+    "Member States",
+    "European Parliament",
+    "Council"
+  ],
+  "AUTHORITY": [
+    "Commission",
+    "European Data Protection Board"
+  ],
+  "DATA_CATEGORY": [
+    "personal data"
+  ],
+  "PROCESSING_OPERATION": []
+}

@@ -1,0 +1,32 @@
+{
+  "REGULATION_REF": [
+    "Article 23",
+    "Article 24",
+    "Article 25",
+    "Article 26",
+    "Article 27",
+    "Article 28",
+    "Article 29",
+    "Article 30",
+    "Directive (EU) 2019/770",
+    "http://data.europa.eu/eli/reg/2023/2854/oj"
+  ],
+  "ACTOR_ROLE": [
+    "provider of data processing services",
+    "customer"
+  ],
+  "AUTHORITY": [
+    "Commission"
+  ],
+  "DATA_CATEGORY": [
+    "exportable data",
+    "digital assets",
+    "non-personal data"
+  ],
+  "PROCESSING_OPERATION": [
+    "switching",
+    "porting",
+    "erasure",
+    "retrieval"
+  ]
+}

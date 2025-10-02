@@ -1,0 +1,48 @@
+{
+  "REGULATION_REF": [
+    "Article 60",
+    "Article 61",
+    "Article 62",
+    "Article 63",
+    "Article 64",
+    "Article 65",
+    "Article 66",
+    "Article 67",
+    "Article 68",
+    "Article 69",
+    "Article 70",
+    "Article 71",
+    "Article 72",
+    "Article 73",
+    "Article 74",
+    "Article 75",
+    "Article 76",
+    "02016R0679"
+  ],
+  "ACTOR_ROLE": [
+    "lead supervisory authority",
+    "supervisory authorities concerned",
+    "controller",
+    "processor",
+    "European Data Protection Board",
+    "Commission"
+  ],
+  "AUTHORITY": [
+    "supervisory authority",
+    "European Data Protection Board",
+    "Commission"
+  ],
+  "DATA_CATEGORY": [],
+  "PROCESSING_OPERATION": [
+    "cooperation",
+    "assistance",
+    "investigations",
+    "monitoring",
+    "adopt",
+    "notify",
+    "submit",
+    "communicate",
+    "provide",
+    "exchange"
+  ]
+}

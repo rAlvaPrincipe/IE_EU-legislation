@@ -1,0 +1,44 @@
+{
+  "REGULATION_REF": [
+    "Article 57",
+    "Article 58",
+    "Article 59",
+    "Article 60",
+    "Article 61",
+    "Article 62",
+    "Article 63",
+    "Annex III",
+    "Annex IV",
+    "Article 35 of Regulation (EU) 2016/679",
+    "Article 39 of Regulation (EU) 2018/1725"
+  ],
+  "ACTOR_ROLE": [
+    "competent authorities",
+    "providers",
+    "prospective providers",
+    "national competent authorities",
+    "market surveillance authority",
+    "European Data Protection Supervisor",
+    "AI Office",
+    "deployer",
+    "user"
+  ],
+  "AUTHORITY": [
+    "Commission",
+    "national competent authorities",
+    "market surveillance authority",
+    "European Data Protection Supervisor"
+  ],
+  "DATA_CATEGORY": [
+    "personal data"
+  ],
+  "PROCESSING_OPERATION": [
+    "testing",
+    "processing",
+    "development",
+    "training",
+    "validation",
+    "monitoring",
+    "cooperation"
+  ]
+}

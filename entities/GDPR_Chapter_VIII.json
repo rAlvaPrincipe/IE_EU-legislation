@@ -1,0 +1,29 @@
+{
+  "REGULATION_REF": [
+    "Article 77",
+    "Article 78",
+    "Article 79",
+    "Article 80",
+    "Article 81",
+    "Article 82",
+    "Article 83",
+    "Article 84",
+    "Regulation (EC) No 1049/2001"
+  ],
+  "ACTOR_ROLE": [
+    "data subject",
+    "supervisory authority",
+    "controller",
+    "processor"
+  ],
+  "AUTHORITY": [
+    "supervisory authority"
+  ],
+  "DATA_CATEGORY": [
+    "personal data"
+  ],
+  "PROCESSING_OPERATION": [
+    "lodging a complaint",
+    "processing"
+  ]
+}

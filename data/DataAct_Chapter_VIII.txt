@@ -1,0 +1,86 @@
+CHAPTER VIII
+INTEROPERABILITY
+Article 33
+Essential requirements regarding interoperability of data, of data sharing mechanisms and services, as well as of common European data spaces
+1. Participants in data spaces that offer data or data services to other participants shall comply with the following essential requirements to facilitate the interoperability of data, of data sharing mechanisms and services, as well as of common European data spaces which are purpose- or sector-specific or cross-sectoral interoperable frameworks for common standards and practices to share or jointly process data for, inter alia, the development of new products and services, scientific research or civil society initiatives:
+(a) the dataset content, use restrictions, licences, data collection methodology, data quality and uncertainty shall be sufficiently described, where applicable, in a machine-readable format, to allow the recipient to find, access and use the data;
+(b) the data structures, data formats, vocabularies, classification schemes, taxonomies and code lists, where available, shall be described in a publicly available and consistent manner;
+(c) the technical means to access the data, such as application programming interfaces, and their terms of use and quality of service shall be sufficiently described to enable automatic access and transmission of data between parties, including continuously, in bulk download or in real-time in a machine-readable format where that is technically feasible and does not hamper the good functioning of the connected product;
+(d) where applicable, the means to enable the interoperability of tools for automating the execution of data sharing agreements, such as smart contracts shall be provided.
+The requirements can have a generic nature or concern specific sectors, while taking fully into account the interrelation with requirements arising from other Union or national law.
+2. The Commission is empowered to adopt delegated acts, in accordance with Article 45 of this Regulation to supplement this Regulation by further specifying the essential requirements laid down in paragraph 1 of this Article, in relation to those requirements that, by their nature, cannot produce the intended effect unless they are further specified in binding Union legal acts and in order to properly reflect technological and market developments.
+The Commission shall when adopting delegated acts take into account the advice of the EDIB in accordance with Article 42, point (c)(iii).
+3. The participants in data spaces that offer data or data services to other participants in data spaces which meet the harmonised standards or parts thereof, the references of which are published in the Official Journal of the European Union, shall be presumed to be in conformity with the essential requirements laid down in paragraph 1 to the extent that those requirements are covered by such harmonised standards or parts thereof.
+4. The Commission shall, pursuant to Article 10 of Regulation (EU) No 1025/2012, request one or more European standardisation organisations to draft harmonised standards that satisfy the essential requirements laid down in paragraph 1 of this Article.
+5. The Commission may, by means of implementing acts, adopt common specifications covering any or all of the essential requirements laid down in paragraph 1 where the following conditions have been fulfilled:
+(a) the Commission has requested, pursuant to Article 10(1) of Regulation (EU) No 1025/2012, one or more European standardisation organisations to draft a harmonised standard that satisfies the essential requirements laid down in paragraph 1 of this Article and:
+(i) the request has not been accepted;
+(ii) the harmonised standards addressing that request are not delivered within the deadline set in accordance with Article 10(1) of Regulation (EU) No 1025/2012; or
+(iii) the harmonised standards do not comply with the request; and
+(b) no reference to harmonised standards covering the relevant essential requirements laid down in paragraph 1 of this Article is published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012 and no such reference is expected to be published within a reasonable period.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 46(2).
+6. Before preparing a draft implementing act referred to in paragraph 5 of this Article, the Commission shall inform the committee referred to in Article 22 of Regulation (EU) No 1025/2012 that it considers that the conditions in paragraph 5 of this Article have been fulfilled.
+7. When preparing the draft implementing act referred to in paragraph 5, the Commission shall take into account the advice of the EDIB and views of other relevant bodies or expert groups and shall duly consult all relevant stakeholders.
+8. The participants in data spaces that offer data or data services to other participants in data spaces that meet the common specifications established by implementing acts referred to in paragraph 5 or parts thereof shall be presumed to be in conformity with the essential requirements laid down in paragraph 1 to the extent that those requirements are covered by such common specifications or parts thereof.
+9. Where a harmonised standard is adopted by a European standardisation organisation and proposed to the Commission for the purpose of publishing its reference in the Official Journal of the European Union, the Commission shall assess the harmonised standard in accordance with Regulation (EU) No 1025/2012.
+Where the reference of a harmonised standard is published in the Official Journal of the European Union, the Commission shall repeal the implementing acts referred to in paragraph 5 of this Article, or parts thereof which cover the same essential requirements as those covered by that harmonised standard.
+22.12.2023 http://data.europa.eu/eli/reg/2023/2854/oj 62/71
+10.
+When a Member State considers that a common specification does not entirely satisfy the essential requirements laid down in paragraph 1, it shall inform the Commission thereof by submitting a detailed explanation.
+The Commission shall assess that detailed explanation and may, if appropriate, amend the implementing act establishing the common specification in question.
+11.
+The Commission may adopt guidelines taking into account the proposal of the EDIB in accordance with Article 30, point (h), of Regulation (EU) 2022/868 laying down interoperable frameworks for common standards and practices for the functioning of common European data spaces.
+Article 34
+Interoperability for the purposes of in-parallel use of data processing services
+1. The requirements laid down in Article 23, Article 24, Article 25(2), points (a)(ii), (a)(iv), (e) and (f) and Article 30(2) to
+(5) shall also apply mutatis mutandis to providers of data processing services to facilitate interoperability for the purposes of in-parallel use of data processing services.
+2. Where a data processing service is being used in parallel with another data processing service, the providers of data processing services may impose data egress charges, but only for the purpose of passing on egress costs incurred, without exceeding such costs.
+Article 35
+Interoperability of data processing services
+1. Open interoperability specifications and harmonised standards for the interoperability of data processing services shall:
+(a) achieve, where technically feasible, interoperability between different data processing services that cover the same service type;
+(b) enhance portability of digital assets between different data processing services that cover the same service type;
+(c) facilitate, where technically feasible, functional equivalence between different data processing services referred to in Article 30(1) that cover the same service type;
+(d) not have an adverse impact on the security and integrity of data processing services and data;
+(e) be designed in such a way so as to allow for technical advances and the inclusion of new functions and innovation in data processing services.
+2. Open interoperability specifications and harmonised standards for the interoperability of data processing services shall adequately address:
+(a) the cloud interoperability aspects of transport interoperability, syntactic interoperability, semantic data interoperability, behavioural interoperability and policy interoperability;
+(b) the cloud data portability aspects of data syntactic portability, data semantic portability and data policy portability;
+(c) the cloud application aspects of application syntactic portability, application instruction portability, application metadata portability, application behaviour portability and application policy portability.
+3. Open interoperability specifications shall comply with Annex II to Regulation (EU) No 1025/2012.
+4. After taking into account relevant international and European standards and self-regulatory initiatives, the Commission may, in accordance with Article 10(1) of Regulation (EU) No 1025/2012, request one or more European standardisation organisations to draft harmonised standards that satisfy the essential requirements laid down in paragraphs 1 and 2 of this Article.
+5. The Commission may, by means of implementing acts, adopt common specifications based on open interoperability specifications covering all of the essential requirements laid down in paragraphs 1 and 2.
+6. When preparing the draft implementing act referred to in paragraph 5 of this Article, the Commission shall take into account the views of the relevant competent authorities referred to in Article 37(5), point (h) and other relevant bodies or expert groups and shall duly consult all relevant stakeholders.
+7. When a Member State considers that a common specification does not entirely satisfy the essential requirements laid down in paragraphs 1 and 2, it shall inform the Commission thereof by submitting a detailed explanation.
+The Commission shall assess that detailed explanation and may, if appropriate, amend the implementing act establishing the common specification in question.
+8. For the purpose of Article 30(3), the Commission shall, by means of implementing acts, publish the references of harmonised standards and common specifications for the interoperability of data processing services in a central Union standards repository for the interoperability of data processing services.
+9. The implementing acts referred to in this Article shall be adopted in accordance with the examination procedure referred to in Article 46(2).
+Article 36
+Essential requirements regarding smart contracts for executing data sharing agreements
+1. The vendor of an application using smart contracts or, in the absence thereof, the person whose trade, business or profession involves the deployment of smart contracts for others in the context of executing an agreement or part of it, to make data available shall ensure that those smart contracts comply with the following essential requirements of:
+(a) robustness and access control, to ensure that the smart contract has been designed to offer access control mechanisms and a very high degree of robustness to avoid functional errors and to withstand manipulation by third parties;
+(b) safe termination and interruption, to ensure that a mechanism exists to terminate the continued execution of transactions and that the smart contract includes internal functions which can reset or instruct the contract to stop or interrupt the operation, in particular to avoid future accidental executions;
+(c) data archiving and continuity, to ensure, in circumstances in which a smart contract must be terminated or deactivated, there is a possibility to archive the transactional data, smart contract logic and code in order to keep the record of operations performed on the data in the past (auditability);
+(d) access control, to ensure that a smart contract is protected through rigorous access control mechanisms at the governance and smart contract layers; and
+(e) consistency, to ensure consistency with the terms of the data sharing agreement that the smart contract executes.
+2. The vendor of a smart contract or, in the absence thereof, the person whose trade, business or profession involves the deployment of smart contracts for others in the context of executing an agreement or part of it, to make data available shall perform a conformity assessment with a view to fulfilling the essential requirements laid down in paragraph 1 and, on the fulfilment of those requirements, issue an EU declaration of conformity.
+3. By drawing up the EU declaration of conformity, the vendor of an application using smart contracts or, in the absence thereof, the person whose trade, business or profession involves the deployment of smart contracts for others in the context executing an agreement or part of it, to make data available shall be responsible for compliance with the essential requirements laid down in paragraph 1.
+22.12.2023 http://data.europa.eu/eli/reg/2023/2854/oj 64/71
+4. A smart contract that meets the harmonised standards or the relevant parts thereof, the references of which are published in the Official Journal of the European Union, shall be presumed to be in conformity with the essential requirements laid down in paragraph 1 to the extent that those requirements are covered by such harmonised standards or parts thereof.
+5. The Commission shall, pursuant to Article 10 of Regulation (EU) No 1025/2012, request one or more European standardisation organisations to draft harmonised standards that satisfy the essential requirements laid down in paragraph 1 of this Article.
+6. The Commission may, by means of implementing acts, adopt common specifications covering any or all of the essential requirements laid down in paragraph 1 where the following conditions have been fulfilled:
+(a) the Commission has requested, pursuant to Article 10(1) of Regulation (EU) No 1025/2012, one or more European standardisation organisations to draft a harmonised standard that satisfies the essential requirements laid down in paragraph 1 of this Article and:
+(i) the request has not been accepted;
+(ii) the harmonised standards addressing that request are not delivered within the deadline set in accordance with Article 10(1) of Regulation (EU) No 1025/2012; or
+(iii) the harmonised standards do not comply with the request; and
+(b) no reference to harmonised standards covering the relevant essential requirements laid down in paragraph 1 of this Article is published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012 and no such reference is expected to be published within a reasonable period.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 46(2).
+7. Before preparing a draft implementing act referred to in paragraph 6 of this Article, the Commission shall inform the committee referred to in Article 22 of Regulation (EU) No 1025/2012 that it considers that the conditions in paragraph 6 of this Article have been fulfilled.
+8. When preparing the draft implementing act referred to in paragraph 6, the Commission shall take into account the advice of the EDIB and views of other relevant bodies or expert groups and shall duly consult all relevant stakeholders.
+9. The vendor of a smart contract or, in the absence thereof, the person whose trade, business or profession involves the deployment of smart contracts for others in the context of executing an agreement or part of it, to make data available that meet the common specifications established by implementing acts referred to in paragraph 6 or parts thereof shall be presumed to be in conformity with the essential requirements laid down in paragraph 1 to the extent that those requirements are covered by such common specifications or parts thereof.
+10.
+Where a harmonised standard is adopted by a European standardisation organisation and proposed to the Commission for the purpose of publishing its reference in the Official Journal of the European Union, the Commission shall assess the harmonised standard in accordance with Regulation (EU) No 1025/2012.
+Where the reference of a harmonised standard is published in the Official Journal of the European Union, the Commission shall repeal the implementing acts referred to in paragraph 6 of this Article, or parts thereof which cover the same essential requirements as those covered by that harmonised standard.
+11.
+When a Member State considers that a common specification does not entirely satisfy the essential requirements laid down in paragraph 1, it shall inform the Commission thereof by submitting a detailed explanation.
+The Commission shall assess that detailed explanation and may, if appropriate, amend the implementing act establishing the common specification in question.

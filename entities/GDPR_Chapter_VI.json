@@ -1,0 +1,37 @@
+{
+  "REGULATION_REF": [
+    "Article 51",
+    "Article 52",
+    "Article 53",
+    "Article 54",
+    "Article 55",
+    "Article 56",
+    "Article 57",
+    "Article 58",
+    "Article 59",
+    "this Regulation",
+    "02016R0679"
+  ],
+  "ACTOR_ROLE": [
+    "supervisory authority",
+    "Member State",
+    "controller",
+    "processor"
+  ],
+  "AUTHORITY": [
+    "supervisory authority",
+    "Commission"
+  ],
+  "DATA_CATEGORY": [
+    "personal data"
+  ],
+  "PROCESSING_OPERATION": [
+    "monitoring",
+    "enforcement",
+    "cooperation",
+    "investigations",
+    "handling complaints",
+    "advising",
+    "promoting awareness"
+  ]
+}

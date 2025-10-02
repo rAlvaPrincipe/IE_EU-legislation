@@ -1,0 +1,37 @@
+{
+  "REGULATION_REF": [
+    "Article 51",
+    "Article 52",
+    "Article 53",
+    "Article 54",
+    "Article 55",
+    "Article 56",
+    "Annex XIII",
+    "Annex XI",
+    "Annex XII",
+    "Directive (EU) 2019/790"
+  ],
+  "ACTOR_ROLE": [
+    "provider",
+    "authorised representative",
+    "AI Office",
+    "national competent authorities",
+    "Commission"
+  ],
+  "AUTHORITY": [
+    "AI Office",
+    "Commission",
+    "national competent authorities"
+  ],
+  "DATA_CATEGORY": [],
+  "PROCESSING_OPERATION": [
+    "classification",
+    "notification",
+    "evaluation",
+    "documentation",
+    "cooperation",
+    "assessment",
+    "mitigation",
+    "reporting"
+  ]
+}

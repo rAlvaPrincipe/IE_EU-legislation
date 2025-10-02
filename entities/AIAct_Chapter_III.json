@@ -1,0 +1,32 @@
+{
+  "REGULATION_REF": [
+    "Article 6",
+    "Annex I",
+    "Annex III",
+    "Article 49",
+    "Article 35 of Regulation (EU) 2016/679",
+    "Article 27 of Directive (EU) 2016/680",
+    "Article 9 of Regulation (EU) 2016/679",
+    "Article 10 of Directive (EU) 2016/680",
+    "Regulation (EU) 2019/881",
+    "Regulation (EC) No 765/2008",
+    "Article 43"
+  ],
+  "ACTOR_ROLE": [
+    "provider",
+    "deployer",
+    "market surveillance authority",
+    "notified body",
+    "authorised representative",
+    "importer",
+    "distributor"
+  ],
+  "AUTHORITY": [
+    "Commission",
+    "national competent authorities",
+    "notifying authority",
+    "European standardisation organisations"
+  ],
+  "DATA_CATEGORY": [],
+  "PROCESSING_OPERATION": []
+}

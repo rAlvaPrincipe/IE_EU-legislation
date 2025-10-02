@@ -1,0 +1,44 @@
+{
+  "REGULATION_REF": [
+    "Article 37",
+    "Regulation (EU) 2016/679",
+    "Article 62",
+    "Regulation (EU) 2018/1725",
+    "Articles 23 to 31",
+    "Articles 34 and 35",
+    "Article 4(2)",
+    "Article 5(11)",
+    "Article 29",
+    "Article 38",
+    "Article 39",
+    "Article 40",
+    "Article 41",
+    "Article 29 of Regulation (EU) 2022/868"
+  ],
+  "ACTOR_ROLE": [
+    "competent authorities",
+    "data coordinator",
+    "supervisory authorities",
+    "European Data Protection Supervisor",
+    "users",
+    "data holders",
+    "data recipients",
+    "legal representative"
+  ],
+  "AUTHORITY": [
+    "competent authorities",
+    "supervisory authorities",
+    "European Data Protection Supervisor",
+    "Commission",
+    "EDIB"
+  ],
+  "DATA_CATEGORY": [],
+  "PROCESSING_OPERATION": [
+    "monitoring",
+    "cooperation",
+    "handling complaints",
+    "conducting investigations",
+    "imposing penalties",
+    "requesting information"
+  ]
+}

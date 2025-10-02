@@ -1,0 +1,22 @@
+{
+  "REGULATION_REF": [
+    "Article 32",
+    "Regulation (EU) 2023/2854",
+    "Article 42"
+  ],
+  "ACTOR_ROLE": [
+    "provider of data processing services",
+    "addressee"
+  ],
+  "AUTHORITY": [
+    "relevant national body or authority",
+    "Commission"
+  ],
+  "DATA_CATEGORY": [
+    "non-personal data"
+  ],
+  "PROCESSING_OPERATION": [
+    "transfer",
+    "access"
+  ]
+}

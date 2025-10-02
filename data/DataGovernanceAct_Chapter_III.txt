@@ -1,0 +1,102 @@
+CHAPTER III
+Requirements applicable to data intermediation services
+Article 10
+Data intermediation services
+The provision of the following data intermediation services shall comply with Article 12 and shall be subject to a notification procedure:
+(a) intermediation services between data holders and potential data users, including making available the technical or other means to enable such services; those services may include bilateral or multilateral exchanges of data or the creation of platforms or databases enabling the exchange or joint use of data, as well as the establishment of other specific infrastructure for the interconnection of data holders with data users;
+(b) intermediation services between data subjects that seek to make their personal data available or natural persons that seek to make non-personal data available, and potential data users, including making available the technical or other means to enable such services, and in particular enabling the exercise of the data subjects’ rights provided in Regulation (EU) 2016/679;
+(c) services of data cooperatives.
+Article 11
+Notification by data intermediation services providers
+1. Any data intermediation services provider who intends to provide the data intermediation services referred to in Article 10 shall submit a notification to the competent authority for data intermediation services.
+2. For the purposes of this Regulation, a data intermediation services provider with establishments in more than one Member State shall be deemed to be under the jurisdiction of the Member State in which it has its main establishment, without prejudice to Union law regulating cross-border actions for damages and related proceedings.
+3. A data intermediation services provider that is not established in the Union, but which offers the data intermediation services referred to in Article 10 within the Union, shall designate a legal representative in one of the Member States in which those services are offered.
+For the purpose of ensuring compliance with this Regulation, the legal representative shall be mandated by the data intermediation services provider to be addressed in addition to or instead of it by competent authorities for data intermediation services or data subjects and data holders, with regard to all issues related to the data intermediation services provided.
+The legal representative shall cooperate with and comprehensively demonstrate to the competent authorities for data intermediation services, upon request, the actions taken and provisions put in place by the data intermediation services provider to ensure compliance with this Regulation.
+The data intermediation services provider shall be deemed to be under the jurisdiction of the Member State in which the legal representative is located.
+The designation of a legal representative by the data intermediation services provider shall be without prejudice to any legal actions which could be initiated against the data intermediation services provider.
+4. After having submitted a notification in accordance with paragraph 1, the data intermediation services provider may start the activity subject to the conditions laid down in this Chapter.
+5. The notification referred to in paragraph 1 shall entitle the data intermediation services provider to provide data intermediation services in all Member States.
+6. The notification referred to in paragraph 1 shall include the following information:
+(a) the name of the data intermediation services provider;
+(b) the data intermediation services provider’s legal status, form, ownership structure, relevant subsidiaries and, where the data intermediation services provider is registered in a trade or other similar public national register, registration number;
+(c) the address of the data intermediation services provider’s main establishment in the Union, if any, and, where applicable, of any secondary branch in another Member State or that of the legal representative;
+(d) a public website where complete and up-to-date information on the data intermediation services provider and the activities can be found, including as a minimum the information referred to in points (a), (b), (c) and (f);
+(e) the data intermediation services provider’s contact persons and contact details;
+(f) a description of the data intermediation service the data intermediation services provider intends to provide, and an indication of the categories listed in Article 10 under which such data intermediation service falls;
+(g) the estimated date for starting the activity, if different from the date of the notification.
+7. The competent authority for data intermediation services shall ensure that the notification procedure is nondiscriminatory and does not distort the competition.
+3.6.2022
+8. At the request of the data intermediation services provider, the competent authority for data intermediation services shall, within one week of a duly and fully completed notification, issue a standardised declaration, confirming that the data intermediation services provider has submitted the notification referred to in paragraph 1 and that the notification contains the information referred to in paragraph 6.
+9. At the request of the data intermediation services provider, the competent authority for data intermediation services shall confirm that the data intermediation services provider complies with this Article and Article 12.
+Upon receipt of such a confirmation, that data intermediation services provider may use the label ‘data intermediation services provider recognised in the Union’ in its written and spoken communication, as well as a common logo.
+In order to ensure that data intermediation services providers recognised in the Union are easily identifiable throughout the Union, the Commission shall, by means of implementing acts, establish a design for the common logo.
+Data intermediation services providers recognised in the Union shall display the common logo clearly on every online and offline publication that relates to their data intermediation activities.
+Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 33(2).
+10.
+The competent authority for data intermediation services shall notify the Commission of each new notification by electronic means without delay.
+The Commission shall keep and regularly update a public register of all data intermediation services providers providing their services in the Union.
+The information referred to in paragraph 6, points (a), (b), (c), (d), (f) and (g), shall be published in the public register.
+11.
+The competent authority for data intermediation services may charge fees for the notification in accordance with national law.
+Such fees shall be proportionate and objective and be based on the administrative costs related to the monitoring of compliance and other market control activities of the competent authority for data intermediation services in relation to notifications of data intermediation services providers.
+In the case of SMEs and start-ups, the competent authority for data intermediation services may charge a discounted fee or waive the fee.
+12.
+Data intermediation services providers shall notify the competent authority for data intermediation services of any changes to the information provided pursuant to paragraph 6 within 14 days of the date of the change.
+13.
+Where a data intermediation services provider ceases its activities, it shall notify the relevant competent authority for data intermediation services determined pursuant to paragraphs 1, 2 and 3 within 15 days.
+14.
+The competent authority for data intermediation services shall notify the Commission of each notification referred to in paragraphs 12 and 13 by electronic means without delay.
+The Commission shall update the public register of the data intermediation services providers in the Union accordingly.
+Article 12
+Conditions for providing data intermediation services
+The provision of data intermediation services referred in Article 10 shall be subject to the following conditions:
+(a) the data intermediation services provider shall not use the data for which it provides data intermediation services for purposes other than to put them at the disposal of data users and shall provide data intermediation services through a separate legal person;
+(b) the commercial terms, including pricing, for the provision of data intermediation services to a data holder or data user shall not be dependent upon whether the data holder or data user uses other services provided by the same data intermediation services provider or by a related entity, and if so to what degree the data holder or data user uses such other services;
+(c) the data collected with respect to any activity of a natural or legal person for the purpose of the provision of the data intermediation service, including the date, time and geolocation data, duration of activity and connections to other natural or legal persons established by the person who uses the data intermediation service, shall be used only for the development of that data intermediation service, which may entail the use of data for the detection of fraud or cybersecurity, and shall be made available to the data holders upon request;
+(d) the data intermediation services provider shall facilitate the exchange of the data in the format in which it receives it from a data subject or a data holder, shall convert the data into specific formats only to enhance interoperability within and across sectors or if requested by the data user or where mandated by Union law or to ensure harmonisation with international or European data standards and shall offer an opt-out possibility regarding those conversions to data subjects or data holders, unless the conversion is mandated by Union law;
+(e) data intermediation services may include offering additional specific tools and services to data holders or data subjects for the specific purpose of facilitating the exchange of data, such as temporary storage, curation, conversion, anonymisation and pseudonymisation, such tools being used only at the explicit request or approval of the data holder or data subject and third-party tools offered in that context not being used for other purposes;
+(f) the data intermediation services provider shall ensure that the procedure for access to its service is fair, transparent and non-discriminatory for both data subjects and data holders, as well as for data users, including with regard to prices and terms of service;
+(g) the data intermediation services provider shall have procedures in place to prevent fraudulent or abusive practices in relation to parties seeking access through its data intermediation services;
+(h) the data intermediation services provider shall, in the event of its insolvency, ensure a reasonable continuity of the provision of its data intermediation services and, where such data intermediation services ensure the storage of data, shall have mechanisms in place to allow data holders and data users to obtain access to, to transfer or to retrieve their data and, where such data intermediation services are provided between data subjects and data users, to allow data subjects to exercise their rights;
+(i) the data intermediation services provider shall take appropriate measures to ensure interoperability with other data intermediation services, inter alia, by means of commonly used open standards in the sector in which the data intermediation services provider operates;
+(j) the data intermediation services provider shall put in place adequate technical, legal and organisational measures in order to prevent the transfer of or access to non-personal data that is unlawful under Union law or the national law of the relevant Member State;
+(k) the data intermediation services provider shall without delay inform data holders in the event of an unauthorised transfer, access or use of the non-personal data that it has shared;
+(l) the data intermediation services provider shall take necessary measures to ensure an appropriate level of security for the storage, processing and transmission of non-personal data, and the data intermediation services provider shall further ensure the highest level of security for the storage and transmission of competitively sensitive information;
+(m) the data intermediation services provider offering services to data subjects shall act in the data subjects’ best interest where it facilitates the exercise of their rights, in particular by informing and, where appropriate, advising data subjects in a concise, transparent, intelligible and easily accessible manner about intended data uses by data users and standard terms and conditions attached to such uses before data subjects give consent;
+(n) where a data intermediation services provider provides tools for obtaining consent from data subjects or permissions to process data made available by data holders, it shall, where relevant, specify the third-country jurisdiction in which the data use is intended to take place and provide data subjects with tools to both give and withdraw consent and data holders with tools to both give and withdraw permissions to process data;
+(o) the data intermediation services provider shall maintain a log record of the data intermediation activity.
+3.6.2022
+Article 13
+Article 13
+Competent authorities for data intermediation services
+1. Each Member State shall designate one or more competent authorities to carry out the tasks related to the notification procedure for data intermediation services and shall notify the Commission of the identity of those competent authorities by 24 September 2023.
+Each Member State shall also notify the Commission of any subsequent change to the identity of those competent authorities.
+2. The competent authorities for data intermediation services shall comply with the requirements set out in Article 26.
+3. The powers of the competent authorities for data intermediation services are without prejudice to the powers of the data protection authorities, national competition authorities, authorities in charge of cybersecurity and other relevant sectoral authorities.
+In accordance with their respective competences under Union and national law, those authorities shall establish strong cooperation and exchange information as is necessary for the exercise of their tasks in relation to data intermediation services providers, and shall aim to achieve consistency in the decisions taken in applying this Regulation.
+Article 14
+Monitoring of compliance
+1. The competent authorities for data intermediation services shall monitor and supervise compliance of data intermediation services providers with the requirements of this Chapter.
+The competent authorities for data intermediation services may also monitor and supervise the compliance of data intermediation services providers, on the basis of a request by a natural or legal person.
+2. The competent authorities for data intermediation services shall have the power to request from data intermediation services providers or their legal representatives all the information that is necessary to verify compliance with the requirements of this Chapter.
+Any request for information shall be proportionate to the performance of the task and shall be reasoned.
+3. Where the competent authority for data intermediation services finds that a data intermediation services provider does not comply with one or more of the requirements of this Chapter, it shall notify that data intermediation services provider of those findings and give it the opportunity to state its views, within 30 days of the receipt of the notification.
+4. The competent authority for data intermediation services shall have the power to require the cessation of the infringement referred to in paragraph 3 within a reasonable time limit or immediately in the case of a serious infringement and shall take appropriate and proportionate measures with the aim of ensuring compliance.
+In that regard, the competent authority for data intermediation services shall have the power, where appropriate:
+(a) to impose, through administrative procedures, dissuasive financial penalties, which may include periodic penalties and penalties with retroactive effect, to initiate legal proceedings for the imposition of fines, or both;
+(b) to require a postponement of the commencement or a suspension of the provision of the data intermediation service until any changes to the conditions requested by the competent authority for data intermediation services have been made; or
+(c) to require the cessation of the provision of the data intermediation service in the event that serious or repeated infringements have not been remedied despite prior notification in accordance with paragraph 3.
+The competent authority for data intermediation services shall request the Commission to remove the data intermediation services provider from the register of data intermediation services providers once it has ordered the cessation of the provision of the data intermediation service in accordance with the first subparagraph, point (c).
+If a data intermediation services provider remedies infringements, that data intermediation services provider shall re-notify the competent authority for data intermediation services.
+The competent authority for data intermediation services shall notify the Commission of each new re-notification.
+5. Where a data intermediation services provider that is not established in the Union fails to designate a legal representative or the legal representative fails, upon request of the competent authority for data intermediation services, to provide the necessary information that comprehensively demonstrates compliance with this Regulation, the competent authority for data intermediation services shall have the power to postpone the commencement of or to suspend the provision of the data intermediation service until the legal representative is designated or the necessary information is provided.
+6. The competent authorities for data intermediation services shall notify the data intermediation services provider concerned of the measures imposed pursuant to paragraphs 4 and 5 and the reasons on which they are based, as well as the necessary steps to be taken to rectify the relevant shortcomings, without delay, and shall stipulate a reasonable period, which shall not be longer than 30 days, for the data intermediation services provider to comply with those measures.
+7. If a data intermediation services provider has its main establishment or its legal representative in a Member State but provides services in other Member States, the competent authority for data intermediation services of the Member State of the main establishment or where the legal representative is located and the competent authorities for data intermediation services of those other Member States shall cooperate and assist each other.
+Such assistance and cooperation may cover information exchanges between the competent authorities for data intermediation services concerned for the purposes of their tasks under this Regulation and reasoned requests to take the measures referred to in this Article.
+Where a competent authority for data intermediation services in one Member State requests assistance from a competent authority for data intermediation services in another Member State, it shall submit a reasoned request.
+The competent authority for data intermediation services shall, upon such a request, provide a response without delay and within a timeframe proportionate to the urgency of the request.
+Any information exchanged in the context of assistance requested and provided under this paragraph shall be used only in respect of the matter for which it was requested.
+Article 15
+Exceptions
+This Chapter shall not apply to recognised data altruism organisations or other not-for-profit entities insofar as their activities consist of seeking to collect data for objectives of general interest, made available by natural or legal persons on the basis of data altruism, unless those organisations and entities aim to establish commercial relationships between an undetermined number of data subjects and data holders on the one hand and data users on the other.

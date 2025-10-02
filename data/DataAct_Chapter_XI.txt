@@ -1,0 +1,111 @@
+CHAPTER XI
+FINAL PROVISIONS
+Article 44
+Other Union legal acts governing rights and obligations on data access and use
+1. The specific obligations for the making available of data between businesses, between businesses and consumers, and on exceptional basis between businesses and public bodies, in Union legal acts that entered into force on or before 11 January 2024, and delegated or implementing acts pursuant thereto, shall remain unaffected.
+2. This Regulation is without prejudice to Union law specifying, in light of the needs of a sector, a common European data space, or an area of public interest, further requirements, in particular in relation to:
+(a) technical aspects of data access;
+22.12.2023 http://data.europa.eu/eli/reg/2023/2854/oj 70/71 Article 48
+(b) limits on the rights of data holders to access or use certain data provided by users;
+(c) aspects going beyond data access and use.
+3. This Regulation, with the exception of Chapter V, is without prejudice to Union and national law providing for access to and authorising the use of data for scientific research purposes.
+Article 45
+Exercise of the delegation
+1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+2. The power to adopt delegated acts referred to in Article 29(7) and Article 33(2) shall be conferred on the Commission for an indeterminate period of time from 11 January 2024.
+3. The delegation of power referred to in Article 29(7) and Article 33(2) may be revoked at any time by the European Parliament or by the Council.
+A decision to revoke shall put an end to the delegation of the power specified in that decision.
+It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein.
+It shall not affect the validity of any delegated acts already in force.
+4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+6. A delegated act adopted pursuant to Article 29(7) or Article 33(2) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of three months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object.
+That period shall be extended by three months at the initiative of the European Parliament or of the Council.
+Article 46
+Committee procedure
+1. The Commission shall be assisted by the Committee established by Regulation (EU) 2022/868.
+That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+Article 47
+Amendment to Regulation (EU) 2017/2394
+In the Annex to Regulation (EU) 2017/2394 the following point is added:
+Regulation (EU) 2023/2854 of the European Parliament and of the Council of 13 December 2023 on harmonised rules on fair access to and use of data and amending Regulation (EU) 2017/2394 and Directive (EU) 2020/1828 (Data Act) (OJ L, 2023/2854, 22.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2854/oj).’
+Amendment to Directive (EU) 2020/1828
+In Annex I to Directive (EU) 2020/1828 the following point is added:
+‘68.
+Regulation (EU) 2023/2854 of the European Parliament and of the Council of 13 December 2023 on harmonised rules on fair access to and use of data and amending Regulation (EU) 2017/2394 and Directive (EU) 2020/1828 (Data Act) (OJ L, 2023/2854, 22.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2854/oj). ’
+Article 49
+Evaluation and review
+1. By 12 September 2028, the Commission shall carry out an evaluation of this Regulation and submit a report on its main findings to the European Parliament and to the Council, and to the European Economic and Social Committee.
+That evaluation shall assess, in particular:
+(a) situations to be considered to be situations of exceptional need for the purpose of Article 15 of this Regulation and the application of Chapter V of this Regulation in practice, in particular the experience in the application of Chapter V of this Regulation by public sector bodies, the Commission, the European Central Bank and Union bodies; the number and outcome of the proceedings brought to the competent authority under Article 18(5) on the application of Chapter V of this Regulation, as reported by the competent authorities; the impact of other obligations laid down in Union or national law for the purposes of complying with requests for access to information; the impact of voluntary data-sharing mechanisms, such as those put in place by data altruism organisations recognised under Regulation (EU) 2022/868, on meeting the objectives of Chapter V of this Regulation, and the role of personal data in the context of Article 15 of this Regulation, including the evolution of privacy-enhancing technologies;
+(b) the impact of this Regulation on the use of data in the economy, including on data innovation, data monetisation practices and data intermediation services, as well as on data sharing within the common European data spaces;
+(c) the accessibility and use of different categories and types of data;
+(d) the exclusion of certain categories of enterprises as beneficiaries under Article 5;
+(e) the absence of any impact on intellectual property rights;
+(f) the impact on trade secrets, including on the protection against their unlawful acquisition, use and disclosure, as well as the impact of the mechanism allowing the data holder to refuse the user’s request under Article 4(8) and Article 5(11), taking into account, to the extent possible, any revision of Directive (EU) 2016/943;
+(g) whether the list of unfair contractual terms referred to in Article 13 is up-to-date in light of new business practices and the rapid pace of market innovation;
+(h) changes in the contractual practices of providers of data processing services and whether this results in sufficient compliance with Article 25;
+(i) the diminution of charges imposed by providers of data processing services for the switching process, in line with the gradual withdrawal of switching charges pursuant to Article 29;
+(j) the interplay of this Regulation with other Union legal acts of relevance to the data economy;
+(k) the prevention of unlawful governmental access to non-personal data;
+(l) the efficacy of the enforcement regime required under Article 37;
+22.12.2023
+(m) the impact of this Regulation on SMEs with regard to their capacity to innovate and to the availability of data processing services for users in the Union and the burden of complying with new obligations.
+2. By 12 September 2028, the Commission shall carry out an evaluation of this Regulation and submit a report on its main findings to the European Parliament and to the Council, and to the European Economic and Social Committee.
+That evaluation shall assess the impact of Articles 23 to 31 and Articles 34 and 35, in particular regarding pricing and the diversity of data processing services offered within the Union, with a special focus on SME providers.
+3. Member States shall provide the Commission with the information necessary for the preparation of the reports referred to in paragraphs 1 and 2.
+4. On the basis of the reports referred to in paragraphs 1 and 2, the Commission may, where appropriate, submit a legislative proposal to the European Parliament and to the Council to amend this Regulation.
+Article 50
+Entry into force and application This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+It shall apply from 12 September 2025.
+The obligation resulting from Article 3(1) shall apply to connected products and the services related to them placed on the market after 12 September 2026.
+Chapter III shall apply in relation to obligations to make data available under Union law or national legislation adopted in accordance with Union law, which enters into force after 12 September 2025.
+Chapter IV shall apply to contracts concluded after 12 September 2025.
+Chapter IV shall apply from 12 September 2027 to contracts concluded on or before 12 September 2025 provided that they are:
+(a) of indefinite duration; or
+(b) due to expire at least 10 years from 11 January 2024.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Strasbourg, 13 December 2023.
+For the European Parliament The President For the Council The President
+In Annex I to Directive (EU) 2020/1828 the following point is added:
+‘68.
+Regulation (EU) 2023/2854 of the European Parliament and of the Council of 13 December 2023 on harmonised rules on fair access to and use of data and amending Regulation (EU) 2017/2394 and Directive (EU) 2020/1828 (Data Act) (OJ L, 2023/2854, 22.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2854/oj). ’
+Article 49
+Evaluation and review
+1. By 12 September 2028, the Commission shall carry out an evaluation of this Regulation and submit a report on its main findings to the European Parliament and to the Council, and to the European Economic and Social Committee.
+That evaluation shall assess, in particular:
+(a) situations to be considered to be situations of exceptional need for the purpose of Article 15 of this Regulation and the application of Chapter V of this Regulation in practice, in particular the experience in the application of Chapter V of this Regulation by public sector bodies, the Commission, the European Central Bank and Union bodies; the number and outcome of the proceedings brought to the competent authority under Article 18(5) on the application of Chapter V of this Regulation, as reported by the competent authorities; the impact of other obligations laid down in Union or national law for the purposes of complying with requests for access to information; the impact of voluntary data-sharing mechanisms, such as those put in place by data altruism organisations recognised under Regulation (EU) 2022/868, on meeting the objectives of Chapter V of this Regulation, and the role of personal data in the context of Article 15 of this Regulation, including the evolution of privacy-enhancing technologies;
+(b) the impact of this Regulation on the use of data in the economy, including on data innovation, data monetisation practices and data intermediation services, as well as on data sharing within the common European data spaces;
+(c) the accessibility and use of different categories and types of data;
+(d) the exclusion of certain categories of enterprises as beneficiaries under Article 5;
+(e) the absence of any impact on intellectual property rights;
+(f) the impact on trade secrets, including on the protection against their unlawful acquisition, use and disclosure, as well as the impact of the mechanism allowing the data holder to refuse the user’s request under Article 4(8) and Article 5(11), taking into account, to the extent possible, any revision of Directive (EU) 2016/943;
+(g) whether the list of unfair contractual terms referred to in Article 13 is up-to-date in light of new business practices and the rapid pace of market innovation;
+(h) changes in the contractual practices of providers of data processing services and whether this results in sufficient compliance with Article 25;
+(i) the diminution of charges imposed by providers of data processing services for the switching process, in line with the gradual withdrawal of switching charges pursuant to Article 29;
+(j) the interplay of this Regulation with other Union legal acts of relevance to the data economy;
+(k) the prevention of unlawful governmental access to non-personal data;
+(l) the efficacy of the enforcement regime required under Article 37;
+22.12.2023
+(m) the impact of this Regulation on SMEs with regard to their capacity to innovate and to the availability of data processing services for users in the Union and the burden of complying with new obligations.
+2. By 12 September 2028, the Commission shall carry out an evaluation of this Regulation and submit a report on its main findings to the European Parliament and to the Council, and to the European Economic and Social Committee.
+That evaluation shall assess the impact of Articles 23 to 31 and Articles 34 and 35, in particular regarding pricing and the diversity of data processing services offered within the Union, with a special focus on SME providers.
+3. Member States shall provide the Commission with the information necessary for the preparation of the reports referred to in paragraphs 1 and 2.
+4. On the basis of the reports referred to in paragraphs 1 and 2, the Commission may, where appropriate, submit a legislative proposal to the European Parliament and to the Council to amend this Regulation.
+Article 50
+Entry into force and application This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+It shall apply from 12 September 2025.
+The obligation resulting from Article 3(1) shall apply to connected products and the services related to them placed on the market after 12 September 2026.
+Chapter III shall apply in relation to obligations to make data available under Union law or national legislation adopted in accordance with Union law, which enters into force after 12 September 2025.
+Chapter IV shall apply to contracts concluded after 12 September 2025.
+Chapter IV shall apply from 12 September 2027 to contracts concluded on or before 12 September 2025 provided that they are:
+(a) of indefinite duration; or
+(b) due to expire at least 10 years from 11 January 2024.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Strasbourg, 13 December 2023.
+For the European Parliament The President For the Council The President
+Done at Strasbourg, 13 December 2023.
+For the European Parliament The President For the Council The President
+R. METSOLA P
+P. NAVARRO RÍOS

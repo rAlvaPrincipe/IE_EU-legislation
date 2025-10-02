@@ -1,0 +1,31 @@
+{
+  "REGULATION_REF": [
+    "Article 29",
+    "Article 30",
+    "Article 3(1)",
+    "Article 7(1)",
+    "Article 25(1)",
+    "Article 5(11)",
+    "Article 5(12)"
+  ],
+  "ACTOR_ROLE": [
+    "Commission",
+    "European Data Innovation Board",
+    "competent authorities for data intermediation services",
+    "competent authorities for the registration of data altruism organisations"
+  ],
+  "AUTHORITY": [
+    "European Data Protection Board",
+    "European Data Protection Supervisor",
+    "ENISA"
+  ],
+  "DATA_CATEGORY": [
+    "non-personal data",
+    "categories of data"
+  ],
+  "PROCESSING_OPERATION": [
+    "re-use",
+    "exchange",
+    "storage"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "REGULATION_REF": [
+    "Article 64",
+    "Article 65",
+    "Article 66",
+    "Article 67",
+    "Article 68",
+    "Article 69",
+    "Article 70",
+    "Regulation (EU) 2019/1020"
+  ],
+  "ACTOR_ROLE": [
+    "AI Office",
+    "European Artificial Intelligence Board",
+    "national competent authorities",
+    "notifying authority",
+    "market surveillance authority",
+    "European Data Protection Supervisor",
+    "Commission"
+  ],
+  "AUTHORITY": [
+    "European Data Protection Supervisor",
+    "Commission"
+  ],
+  "DATA_CATEGORY": [],
+  "PROCESSING_OPERATION": []
+}

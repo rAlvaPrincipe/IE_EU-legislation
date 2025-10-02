@@ -1,0 +1,25 @@
+{
+  "REGULATION_REF": [
+    "Regulations (EU) 2016/679",
+    "(EU) 2018/1725",
+    "Directive (EU) 2016/680",
+    "Article 50",
+    "Article 56 (6)",
+    "Article 98(2)"
+  ],
+  "ACTOR_ROLE": [
+    "providers",
+    "deployers"
+  ],
+  "AUTHORITY": [
+    "AI Office",
+    "Commission"
+  ],
+  "DATA_CATEGORY": [
+    "personal data"
+  ],
+  "PROCESSING_OPERATION": [
+    "process",
+    "disclose"
+  ]
+}

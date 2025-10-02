@@ -1,0 +1,48 @@
+{
+  "REGULATION_REF": [
+    "Article 24",
+    "Article 25",
+    "Article 26",
+    "Article 27",
+    "Article 28",
+    "Article 29",
+    "Article 30",
+    "Article 31",
+    "Article 32",
+    "Article 33",
+    "Article 34",
+    "Article 35",
+    "Article 36",
+    "Article 37",
+    "Article 38",
+    "Article 39",
+    "Article 40",
+    "Article 41",
+    "Article 42",
+    "Article 43",
+    "02016R0679"
+  ],
+  "ACTOR_ROLE": [
+    "controller",
+    "processor",
+    "joint controllers",
+    "representative in the Union",
+    "data protection officer"
+  ],
+  "AUTHORITY": [
+    "supervisory authority"
+  ],
+  "DATA_CATEGORY": [
+    "personal data",
+    "special categories of data"
+  ],
+  "PROCESSING_OPERATION": [
+    "processing",
+    "pseudonymisation",
+    "encryption",
+    "monitoring",
+    "collection",
+    "storage",
+    "erasure"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "REGULATION_REF": [
+    "Article 31"
+  ],
+  "ACTOR_ROLE": [
+    "public sector body",
+    "natural or legal person",
+    "data intermediation services provider",
+    "recognised data altruism organisation",
+    "data holder"
+  ],
+  "AUTHORITY": [],
+  "DATA_CATEGORY": [
+    "non-personal data"
+  ],
+  "PROCESSING_OPERATION": [
+    "transfer",
+    "access"
+  ]
+}

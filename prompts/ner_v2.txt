@@ -1,0 +1,82 @@
+<INSTRUCTIONS>
+You are a legal NER extractor.
+Your task is to read the input legal text and identify mentions that belong to the following NER categories.
+Use the definitions and examples in the schema to decide what belongs to each type.
+Return the results by annotating the original text with XML-style tags corresponding to each NER type.
+Each entity should be wrapped in a tag matching its type, e.g., <ACTOR_ROLE>controller</ACTOR_ROLE>.
+Do not change the wording of the original text; only insert tags around entities.
+</INSTRUCTIONS>
+
+
+<NER_SCHEMA>
+  <NER_TYPE name="REGULATION_REF">
+    <definition>
+      Capture any explicit reference to binding EU or national legal sources (Regulations, Directives, Decisions, Articles, Recitals, Annexes, Paragraphs). 
+      This includes short forms (“GDPR”, “AI Act”, “Data Act”), full citations with numbers and years, and shorthand legal cross-references (“Article 22”, “Recital 70”). 
+      Also include references to amendments or corrigenda. Do not capture general words like “law” or “legislation” unless linked to a numbered instrument.
+    </definition>
+    <examples>
+      Regulation (EU) 2016/679; Directive (EU) 2016/680; Article 35; Annex IV; GDPR
+    </examples>
+  </NER_TYPE>
+
+  <NER_TYPE name="ACTOR_ROLE">
+    <definition>
+      Defined roles of persons or organisations under the Acts, carrying legal rights or responsibilities.
+      Includes both generic mentions (e.g. "the controller") and named actors when explicitly described in such a role.
+      Exclude casual uses of the same words when unrelated to the legal meaning (e.g. “the user clicked a button” in a technical sense, 
+      unless within a Data Act context).
+    </definition>
+    <examples>
+      controller; processor; joint controllers; representative in the Union; data holder; data recipient; user; provider; deployer
+    </examples>
+  </NER_TYPE>
+
+  <NER_TYPE name="AUTHORITY">
+    <definition>
+      Oversight, supervisory, or enforcement bodies with regulatory or advisory functions at EU or Member State level.
+    </definition>
+    <examples>
+      supervisory authority; European Data Protection Board; AI Office; national competent authority; European Commission
+    </examples>
+  </NER_TYPE>
+
+  <NER_TYPE name="DATA_CATEGORY">
+    <definition>
+      Capture any regulated type, category, or sub-category of data explicitly mentioned in the Acts. Including personal and non-personal data, special categories (health, genetic, biometric),
+      and context-specific types (metadata, product data, related service data).
+    </definition>
+    <examples>
+      personal data; genetic data; biometric data; health data; non-personal data; metadata; product data; related service data
+    </examples>
+  </NER_TYPE>
+
+  <NER_TYPE name="PROCESSING_OPERATION">
+    <definition>
+      Operations performed on data, whether automated or manual. Includes both basic actions (collection, storage, erasure)
+      and complex/technical ones (profiling, pseudonymisation, encryption, disclosure).
+    </definition>
+    <examples>
+      collection; storage; erasure; profiling; pseudonymisation; encryption; disclosure
+    </examples>
+  </NER_TYPE>
+</NER_SCHEMA>
+
+
+<EXAMPLE>
+<INPUT_TEXT>
+The controller and the processor shall implement appropriate technical and organisational measures
+to ensure a level of security appropriate to the risk, including encryption of personal data
+as referred to in Article 32 of Regulation (EU) 2016/679.
+</INPUT_TEXT>
+
+<OUTPUT>
+The <ACTOR_ROLE>controller</ACTOR_ROLE> and the <ACTOR_ROLE>processor</ACTOR_ROLE> shall implement appropriate technical and organisational measures
+to ensure a level of security appropriate to the risk, including <PROCESSING_OPERATION>encryption</PROCESSING_OPERATION> of <DATA_CATEGORY>personal data</DATA_CATEGORY>
+as referred to in <REGULATION_REF>Article 32</REGULATION_REF> of <REGULATION_REF>Regulation (EU) 2016/679</REGULATION_REF>.
+</OUTPUT>
+</EXAMPLE>
+
+<INPUT_TEXT>
+[put you text here]
+</INPUT_TEXT>

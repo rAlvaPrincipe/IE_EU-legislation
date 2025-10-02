@@ -1,0 +1,64 @@
+{
+  "REGULATION_REF": [
+    "Regulation (EU) 2023/2854",
+    "Regulation (EU) 2017/2394",
+    "Directive (EU) 2020/1828",
+    "Article 114",
+    "Commission Recommendation 2003/361/EC",
+    "Regulation (EU) 2018/1725",
+    "Directive 2002/58/EC",
+    "Regulation (EU) 2021/784",
+    "Regulation (EU) 2022/2065",
+    "Regulation (EU) 2023/1543",
+    "Regulation (EU) 2015/847",
+    "Directive (EU) 2015/849",
+    "Directive (EU) 2019/882",
+    "Directive 2001/29/EC",
+    "Directive 2004/48/EC",
+    "Directive (EU) 2019/790",
+    "Regulation (EC) No 223/2009",
+    "Directive (EU) 2019/1024",
+    "Directive 96/9/EC",
+    "Regulation (EU) 2022/1925",
+    "Regulation (EU) 2018/1807",
+    "Regulation (EU) 2022/868",
+    "Regulation (EU) 2022/2554",
+    "Regulation (EU) No 1025/2012"
+  ],
+  "ACTOR_ROLE": [
+    "data holder",
+    "user",
+    "data recipient",
+    "public sector body",
+    "competent authority",
+    "data coordinator",
+    "data subject",
+    "controller",
+    "processor"
+  ],
+  "AUTHORITY": [
+    "European Data Protection Board",
+    "European Commission",
+    "supervisory authority",
+    "national competent authority"
+  ],
+  "DATA_CATEGORY": [
+    "personal data",
+    "non-personal data",
+    "trade secrets",
+    "metadata",
+    "product data",
+    "related service data"
+  ],
+  "PROCESSING_OPERATION": [
+    "data sharing",
+    "data access",
+    "data processing",
+    "data collection",
+    "data storage",
+    "data transfer",
+    "data extraction",
+    "data anonymisation",
+    "data encryption"
+  ]
+}

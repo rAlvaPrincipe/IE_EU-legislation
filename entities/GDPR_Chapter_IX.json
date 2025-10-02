@@ -1,0 +1,35 @@
+{
+  "REGULATION_REF": [
+    "Article 85",
+    "Article 86",
+    "Article 87",
+    "Article 88",
+    "Article 89",
+    "Article 90",
+    "Article 91",
+    "this Regulation",
+    "02016R0679"
+  ],
+  "ACTOR_ROLE": [
+    "Member States",
+    "public authority",
+    "public body",
+    "private body",
+    "supervisory authorities",
+    "controller",
+    "processor"
+  ],
+  "AUTHORITY": [
+    "Commission",
+    "independent supervisory authority"
+  ],
+  "DATA_CATEGORY": [
+    "personal data",
+    "national identification number",
+    "employees' personal data"
+  ],
+  "PROCESSING_OPERATION": [
+    "processing",
+    "disclosure"
+  ]
+}

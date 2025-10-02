@@ -1,0 +1,30 @@
+{
+  "REGULATION_REF": [
+    "Article 44",
+    "Article 45",
+    "Article 46",
+    "Article 47",
+    "Article 48",
+    "Article 49",
+    "Article 50",
+    "Directive 95/46/EC",
+    "02016R0679"
+  ],
+  "ACTOR_ROLE": [
+    "controller",
+    "processor",
+    "Commission",
+    "supervisory authority"
+  ],
+  "AUTHORITY": [
+    "Commission",
+    "supervisory authorities"
+  ],
+  "DATA_CATEGORY": [
+    "personal data"
+  ],
+  "PROCESSING_OPERATION": [
+    "transfer",
+    "disclosure"
+  ]
+}

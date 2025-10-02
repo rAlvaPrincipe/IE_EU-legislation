@@ -1,0 +1,30 @@
+{
+  "REGULATION_REF": [
+    "Article 71",
+    "Annex III",
+    "Article 6(2)",
+    "Articles 49",
+    "Article 60",
+    "Article 6(3)",
+    "Article 6(4)",
+    "Annex VIII",
+    "Article 49(3)",
+    "Article 49(4)",
+    "Article 60(4)"
+  ],
+  "ACTOR_ROLE": [
+    "Commission",
+    "provider",
+    "authorised representative",
+    "deployer",
+    "controller"
+  ],
+  "AUTHORITY": [],
+  "DATA_CATEGORY": [
+    "personal data"
+  ],
+  "PROCESSING_OPERATION": [
+    "collecting",
+    "processing"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "REGULATION_REF": [
+    "Regulation (EU) 2022/2065",
+    "Article 6(1)",
+    "Article 10(5)",
+    "Article 59",
+    "Article 9(1)",
+    "Article 10",
+    "Article 10(1)",
+    "Article 4, point (1)",
+    "Article 4, point (4)",
+    "Article 2, point (4)",
+    "Directive (EU) 2022/2557"
+  ],
+  "ACTOR_ROLE": [
+    "provider",
+    "deployer",
+    "authorised representative",
+    "importer",
+    "distributor",
+    "operator",
+    "affected persons",
+    "public authority"
+  ],
+  "AUTHORITY": [
+    "AI Office",
+    "national competent authority",
+    "market surveillance authority"
+  ],
+  "DATA_CATEGORY": [
+    "personal data",
+    "non-personal data",
+    "biometric data",
+    "special categories of personal data",
+    "sensitive operational data"
+  ],
+  "PROCESSING_OPERATION": [
+    "placing on the market",
+    "putting into service",
+    "testing in real-world conditions"
+  ]
+}

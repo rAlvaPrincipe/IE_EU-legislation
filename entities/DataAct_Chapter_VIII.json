@@ -1,0 +1,33 @@
+{
+  "REGULATION_REF": [
+    "Article 33",
+    "Article 45",
+    "Regulation (EU) No 1025/2012",
+    "Article 10 of Regulation (EU) No 1025/2012",
+    "Article 30, point (h), of Regulation (EU) 2022/868",
+    "Article 23",
+    "Article 24",
+    "Article 25(2), points (a)(ii), (a)(iv), (e) and (f)",
+    "Article 30(2) to (5)",
+    "Article 36",
+    "Regulation (EU) 2022/868",
+    "Regulation (EU) No 1025/2012"
+  ],
+  "ACTOR_ROLE": [
+    "participants in data spaces",
+    "Commission",
+    "vendor of an application",
+    "person whose trade, business or profession involves the deployment of smart contracts"
+  ],
+  "AUTHORITY": [
+    "Commission",
+    "EDIB"
+  ],
+  "DATA_CATEGORY": [],
+  "PROCESSING_OPERATION": [
+    "data sharing",
+    "data processing",
+    "data archiving",
+    "execution of transactions"
+  ]
+}

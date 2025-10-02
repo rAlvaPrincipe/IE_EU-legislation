@@ -1,0 +1,39 @@
+{
+  "REGULATION_REF": [
+    "Article 5",
+    "Article 8",
+    "Article 9",
+    "Article 10",
+    "Article 11",
+    "Article 12",
+    "Article 13",
+    "Article 4(6)",
+    "Article 5(9)",
+    "Article 4(3)",
+    "Article 4(9)",
+    "Article 5(12)",
+    "Regulation (EU) 2023/2854"
+  ],
+  "ACTOR_ROLE": [
+    "data holder",
+    "data recipient",
+    "user",
+    "third party",
+    "provider"
+  ],
+  "AUTHORITY": [
+    "European Data Innovation Board",
+    "Commission"
+  ],
+  "DATA_CATEGORY": [
+    "data",
+    "metadata",
+    "trade secrets"
+  ],
+  "PROCESSING_OPERATION": [
+    "make data available",
+    "erase",
+    "prevent unauthorised access",
+    "compensate"
+  ]
+}

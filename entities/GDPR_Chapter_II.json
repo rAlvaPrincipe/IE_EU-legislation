@@ -1,0 +1,31 @@
+{
+  "REGULATION_REF": [
+    "Article 5",
+    "Article 6",
+    "Article 7",
+    "Article 8",
+    "Article 9",
+    "Article 10",
+    "Directive (EU) 2015/1535",
+    "Regulation (EU) 2016/679"
+  ],
+  "ACTOR_ROLE": [
+    "controller"
+  ],
+  "AUTHORITY": [],
+  "DATA_CATEGORY": [
+    "personal data",
+    "special categories of personal data",
+    "genetic data",
+    "biometric data",
+    "data concerning health"
+  ],
+  "PROCESSING_OPERATION": [
+    "processed",
+    "collected",
+    "erased",
+    "rectified",
+    "stored",
+    "demonstrate compliance"
+  ]
+}

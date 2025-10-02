@@ -1,0 +1,59 @@
+{
+  "REGULATION_REF": [
+    "Article 72",
+    "Article 73",
+    "Article 74",
+    "Article 75",
+    "Article 76",
+    "Article 77",
+    "Article 78",
+    "Article 79",
+    "Article 80",
+    "Article 81",
+    "Article 82",
+    "Article 83",
+    "Article 84",
+    "Article 85",
+    "Article 86",
+    "Article 87",
+    "Article 88",
+    "Article 89",
+    "Article 90",
+    "Article 91",
+    "Article 92",
+    "Article 93",
+    "Article 94",
+    "Regulation (EU) 2019/1020",
+    "Regulation (EU) 2017/745",
+    "Regulation (EU) 2017/746",
+    "Directive (EU) 2016/943",
+    "Directive (EU) 2016/680"
+  ],
+  "ACTOR_ROLE": [
+    "provider",
+    "deployer",
+    "market surveillance authority",
+    "national competent authority",
+    "Commission",
+    "AI Office"
+  ],
+  "AUTHORITY": [
+    "market surveillance authorities",
+    "national public authorities",
+    "European Data Protection Supervisor"
+  ],
+  "DATA_CATEGORY": [
+    "high-risk AI systems",
+    "sensitive operational data"
+  ],
+  "PROCESSING_OPERATION": [
+    "reporting",
+    "monitoring",
+    "evaluation",
+    "testing",
+    "investigation",
+    "compliance assessment",
+    "risk assessment",
+    "corrective action"
+  ]
+}
