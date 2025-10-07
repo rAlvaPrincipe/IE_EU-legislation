@@ -1,0 +1,38 @@
+{
+  "REGULATION": [
+    "Article 5",
+    "Article 8",
+    "Article 9",
+    "Article 10",
+    "Article 11",
+    "Article 12",
+    "Article 13",
+    "Article 4(3)",
+    "Article 4(6)",
+    "Article 5(9)",
+    "Article 5(12)",
+    "Regulation (EU) 2023/2854"
+  ],
+  "ROLE": [
+    "data holder",
+    "data recipient",
+    "user"
+  ],
+  "AUTHORITY": [
+    "European Data Innovation Board",
+    "Commission"
+  ],
+  "DATA.CAT": [],
+  "DATA.OP": [
+    "making data available",
+    "disclosure",
+    "access",
+    "erase",
+    "compensate"
+  ],
+  "RIGHT": [
+    "right to obtain a copy of",
+    "right to access data"
+  ],
+  "RISK/IMPACT": []
+}

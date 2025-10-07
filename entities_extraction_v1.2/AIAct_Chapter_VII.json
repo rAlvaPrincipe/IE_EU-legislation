@@ -1,0 +1,29 @@
+{
+  "REGULATION": [
+    "Article 64",
+    "Article 65",
+    "Article 66",
+    "Article 67",
+    "Article 68",
+    "Article 69",
+    "Article 70",
+    "Regulation"
+  ],
+  "ROLE": [
+    "AI Office",
+    "European Artificial Intelligence Board",
+    "national competent authorities",
+    "notifying authority",
+    "market surveillance authority",
+    "European Data Protection Supervisor"
+  ],
+  "AUTHORITY": [
+    "Commission",
+    "Board",
+    "national competent authorities"
+  ],
+  "DATA.CAT": [],
+  "DATA.OP": [],
+  "RIGHT": [],
+  "RISK/IMPACT": []
+}

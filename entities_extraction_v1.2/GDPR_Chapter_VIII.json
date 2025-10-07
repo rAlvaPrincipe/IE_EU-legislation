@@ -1,0 +1,35 @@
+{
+  "REGULATION": [
+    "Article 77",
+    "Article 78",
+    "Article 79",
+    "Article 80",
+    "Article 81",
+    "Article 82",
+    "Article 83",
+    "Article 84",
+    "Regulation (EC) No 1049/2001"
+  ],
+  "ROLE": [
+    "data subject",
+    "supervisory authority",
+    "controller",
+    "processor"
+  ],
+  "AUTHORITY": [
+    "supervisory authority"
+  ],
+  "DATA.CAT": [
+    "personal data"
+  ],
+  "DATA.OP": [
+    "lodging a complaint",
+    "processing"
+  ],
+  "RIGHT": [
+    "right to lodge a complaint",
+    "right to an effective judicial remedy",
+    "right to receive compensation"
+  ],
+  "RISK/IMPACT": []
+}

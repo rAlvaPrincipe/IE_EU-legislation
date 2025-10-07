@@ -1,0 +1,130 @@
+<INSTRUCTIONS>
+You are a legal NER extractor.
+Your task is to read the input legal text and identify ALL the mentions that belong to the following NER categories.
+You must report the entities exactly as they appear in the INPUT_TEXT, so abstraction is not allowed. Only extraction.
+Use the definitions and examples in the schema to decide what belongs to each type.
+Return the results in the structured JSON format shown below.
+</INSTRUCTIONS>
+
+<NER_SCHEMA>
+  <NER_TYPE name="REGULATION">
+    <definition>
+      Capture any explicit reference to binding EU or national legal sources (Regulations, Directives, Decisions, Articles, Recitals, Annexes, Paragraphs). 
+      This includes short forms (“GDPR”, “AI Act”, “Data Act”), full citations with numbers and years, and shorthand legal cross-references (“Article 22”, “Recital 70”). 
+      Also include references to amendments or corrigenda. Do not capture general words like “law” or “legislation” unless linked to a numbered instrument.
+    </definition>
+    <examples>
+      Regulation (EU) 2016/679; Directive (EU) 2016/680; Article 35; Annex IV; GDPR
+    </examples>
+  </NER_TYPE>
+
+  <NER_TYPE name="ROLE">
+    <definition>
+      Defined roles of persons or organisations under the Acts, carrying legal rights or responsibilities.
+      Includes both generic mentions (e.g. "the controller") and named actors when explicitly described in such a role.
+      Exclude casual uses of the same words when unrelated to the legal meaning (e.g. “the user clicked a button” in a technical sense, 
+      unless within a Data Act context).
+    </definition>
+    <examples>
+      controller; processor; joint controllers; representative in the Union; data holder; data recipient; user; provider; deployer
+    </examples>
+  </NER_TYPE>
+
+  <NER_TYPE name="AUTHORITY">
+    <definition>
+      Oversight, supervisory, or enforcement bodies with regulatory or advisory functions at EU or Member State level.
+    </definition>
+    <examples>
+      supervisory authority; European Data Protection Board; AI Office; national competent authority; European Commission
+    </examples>
+  </NER_TYPE>
+
+  <NER_TYPE name="DATA.CAT">
+    <definition>
+      Data Categories: Capture any regulated type, category, or sub-category of data explicitly mentioned in the Acts. Including personal and non-personal data, special categories (health, genetic, biometric),
+      and context-specific types (metadata, product data, related service data).
+    </definition>
+    <examples>
+      personal data; genetic data; biometric data; health data; non-personal data; metadata; product data; related service data
+    </examples>
+  </NER_TYPE>
+
+  <NER_TYPE name="DATA.OP">
+    <definition>
+      Processing operations: Operations performed on data, whether automated or manual. Includes both basic actions (collection, storage, erasure)
+      and complex/technical ones (profiling, pseudonymisation, encryption, disclosure).
+    </definition>
+    <examples>
+      collection; storage; erasure; profiling; pseudonymisation; encryption; disclosure
+    </examples>
+  </NER_TYPE>
+
+  <NER_TYPE name="RIGHT">
+    <definition>
+      Capture explicit rights granted to natural or legal persons under the Acts. 
+      These include individual rights (e.g. data subjects, users, deployers) and institutional rights (e.g. right to access, reuse, appeal). 
+      Focus on normative entitlements — what an actor "has the right to do" or "is entitled to receive" — as defined by the legal text. 
+      Exclude general freedoms or capabilities not expressed as legal rights.
+    </definition>
+    <examples>
+      right of access; right to object; right to rectification; right to portability; right to human oversight; right to lodge a complaint
+    </examples>
+  </NER_TYPE>
+
+  <NER_TYPE name="RISK/IMPACT">
+    <definition>
+      Capture mentions of levels, types, or categories of risk or impact identified by the Acts. 
+      Include both general and qualified expressions (e.g. “high-risk AI system”, “unacceptable risk”, “risk to fundamental rights”). 
+      These entities typically describe regulatory thresholds, compliance triggers, or safety classifications. 
+      Exclude generic uses of “risk” not tied to a regulatory meaning.
+    </definition>
+    <examples>
+      high-risk AI system; unacceptable risk; minimal risk; risk to fundamental rights; cybersecurity risk; impact on health or safety
+    </examples>
+  </NER_TYPE>
+
+  
+</NER_SCHEMA>
+
+
+
+
+<OUTPUT_FORMAT>
+{
+  "REGULATION": ["..."],
+  "ROLE": ["..."],
+  "AUTHORITY": ["..."],
+  "DATA.CAT": ["..."],
+  "DATA.OP": ["..."],
+  "RIGHT": ["..."],
+  "RISK/IMPACT": ["..."]
+}
+</OUTPUT_FORMAT>
+
+
+<EXAMPLE>
+<INPUT_TEXT>
+The controller and the processor shall implement appropriate technical and organisational measures
+to ensure a level of security appropriate to the risk, including encryption of personal data
+as referred to in Article 32 of Regulation (EU) 2016/679. 
+Data subjects have the right to access their personal data. 
+Failure to implement such measures may result in a high-risk AI system classification.
+</INPUT_TEXT>
+
+<OUTPUT>
+{
+  "REGULATION": ["Article 32", "Regulation (EU) 2016/679"],
+  "ROLE": ["controller", "processor"],
+  "AUTHORITY": [],
+  "DATA.CAT": ["personal data"],
+  "DATA.OP": ["encryption"],
+  "RIGHT": ["right to access"],
+  "RISK/IMPACT": ["high-risk AI system"]
+}
+</OUTPUT>
+</EXAMPLE>
+
+
+<INPUT_TEXT>
+[put you text here]
+</INPUT_TEXT>

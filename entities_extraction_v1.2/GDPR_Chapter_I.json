@@ -1,0 +1,52 @@
+{
+  "REGULATION": [
+    "Regulation",
+    "Regulation (EC) No 45/2001",
+    "Directive 2000/31/EC",
+    "Article 1",
+    "Article 2",
+    "Article 3",
+    "Article 4",
+    "Article 98"
+  ],
+  "ROLE": [
+    "controller",
+    "processor",
+    "data subject"
+  ],
+  "AUTHORITY": [
+    "competent authorities",
+    "supervisory authority"
+  ],
+  "DATA.CAT": [
+    "personal data",
+    "genetic data",
+    "biometric data",
+    "data concerning health"
+  ],
+  "DATA.OP": [
+    "processing",
+    "collection",
+    "recording",
+    "organisation",
+    "structuring",
+    "storage",
+    "adaptation",
+    "alteration",
+    "retrieval",
+    "consultation",
+    "use",
+    "disclosure",
+    "transmission",
+    "dissemination",
+    "alignment",
+    "combination",
+    "restriction",
+    "erasure",
+    "destruction",
+    "profiling",
+    "pseudonymisation"
+  ],
+  "RIGHT": [],
+  "RISK/IMPACT": []
+}

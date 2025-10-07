@@ -1,0 +1,46 @@
+{
+  "REGULATION": [
+    "Article 14",
+    "Article 15",
+    "Article 16",
+    "Article 17",
+    "Article 18",
+    "Article 19",
+    "Article 20",
+    "Article 21",
+    "Article 22",
+    "Regulation (EU) 2022/868",
+    "Directive (EU) 2019/1024",
+    "Regulation (EU) 2016/679"
+  ],
+  "ROLE": [
+    "public sector body",
+    "Commission",
+    "European Central Bank",
+    "Union body",
+    "data holder"
+  ],
+  "AUTHORITY": [
+    "competent authority",
+    "supervisory authority"
+  ],
+  "DATA.CAT": [
+    "non-personal data",
+    "personal data",
+    "metadata"
+  ],
+  "DATA.OP": [
+    "make available",
+    "request",
+    "erase",
+    "anonymise",
+    "pseudonymise"
+  ],
+  "RIGHT": [
+    "right to lodge a complaint"
+  ],
+  "RISK/IMPACT": [
+    "public emergency",
+    "exceptional need"
+  ]
+}

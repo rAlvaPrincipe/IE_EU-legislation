@@ -1,0 +1,24 @@
+{
+  "REGULATION": [
+    "Regulation"
+  ],
+  "ROLE": [
+    "public sector body",
+    "natural or legal person",
+    "data intermediation services provider",
+    "recognised data altruism organisation",
+    "data holder"
+  ],
+  "AUTHORITY": [],
+  "DATA.CAT": [
+    "non-personal data"
+  ],
+  "DATA.OP": [
+    "transfer",
+    "access"
+  ],
+  "RIGHT": [
+    "right to re-use data"
+  ],
+  "RISK/IMPACT": []
+}

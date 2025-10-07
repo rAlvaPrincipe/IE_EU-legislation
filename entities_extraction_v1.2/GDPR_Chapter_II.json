@@ -1,0 +1,42 @@
+{
+  "REGULATION": [
+    "Directive (EU) 2015/1535",
+    "Article 5",
+    "Article 6",
+    "Article 7",
+    "Article 8",
+    "Article 9",
+    "Article 10",
+    "Article 11",
+    "Article 89(1)",
+    "Article 23(1)",
+    "Regulation"
+  ],
+  "ROLE": [
+    "controller",
+    "data subject"
+  ],
+  "AUTHORITY": [],
+  "DATA.CAT": [
+    "personal data",
+    "genetic data",
+    "biometric data",
+    "data concerning health",
+    "data concerning a natural person's sex life or sexual orientation",
+    "racial or ethnic origin",
+    "political opinions",
+    "religious or philosophical beliefs",
+    "trade union membership"
+  ],
+  "DATA.OP": [
+    "processed",
+    "collected",
+    "erased",
+    "rectified",
+    "stored"
+  ],
+  "RIGHT": [
+    "right to withdraw consent"
+  ],
+  "RISK/IMPACT": []
+}

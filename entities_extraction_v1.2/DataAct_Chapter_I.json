@@ -1,0 +1,56 @@
+{
+  "REGULATION": [
+    "Regulation (EU) 2023/2854",
+    "Regulation (EU) 2016/679",
+    "Regulation (EU) 2018/1725",
+    "Directive 2002/58/EC",
+    "Regulation (EU) 2021/784",
+    "Regulation (EU) 2022/2065",
+    "Regulation (EU) 2023/1543",
+    "Directive (EU) 2023/1544",
+    "Regulation (EU) 2015/847",
+    "Directive (EU) 2015/849",
+    "Regulation (EU) 2018/1807",
+    "Directive 2001/29/EC",
+    "Directive 2004/48/EC",
+    "Directive (EU) 2019/790",
+    "Directive 93/13/EEC",
+    "Directive 2005/29/EC",
+    "Directive 2011/83/EU"
+  ],
+  "ROLE": [
+    "user",
+    "data holder",
+    "data recipient",
+    "public sector body",
+    "provider of data processing services",
+    "manufacturer of connected products"
+  ],
+  "AUTHORITY": [
+    "the Commission",
+    "European Central Bank",
+    "Union bodies",
+    "supervisory authorities"
+  ],
+  "DATA.CAT": [
+    "personal data",
+    "non-personal data",
+    "product data",
+    "related service data",
+    "metadata"
+  ],
+  "DATA.OP": [
+    "collection",
+    "storage",
+    "processing",
+    "making available",
+    "disclosure"
+  ],
+  "RIGHT": [
+    "rights of access by data subjects",
+    "rights to data portability"
+  ],
+  "RISK/IMPACT": [
+    "public emergency"
+  ]
+}

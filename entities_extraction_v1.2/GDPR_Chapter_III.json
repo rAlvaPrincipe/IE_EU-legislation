@@ -1,0 +1,53 @@
+{
+  "REGULATION": [
+    "Article 12",
+    "Articles 13",
+    "Articles 14",
+    "Articles 15 to 22",
+    "Articles 15 to 22",
+    "Article 11(2)",
+    "Article 22(1)",
+    "Article 22(4)",
+    "Article 46",
+    "Article 47",
+    "Article 49(1)",
+    "Article 89(1)",
+    "Article 6(1)",
+    "Article 9(2)",
+    "Article 21(1)",
+    "Article 21(2)",
+    "Article 16",
+    "Article 17",
+    "Article 18",
+    "Article 19",
+    "Article 20",
+    "Article 23"
+  ],
+  "ROLE": [
+    "controller",
+    "data subject"
+  ],
+  "AUTHORITY": [
+    "supervisory authority",
+    "Commission"
+  ],
+  "DATA.CAT": [
+    "personal data"
+  ],
+  "DATA.OP": [
+    "processing",
+    "rectification",
+    "erasure",
+    "restriction of processing"
+  ],
+  "RIGHT": [
+    "right to access",
+    "right to rectification",
+    "right to erasure",
+    "right to restriction of processing",
+    "right to data portability",
+    "right to object",
+    "right to lodge a complaint"
+  ],
+  "RISK/IMPACT": []
+}

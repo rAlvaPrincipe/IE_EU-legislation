@@ -1,0 +1,32 @@
+{
+  "REGULATION": [
+    "Article 44",
+    "Article 45",
+    "Article 46",
+    "Article 47",
+    "Article 48",
+    "Article 49",
+    "Article 50",
+    "Directive 95/46/EC",
+    "Regulation (EU) 2016/679"
+  ],
+  "ROLE": [
+    "controller",
+    "processor"
+  ],
+  "AUTHORITY": [
+    "Commission",
+    "supervisory authority"
+  ],
+  "DATA.CAT": [
+    "personal data"
+  ],
+  "DATA.OP": [
+    "transfer",
+    "disclosure"
+  ],
+  "RIGHT": [
+    "data subject rights"
+  ],
+  "RISK/IMPACT": []
+}

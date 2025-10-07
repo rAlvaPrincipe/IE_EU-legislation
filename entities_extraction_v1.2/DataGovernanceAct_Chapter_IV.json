@@ -1,0 +1,37 @@
+{
+  "REGULATION": [
+    "Article 16",
+    "Article 17",
+    "Article 18",
+    "Article 19",
+    "Article 20",
+    "Article 21",
+    "Article 22",
+    "Article 23",
+    "Article 24",
+    "Article 25",
+    "Regulation (EU) 2016/679"
+  ],
+  "ROLE": [
+    "data altruism organisations",
+    "competent authority",
+    "data subjects",
+    "data holders"
+  ],
+  "AUTHORITY": [
+    "Commission",
+    "competent authorities for the registration of data altruism organisations",
+    "European Data Protection Board",
+    "European Data Innovation Board"
+  ],
+  "DATA.CAT": [
+    "personal data",
+    "non-personal data"
+  ],
+  "DATA.OP": [
+    "processing",
+    "collection"
+  ],
+  "RIGHT": [],
+  "RISK/IMPACT": []
+}

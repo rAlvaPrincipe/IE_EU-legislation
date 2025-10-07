@@ -1,0 +1,27 @@
+{
+  "REGULATION": [
+    "Article 13",
+    "Union law",
+    "Union law"
+  ],
+  "ROLE": [
+    "enterprise",
+    "contracting party"
+  ],
+  "AUTHORITY": [],
+  "DATA.CAT": [
+    "data",
+    "commercially sensitive data",
+    "trade secrets",
+    "intellectual property rights"
+  ],
+  "DATA.OP": [
+    "access",
+    "use",
+    "terminate",
+    "obtain",
+    "change"
+  ],
+  "RIGHT": [],
+  "RISK/IMPACT": []
+}

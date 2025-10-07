@@ -1,0 +1,40 @@
+{
+  "REGULATION": [
+    "Article 85",
+    "Article 86",
+    "Article 87",
+    "Article 88",
+    "Article 89",
+    "Article 90",
+    "Article 91",
+    "this Regulation",
+    "02016R0679"
+  ],
+  "ROLE": [
+    "Member States",
+    "public authority",
+    "public body",
+    "private body",
+    "supervisory authorities",
+    "controller",
+    "processor"
+  ],
+  "AUTHORITY": [
+    "Commission",
+    "independent supervisory authority"
+  ],
+  "DATA.CAT": [
+    "personal data",
+    "national identification number",
+    "employees' personal data"
+  ],
+  "DATA.OP": [
+    "processing",
+    "disclosure"
+  ],
+  "RIGHT": [
+    "right to the protection of personal data",
+    "freedom of expression and information"
+  ],
+  "RISK/IMPACT": []
+}

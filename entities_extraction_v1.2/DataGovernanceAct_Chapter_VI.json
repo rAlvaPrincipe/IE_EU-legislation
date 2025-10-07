@@ -1,0 +1,37 @@
+{
+  "REGULATION": [
+    "Article 29",
+    "Article 30",
+    "Article 3(1)",
+    "Article 7(1)",
+    "Article 25(1)",
+    "Article 5(11)",
+    "Article 5(12)",
+    "Regulation"
+  ],
+  "ROLE": [
+    "European Data Innovation Board",
+    "Commission",
+    "competent authorities for data intermediation services",
+    "competent authorities for the registration of data altruism organisations"
+  ],
+  "AUTHORITY": [
+    "European Data Protection Board",
+    "European Data Protection Supervisor",
+    "ENISA"
+  ],
+  "DATA.CAT": [
+    "non-personal data",
+    "categories of data"
+  ],
+  "DATA.OP": [
+    "re-use",
+    "exchange",
+    "storage"
+  ],
+  "RIGHT": [],
+  "RISK/IMPACT": [
+    "intellectual property theft",
+    "industrial espionage"
+  ]
+}

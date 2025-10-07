@@ -6,7 +6,7 @@ from pathlib import Path
 
 openai_api_key=""
 model  = "gpt-4o-mini"
-prompt = "ner_v1.txt"   #v1 for a list of entitites, v2 for text with tags
+prompt = "ner_extractor_v1.2.txt"   # "extractor" for a list of entitites, "annotator" for text with tags
 
 
 with open("prompts/" + prompt, "r", encoding="utf-8") as f:

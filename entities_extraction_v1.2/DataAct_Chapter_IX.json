@@ -1,0 +1,33 @@
+{
+  "REGULATION": [
+    "Article 37",
+    "Regulation (EU) 2016/679",
+    "Regulation (EU) 2018/1725",
+    "Article 62",
+    "Article 38",
+    "Article 39",
+    "Article 40",
+    "Article 41",
+    "Article 29",
+    "Regulation (EU) 2022/868"
+  ],
+  "ROLE": [
+    "competent authorities",
+    "data coordinators",
+    "supervisory authorities",
+    "data coordinator",
+    "natural and legal persons"
+  ],
+  "AUTHORITY": [
+    "European Data Protection Supervisor",
+    "Commission",
+    "EDIB"
+  ],
+  "DATA.CAT": [],
+  "DATA.OP": [],
+  "RIGHT": [
+    "right to lodge a complaint",
+    "right to an effective judicial remedy"
+  ],
+  "RISK/IMPACT": []
+}

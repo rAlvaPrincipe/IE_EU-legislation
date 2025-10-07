@@ -1,0 +1,42 @@
+{
+  "REGULATION": [
+    "Article 51",
+    "Annex XIII",
+    "Article 97",
+    "Article 53",
+    "Annex XI",
+    "Article 4(3) of Directive (EU) 2019/790",
+    "Article 54",
+    "Article 55",
+    "Article 56",
+    "Article 78",
+    "Article 90(1)",
+    "Article 98(2)"
+  ],
+  "ROLE": [
+    "provider",
+    "authorised representative",
+    "AI Office",
+    "national competent authorities",
+    "Commission"
+  ],
+  "AUTHORITY": [
+    "AI Office",
+    "Commission",
+    "national competent authorities"
+  ],
+  "DATA.CAT": [],
+  "DATA.OP": [
+    "evaluation",
+    "documenting",
+    "assess",
+    "mitigate",
+    "report",
+    "cooperate"
+  ],
+  "RIGHT": [],
+  "RISK/IMPACT": [
+    "systemic risk",
+    "high impact capabilities"
+  ]
+}

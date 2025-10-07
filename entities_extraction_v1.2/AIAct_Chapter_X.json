@@ -1,0 +1,21 @@
+{
+  "REGULATION": [
+    "Article 95",
+    "Article 96"
+  ],
+  "ROLE": [
+    "AI Office",
+    "Member States",
+    "providers",
+    "deployers"
+  ],
+  "AUTHORITY": [
+    "Commission"
+  ],
+  "DATA.CAT": [],
+  "DATA.OP": [],
+  "RIGHT": [],
+  "RISK/IMPACT": [
+    "negative impact of AI systems on vulnerable persons or groups of vulnerable persons"
+  ]
+}

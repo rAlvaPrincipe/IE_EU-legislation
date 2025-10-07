@@ -1,0 +1,53 @@
+{
+  "REGULATION": [
+    "Article 99",
+    "Regulation",
+    "Article 96",
+    "Article 5",
+    "Article 16",
+    "Article 22",
+    "Article 23",
+    "Article 24",
+    "Article 26",
+    "Article 31",
+    "Article 33(1)",
+    "Article 33(3)",
+    "Article 33(4)",
+    "Article 34",
+    "Article 50",
+    "Article 100",
+    "Article 101",
+    "Article 91",
+    "Article 93",
+    "Article 92",
+    "Article 104"
+  ],
+  "ROLE": [
+    "Member States",
+    "operators",
+    "providers",
+    "authorised representatives",
+    "importers",
+    "distributors",
+    "deployers",
+    "notified bodies",
+    "Union institutions",
+    "bodies",
+    "offices",
+    "agencies",
+    "European Data Protection Supervisor"
+  ],
+  "AUTHORITY": [
+    "Commission",
+    "European Data Protection Supervisor",
+    "national competent authorities"
+  ],
+  "DATA.CAT": [],
+  "DATA.OP": [
+    "administrative fines",
+    "non-compliance",
+    "supply of incorrect, incomplete or misleading information"
+  ],
+  "RIGHT": [],
+  "RISK/IMPACT": []
+}

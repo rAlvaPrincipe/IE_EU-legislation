@@ -1,0 +1,38 @@
+{
+  "REGULATION": [
+    "Article 71",
+    "Annex III",
+    "Article 6(2)",
+    "Articles 49 and 60",
+    "Article 6(3)",
+    "Article 6(4)",
+    "Sections A and B of Annex VIII",
+    "Section C of Annex VIII",
+    "Article 49(3)",
+    "Article 49(4)",
+    "Article 60(4)",
+    "this Regulation"
+  ],
+  "ROLE": [
+    "Commission",
+    "provider",
+    "authorised representative",
+    "deployer",
+    "public authority",
+    "agency",
+    "body",
+    "controller"
+  ],
+  "AUTHORITY": [],
+  "DATA.CAT": [
+    "personal data"
+  ],
+  "DATA.OP": [
+    "collecting",
+    "processing"
+  ],
+  "RIGHT": [],
+  "RISK/IMPACT": [
+    "high-risk AI systems"
+  ]
+}

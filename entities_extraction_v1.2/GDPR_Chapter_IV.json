@@ -1,0 +1,49 @@
+{
+  "REGULATION": [
+    "Article 24",
+    "Article 25",
+    "Article 26",
+    "Article 27",
+    "Article 28",
+    "Article 29",
+    "Article 30",
+    "Article 31",
+    "Article 32",
+    "Article 33",
+    "Article 34",
+    "Article 35",
+    "Article 36",
+    "Article 37",
+    "Article 38",
+    "Article 39",
+    "Article 40",
+    "Article 41",
+    "Article 42",
+    "Article 43",
+    "02016R0679"
+  ],
+  "ROLE": [
+    "controller",
+    "processor",
+    "joint controllers",
+    "data protection officer"
+  ],
+  "AUTHORITY": [
+    "supervisory authority"
+  ],
+  "DATA.CAT": [
+    "personal data",
+    "special categories of data"
+  ],
+  "DATA.OP": [
+    "processing",
+    "pseudonymisation",
+    "encryption"
+  ],
+  "RIGHT": [
+    "rights of the data subject"
+  ],
+  "RISK/IMPACT": [
+    "high risk"
+  ]
+}

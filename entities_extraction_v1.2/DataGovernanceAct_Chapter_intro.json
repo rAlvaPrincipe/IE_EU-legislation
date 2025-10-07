@@ -1,0 +1,75 @@
+{
+  "REGULATION": [
+    "Regulation (EU) 2022/868",
+    "Regulation (EU) 2018/1724",
+    "Directive 2011/24/EU",
+    "Regulation (EU) 2019/1239",
+    "Regulation (EU) 2020/1056",
+    "Directive 2010/40/EU",
+    "Directive 2011/24/EU",
+    "Regulation (EU) 2016/679",
+    "Regulation (EU) 2018/1725",
+    "Directive 2002/58/EC",
+    "Directive (EU) 2016/680",
+    "Regulation (EC) No 223/2009",
+    "Regulation (EU) 2018/858",
+    "Regulation (EU) 2018/1807",
+    "Directive 2000/31/EC",
+    "Directive 2001/29/EC",
+    "Directive 2004/48/EC",
+    "Directive 2007/2/EC",
+    "Directive (EU) 2015/849",
+    "Directive (EU) 2016/943",
+    "Directive (EU) 2017/1132",
+    "Directive (EU) 2019/790",
+    "Directive (EU) 2019/1024",
+    "Directive 2009/81/EC",
+    "Commission Regulation (EU) No 557/2013",
+    "Regulation (EU) 2018/1724"
+  ],
+  "ROLE": [
+    "data subjects",
+    "data holders",
+    "data users",
+    "data intermediation services providers",
+    "recognised data altruism organisations",
+    "public sector bodies",
+    "competent authorities"
+  ],
+  "AUTHORITY": [
+    "European Data Innovation Board",
+    "European Data Protection Board",
+    "European Data Protection Supervisor",
+    "European Union Agency for Cybersecurity"
+  ],
+  "DATA.CAT": [
+    "personal data",
+    "non-personal data",
+    "protected data",
+    "commercially confidential data",
+    "data protected by trade secrets"
+  ],
+  "DATA.OP": [
+    "processing",
+    "re-use",
+    "sharing",
+    "transmission",
+    "access",
+    "collection",
+    "anonymisation",
+    "pseudonymisation"
+  ],
+  "RIGHT": [
+    "right to privacy",
+    "right to property",
+    "right of access",
+    "right to rectification",
+    "right to erasure",
+    "right to restrict processing",
+    "right to data portability"
+  ],
+  "RISK/IMPACT": [
+    "highly sensitive non-personal data",
+    "risk of re-identification of individuals"
+  ]
+}

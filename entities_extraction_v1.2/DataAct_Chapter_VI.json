@@ -1,0 +1,39 @@
+{
+  "REGULATION": [
+    "Article 23",
+    "Article 24",
+    "Article 25",
+    "Article 26",
+    "Article 27",
+    "Article 28",
+    "Article 29",
+    "Article 30",
+    "Directive (EU) 2019/770",
+    "Article 35(8)",
+    "Regulation (EU) 2023/2854"
+  ],
+  "ROLE": [
+    "provider of data processing services",
+    "customer"
+  ],
+  "AUTHORITY": [
+    "Commission"
+  ],
+  "DATA.CAT": [
+    "exportable data",
+    "digital assets",
+    "non-personal data"
+  ],
+  "DATA.OP": [
+    "switching",
+    "porting",
+    "erase"
+  ],
+  "RIGHT": [
+    "right to extend the transitional period"
+  ],
+  "RISK/IMPACT": [
+    "high level of security",
+    "risk of breach of trade secrets"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "REGULATION": [
+    "Article 5",
+    "Article 9",
+    "Regulation (EU) 2016/679",
+    "Annex II"
+  ],
+  "ROLE": [
+    "authority"
+  ],
+  "AUTHORITY": [
+    "law enforcement authority",
+    "national data protection authority",
+    "market surveillance authority",
+    "competent judicial authority",
+    "independent administrative authority"
+  ],
+  "DATA.CAT": [
+    "biometric data"
+  ],
+  "DATA.OP": [
+    "placing on the market",
+    "putting into service",
+    "use",
+    "profiling"
+  ],
+  "RIGHT": [],
+  "RISK/IMPACT": [
+    "significant harm"
+  ]
+}

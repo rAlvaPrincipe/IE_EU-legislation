@@ -1,0 +1,32 @@
+{
+  "REGULATION": [
+    "Regulations (EU) 2016/679",
+    "Regulation (EU) 2018/1725",
+    "Directive (EU) 2016/680",
+    "Article 50",
+    "Article 56 (6)",
+    "Article 98(2)"
+  ],
+  "ROLE": [
+    "providers",
+    "deployers"
+  ],
+  "AUTHORITY": [
+    "AI Office",
+    "Commission"
+  ],
+  "DATA.CAT": [
+    "personal data"
+  ],
+  "DATA.OP": [
+    "process",
+    "generate",
+    "manipulate",
+    "detect",
+    "prevent",
+    "investigate",
+    "prosecute"
+  ],
+  "RIGHT": [],
+  "RISK/IMPACT": []
+}

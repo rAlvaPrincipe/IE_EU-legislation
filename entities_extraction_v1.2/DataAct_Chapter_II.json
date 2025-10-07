@@ -1,0 +1,55 @@
+{
+  "REGULATION": [
+    "Article 3",
+    "Article 4",
+    "Article 5",
+    "Article 6",
+    "Article 7",
+    "Article 37",
+    "Article 20 of Regulation (EU) 2016/679",
+    "Article 6 of Regulation (EU) 2016/679",
+    "Article 9 of that Regulation",
+    "Article 5(3) of Directive 2002/58/EC",
+    "Article 3 of Regulation (EU) 2022/1925",
+    "Article 22(2) of Regulation (EU) 2016/679",
+    "Recommendation 2003/361/EC",
+    "Regulation (EU) 2016/679",
+    "Regulation (EU) 2022/1925"
+  ],
+  "ROLE": [
+    "user",
+    "data holder",
+    "third party",
+    "provider"
+  ],
+  "AUTHORITY": [
+    "competent authority"
+  ],
+  "DATA.CAT": [
+    "product data",
+    "related service data",
+    "metadata",
+    "personal data",
+    "non-personal data",
+    "trade secrets"
+  ],
+  "DATA.OP": [
+    "access",
+    "use",
+    "make available",
+    "erase",
+    "store",
+    "retrieve",
+    "share",
+    "process",
+    "withhold",
+    "suspend"
+  ],
+  "RIGHT": [
+    "right to lodge a complaint",
+    "right to seek redress"
+  ],
+  "RISK/IMPACT": [
+    "serious adverse effect on the health, safety or security of natural persons"
+  ]
+}

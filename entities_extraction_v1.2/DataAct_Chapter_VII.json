@@ -1,0 +1,23 @@
+{
+  "REGULATION": [
+    "Article 32",
+    "Regulation"
+  ],
+  "ROLE": [
+    "provider of data processing services",
+    "addressee"
+  ],
+  "AUTHORITY": [
+    "relevant national body or authority",
+    "Commission"
+  ],
+  "DATA.CAT": [
+    "non-personal data"
+  ],
+  "DATA.OP": [
+    "transfer",
+    "access"
+  ],
+  "RIGHT": [],
+  "RISK/IMPACT": []
+}

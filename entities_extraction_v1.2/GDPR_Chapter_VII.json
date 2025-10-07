@@ -1,0 +1,39 @@
+{
+  "REGULATION": [
+    "Article 60",
+    "Article 61",
+    "Article 62",
+    "Article 63",
+    "Article 64",
+    "Article 65",
+    "Article 66",
+    "Article 67",
+    "Article 68",
+    "Article 69",
+    "Article 70",
+    "Article 71",
+    "Article 72",
+    "Article 73",
+    "Article 74",
+    "Article 75",
+    "Article 76",
+    "Regulation (EU) 2016/679"
+  ],
+  "ROLE": [
+    "lead supervisory authority",
+    "supervisory authorities concerned",
+    "controller",
+    "processor",
+    "European Data Protection Board",
+    "Chair of the Board"
+  ],
+  "AUTHORITY": [
+    "supervisory authority",
+    "European Data Protection Board",
+    "Commission"
+  ],
+  "DATA.CAT": [],
+  "DATA.OP": [],
+  "RIGHT": [],
+  "RISK/IMPACT": []
+}

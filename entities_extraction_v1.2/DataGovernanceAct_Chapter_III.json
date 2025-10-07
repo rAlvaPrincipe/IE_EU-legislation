@@ -1,0 +1,38 @@
+{
+  "REGULATION": [
+    "Article 10",
+    "Article 11",
+    "Article 12",
+    "Article 13",
+    "Article 14",
+    "Article 15",
+    "Regulation (EU) 2016/679"
+  ],
+  "ROLE": [
+    "data intermediation services provider",
+    "data holder",
+    "data user",
+    "data subjects",
+    "legal representative",
+    "competent authority for data intermediation services"
+  ],
+  "AUTHORITY": [
+    "Commission"
+  ],
+  "DATA.CAT": [
+    "personal data",
+    "non-personal data"
+  ],
+  "DATA.OP": [
+    "provision",
+    "notification",
+    "facilitate",
+    "ensure compliance",
+    "monitor",
+    "supervise",
+    "inform",
+    "charge fees"
+  ],
+  "RIGHT": [],
+  "RISK/IMPACT": []
+}

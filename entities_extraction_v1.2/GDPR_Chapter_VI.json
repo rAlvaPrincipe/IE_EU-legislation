@@ -1,0 +1,42 @@
+{
+  "REGULATION": [
+    "Article 51",
+    "Article 52",
+    "Article 53",
+    "Article 54",
+    "Article 55",
+    "Article 56",
+    "Article 57",
+    "Article 58",
+    "Article 59",
+    "this Regulation"
+  ],
+  "ROLE": [
+    "supervisory authority",
+    "Member State",
+    "controller",
+    "processor"
+  ],
+  "AUTHORITY": [
+    "supervisory authority",
+    "Commission"
+  ],
+  "DATA.CAT": [
+    "personal data"
+  ],
+  "DATA.OP": [
+    "monitoring",
+    "enforce",
+    "cooperate",
+    "handle complaints",
+    "conduct investigations",
+    "issue warnings",
+    "issue reprimands",
+    "order rectification",
+    "order erasure",
+    "impose a temporary or definitive limitation",
+    "order suspension of data flows"
+  ],
+  "RIGHT": [],
+  "RISK/IMPACT": []
+}

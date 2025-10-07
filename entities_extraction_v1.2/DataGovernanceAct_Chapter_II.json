@@ -1,0 +1,34 @@
+{
+  "REGULATION": [
+    "Directive (EU) 2019/1024",
+    "Regulation (EU) 2016/679",
+    "Directive 96/9/EC"
+  ],
+  "ROLE": [
+    "public sector bodies",
+    "competent bodies"
+  ],
+  "AUTHORITY": [],
+  "DATA.CAT": [
+    "personal data",
+    "commercial confidentiality",
+    "statistical confidentiality",
+    "intellectual property rights",
+    "non-personal data"
+  ],
+  "DATA.OP": [
+    "re-use",
+    "anonymised",
+    "modification",
+    "aggregation",
+    "treatment",
+    "disclosure",
+    "transmission"
+  ],
+  "RIGHT": [
+    "right to re-use"
+  ],
+  "RISK/IMPACT": [
+    "highly sensitive"
+  ]
+}

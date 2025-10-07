@@ -1,0 +1,36 @@
+{
+  "REGULATION": [
+    "Article 33",
+    "Article 45",
+    "Regulation (EU) No 1025/2012",
+    "Article 10 of Regulation (EU) No 1025/2012",
+    "Article 22 of Regulation (EU) No 1025/2012",
+    "Article 30 of Regulation (EU) 2022/868",
+    "Article 23",
+    "Article 24",
+    "Article 25(2)",
+    "Article 30(2)",
+    "Article 36",
+    "Regulation (EU) 2022/868"
+  ],
+  "ROLE": [
+    "participants in data spaces",
+    "vendor of an application",
+    "person whose trade, business or profession involves the deployment of smart contracts"
+  ],
+  "AUTHORITY": [
+    "the Commission",
+    "European standardisation organisations",
+    "EDIB"
+  ],
+  "DATA.CAT": [],
+  "DATA.OP": [
+    "data sharing",
+    "data processing services",
+    "data egress charges",
+    "data archiving",
+    "data availability"
+  ],
+  "RIGHT": [],
+  "RISK/IMPACT": []
+}

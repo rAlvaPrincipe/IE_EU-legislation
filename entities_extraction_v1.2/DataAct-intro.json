@@ -1,0 +1,70 @@
+{
+  "REGULATION": [
+    "REGULATION (EU) 2023/2854",
+    "Regulation (EU) 2017/2394",
+    "Directive (EU) 2020/1828",
+    "Regulation (EU) 2018/1725",
+    "Directive 2002/58/EC",
+    "Regulation (EU) 2016/679",
+    "Regulation (EU) 2021/784",
+    "Regulation (EU) 2022/2065",
+    "Regulation (EU) 2023/1543",
+    "Regulation (EU) 2015/847",
+    "Directive (EU) 2015/849",
+    "Directive (EU) 2019/882",
+    "Directive 2001/29/EC",
+    "Directive 2004/48/EC",
+    "Directive (EU) 2019/790",
+    "Regulation (EC) No 223/2009",
+    "Directive (EU) 2019/1024",
+    "Regulation (EU) 2022/2554",
+    "Regulation (EU) No 1025/2012",
+    "Directive 96/9/EC"
+  ],
+  "ROLE": [
+    "data holder",
+    "user",
+    "data recipient",
+    "data processor",
+    "data controller",
+    "competent authority",
+    "data coordinator",
+    "provider"
+  ],
+  "AUTHORITY": [
+    "European Data Protection Board",
+    "European Data Protection Supervisor",
+    "European Commission",
+    "European Central Bank"
+  ],
+  "DATA.CAT": [
+    "personal data",
+    "non-personal data",
+    "trade secrets",
+    "intellectual property rights"
+  ],
+  "DATA.OP": [
+    "data sharing",
+    "data access",
+    "data processing",
+    "data collection",
+    "data storage",
+    "data transmission",
+    "data erasure",
+    "data anonymisation",
+    "data encryption"
+  ],
+  "RIGHT": [
+    "right to access",
+    "right to data portability",
+    "right to privacy",
+    "right to confidentiality",
+    "right to fair access",
+    "right to share data"
+  ],
+  "RISK/IMPACT": [
+    "risk to fundamental rights",
+    "cybersecurity risk",
+    "impact on health or safety"
+  ]
+}
