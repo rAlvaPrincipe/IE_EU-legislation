@@ -1,0 +1,2015 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 54,
+                    "end": 64,
+                    "id": 0,
+                    "features": {
+                        "text": "Article 23"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5155,
+                    "end": 5165,
+                    "id": 1,
+                    "features": {
+                        "text": "Article 23"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14472,
+                    "end": 14482,
+                    "id": 2,
+                    "features": {
+                        "text": "Article 23"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1241,
+                    "end": 1251,
+                    "id": 3,
+                    "features": {
+                        "text": "Article 24"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1627,
+                    "end": 1637,
+                    "id": 4,
+                    "features": {
+                        "text": "Article 24"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 830,
+                    "end": 840,
+                    "id": 5,
+                    "features": {
+                        "text": "Article 25"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1908,
+                    "end": 1918,
+                    "id": 6,
+                    "features": {
+                        "text": "Article 25"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7999,
+                    "end": 8009,
+                    "id": 7,
+                    "features": {
+                        "text": "Article 25"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7286,
+                    "end": 7296,
+                    "id": 8,
+                    "features": {
+                        "text": "Article 26"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 13402,
+                    "end": 13412,
+                    "id": 9,
+                    "features": {
+                        "text": "Article 26"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 8040,
+                    "end": 8050,
+                    "id": 10,
+                    "features": {
+                        "text": "Article 27"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 11634,
+                    "end": 11644,
+                    "id": 11,
+                    "features": {
+                        "text": "Article 27"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 8325,
+                    "end": 8335,
+                    "id": 12,
+                    "features": {
+                        "text": "Article 28"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5977,
+                    "end": 5987,
+                    "id": 13,
+                    "features": {
+                        "text": "Article 29"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 9196,
+                    "end": 9206,
+                    "id": 14,
+                    "features": {
+                        "text": "Article 29"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14495,
+                    "end": 14505,
+                    "id": 15,
+                    "features": {
+                        "text": "Article 29"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1523,
+                    "end": 1533,
+                    "id": 16,
+                    "features": {
+                        "text": "Article 30"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 11170,
+                    "end": 11180,
+                    "id": 17,
+                    "features": {
+                        "text": "Article 30"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14510,
+                    "end": 14520,
+                    "id": 18,
+                    "features": {
+                        "text": "Article 30"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2436,
+                    "end": 2459,
+                    "id": 19,
+                    "features": {
+                        "text": "Directive (EU) 2019/770"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 13238,
+                    "end": 13251,
+                    "id": 20,
+                    "features": {
+                        "text": "Article 35(8)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 13829,
+                    "end": 13842,
+                    "id": 21,
+                    "features": {
+                        "text": "Article 35(8)"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 341,
+                    "end": 377,
+                    "id": 22,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 933,
+                    "end": 969,
+                    "id": 23,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1080,
+                    "end": 1116,
+                    "id": 24,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1370,
+                    "end": 1406,
+                    "id": 25,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1589,
+                    "end": 1625,
+                    "id": 26,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1870,
+                    "end": 1906,
+                    "id": 27,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2015,
+                    "end": 2051,
+                    "id": 28,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2223,
+                    "end": 2259,
+                    "id": 29,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2666,
+                    "end": 2702,
+                    "id": 30,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3049,
+                    "end": 3085,
+                    "id": 31,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3547,
+                    "end": 3583,
+                    "id": 32,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3905,
+                    "end": 3941,
+                    "id": 33,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5340,
+                    "end": 5376,
+                    "id": 34,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6097,
+                    "end": 6133,
+                    "id": 35,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6309,
+                    "end": 6345,
+                    "id": 36,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6651,
+                    "end": 6687,
+                    "id": 37,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7365,
+                    "end": 7401,
+                    "id": 38,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7683,
+                    "end": 7719,
+                    "id": 39,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7784,
+                    "end": 7820,
+                    "id": 40,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8777,
+                    "end": 8813,
+                    "id": 41,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9657,
+                    "end": 9693,
+                    "id": 42,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11882,
+                    "end": 11918,
+                    "id": 43,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 13848,
+                    "end": 13884,
+                    "id": 44,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14272,
+                    "end": 14308,
+                    "id": 45,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14901,
+                    "end": 14937,
+                    "id": 46,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15258,
+                    "end": 15294,
+                    "id": 47,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1018,
+                    "end": 1026,
+                    "id": 48,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1979,
+                    "end": 1987,
+                    "id": 49,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2302,
+                    "end": 2310,
+                    "id": 50,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2366,
+                    "end": 2374,
+                    "id": 51,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2580,
+                    "end": 2588,
+                    "id": 52,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3134,
+                    "end": 3142,
+                    "id": 53,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3179,
+                    "end": 3187,
+                    "id": 54,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3957,
+                    "end": 3965,
+                    "id": 55,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4155,
+                    "end": 4163,
+                    "id": 56,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4397,
+                    "end": 4405,
+                    "id": 57,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5323,
+                    "end": 5331,
+                    "id": 58,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5549,
+                    "end": 5557,
+                    "id": 59,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5578,
+                    "end": 5586,
+                    "id": 60,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6073,
+                    "end": 6081,
+                    "id": 61,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6365,
+                    "end": 6373,
+                    "id": 62,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6705,
+                    "end": 6713,
+                    "id": 63,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7143,
+                    "end": 7151,
+                    "id": 64,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7228,
+                    "end": 7236,
+                    "id": 65,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7420,
+                    "end": 7428,
+                    "id": 66,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9356,
+                    "end": 9364,
+                    "id": 67,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9518,
+                    "end": 9526,
+                    "id": 68,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9797,
+                    "end": 9805,
+                    "id": 69,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9875,
+                    "end": 9883,
+                    "id": 70,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10265,
+                    "end": 10273,
+                    "id": 71,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11713,
+                    "end": 11721,
+                    "id": 72,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 13914,
+                    "end": 13922,
+                    "id": 73,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14245,
+                    "end": 14253,
+                    "id": 74,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14327,
+                    "end": 14335,
+                    "id": 75,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14688,
+                    "end": 14696,
+                    "id": 76,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14775,
+                    "end": 14783,
+                    "id": 77,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15324,
+                    "end": 15332,
+                    "id": 78,
+                    "features": {
+                        "text": "customer"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 10715,
+                    "end": 10725,
+                    "id": 79,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 10870,
+                    "end": 10880,
+                    "id": 80,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 1029,
+                    "end": 1044,
+                    "id": 81,
+                    "features": {
+                        "text": "exportable data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 2718,
+                    "end": 2733,
+                    "id": 82,
+                    "features": {
+                        "text": "exportable data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 4447,
+                    "end": 4462,
+                    "id": 83,
+                    "features": {
+                        "text": "exportable data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 4767,
+                    "end": 4782,
+                    "id": 84,
+                    "features": {
+                        "text": "exportable data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 4950,
+                    "end": 4965,
+                    "id": 85,
+                    "features": {
+                        "text": "exportable data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 5488,
+                    "end": 5503,
+                    "id": 86,
+                    "features": {
+                        "text": "exportable data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 6491,
+                    "end": 6506,
+                    "id": 87,
+                    "features": {
+                        "text": "exportable data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 7968,
+                    "end": 7983,
+                    "id": 88,
+                    "features": {
+                        "text": "exportable data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 13935,
+                    "end": 13950,
+                    "id": 89,
+                    "features": {
+                        "text": "exportable data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 1049,
+                    "end": 1063,
+                    "id": 90,
+                    "features": {
+                        "text": "digital assets"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 2738,
+                    "end": 2752,
+                    "id": 91,
+                    "features": {
+                        "text": "digital assets"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 4467,
+                    "end": 4481,
+                    "id": 92,
+                    "features": {
+                        "text": "digital assets"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 4674,
+                    "end": 4688,
+                    "id": 93,
+                    "features": {
+                        "text": "digital assets"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 5508,
+                    "end": 5522,
+                    "id": 94,
+                    "features": {
+                        "text": "digital assets"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 6511,
+                    "end": 6525,
+                    "id": 95,
+                    "features": {
+                        "text": "digital assets"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 10436,
+                    "end": 10450,
+                    "id": 96,
+                    "features": {
+                        "text": "digital assets"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 14139,
+                    "end": 14153,
+                    "id": 97,
+                    "features": {
+                        "text": "digital assets"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 8886,
+                    "end": 8903,
+                    "id": 98,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 11,
+                    "end": 20,
+                    "id": 99,
+                    "features": {
+                        "text": "SWITCHING"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 97,
+                    "end": 106,
+                    "id": 100,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 792,
+                    "end": 801,
+                    "id": 101,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1948,
+                    "end": 1957,
+                    "id": 102,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2067,
+                    "end": 2076,
+                    "id": 103,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3195,
+                    "end": 3204,
+                    "id": 104,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3656,
+                    "end": 3665,
+                    "id": 105,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4293,
+                    "end": 4302,
+                    "id": 106,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4558,
+                    "end": 4567,
+                    "id": 107,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4719,
+                    "end": 4728,
+                    "id": 108,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 5121,
+                    "end": 5130,
+                    "id": 109,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 5823,
+                    "end": 5832,
+                    "id": 110,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 5878,
+                    "end": 5887,
+                    "id": 111,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6758,
+                    "end": 6767,
+                    "id": 112,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7479,
+                    "end": 7488,
+                    "id": 113,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7568,
+                    "end": 7577,
+                    "id": 114,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 8201,
+                    "end": 8210,
+                    "id": 115,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 9229,
+                    "end": 9238,
+                    "id": 116,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 9331,
+                    "end": 9340,
+                    "id": 117,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 9373,
+                    "end": 9382,
+                    "id": 118,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 9493,
+                    "end": 9502,
+                    "id": 119,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 9535,
+                    "end": 9544,
+                    "id": 120,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 9569,
+                    "end": 9578,
+                    "id": 121,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 9726,
+                    "end": 9735,
+                    "id": 122,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10017,
+                    "end": 10026,
+                    "id": 123,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10340,
+                    "end": 10349,
+                    "id": 124,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10892,
+                    "end": 10901,
+                    "id": 125,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 11021,
+                    "end": 11030,
+                    "id": 126,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 11202,
+                    "end": 11211,
+                    "id": 127,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 11729,
+                    "end": 11738,
+                    "id": 128,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 11940,
+                    "end": 11949,
+                    "id": 129,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 12352,
+                    "end": 12361,
+                    "id": 130,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 13514,
+                    "end": 13523,
+                    "id": 131,
+                    "features": {
+                        "text": "switching"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1006,
+                    "end": 1013,
+                    "id": 132,
+                    "features": {
+                        "text": "porting"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7493,
+                    "end": 7500,
+                    "id": 133,
+                    "features": {
+                        "text": "porting"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7582,
+                    "end": 7589,
+                    "id": 134,
+                    "features": {
+                        "text": "porting"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4437,
+                    "end": 4442,
+                    "id": 135,
+                    "features": {
+                        "text": "erase"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6481,
+                    "end": 6486,
+                    "id": 136,
+                    "features": {
+                        "text": "erase"
+                    }
+                },
+                {
+                    "type": "RIGHT",
+                    "start": 7161,
+                    "end": 7200,
+                    "id": 137,
+                    "features": {
+                        "text": "right to extend the transitional period"
+                    }
+                },
+                {
+                    "type": "RISK/IMPACT",
+                    "start": 3604,
+                    "end": 3626,
+                    "id": 138,
+                    "features": {
+                        "text": "high level of security"
+                    }
+                },
+                {
+                    "type": "RISK/IMPACT",
+                    "start": 5008,
+                    "end": 5039,
+                    "id": 139,
+                    "features": {
+                        "text": "risk of breach of trade secrets"
+                    }
+                }
+            ],
+            "next_annid": 140
+        }
+    },
+    "text": "CHAPTER VI\nSWITCHING BETWEEN DATA PROCESSING SERVICES\nArticle 23\nRemoving obstacles to effective switching Providers of data processing services shall take the measures provided for in Articles 25, 26, 27, 29 and 30 to enable customers to switch to a data processing service, covering the same service type, which is provided by a different provider of data processing services, or to on-premises ICT infrastructure, or, where relevant, to use several providers of data processing services at the same time.\nIn particular, providers of data processing services shall not impose and shall remove pre-commercial, commercial, technical, contractual and organisational obstacles, which inhibit customers from:\n(a) terminating, after the maximum notice period and the successful completion of the switching process, in accordance with Article 25, the contract of the data processing service;\n(b) concluding new contracts with a different provider of data processing services covering the same service type;\n(c) porting the customer\u2019s exportable data and digital assets, to a different provider of data processing services or to an on-premises ICT infrastructure, including after having benefited from a free-tier offering;\n(d) in accordance with Article 24, achieving functional equivalence in the use of the new data processing service in the ICT environment of a different provider of data processing services covering the same service type;\n(e) unbundling, where technically feasible, data processing services referred to in Article 30(1) from other data processing services provided by the provider of data processing services.\nArticle 24\nScope of the technical obligations The responsibilities of providers of data processing services laid down in Articles 23, 25, 29, 30 and 34 shall apply only to the services, contracts or commercial practices provided by the source provider of data processing services.\nArticle 25\nContractual terms concerning switching\n1. The rights of the customer and the obligations of the provider of data processing services in relation to switching between providers of such services or, where applicable, to an on-premises ICT infrastructure shall be clearly set out in a written contract.\nThe provider of data processing services shall make that contract available to the customer prior to signing the contract in a way that allows the customer to store and reproduce the contract.\n2. Without prejudice to Directive (EU) 2019/770, the contract referred to in paragraph 1 of this Article shall include at least the following:\n(a) clauses allowing the customer, upon request, to switch to a data processing service offered by a different provider of data processing services or to port all exportable data and digital assets to an on-premises ICT infrastructure, without undue delay and in any event not after the mandatory maximum transitional period of 30 calendar days, to be initiated after the maximum notice period referred to in point (d), during which the service contract remains applicable and during which the provider of data processing services shall:\n(i) provide reasonable assistance to the customer and third parties authorised by the customer in the switching process;\n22.12.2023 http://data.europa.eu/eli/reg/2023/2854/oj 56/71\n(ii) act with due care to maintain business continuity, and continue the provision of the functions or services under the contract;\n(iii) provide clear information concerning known risks to continuity in the provision of the functions or services on the part of the source provider of data processing services;\n(iv) ensure that a high level of security is maintained throughout the switching process, in particular the security of the data during their transfer and the continued security of the data during the retrieval period specified in point (g), in accordance with applicable Union or national law;\n(b) an obligation of the provider of data processing services to support the customer\u2019s exit strategy relevant to the contracted services, including by providing all relevant information;\n(c) a clause specifying that the contract shall be considered to be terminated and the customer shall be notified of the termination, in one of the following cases:\n(i) where applicable, upon the successful completion of the switching process;\n(ii) at the end of the maximum notice period referred to in paragraph (d), where the customer does not wish to switch but to erase its exportable data and digital assets upon service termination;\n(d) a maximum notice period for initiation of the switching process, which shall not exceed two months;\n(e) an exhaustive specification of all categories of data and digital assets that can be ported during the switching process, including, at a minimum, all exportable data;\n(f) an exhaustive specification of categories of data specific to the internal functioning of the provider\u2019s data processing service that are to be exempted from the exportable data under point (e) of this paragraph where a risk of breach of trade secrets of the provider exists, provided that such exemptions do not impede or delay the switching process provided for in Article 23;\n(g) a minimum period for data retrieval of at least 30 calendar days, starting after the termination of the transitional period that was agreed between the customer and the provider of data processing services, in accordance with point (a) of this paragraph and paragraph 4;\n(h) a clause guaranteeing full erasure of all exportable data and digital assets generated directly by the customer, or relating to the customer directly, after the expiry of the retrieval period referred to in point (g) or after the expiry of an alternative agreed period at a date later than the date of expiry of the retrieval period referred to in point (g), provided that the switching process has been completed successfully;\n(i) switching charges, that may be imposed by providers of data processing services in accordance with Article 29.\n3. The contract referred to in paragraph 1 shall include clauses providing that the customer may notify the provider of data processing services of its decision to perform one or more of the following actions upon termination of the maximum notice period referred to in paragraph 2, point (d):\n(a) switch to a different provider of data processing services, in which case the customer shall provide the necessary details of that provider;\n(b) switch to an on-premises ICT infrastructure;\n(c) erase its exportable data and digital assets.\n4. Where the mandatory maximum transitional period as provided for in paragraph 2, point (a) is technically unfeasible, the provider of data processing services shall notify the customer within 14 working days of the making of the switching request, and shall duly justify the technical unfeasibility and indicate an alternative transitional period, which shall not exceed seven months.\nIn accordance with paragraph 1, service continuity shall be ensured throughout the alternative transitional period.\n5. Without prejudice to paragraph 4, the contract referred to in paragraph 1 shall include clauses providing the customer with the right to extend the transitional period once for a period that the customer considers more appropriate for its own purposes.\nArticle 26\nInformation obligation of providers of data processing services The provider of data processing services shall provide the customer with:\n(a) information on available procedures for switching and porting to the data processing service, including information on available switching and porting methods and formats as well as restrictions and technical limitations which are known to the provider of data processing services;\n(b) a reference to an up-to-date online register hosted by the provider of data processing services, with details of all the data structures and data formats as well as the relevant standards and open interoperability specifications, in which the exportable data referred to in Article 25(2), point (e), are available.\nArticle 27\nObligation of good faith All parties involved, including destination providers of data processing services, shall cooperate in good faith to make the switching process effective, enable the timely transfer of data and maintain the continuity of the data processing service.\nArticle 28\nContractual transparency obligations on international access and transfer\n1. Providers of data processing services shall make the following information available on their websites, and keep that information up to date:\n(a) the jurisdiction to which the ICT infrastructure deployed for data processing of their individual services is subject;\n(b) a general description of the technical, organisational and contractual measures adopted by the provider of data processing services in order to prevent international governmental access to or transfer of non-personal data held in the Union where such access or transfer would create a conflict with Union law or the national law of the relevant Member State.\n2. The websites referred to in paragraph 1 shall be listed in contracts for all data processing services offered by providers of data processing services.\nArticle 29\nGradual withdrawal of switching charges\n1. From 12 January 2027, providers of data processing services shall not impose any switching charges on the customer for the switching process.\n2. From 11 January 2024 to 12 January 2027, providers of data processing services may impose reduced switching charges on the customer for the switching process.\n3. The reduced switching charges referred to in paragraph 2 shall not exceed the costs incurred by the provider of data processing services that are directly linked to the switching process concerned.\n4. Before entering into a contract with a customer, providers of data processing services shall provide the prospective customer with clear information on the standard service fees and early termination penalties that might be imposed, as well as on the reduced switching charges that might be imposed during the timeframe referred to in paragraph 2.\n22.12.2023 http://data.europa.eu/eli/reg/2023/2854/oj 58/71 Article 31\n5. Where relevant, providers of data processing services shall provide information to a customer on data processing services that involve highly complex or costly switching or for which it is impossible to switch without significant interference in the data, digital assets or service architecture.\n6. Where applicable, providers of data processing services shall make the information referred to in paragraphs 4 and 5 publicly available to customers via a dedicated section of their website or in any other easily accessible way.\n7. The Commission is empowered to adopt delegated acts in accordance with Article 45 to supplement this Regulation by establishing a monitoring mechanism for the Commission to monitor switching charges, imposed by providers of data processing services on the market to ensure that the withdrawal and reduction of switching charges, pursuant to paragraphs 1 and 2 of this Article are to be attained in accordance with the deadlines laid down in those paragraphs.\nArticle 30\nTechnical aspects of switching\n1. Providers of data processing services that concern scalable and elastic computing resources limited to infrastructural elements such as servers, networks and the virtual resources necessary for operating the infrastructure, but that do not provide access to the operating services, software and applications that are stored, otherwise processed, or deployed on those infrastructural elements, shall, in accordance with Article 27, take all reasonable measures in their power to facilitate that the customer, after switching to a service covering the same service type, achieves functional equivalence in the use of the destination data processing service.\nThe source provider of data processing services shall facilitate the switching process by providing capabilities, adequate information, documentation, technical support and, where appropriate, the necessary tools.\n2. Providers of data processing services, other than those referred to in paragraph 1, shall make open interfaces available to an equal extent to all their customers and the concerned destination providers of data processing services free of charge to facilitate the switching process.\nThose interfaces shall include sufficient information on the service concerned to enable the development of software to communicate with the services, for the purposes of data portability and interoperability.\n3. For data processing services other than those referred to in paragraph 1 of this Article, providers of data processing services shall ensure compatibility with common specifications based on open interoperability specifications or harmonised standards for interoperability at least 12 months after the references to those common specifications or harmonised standards for interoperability of data processing services were published in the central Union standards repository for the interoperability of data processing services following the publication of the underlying implementing acts in the Official Journal of the European Union in accordance with Article 35(8).\n4. Providers of data processing services other than those referred to in paragraph 1 of this Article shall update the online register referred to in Article 26, point (b) in accordance with their obligations under paragraph 3 of this Article.\n5. In the case of switching between services of the same service type, for which common specifications or the harmonised standards for interoperability referred to in paragraph 3 of this Article have not been published in the central Union standards repository for the interoperability of data processing services in accordance with Article 35(8), the provider of data processing services shall, at the request of the customer, export all exportable data in a structured, commonly used and machine-readable format.\n6. Providers of data processing services shall not be required to develop new technologies or services, or disclose or transfer digital assets that are protected by intellectual property rights or that constitute a trade secret, to a customer or to a different provider of data processing services or compromise the customer\u2019s or provider\u2019s security and integrity of service.\nSpecific regime for certain data processing services\n1. The obligations laid down in Article 23, point (d), Article 29 and Article 30(1) and (3) shall not apply to data processing services of which the majority of main features has been custom-built to accommodate the specific needs of an individual customer or where all components have been developed for the purposes of an individual customer, and where those data processing services are not offered at broad commercial scale via the service catalogue of the provider of data processing services.\n2. The obligations laid down in this Chapter shall not apply to data processing services provided as a non-production version for testing and evaluation purposes and for a limited period of time.\n3. Prior to the conclusion of a contract on the provision of the data processing services referred to in this Article, the provider of data processing services shall inform the prospective customer of the obligations of this Chapter that do not apply.\n",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Article 23",
+                    "type": "REGULATION",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Article 23"
+                        },
+                        {
+                            "id": 1,
+                            "mention": "Article 23"
+                        },
+                        {
+                            "id": 2,
+                            "mention": "Article 23"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Article 24",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 3,
+                            "mention": "Article 24"
+                        },
+                        {
+                            "id": 4,
+                            "mention": "Article 24"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Article 25",
+                    "type": "REGULATION",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 5,
+                            "mention": "Article 25"
+                        },
+                        {
+                            "id": 6,
+                            "mention": "Article 25"
+                        },
+                        {
+                            "id": 7,
+                            "mention": "Article 25"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Article 26",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 8,
+                            "mention": "Article 26"
+                        },
+                        {
+                            "id": 9,
+                            "mention": "Article 26"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Article 27",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 10,
+                            "mention": "Article 27"
+                        },
+                        {
+                            "id": 11,
+                            "mention": "Article 27"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Article 28",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 12,
+                            "mention": "Article 28"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "Article 29",
+                    "type": "REGULATION",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 13,
+                            "mention": "Article 29"
+                        },
+                        {
+                            "id": 14,
+                            "mention": "Article 29"
+                        },
+                        {
+                            "id": 15,
+                            "mention": "Article 29"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "Article 30",
+                    "type": "REGULATION",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 16,
+                            "mention": "Article 30"
+                        },
+                        {
+                            "id": 17,
+                            "mention": "Article 30"
+                        },
+                        {
+                            "id": 18,
+                            "mention": "Article 30"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "Directive (EU) 2019/770",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 19,
+                            "mention": "Directive (EU) 2019/770"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "Article 35(8)",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 20,
+                            "mention": "Article 35(8)"
+                        },
+                        {
+                            "id": 21,
+                            "mention": "Article 35(8)"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "provider of data processing services",
+                    "type": "ROLE",
+                    "nelements": 26,
+                    "mentions": [
+                        {
+                            "id": 22,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 23,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 24,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 25,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 26,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 27,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 28,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 29,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 30,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 31,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 32,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 33,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 34,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 35,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 36,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 37,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 38,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 39,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 40,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 41,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 42,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 43,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 44,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 45,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 46,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 47,
+                            "mention": "provider of data processing services"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "customer",
+                    "type": "ROLE",
+                    "nelements": 31,
+                    "mentions": [
+                        {
+                            "id": 48,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 49,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 50,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 51,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 52,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 53,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 54,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 55,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 56,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 57,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 58,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 59,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 60,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 61,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 62,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 63,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 64,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 65,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 66,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 67,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 68,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 69,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 70,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 71,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 72,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 73,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 74,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 75,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 76,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 77,
+                            "mention": "customer"
+                        },
+                        {
+                            "id": 78,
+                            "mention": "customer"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "title": "Commission",
+                    "type": "AUTHORITY",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 79,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 80,
+                            "mention": "Commission"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "title": "exportable data",
+                    "type": "DATA.CAT",
+                    "nelements": 9,
+                    "mentions": [
+                        {
+                            "id": 81,
+                            "mention": "exportable data"
+                        },
+                        {
+                            "id": 82,
+                            "mention": "exportable data"
+                        },
+                        {
+                            "id": 83,
+                            "mention": "exportable data"
+                        },
+                        {
+                            "id": 84,
+                            "mention": "exportable data"
+                        },
+                        {
+                            "id": 85,
+                            "mention": "exportable data"
+                        },
+                        {
+                            "id": 86,
+                            "mention": "exportable data"
+                        },
+                        {
+                            "id": 87,
+                            "mention": "exportable data"
+                        },
+                        {
+                            "id": 88,
+                            "mention": "exportable data"
+                        },
+                        {
+                            "id": 89,
+                            "mention": "exportable data"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "title": "digital assets",
+                    "type": "DATA.CAT",
+                    "nelements": 8,
+                    "mentions": [
+                        {
+                            "id": 90,
+                            "mention": "digital assets"
+                        },
+                        {
+                            "id": 91,
+                            "mention": "digital assets"
+                        },
+                        {
+                            "id": 92,
+                            "mention": "digital assets"
+                        },
+                        {
+                            "id": 93,
+                            "mention": "digital assets"
+                        },
+                        {
+                            "id": 94,
+                            "mention": "digital assets"
+                        },
+                        {
+                            "id": 95,
+                            "mention": "digital assets"
+                        },
+                        {
+                            "id": 96,
+                            "mention": "digital assets"
+                        },
+                        {
+                            "id": 97,
+                            "mention": "digital assets"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "title": "non-personal data",
+                    "type": "DATA.CAT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 98,
+                            "mention": "non-personal data"
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "title": "SWITCHING",
+                    "type": "DATA.OP",
+                    "nelements": 33,
+                    "mentions": [
+                        {
+                            "id": 99,
+                            "mention": "SWITCHING"
+                        },
+                        {
+                            "id": 100,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 101,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 102,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 103,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 104,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 105,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 106,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 107,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 108,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 109,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 110,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 111,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 112,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 113,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 114,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 115,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 116,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 117,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 118,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 119,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 120,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 121,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 122,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 123,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 124,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 125,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 126,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 127,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 128,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 129,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 130,
+                            "mention": "switching"
+                        },
+                        {
+                            "id": 131,
+                            "mention": "switching"
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "title": "porting",
+                    "type": "DATA.OP",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 132,
+                            "mention": "porting"
+                        },
+                        {
+                            "id": 133,
+                            "mention": "porting"
+                        },
+                        {
+                            "id": 134,
+                            "mention": "porting"
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "title": "erase",
+                    "type": "DATA.OP",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 135,
+                            "mention": "erase"
+                        },
+                        {
+                            "id": 136,
+                            "mention": "erase"
+                        }
+                    ]
+                },
+                {
+                    "id": 20,
+                    "title": "right to extend the transitional period",
+                    "type": "RIGHT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 137,
+                            "mention": "right to extend the transitional period"
+                        }
+                    ]
+                },
+                {
+                    "id": 21,
+                    "title": "high level of security",
+                    "type": "RISK/IMPACT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 138,
+                            "mention": "high level of security"
+                        }
+                    ]
+                },
+                {
+                    "id": 22,
+                    "title": "risk of breach of trade secrets",
+                    "type": "RISK/IMPACT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 139,
+                            "mention": "risk of breach of trade secrets"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "DataAct_Chapter_VI"
+}

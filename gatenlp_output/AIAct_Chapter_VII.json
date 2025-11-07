@@ -1,0 +1,2651 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 59,
+                    "end": 69,
+                    "id": 0,
+                    "features": {
+                        "text": "Article 64"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 292,
+                    "end": 302,
+                    "id": 1,
+                    "features": {
+                        "text": "Article 65"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1199,
+                    "end": 1209,
+                    "id": 2,
+                    "features": {
+                        "text": "Article 66"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3253,
+                    "end": 3263,
+                    "id": 3,
+                    "features": {
+                        "text": "Article 66"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4086,
+                    "end": 4096,
+                    "id": 4,
+                    "features": {
+                        "text": "Article 66"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6140,
+                    "end": 6150,
+                    "id": 5,
+                    "features": {
+                        "text": "Article 66"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2725,
+                    "end": 2735,
+                    "id": 6,
+                    "features": {
+                        "text": "Article 67"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5612,
+                    "end": 5622,
+                    "id": 7,
+                    "features": {
+                        "text": "Article 67"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 10688,
+                    "end": 10698,
+                    "id": 8,
+                    "features": {
+                        "text": "Article 67"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 16765,
+                    "end": 16775,
+                    "id": 9,
+                    "features": {
+                        "text": "Article 67"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 12672,
+                    "end": 12682,
+                    "id": 10,
+                    "features": {
+                        "text": "Article 68"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 16244,
+                    "end": 16254,
+                    "id": 11,
+                    "features": {
+                        "text": "Article 68"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 18749,
+                    "end": 18759,
+                    "id": 12,
+                    "features": {
+                        "text": "Article 68"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 22321,
+                    "end": 22331,
+                    "id": 13,
+                    "features": {
+                        "text": "Article 68"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 15807,
+                    "end": 15817,
+                    "id": 14,
+                    "features": {
+                        "text": "Article 69"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 21884,
+                    "end": 21894,
+                    "id": 15,
+                    "features": {
+                        "text": "Article 69"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 22883,
+                    "end": 22893,
+                    "id": 16,
+                    "features": {
+                        "text": "Article 70"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 280,
+                    "end": 290,
+                    "id": 17,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1556,
+                    "end": 1566,
+                    "id": 18,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2455,
+                    "end": 2465,
+                    "id": 19,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2502,
+                    "end": 2512,
+                    "id": 20,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3214,
+                    "end": 3224,
+                    "id": 21,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4443,
+                    "end": 4453,
+                    "id": 22,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5342,
+                    "end": 5352,
+                    "id": 23,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5389,
+                    "end": 5399,
+                    "id": 24,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6101,
+                    "end": 6111,
+                    "id": 25,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6313,
+                    "end": 6323,
+                    "id": 26,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6479,
+                    "end": 6489,
+                    "id": 27,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6831,
+                    "end": 6841,
+                    "id": 28,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7406,
+                    "end": 7416,
+                    "id": 29,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7575,
+                    "end": 7585,
+                    "id": 30,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7669,
+                    "end": 7679,
+                    "id": 31,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7946,
+                    "end": 7956,
+                    "id": 32,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 9125,
+                    "end": 9135,
+                    "id": 33,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 9813,
+                    "end": 9823,
+                    "id": 34,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 9944,
+                    "end": 9954,
+                    "id": 35,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 10872,
+                    "end": 10882,
+                    "id": 36,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 12541,
+                    "end": 12551,
+                    "id": 37,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 12946,
+                    "end": 12956,
+                    "id": 38,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 13984,
+                    "end": 13994,
+                    "id": 39,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 15983,
+                    "end": 15993,
+                    "id": 40,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 16333,
+                    "end": 16343,
+                    "id": 41,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 16949,
+                    "end": 16959,
+                    "id": 42,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 18618,
+                    "end": 18628,
+                    "id": 43,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 19023,
+                    "end": 19033,
+                    "id": 44,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 20061,
+                    "end": 20071,
+                    "id": 45,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 22060,
+                    "end": 22070,
+                    "id": 46,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 22410,
+                    "end": 22420,
+                    "id": 47,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 23158,
+                    "end": 23168,
+                    "id": 48,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 23402,
+                    "end": 23412,
+                    "id": 49,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 24213,
+                    "end": 24223,
+                    "id": 50,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 24610,
+                    "end": 24620,
+                    "id": 51,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 25937,
+                    "end": 25947,
+                    "id": 52,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 26407,
+                    "end": 26417,
+                    "id": 53,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 70,
+                    "end": 79,
+                    "id": 54,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 176,
+                    "end": 185,
+                    "id": 55,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 248,
+                    "end": 257,
+                    "id": 56,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 604,
+                    "end": 613,
+                    "id": 57,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3029,
+                    "end": 3038,
+                    "id": 58,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3491,
+                    "end": 3500,
+                    "id": 59,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5916,
+                    "end": 5925,
+                    "id": 60,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9971,
+                    "end": 9980,
+                    "id": 61,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 13865,
+                    "end": 13874,
+                    "id": 62,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14080,
+                    "end": 14089,
+                    "id": 63,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14873,
+                    "end": 14882,
+                    "id": 64,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15399,
+                    "end": 15408,
+                    "id": 65,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15739,
+                    "end": 15748,
+                    "id": 66,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 19942,
+                    "end": 19951,
+                    "id": 67,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 20157,
+                    "end": 20166,
+                    "id": 68,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 20950,
+                    "end": 20959,
+                    "id": 69,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 21476,
+                    "end": 21485,
+                    "id": 70,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 21816,
+                    "end": 21825,
+                    "id": 71,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 338,
+                    "end": 376,
+                    "id": 72,
+                    "features": {
+                        "text": "European Artificial Intelligence Board"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 382,
+                    "end": 420,
+                    "id": 73,
+                    "features": {
+                        "text": "European Artificial Intelligence Board"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3269,
+                    "end": 3307,
+                    "id": 74,
+                    "features": {
+                        "text": "European Artificial Intelligence Board"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1465,
+                    "end": 1495,
+                    "id": 75,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4352,
+                    "end": 4382,
+                    "id": 76,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6408,
+                    "end": 6438,
+                    "id": 77,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9666,
+                    "end": 9696,
+                    "id": 78,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9995,
+                    "end": 10025,
+                    "id": 79,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 22852,
+                    "end": 22882,
+                    "id": 80,
+                    "features": {
+                        "text": "National competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 22909,
+                    "end": 22939,
+                    "id": 81,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 23022,
+                    "end": 23052,
+                    "id": 82,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 23176,
+                    "end": 23206,
+                    "id": 83,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 24441,
+                    "end": 24471,
+                    "id": 84,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 24641,
+                    "end": 24671,
+                    "id": 85,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 25143,
+                    "end": 25173,
+                    "id": 86,
+                    "features": {
+                        "text": "National competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 25288,
+                    "end": 25318,
+                    "id": 87,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 25564,
+                    "end": 25594,
+                    "id": 88,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 25809,
+                    "end": 25839,
+                    "id": 89,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 25844,
+                    "end": 25874,
+                    "id": 90,
+                    "features": {
+                        "text": "National competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 26094,
+                    "end": 26124,
+                    "id": 91,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 26232,
+                    "end": 26262,
+                    "id": 92,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 23066,
+                    "end": 23085,
+                    "id": 93,
+                    "features": {
+                        "text": "notifying authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 23103,
+                    "end": 23132,
+                    "id": 94,
+                    "features": {
+                        "text": "market surveillance authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 24136,
+                    "end": 24165,
+                    "id": 95,
+                    "features": {
+                        "text": "market surveillance authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 533,
+                    "end": 568,
+                    "id": 96,
+                    "features": {
+                        "text": "European Data Protection Supervisor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3420,
+                    "end": 3455,
+                    "id": 97,
+                    "features": {
+                        "text": "European Data Protection Supervisor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 26423,
+                    "end": 26458,
+                    "id": 98,
+                    "features": {
+                        "text": "European Data Protection Supervisor"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 87,
+                    "end": 97,
+                    "id": 99,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6208,
+                    "end": 6218,
+                    "id": 100,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 7264,
+                    "end": 7274,
+                    "id": 101,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 7605,
+                    "end": 7615,
+                    "id": 102,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 8781,
+                    "end": 8791,
+                    "id": 103,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 9705,
+                    "end": 9715,
+                    "id": 104,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 10278,
+                    "end": 10288,
+                    "id": 105,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 10361,
+                    "end": 10371,
+                    "id": 106,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 10816,
+                    "end": 10826,
+                    "id": 107,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 11254,
+                    "end": 11264,
+                    "id": 108,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 12363,
+                    "end": 12373,
+                    "id": 109,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 12730,
+                    "end": 12740,
+                    "id": 110,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 13137,
+                    "end": 13147,
+                    "id": 111,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 13617,
+                    "end": 13627,
+                    "id": 112,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 16452,
+                    "end": 16462,
+                    "id": 113,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 16893,
+                    "end": 16903,
+                    "id": 114,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 17331,
+                    "end": 17341,
+                    "id": 115,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 18440,
+                    "end": 18450,
+                    "id": 116,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 18807,
+                    "end": 18817,
+                    "id": 117,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 19214,
+                    "end": 19224,
+                    "id": 118,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 19694,
+                    "end": 19704,
+                    "id": 119,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 22529,
+                    "end": 22539,
+                    "id": 120,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 23743,
+                    "end": 23753,
+                    "id": 121,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 24246,
+                    "end": 24256,
+                    "id": 122,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 24309,
+                    "end": 24319,
+                    "id": 123,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 25495,
+                    "end": 25505,
+                    "id": 124,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 25638,
+                    "end": 25648,
+                    "id": 125,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 25746,
+                    "end": 25756,
+                    "id": 126,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 26057,
+                    "end": 26067,
+                    "id": 127,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 371,
+                    "end": 376,
+                    "id": 128,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 415,
+                    "end": 420,
+                    "id": 129,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 427,
+                    "end": 432,
+                    "id": 130,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 465,
+                    "end": 470,
+                    "id": 131,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 636,
+                    "end": 641,
+                    "id": 132,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 782,
+                    "end": 787,
+                    "id": 133,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 1041,
+                    "end": 1046,
+                    "id": 134,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 1170,
+                    "end": 1175,
+                    "id": 135,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 1270,
+                    "end": 1275,
+                    "id": 136,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 1683,
+                    "end": 1688,
+                    "id": 137,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 1761,
+                    "end": 1766,
+                    "id": 138,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2047,
+                    "end": 2052,
+                    "id": 139,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2102,
+                    "end": 2107,
+                    "id": 140,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2533,
+                    "end": 2538,
+                    "id": 141,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2834,
+                    "end": 2839,
+                    "id": 142,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2950,
+                    "end": 2955,
+                    "id": 143,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3077,
+                    "end": 3082,
+                    "id": 144,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3191,
+                    "end": 3196,
+                    "id": 145,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3302,
+                    "end": 3307,
+                    "id": 146,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3314,
+                    "end": 3319,
+                    "id": 147,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3352,
+                    "end": 3357,
+                    "id": 148,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3523,
+                    "end": 3528,
+                    "id": 149,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3669,
+                    "end": 3674,
+                    "id": 150,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3928,
+                    "end": 3933,
+                    "id": 151,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4057,
+                    "end": 4062,
+                    "id": 152,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4157,
+                    "end": 4162,
+                    "id": 153,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4570,
+                    "end": 4575,
+                    "id": 154,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4648,
+                    "end": 4653,
+                    "id": 155,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4934,
+                    "end": 4939,
+                    "id": 156,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4989,
+                    "end": 4994,
+                    "id": 157,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 5420,
+                    "end": 5425,
+                    "id": 158,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 5721,
+                    "end": 5726,
+                    "id": 159,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 5837,
+                    "end": 5842,
+                    "id": 160,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 5964,
+                    "end": 5969,
+                    "id": 161,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6078,
+                    "end": 6083,
+                    "id": 162,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6164,
+                    "end": 6169,
+                    "id": 163,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6174,
+                    "end": 6179,
+                    "id": 164,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6342,
+                    "end": 6347,
+                    "id": 165,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 10802,
+                    "end": 10807,
+                    "id": 166,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 12350,
+                    "end": 12355,
+                    "id": 167,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 13654,
+                    "end": 13659,
+                    "id": 168,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 16879,
+                    "end": 16884,
+                    "id": 169,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 18427,
+                    "end": 18432,
+                    "id": 170,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 19731,
+                    "end": 19736,
+                    "id": 171,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 25688,
+                    "end": 25693,
+                    "id": 172,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 26043,
+                    "end": 26048,
+                    "id": 173,
+                    "features": {
+                        "text": "Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 1465,
+                    "end": 1495,
+                    "id": 174,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4352,
+                    "end": 4382,
+                    "id": 175,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6408,
+                    "end": 6438,
+                    "id": 176,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 9666,
+                    "end": 9696,
+                    "id": 177,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 9995,
+                    "end": 10025,
+                    "id": 178,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 22852,
+                    "end": 22882,
+                    "id": 179,
+                    "features": {
+                        "text": "National competent authorities"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 22909,
+                    "end": 22939,
+                    "id": 180,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 23022,
+                    "end": 23052,
+                    "id": 181,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 23176,
+                    "end": 23206,
+                    "id": 182,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 24441,
+                    "end": 24471,
+                    "id": 183,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 24641,
+                    "end": 24671,
+                    "id": 184,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 25143,
+                    "end": 25173,
+                    "id": 185,
+                    "features": {
+                        "text": "National competent authorities"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 25288,
+                    "end": 25318,
+                    "id": 186,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 25564,
+                    "end": 25594,
+                    "id": 187,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 25809,
+                    "end": 25839,
+                    "id": 188,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 25844,
+                    "end": 25874,
+                    "id": 189,
+                    "features": {
+                        "text": "National competent authorities"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 26094,
+                    "end": 26124,
+                    "id": 190,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 26232,
+                    "end": 26262,
+                    "id": 191,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                }
+            ],
+            "next_annid": 192
+        }
+    },
+    "text": "CHAPTER VII\nGOVERNANCE\nSECTION 1\nGovernance at Union level\nArticle 64\nAI Office\n1. The Commission shall develop Union expertise and capabilities in the field of AI through the AI Office.\n2. Member States shall facilitate the tasks entrusted to the AI Office, as reflected in this Regulation.\nArticle 65\nEstablishment and structure of the European Artificial Intelligence Board\n1. A European Artificial Intelligence Board (the \u2018Board\u2019) is hereby established.\n2. The Board shall be composed of one representative per Member State.\nThe European Data Protection Supervisor shall participate as observer.\nThe AI Office shall also attend the Board\u2019s meetings, without taking part in the votes.\nOther national and Union authorities, bodies or experts may be invited to the meetings by the Board on a case by case basis, where the issues discussed are of relevance for them.\n3. Each representative shall be designated by their Member State for a period of three years, renewable once.\n4. Member States shall ensure that their representatives on the Board:\n(a) have the relevant competences and powers in their Member State so as to contribute actively to the achievement of the Board\u2019s tasks referred to in Article 66;\n(b) are designated as a single contact point vis-\u00e0-vis the Board and, where appropriate, taking into account Member States\u2019 needs, as a single contact point for stakeholders;\n12.7.2024\n(c) are empowered to facilitate consistency and coordination between national competent authorities in their Member State as regards the implementation of this Regulation, including through the collection of relevant data and information for the purpose of fulfilling their tasks on the Board.\n5. The designated representatives of the Member States shall adopt the Board\u2019s rules of procedure by a two-thirds majority.\nThe rules of procedure shall, in particular, lay down procedures for the selection process, the duration of the mandate of, and specifications of the tasks of, the Chair, detailed arrangements for voting, and the organisation of the Board\u2019s activities and those of its sub-groups.\n6. The Board shall establish two standing sub-groups to provide a platform for cooperation and exchange among market surveillance authorities and notifying authorities about issues related to market surveillance and notified bodies respectively.\nThe standing sub-group for market surveillance should act as the administrative cooperation group (ADCO) for this Regulation within the meaning of Article 30 of Regulation (EU) 2019/1020.\nThe Board may establish other standing or temporary sub-groups as appropriate for the purpose of examining specific issues.\nWhere appropriate, representatives of the advisory forum referred to in Article 67 may be invited to such sub-groups or to specific meetings of those subgroups as observers.\n7. The Board shall be organised and operated so as to safeguard the objectivity and impartiality of its activities.\n8. The Board shall be chaired by one of the representatives of the Member States.\nThe AI Office shall provide the secretariat for the Board, convene the meetings upon request of the Chair, and prepare the agenda in accordance with the tasks of the Board pursuant to this Regulation and its rules of procedure.\nArticle 66\n1. A European Artificial Intelligence Board (the \u2018Board\u2019) is hereby established.\n2. The Board shall be composed of one representative per Member State.\nThe European Data Protection Supervisor shall participate as observer.\nThe AI Office shall also attend the Board\u2019s meetings, without taking part in the votes.\nOther national and Union authorities, bodies or experts may be invited to the meetings by the Board on a case by case basis, where the issues discussed are of relevance for them.\n3. Each representative shall be designated by their Member State for a period of three years, renewable once.\n4. Member States shall ensure that their representatives on the Board:\n(a) have the relevant competences and powers in their Member State so as to contribute actively to the achievement of the Board\u2019s tasks referred to in Article 66;\n(b) are designated as a single contact point vis-\u00e0-vis the Board and, where appropriate, taking into account Member States\u2019 needs, as a single contact point for stakeholders;\n12.7.2024\n(c) are empowered to facilitate consistency and coordination between national competent authorities in their Member State as regards the implementation of this Regulation, including through the collection of relevant data and information for the purpose of fulfilling their tasks on the Board.\n5. The designated representatives of the Member States shall adopt the Board\u2019s rules of procedure by a two-thirds majority.\nThe rules of procedure shall, in particular, lay down procedures for the selection process, the duration of the mandate of, and specifications of the tasks of, the Chair, detailed arrangements for voting, and the organisation of the Board\u2019s activities and those of its sub-groups.\n6. The Board shall establish two standing sub-groups to provide a platform for cooperation and exchange among market surveillance authorities and notifying authorities about issues related to market surveillance and notified bodies respectively.\nThe standing sub-group for market surveillance should act as the administrative cooperation group (ADCO) for this Regulation within the meaning of Article 30 of Regulation (EU) 2019/1020.\nThe Board may establish other standing or temporary sub-groups as appropriate for the purpose of examining specific issues.\nWhere appropriate, representatives of the advisory forum referred to in Article 67 may be invited to such sub-groups or to specific meetings of those subgroups as observers.\n7. The Board shall be organised and operated so as to safeguard the objectivity and impartiality of its activities.\n8. The Board shall be chaired by one of the representatives of the Member States.\nThe AI Office shall provide the secretariat for the Board, convene the meetings upon request of the Chair, and prepare the agenda in accordance with the tasks of the Board pursuant to this Regulation and its rules of procedure.\nArticle 66\nTasks of the Board\nThe Board shall advise and assist the Commission and the Member States in order to facilitate the consistent and effective application of this Regulation.\nTo that end, the Board may in particular:\n(a) contribute to the coordination among national competent authorities responsible for the application of this Regulation and, in cooperation with and subject to the agreement of the market surveillance authorities concerned, support joint activities of market surveillance authorities referred to in Article 74(11);\n(b) collect and share technical and regulatory expertise and best practices among Member States;\n(c) provide advice on the implementation of this Regulation, in particular as regards the enforcement of rules on general-purpose AI models;\n(d) contribute to the harmonisation of administrative practices in the Member States, including in relation to the derogation from the conformity assessment procedures referred to in Article 46, the functioning of AI regulatory sandboxes, and testing in real world conditions referred to in Articles 57, 59 and 60;\n(e) at the request of the Commission or on its own initiative, issue recommendations and written opinions on any relevant matters related to the implementation of this Regulation and to its consistent and effective application, including:\n(i) on the development and application of codes of conduct and codes of practice pursuant to this Regulation, as well as of the Commission\u2019s guidelines;\n(ii) the evaluation and review of this Regulation pursuant to Article 112, including as regards the serious incident reports referred to in Article 73, and the functioning of the EU database referred to in Article 71, the preparation of the delegated or implementing acts, and as regards possible alignments of this Regulation with the Union harmonisation legislation listed in Annex I;\n(iii) on technical specifications or existing standards regarding the requirements set out in Chapter III, Section 2;\n12.7.2024\n(iv) on the use of harmonised standards or common specifications referred to in Articles 40 and 41;\n(v) trends, such as European global competitiveness in AI, the uptake of AI in the Union, and the development of digital skills;\n(vi) trends on the evolving typology of AI value chains, in particular on the resulting implications in terms of accountability;\n(vii) on the potential need for amendment to Annex III in accordance with Article 7, and on the potential need for possible revision of Article 5 pursuant to Article 112, taking into account relevant available evidence and the latest developments in technology;\n(f) support the Commission in promoting AI literacy, public awareness and understanding of the benefits, risks, safeguards and rights and obligations in relation to the use of AI systems;\n(g) facilitate the development of common criteria and a shared understanding among market operators and competent authorities of the relevant concepts provided for in this Regulation, including by contributing to the development of benchmarks;\n(h) cooperate, as appropriate, with other Union institutions, bodies, offices and agencies, as well as relevant Union expert groups and networks, in particular in the fields of product safety, cybersecurity, competition, digital and media services, financial services, consumer protection, data and fundamental rights protection;\n(i) contribute to effective cooperation with the competent authorities of third countries and with international organisations;\n(j) assist national competent authorities and the Commission in developing the organisational and technical expertise required for the implementation of this Regulation, including by contributing to the assessment of training needs for staff of Member States involved in implementing this Regulation;\n(k) assist the AI Office in supporting national competent authorities in the establishment and development of AI regulatory sandboxes, and facilitate cooperation and information-sharing among AI regulatory sandboxes;\n(l) contribute to, and provide relevant advice on, the development of guidance documents;\n(m) advise the Commission in relation to international matters on AI;\n(n) provide opinions to the Commission on the qualified alerts regarding general-purpose AI models;\n(o) receive opinions by the Member States on qualified alerts regarding general-purpose AI models, and on national experiences and practices on the monitoring and enforcement of AI systems, in particular systems integrating the general-purpose AI models.\nArticle 67\nAdvisory forum\n1. An advisory forum shall be established to provide technical expertise and advise the Board and the Commission, and to contribute to their tasks under this Regulation.\n2. The membership of the advisory forum shall represent a balanced selection of stakeholders, including industry, start-ups, SMEs, civil society and academia.\nThe membership of the advisory forum shall be balanced with regard to commercial and non-commercial interests and, within the category of commercial interests, with regard to SMEs and other undertakings.\n3. The Commission shall appoint the members of the advisory forum, in accordance with the criteria set out in paragraph 2, from amongst stakeholders with recognised expertise in the field of AI.\n12.7.2024\n4. The term of office of the members of the advisory forum shall be two years, which may be extended by up to no more than four years.\n5. The Fundamental Rights Agency, ENISA, the European Committee for Standardization (CEN), the European Committee for Electrotechnical Standardization (CENELEC), and the European Telecommunications Standards Institute (ETSI) shall be permanent members of the advisory forum.\n6. The advisory forum shall draw up its rules of procedure.\nIt shall elect two co-chairs from among its members, in accordance with criteria set out in paragraph 2.\nThe term of office of the co-chairs shall be two years, renewable once.\n7. The advisory forum shall hold meetings at least twice a year.\nThe advisory forum may invite experts and other stakeholders to its meetings.\n8. The advisory forum may prepare opinions, recommendations and written contributions at the request of the Board or the Commission.\n9. The advisory forum may establish standing or temporary sub-groups as appropriate for the purpose of examining specific questions related to the objectives of this Regulation.\n10.\nThe advisory forum shall prepare an annual report on its activities.\nThat report shall be made publicly available.\nArticle 68\nScientific panel of independent experts\n1. The Commission shall, by means of an implementing act, make provisions on the establishment of a scientific panel of independent experts (the \u2018scientific panel\u2019) intended to support the enforcement activities under this Regulation.\nThat implementing act shall be adopted in accordance with the examination procedure referred to in Article 98(2).\n2. The scientific panel shall consist of experts selected by the Commission on the basis of up-to-date scientific or technical expertise in the field of AI necessary for the tasks set out in paragraph 3, and shall be able to demonstrate meeting all of the following conditions:\n(a) having particular expertise and competence and scientific or technical expertise in the field of AI;\n(b) independence from any provider of AI systems or general-purpose AI models;\n(c) an ability to carry out activities diligently, accurately and objectively.\nThe Commission, in consultation with the Board, shall determine the number of experts on the panel in accordance with the required needs and shall ensure fair gender and geographical representation.\n3. The scientific panel shall advise and support the AI Office, in particular with regard to the following tasks:\n(a) supporting the implementation and enforcement of this Regulation as regards general-purpose AI models and systems, in particular by:\n(i) alerting the AI Office of possible systemic risks at Union level of general-purpose AI models, in accordance with Article 90;\n(ii) contributing to the development of tools and methodologies for evaluating capabilities of general-purpose AI models and systems, including through benchmarks;\n(iii) providing advice on the classification of general-purpose AI models with systemic risk;\n(iv) providing advice on the classification of various general-purpose AI models and systems;\n12.7.2024\n(v) contributing to the development of tools and templates;\n(b) supporting the work of market surveillance authorities, at their request;\n(c) supporting cross-border market surveillance activities as referred to in Article 74(11), without prejudice to the powers of market surveillance authorities;\n(d) supporting the AI Office in carrying out its duties in the context of the Union safeguard procedure pursuant to Article 81.\n4. The experts on the scientific panel shall perform their tasks with impartiality and objectivity, and shall ensure the confidentiality of information and data obtained in carrying out their tasks and activities.\nThey shall neither seek nor take instructions from anyone when exercising their tasks under paragraph 3.\nEach expert shall draw up a declaration of interests, which shall be made publicly available.\nThe AI Office shall establish systems and procedures to actively manage and prevent potential conflicts of interest.\n5. The implementing act referred to in paragraph 1 shall include provisions on the conditions, procedures and detailed arrangements for the scientific panel and its members to issue alerts, and to request the assistance of the AI Office for the performance of the tasks of the scientific panel.\nArticle 69\nAccess to the pool of experts by the Member States\n1. Member States may call upon experts of the scientific panel to support their enforcement activities under this Regulation.\n2. The Member States may be required to pay fees for the advice and support provided by the experts.\nThe structure and the level of fees as well as the scale and structure of recoverable costs shall be set out in the implementing act referred to in Article 68(1), taking into account the objectives of the adequate implementation of this Regulation, cost-effectiveness and the necessity of ensuring effective access to experts for all Member States.\n3. The Commission shall facilitate timely access to the experts by the Member States, as needed, and ensure that the combination of support activities carried out by Union AI testing support pursuant to Article 84 and experts pursuant to this Article is efficiently organised and provides the best possible added value.\nArticle 67\nAdvisory forum\n1. An advisory forum shall be established to provide technical expertise and advise the Board and the Commission, and to contribute to their tasks under this Regulation.\n2. The membership of the advisory forum shall represent a balanced selection of stakeholders, including industry, start-ups, SMEs, civil society and academia.\nThe membership of the advisory forum shall be balanced with regard to commercial and non-commercial interests and, within the category of commercial interests, with regard to SMEs and other undertakings.\n3. The Commission shall appoint the members of the advisory forum, in accordance with the criteria set out in paragraph 2, from amongst stakeholders with recognised expertise in the field of AI.\n12.7.2024\n4. The term of office of the members of the advisory forum shall be two years, which may be extended by up to no more than four years.\n5. The Fundamental Rights Agency, ENISA, the European Committee for Standardization (CEN), the European Committee for Electrotechnical Standardization (CENELEC), and the European Telecommunications Standards Institute (ETSI) shall be permanent members of the advisory forum.\n6. The advisory forum shall draw up its rules of procedure.\nIt shall elect two co-chairs from among its members, in accordance with criteria set out in paragraph 2.\nThe term of office of the co-chairs shall be two years, renewable once.\n7. The advisory forum shall hold meetings at least twice a year.\nThe advisory forum may invite experts and other stakeholders to its meetings.\n8. The advisory forum may prepare opinions, recommendations and written contributions at the request of the Board or the Commission.\n9. The advisory forum may establish standing or temporary sub-groups as appropriate for the purpose of examining specific questions related to the objectives of this Regulation.\n10.\nThe advisory forum shall prepare an annual report on its activities.\nThat report shall be made publicly available.\nArticle 68\nScientific panel of independent experts\n1. The Commission shall, by means of an implementing act, make provisions on the establishment of a scientific panel of independent experts (the \u2018scientific panel\u2019) intended to support the enforcement activities under this Regulation.\nThat implementing act shall be adopted in accordance with the examination procedure referred to in Article 98(2).\n2. The scientific panel shall consist of experts selected by the Commission on the basis of up-to-date scientific or technical expertise in the field of AI necessary for the tasks set out in paragraph 3, and shall be able to demonstrate meeting all of the following conditions:\n(a) having particular expertise and competence and scientific or technical expertise in the field of AI;\n(b) independence from any provider of AI systems or general-purpose AI models;\n(c) an ability to carry out activities diligently, accurately and objectively.\nThe Commission, in consultation with the Board, shall determine the number of experts on the panel in accordance with the required needs and shall ensure fair gender and geographical representation.\n3. The scientific panel shall advise and support the AI Office, in particular with regard to the following tasks:\n(a) supporting the implementation and enforcement of this Regulation as regards general-purpose AI models and systems, in particular by:\n(i) alerting the AI Office of possible systemic risks at Union level of general-purpose AI models, in accordance with Article 90;\n(ii) contributing to the development of tools and methodologies for evaluating capabilities of general-purpose AI models and systems, including through benchmarks;\n(iii) providing advice on the classification of general-purpose AI models with systemic risk;\n(iv) providing advice on the classification of various general-purpose AI models and systems;\n12.7.2024\n(v) contributing to the development of tools and templates;\n(b) supporting the work of market surveillance authorities, at their request;\n(c) supporting cross-border market surveillance activities as referred to in Article 74(11), without prejudice to the powers of market surveillance authorities;\n(d) supporting the AI Office in carrying out its duties in the context of the Union safeguard procedure pursuant to Article 81.\n4. The experts on the scientific panel shall perform their tasks with impartiality and objectivity, and shall ensure the confidentiality of information and data obtained in carrying out their tasks and activities.\nThey shall neither seek nor take instructions from anyone when exercising their tasks under paragraph 3.\nEach expert shall draw up a declaration of interests, which shall be made publicly available.\nThe AI Office shall establish systems and procedures to actively manage and prevent potential conflicts of interest.\n5. The implementing act referred to in paragraph 1 shall include provisions on the conditions, procedures and detailed arrangements for the scientific panel and its members to issue alerts, and to request the assistance of the AI Office for the performance of the tasks of the scientific panel.\nArticle 69\nAccess to the pool of experts by the Member States\n1. Member States may call upon experts of the scientific panel to support their enforcement activities under this Regulation.\n2. The Member States may be required to pay fees for the advice and support provided by the experts.\nThe structure and the level of fees as well as the scale and structure of recoverable costs shall be set out in the implementing act referred to in Article 68(1), taking into account the objectives of the adequate implementation of this Regulation, cost-effectiveness and the necessity of ensuring effective access to experts for all Member States.\n3. The Commission shall facilitate timely access to the experts by the Member States, as needed, and ensure that the combination of support activities carried out by Union AI testing support pursuant to Article 84 and experts pursuant to this Article is efficiently organised and provides the best possible added value.\nSECTION 2\nNational competent authorities\nArticle 70\nDesignation of national competent authorities and single points of contact\n1. Each Member State shall establish or designate as national competent authorities at least one notifying authority and at least one market surveillance authority for the purposes of this Regulation.\nThose national competent authorities shall exercise their powers independently, impartially and without bias so as to safeguard the objectivity of their activities and tasks, and to ensure the application and implementation of this Regulation.\nThe members of those authorities shall refrain from any action incompatible with their duties.\nProvided that those principles are observed, such activities and tasks may be performed by one or more designated authorities, in accordance with the organisational needs of the Member State.\n2. Member States shall communicate to the Commission the identity of the notifying authorities and the market surveillance authorities and the tasks of those authorities, as well as any subsequent changes thereto.\nMember States shall make publicly available information on how competent authorities and single points of contact can be contacted, through electronic communication means by 2 August 2025.\nMember States shall designate a market surveillance authority to act as the single point of contact for this Regulation, and shall notify the Commission of the identity of the single point of contact.\nThe Commission shall make a list of the single points of contact publicly available.\n12.7.2024\n3. Member States shall ensure that their national competent authorities are provided with adequate technical, financial and human resources, and with infrastructure to fulfil their tasks effectively under this Regulation.\nIn particular, the national competent authorities shall have a sufficient number of personnel permanently available whose competences and expertise shall include an in-depth understanding of AI technologies, data and data computing, personal data protection, cybersecurity, fundamental rights, health and safety risks and knowledge of existing standards and legal requirements.\nMember States shall assess and, if necessary, update competence and resource requirements referred to in this paragraph on an annual basis.\n4. National competent authorities shall take appropriate measures to ensure an adequate level of cybersecurity.\n5. When performing their tasks, the national competent authorities shall act in accordance with the confidentiality obligations set out in Article 78.\n6. By 2 August 2025, and once every two years thereafter, Member States shall report to the Commission on the status of the financial and human resources of the national competent authorities, with an assessment of their adequacy.\nThe Commission shall transmit that information to the Board for discussion and possible recommendations.\n7. The Commission shall facilitate the exchange of experience between national competent authorities.\n8. National competent authorities may provide guidance and advice on the implementation of this Regulation, in particular to SMEs including start-ups, taking into account the guidance and advice of the Board and the Commission, as appropriate.\nWhenever national competent authorities intend to provide guidance and advice with regard to an AI system in areas covered by other Union law, the national competent authorities under that Union law shall be consulted, as appropriate.\n9. Where Union institutions, bodies, offices or agencies fall within the scope of this Regulation, the European Data Protection Supervisor shall act as the competent authority for their supervision.\n",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Article 64",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Article 64"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Article 65",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 1,
+                            "mention": "Article 65"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Article 66",
+                    "type": "REGULATION",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 2,
+                            "mention": "Article 66"
+                        },
+                        {
+                            "id": 3,
+                            "mention": "Article 66"
+                        },
+                        {
+                            "id": 4,
+                            "mention": "Article 66"
+                        },
+                        {
+                            "id": 5,
+                            "mention": "Article 66"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Article 67",
+                    "type": "REGULATION",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 6,
+                            "mention": "Article 67"
+                        },
+                        {
+                            "id": 7,
+                            "mention": "Article 67"
+                        },
+                        {
+                            "id": 8,
+                            "mention": "Article 67"
+                        },
+                        {
+                            "id": 9,
+                            "mention": "Article 67"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Article 68",
+                    "type": "REGULATION",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 10,
+                            "mention": "Article 68"
+                        },
+                        {
+                            "id": 11,
+                            "mention": "Article 68"
+                        },
+                        {
+                            "id": 12,
+                            "mention": "Article 68"
+                        },
+                        {
+                            "id": 13,
+                            "mention": "Article 68"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Article 69",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 14,
+                            "mention": "Article 69"
+                        },
+                        {
+                            "id": 15,
+                            "mention": "Article 69"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "Article 70",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 16,
+                            "mention": "Article 70"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "Regulation",
+                    "type": "REGULATION",
+                    "nelements": 37,
+                    "mentions": [
+                        {
+                            "id": 17,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 18,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 19,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 20,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 21,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 22,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 23,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 24,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 25,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 26,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 27,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 28,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 29,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 30,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 31,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 32,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 33,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 34,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 35,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 36,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 37,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 38,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 39,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 40,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 41,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 42,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 43,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 44,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 45,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 46,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 47,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 48,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 49,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 50,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 51,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 52,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 53,
+                            "mention": "Regulation"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "AI Office",
+                    "type": "ROLE",
+                    "nelements": 18,
+                    "mentions": [
+                        {
+                            "id": 54,
+                            "mention": "AI Office"
+                        },
+                        {
+                            "id": 55,
+                            "mention": "AI Office"
+                        },
+                        {
+                            "id": 56,
+                            "mention": "AI Office"
+                        },
+                        {
+                            "id": 57,
+                            "mention": "AI Office"
+                        },
+                        {
+                            "id": 58,
+                            "mention": "AI Office"
+                        },
+                        {
+                            "id": 59,
+                            "mention": "AI Office"
+                        },
+                        {
+                            "id": 60,
+                            "mention": "AI Office"
+                        },
+                        {
+                            "id": 61,
+                            "mention": "AI Office"
+                        },
+                        {
+                            "id": 62,
+                            "mention": "AI Office"
+                        },
+                        {
+                            "id": 63,
+                            "mention": "AI Office"
+                        },
+                        {
+                            "id": 64,
+                            "mention": "AI Office"
+                        },
+                        {
+                            "id": 65,
+                            "mention": "AI Office"
+                        },
+                        {
+                            "id": 66,
+                            "mention": "AI Office"
+                        },
+                        {
+                            "id": 67,
+                            "mention": "AI Office"
+                        },
+                        {
+                            "id": 68,
+                            "mention": "AI Office"
+                        },
+                        {
+                            "id": 69,
+                            "mention": "AI Office"
+                        },
+                        {
+                            "id": 70,
+                            "mention": "AI Office"
+                        },
+                        {
+                            "id": 71,
+                            "mention": "AI Office"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "European Artificial Intelligence Board",
+                    "type": "ROLE",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 72,
+                            "mention": "European Artificial Intelligence Board"
+                        },
+                        {
+                            "id": 73,
+                            "mention": "European Artificial Intelligence Board"
+                        },
+                        {
+                            "id": 74,
+                            "mention": "European Artificial Intelligence Board"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "national competent authorities",
+                    "type": "ROLE",
+                    "nelements": 18,
+                    "mentions": [
+                        {
+                            "id": 75,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 76,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 77,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 78,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 79,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 80,
+                            "mention": "National competent authorities"
+                        },
+                        {
+                            "id": 81,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 82,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 83,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 84,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 85,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 86,
+                            "mention": "National competent authorities"
+                        },
+                        {
+                            "id": 87,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 88,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 89,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 90,
+                            "mention": "National competent authorities"
+                        },
+                        {
+                            "id": 91,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 92,
+                            "mention": "national competent authorities"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "notifying authority",
+                    "type": "ROLE",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 93,
+                            "mention": "notifying authority"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "title": "market surveillance authority",
+                    "type": "ROLE",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 94,
+                            "mention": "market surveillance authority"
+                        },
+                        {
+                            "id": 95,
+                            "mention": "market surveillance authority"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "title": "European Data Protection Supervisor",
+                    "type": "ROLE",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 96,
+                            "mention": "European Data Protection Supervisor"
+                        },
+                        {
+                            "id": 97,
+                            "mention": "European Data Protection Supervisor"
+                        },
+                        {
+                            "id": 98,
+                            "mention": "European Data Protection Supervisor"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "title": "Commission",
+                    "type": "AUTHORITY",
+                    "nelements": 29,
+                    "mentions": [
+                        {
+                            "id": 99,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 100,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 101,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 102,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 103,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 104,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 105,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 106,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 107,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 108,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 109,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 110,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 111,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 112,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 113,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 114,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 115,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 116,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 117,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 118,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 119,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 120,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 121,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 122,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 123,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 124,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 125,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 126,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 127,
+                            "mention": "Commission"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "title": "Board",
+                    "type": "AUTHORITY",
+                    "nelements": 46,
+                    "mentions": [
+                        {
+                            "id": 128,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 129,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 130,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 131,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 132,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 133,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 134,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 135,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 136,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 137,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 138,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 139,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 140,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 141,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 142,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 143,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 144,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 145,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 146,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 147,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 148,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 149,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 150,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 151,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 152,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 153,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 154,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 155,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 156,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 157,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 158,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 159,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 160,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 161,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 162,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 163,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 164,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 165,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 166,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 167,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 168,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 169,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 170,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 171,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 172,
+                            "mention": "Board"
+                        },
+                        {
+                            "id": 173,
+                            "mention": "Board"
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "title": "national competent authorities",
+                    "type": "AUTHORITY",
+                    "nelements": 18,
+                    "mentions": [
+                        {
+                            "id": 174,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 175,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 176,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 177,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 178,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 179,
+                            "mention": "National competent authorities"
+                        },
+                        {
+                            "id": 180,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 181,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 182,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 183,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 184,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 185,
+                            "mention": "National competent authorities"
+                        },
+                        {
+                            "id": 186,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 187,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 188,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 189,
+                            "mention": "National competent authorities"
+                        },
+                        {
+                            "id": 190,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 191,
+                            "mention": "national competent authorities"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "AIAct_Chapter_VII"
+}

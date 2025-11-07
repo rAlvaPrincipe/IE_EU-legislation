@@ -1,0 +1,1568 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 28,
+                    "end": 38,
+                    "id": 0,
+                    "features": {
+                        "text": "Article 44"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3241,
+                    "end": 3266,
+                    "id": 1,
+                    "features": {
+                        "text": "Regulation (EU) 2023/2854"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3659,
+                    "end": 3684,
+                    "id": 2,
+                    "features": {
+                        "text": "Regulation (EU) 2023/2854"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 9000,
+                    "end": 9025,
+                    "id": 3,
+                    "features": {
+                        "text": "Regulation (EU) 2023/2854"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 759,
+                    "end": 769,
+                    "id": 4,
+                    "features": {
+                        "text": "Article 48"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1096,
+                    "end": 1106,
+                    "id": 5,
+                    "features": {
+                        "text": "Article 45"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1307,
+                    "end": 1320,
+                    "id": 6,
+                    "features": {
+                        "text": "Article 29(7)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1476,
+                    "end": 1489,
+                    "id": 7,
+                    "features": {
+                        "text": "Article 29(7)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2303,
+                    "end": 2316,
+                    "id": 8,
+                    "features": {
+                        "text": "Article 29(7)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1325,
+                    "end": 1338,
+                    "id": 9,
+                    "features": {
+                        "text": "Article 33(2)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1494,
+                    "end": 1507,
+                    "id": 10,
+                    "features": {
+                        "text": "Article 33(2)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2320,
+                    "end": 2333,
+                    "id": 11,
+                    "features": {
+                        "text": "Article 33(2)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2906,
+                    "end": 2930,
+                    "id": 12,
+                    "features": {
+                        "text": "Regulation (EU) 2022/868"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5073,
+                    "end": 5097,
+                    "id": 13,
+                    "features": {
+                        "text": "Regulation (EU) 2022/868"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 10414,
+                    "end": 10438,
+                    "id": 14,
+                    "features": {
+                        "text": "Regulation (EU) 2022/868"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3143,
+                    "end": 3168,
+                    "id": 15,
+                    "features": {
+                        "text": "Regulation (EU) 2017/2394"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3185,
+                    "end": 3210,
+                    "id": 16,
+                    "features": {
+                        "text": "Regulation (EU) 2017/2394"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3400,
+                    "end": 3425,
+                    "id": 17,
+                    "features": {
+                        "text": "Regulation (EU) 2017/2394"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3818,
+                    "end": 3843,
+                    "id": 18,
+                    "features": {
+                        "text": "Regulation (EU) 2017/2394"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 9159,
+                    "end": 9184,
+                    "id": 19,
+                    "features": {
+                        "text": "Regulation (EU) 2017/2394"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3430,
+                    "end": 3454,
+                    "id": 20,
+                    "features": {
+                        "text": "Directive (EU) 2020/1828"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3560,
+                    "end": 3584,
+                    "id": 21,
+                    "features": {
+                        "text": "Directive (EU) 2020/1828"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3599,
+                    "end": 3623,
+                    "id": 22,
+                    "features": {
+                        "text": "Directive (EU) 2020/1828"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3848,
+                    "end": 3872,
+                    "id": 23,
+                    "features": {
+                        "text": "Directive (EU) 2020/1828"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 8940,
+                    "end": 8964,
+                    "id": 24,
+                    "features": {
+                        "text": "Directive (EU) 2020/1828"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 9189,
+                    "end": 9213,
+                    "id": 25,
+                    "features": {
+                        "text": "Directive (EU) 2020/1828"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3966,
+                    "end": 3976,
+                    "id": 26,
+                    "features": {
+                        "text": "Article 49"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 9307,
+                    "end": 9317,
+                    "id": 27,
+                    "features": {
+                        "text": "Article 49"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4360,
+                    "end": 4370,
+                    "id": 28,
+                    "features": {
+                        "text": "Article 15"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5206,
+                    "end": 5216,
+                    "id": 29,
+                    "features": {
+                        "text": "Article 15"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 9701,
+                    "end": 9711,
+                    "id": 30,
+                    "features": {
+                        "text": "Article 15"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 10547,
+                    "end": 10557,
+                    "id": 31,
+                    "features": {
+                        "text": "Article 15"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4703,
+                    "end": 4716,
+                    "id": 32,
+                    "features": {
+                        "text": "Article 18(5)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 10044,
+                    "end": 10057,
+                    "id": 33,
+                    "features": {
+                        "text": "Article 18(5)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5965,
+                    "end": 5977,
+                    "id": 34,
+                    "features": {
+                        "text": "Article 4(8)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 11306,
+                    "end": 11318,
+                    "id": 35,
+                    "features": {
+                        "text": "Article 4(8)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5982,
+                    "end": 5995,
+                    "id": 36,
+                    "features": {
+                        "text": "Article 5(11)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 11323,
+                    "end": 11336,
+                    "id": 37,
+                    "features": {
+                        "text": "Article 5(11)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6058,
+                    "end": 6081,
+                    "id": 38,
+                    "features": {
+                        "text": "Directive (EU) 2016/943"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 11399,
+                    "end": 11422,
+                    "id": 39,
+                    "features": {
+                        "text": "Directive (EU) 2016/943"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6147,
+                    "end": 6157,
+                    "id": 40,
+                    "features": {
+                        "text": "Article 13"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 11488,
+                    "end": 11498,
+                    "id": 41,
+                    "features": {
+                        "text": "Article 13"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6385,
+                    "end": 6395,
+                    "id": 42,
+                    "features": {
+                        "text": "Article 25"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 11726,
+                    "end": 11736,
+                    "id": 43,
+                    "features": {
+                        "text": "Article 25"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1307,
+                    "end": 1317,
+                    "id": 44,
+                    "features": {
+                        "text": "Article 29"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1476,
+                    "end": 1486,
+                    "id": 45,
+                    "features": {
+                        "text": "Article 29"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2303,
+                    "end": 2313,
+                    "id": 46,
+                    "features": {
+                        "text": "Article 29"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6572,
+                    "end": 6582,
+                    "id": 47,
+                    "features": {
+                        "text": "Article 29"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 11913,
+                    "end": 11923,
+                    "id": 48,
+                    "features": {
+                        "text": "Article 29"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6814,
+                    "end": 6824,
+                    "id": 49,
+                    "features": {
+                        "text": "Article 37"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 12155,
+                    "end": 12165,
+                    "id": 50,
+                    "features": {
+                        "text": "Article 37"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7856,
+                    "end": 7866,
+                    "id": 51,
+                    "features": {
+                        "text": "Article 50"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 13197,
+                    "end": 13207,
+                    "id": 52,
+                    "features": {
+                        "text": "Article 50"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 1191,
+                    "end": 1201,
+                    "id": 53,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 1365,
+                    "end": 1375,
+                    "id": 54,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 1946,
+                    "end": 1956,
+                    "id": 55,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2175,
+                    "end": 2185,
+                    "id": 56,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2659,
+                    "end": 2669,
+                    "id": 57,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2845,
+                    "end": 2855,
+                    "id": 58,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4028,
+                    "end": 4038,
+                    "id": 59,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4564,
+                    "end": 4574,
+                    "id": 60,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 7075,
+                    "end": 7085,
+                    "id": 61,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 7537,
+                    "end": 7547,
+                    "id": 62,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 7719,
+                    "end": 7729,
+                    "id": 63,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 9369,
+                    "end": 9379,
+                    "id": 64,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 9905,
+                    "end": 9915,
+                    "id": 65,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 12416,
+                    "end": 12426,
+                    "id": 66,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 12878,
+                    "end": 12888,
+                    "id": 67,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 13060,
+                    "end": 13070,
+                    "id": 68,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 1542,
+                    "end": 1561,
+                    "id": 69,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2224,
+                    "end": 2243,
+                    "id": 70,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2411,
+                    "end": 2430,
+                    "id": 71,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2516,
+                    "end": 2535,
+                    "id": 72,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2600,
+                    "end": 2619,
+                    "id": 73,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2768,
+                    "end": 2787,
+                    "id": 74,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3274,
+                    "end": 3293,
+                    "id": 75,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3692,
+                    "end": 3711,
+                    "id": 76,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4136,
+                    "end": 4155,
+                    "id": 77,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 7183,
+                    "end": 7202,
+                    "id": 78,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 7791,
+                    "end": 7810,
+                    "id": 79,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 8862,
+                    "end": 8881,
+                    "id": 80,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 9033,
+                    "end": 9052,
+                    "id": 81,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 9477,
+                    "end": 9496,
+                    "id": 82,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 12524,
+                    "end": 12543,
+                    "id": 83,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 13132,
+                    "end": 13151,
+                    "id": 84,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 14203,
+                    "end": 14222,
+                    "id": 85,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 14313,
+                    "end": 14332,
+                    "id": 86,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 1572,
+                    "end": 1579,
+                    "id": 87,
+                    "features": {
+                        "text": "Council"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2255,
+                    "end": 2262,
+                    "id": 88,
+                    "features": {
+                        "text": "Council"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2441,
+                    "end": 2448,
+                    "id": 89,
+                    "features": {
+                        "text": "Council"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2547,
+                    "end": 2554,
+                    "id": 90,
+                    "features": {
+                        "text": "Council"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2628,
+                    "end": 2635,
+                    "id": 91,
+                    "features": {
+                        "text": "Council"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2798,
+                    "end": 2805,
+                    "id": 92,
+                    "features": {
+                        "text": "Council"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3305,
+                    "end": 3312,
+                    "id": 93,
+                    "features": {
+                        "text": "Council"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3723,
+                    "end": 3730,
+                    "id": 94,
+                    "features": {
+                        "text": "Council"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4167,
+                    "end": 4174,
+                    "id": 95,
+                    "features": {
+                        "text": "Council"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 7214,
+                    "end": 7221,
+                    "id": 96,
+                    "features": {
+                        "text": "Council"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 7822,
+                    "end": 7829,
+                    "id": 97,
+                    "features": {
+                        "text": "Council"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 8904,
+                    "end": 8911,
+                    "id": 98,
+                    "features": {
+                        "text": "Council"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 9064,
+                    "end": 9071,
+                    "id": 99,
+                    "features": {
+                        "text": "Council"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 9508,
+                    "end": 9515,
+                    "id": 100,
+                    "features": {
+                        "text": "Council"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 12555,
+                    "end": 12562,
+                    "id": 101,
+                    "features": {
+                        "text": "Council"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 13163,
+                    "end": 13170,
+                    "id": 102,
+                    "features": {
+                        "text": "Council"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 14245,
+                    "end": 14252,
+                    "id": 103,
+                    "features": {
+                        "text": "Council"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 14355,
+                    "end": 14362,
+                    "id": 104,
+                    "features": {
+                        "text": "Council"
+                    }
+                }
+            ],
+            "next_annid": 105
+        }
+    },
+    "text": "CHAPTER XI\nFINAL PROVISIONS\nArticle 44\nOther Union legal acts governing rights and obligations on data access and use\n1. The specific obligations for the making available of data between businesses, between businesses and consumers, and on exceptional basis between businesses and public bodies, in Union legal acts that entered into force on or before 11 January 2024, and delegated or implementing acts pursuant thereto, shall remain unaffected.\n2. This Regulation is without prejudice to Union law specifying, in light of the needs of a sector, a common European data space, or an area of public interest, further requirements, in particular in relation to:\n(a) technical aspects of data access;\n22.12.2023 http://data.europa.eu/eli/reg/2023/2854/oj 70/71 Article 48\n(b) limits on the rights of data holders to access or use certain data provided by users;\n(c) aspects going beyond data access and use.\n3. This Regulation, with the exception of Chapter V, is without prejudice to Union and national law providing for access to and authorising the use of data for scientific research purposes.\nArticle 45\nExercise of the delegation\n1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.\n2. The power to adopt delegated acts referred to in Article 29(7) and Article 33(2) shall be conferred on the Commission for an indeterminate period of time from 11 January 2024.\n3. The delegation of power referred to in Article 29(7) and Article 33(2) may be revoked at any time by the European Parliament or by the Council.\nA decision to revoke shall put an end to the delegation of the power specified in that decision.\nIt shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein.\nIt shall not affect the validity of any delegated acts already in force.\n4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.\n5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.\n6. A delegated act adopted pursuant to Article 29(7) or Article 33(2) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of three months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object.\nThat period shall be extended by three months at the initiative of the European Parliament or of the Council.\nArticle 46\nCommittee procedure\n1. The Commission shall be assisted by the Committee established by Regulation (EU) 2022/868.\nThat committee shall be a committee within the meaning of Regulation (EU) No 182/2011.\n2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.\nArticle 47\nAmendment to Regulation (EU) 2017/2394\nIn the Annex to Regulation (EU) 2017/2394 the following point is added:\nRegulation (EU) 2023/2854 of the European Parliament and of the Council of 13 December 2023 on harmonised rules on fair access to and use of data and amending Regulation (EU) 2017/2394 and Directive (EU) 2020/1828 (Data Act) (OJ L, 2023/2854, 22.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2854/oj).\u2019\nAmendment to Directive (EU) 2020/1828\nIn Annex I to Directive (EU) 2020/1828 the following point is added:\n\u201868.\nRegulation (EU) 2023/2854 of the European Parliament and of the Council of 13 December 2023 on harmonised rules on fair access to and use of data and amending Regulation (EU) 2017/2394 and Directive (EU) 2020/1828 (Data Act) (OJ L, 2023/2854, 22.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2854/oj). \u2019\nArticle 49\nEvaluation and review\n1. By 12 September 2028, the Commission shall carry out an evaluation of this Regulation and submit a report on its main findings to the European Parliament and to the Council, and to the European Economic and Social Committee.\nThat evaluation shall assess, in particular:\n(a) situations to be considered to be situations of exceptional need for the purpose of Article 15 of this Regulation and the application of Chapter V of this Regulation in practice, in particular the experience in the application of Chapter V of this Regulation by public sector bodies, the Commission, the European Central Bank and Union bodies; the number and outcome of the proceedings brought to the competent authority under Article 18(5) on the application of Chapter V of this Regulation, as reported by the competent authorities; the impact of other obligations laid down in Union or national law for the purposes of complying with requests for access to information; the impact of voluntary data-sharing mechanisms, such as those put in place by data altruism organisations recognised under Regulation (EU) 2022/868, on meeting the objectives of Chapter V of this Regulation, and the role of personal data in the context of Article 15 of this Regulation, including the evolution of privacy-enhancing technologies;\n(b) the impact of this Regulation on the use of data in the economy, including on data innovation, data monetisation practices and data intermediation services, as well as on data sharing within the common European data spaces;\n(c) the accessibility and use of different categories and types of data;\n(d) the exclusion of certain categories of enterprises as beneficiaries under Article 5;\n(e) the absence of any impact on intellectual property rights;\n(f) the impact on trade secrets, including on the protection against their unlawful acquisition, use and disclosure, as well as the impact of the mechanism allowing the data holder to refuse the user\u2019s request under Article 4(8) and Article 5(11), taking into account, to the extent possible, any revision of Directive (EU) 2016/943;\n(g) whether the list of unfair contractual terms referred to in Article 13 is up-to-date in light of new business practices and the rapid pace of market innovation;\n(h) changes in the contractual practices of providers of data processing services and whether this results in sufficient compliance with Article 25;\n(i) the diminution of charges imposed by providers of data processing services for the switching process, in line with the gradual withdrawal of switching charges pursuant to Article 29;\n(j) the interplay of this Regulation with other Union legal acts of relevance to the data economy;\n(k) the prevention of unlawful governmental access to non-personal data;\n(l) the efficacy of the enforcement regime required under Article 37;\n22.12.2023\n(m) the impact of this Regulation on SMEs with regard to their capacity to innovate and to the availability of data processing services for users in the Union and the burden of complying with new obligations.\n2. By 12 September 2028, the Commission shall carry out an evaluation of this Regulation and submit a report on its main findings to the European Parliament and to the Council, and to the European Economic and Social Committee.\nThat evaluation shall assess the impact of Articles 23 to 31 and Articles 34 and 35, in particular regarding pricing and the diversity of data processing services offered within the Union, with a special focus on SME providers.\n3. Member States shall provide the Commission with the information necessary for the preparation of the reports referred to in paragraphs 1 and 2.\n4. On the basis of the reports referred to in paragraphs 1 and 2, the Commission may, where appropriate, submit a legislative proposal to the European Parliament and to the Council to amend this Regulation.\nArticle 50\nEntry into force and application This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\nIt shall apply from 12 September 2025.\nThe obligation resulting from Article 3(1) shall apply to connected products and the services related to them placed on the market after 12 September 2026.\nChapter III shall apply in relation to obligations to make data available under Union law or national legislation adopted in accordance with Union law, which enters into force after 12 September 2025.\nChapter IV shall apply to contracts concluded after 12 September 2025.\nChapter IV shall apply from 12 September 2027 to contracts concluded on or before 12 September 2025 provided that they are:\n(a) of indefinite duration; or\n(b) due to expire at least 10 years from 11 January 2024.\nThis Regulation shall be binding in its entirety and directly applicable in all Member States.\nDone at Strasbourg, 13 December 2023.\nFor the European Parliament The President For the Council The President\nIn Annex I to Directive (EU) 2020/1828 the following point is added:\n\u201868.\nRegulation (EU) 2023/2854 of the European Parliament and of the Council of 13 December 2023 on harmonised rules on fair access to and use of data and amending Regulation (EU) 2017/2394 and Directive (EU) 2020/1828 (Data Act) (OJ L, 2023/2854, 22.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2854/oj). \u2019\nArticle 49\nEvaluation and review\n1. By 12 September 2028, the Commission shall carry out an evaluation of this Regulation and submit a report on its main findings to the European Parliament and to the Council, and to the European Economic and Social Committee.\nThat evaluation shall assess, in particular:\n(a) situations to be considered to be situations of exceptional need for the purpose of Article 15 of this Regulation and the application of Chapter V of this Regulation in practice, in particular the experience in the application of Chapter V of this Regulation by public sector bodies, the Commission, the European Central Bank and Union bodies; the number and outcome of the proceedings brought to the competent authority under Article 18(5) on the application of Chapter V of this Regulation, as reported by the competent authorities; the impact of other obligations laid down in Union or national law for the purposes of complying with requests for access to information; the impact of voluntary data-sharing mechanisms, such as those put in place by data altruism organisations recognised under Regulation (EU) 2022/868, on meeting the objectives of Chapter V of this Regulation, and the role of personal data in the context of Article 15 of this Regulation, including the evolution of privacy-enhancing technologies;\n(b) the impact of this Regulation on the use of data in the economy, including on data innovation, data monetisation practices and data intermediation services, as well as on data sharing within the common European data spaces;\n(c) the accessibility and use of different categories and types of data;\n(d) the exclusion of certain categories of enterprises as beneficiaries under Article 5;\n(e) the absence of any impact on intellectual property rights;\n(f) the impact on trade secrets, including on the protection against their unlawful acquisition, use and disclosure, as well as the impact of the mechanism allowing the data holder to refuse the user\u2019s request under Article 4(8) and Article 5(11), taking into account, to the extent possible, any revision of Directive (EU) 2016/943;\n(g) whether the list of unfair contractual terms referred to in Article 13 is up-to-date in light of new business practices and the rapid pace of market innovation;\n(h) changes in the contractual practices of providers of data processing services and whether this results in sufficient compliance with Article 25;\n(i) the diminution of charges imposed by providers of data processing services for the switching process, in line with the gradual withdrawal of switching charges pursuant to Article 29;\n(j) the interplay of this Regulation with other Union legal acts of relevance to the data economy;\n(k) the prevention of unlawful governmental access to non-personal data;\n(l) the efficacy of the enforcement regime required under Article 37;\n22.12.2023\n(m) the impact of this Regulation on SMEs with regard to their capacity to innovate and to the availability of data processing services for users in the Union and the burden of complying with new obligations.\n2. By 12 September 2028, the Commission shall carry out an evaluation of this Regulation and submit a report on its main findings to the European Parliament and to the Council, and to the European Economic and Social Committee.\nThat evaluation shall assess the impact of Articles 23 to 31 and Articles 34 and 35, in particular regarding pricing and the diversity of data processing services offered within the Union, with a special focus on SME providers.\n3. Member States shall provide the Commission with the information necessary for the preparation of the reports referred to in paragraphs 1 and 2.\n4. On the basis of the reports referred to in paragraphs 1 and 2, the Commission may, where appropriate, submit a legislative proposal to the European Parliament and to the Council to amend this Regulation.\nArticle 50\nEntry into force and application This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\nIt shall apply from 12 September 2025.\nThe obligation resulting from Article 3(1) shall apply to connected products and the services related to them placed on the market after 12 September 2026.\nChapter III shall apply in relation to obligations to make data available under Union law or national legislation adopted in accordance with Union law, which enters into force after 12 September 2025.\nChapter IV shall apply to contracts concluded after 12 September 2025.\nChapter IV shall apply from 12 September 2027 to contracts concluded on or before 12 September 2025 provided that they are:\n(a) of indefinite duration; or\n(b) due to expire at least 10 years from 11 January 2024.\nThis Regulation shall be binding in its entirety and directly applicable in all Member States.\nDone at Strasbourg, 13 December 2023.\nFor the European Parliament The President For the Council The President\nDone at Strasbourg, 13 December 2023.\nFor the European Parliament The President For the Council The President\nR. METSOLA P\nP. NAVARRO R\u00cdOS\n",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Article 44",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Article 44"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Regulation (EU) 2023/2854",
+                    "type": "REGULATION",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 1,
+                            "mention": "Regulation (EU) 2023/2854"
+                        },
+                        {
+                            "id": 2,
+                            "mention": "Regulation (EU) 2023/2854"
+                        },
+                        {
+                            "id": 3,
+                            "mention": "Regulation (EU) 2023/2854"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Article 48",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 4,
+                            "mention": "Article 48"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Article 45",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 5,
+                            "mention": "Article 45"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Article 29(7)",
+                    "type": "REGULATION",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 6,
+                            "mention": "Article 29(7)"
+                        },
+                        {
+                            "id": 7,
+                            "mention": "Article 29(7)"
+                        },
+                        {
+                            "id": 8,
+                            "mention": "Article 29(7)"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Article 33(2)",
+                    "type": "REGULATION",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 9,
+                            "mention": "Article 33(2)"
+                        },
+                        {
+                            "id": 10,
+                            "mention": "Article 33(2)"
+                        },
+                        {
+                            "id": 11,
+                            "mention": "Article 33(2)"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "Regulation (EU) 2022/868",
+                    "type": "REGULATION",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 12,
+                            "mention": "Regulation (EU) 2022/868"
+                        },
+                        {
+                            "id": 13,
+                            "mention": "Regulation (EU) 2022/868"
+                        },
+                        {
+                            "id": 14,
+                            "mention": "Regulation (EU) 2022/868"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "Regulation (EU) 2017/2394",
+                    "type": "REGULATION",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 15,
+                            "mention": "Regulation (EU) 2017/2394"
+                        },
+                        {
+                            "id": 16,
+                            "mention": "Regulation (EU) 2017/2394"
+                        },
+                        {
+                            "id": 17,
+                            "mention": "Regulation (EU) 2017/2394"
+                        },
+                        {
+                            "id": 18,
+                            "mention": "Regulation (EU) 2017/2394"
+                        },
+                        {
+                            "id": 19,
+                            "mention": "Regulation (EU) 2017/2394"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "Directive (EU) 2020/1828",
+                    "type": "REGULATION",
+                    "nelements": 6,
+                    "mentions": [
+                        {
+                            "id": 20,
+                            "mention": "Directive (EU) 2020/1828"
+                        },
+                        {
+                            "id": 21,
+                            "mention": "Directive (EU) 2020/1828"
+                        },
+                        {
+                            "id": 22,
+                            "mention": "Directive (EU) 2020/1828"
+                        },
+                        {
+                            "id": 23,
+                            "mention": "Directive (EU) 2020/1828"
+                        },
+                        {
+                            "id": 24,
+                            "mention": "Directive (EU) 2020/1828"
+                        },
+                        {
+                            "id": 25,
+                            "mention": "Directive (EU) 2020/1828"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "Article 49",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 26,
+                            "mention": "Article 49"
+                        },
+                        {
+                            "id": 27,
+                            "mention": "Article 49"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "Article 15",
+                    "type": "REGULATION",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 28,
+                            "mention": "Article 15"
+                        },
+                        {
+                            "id": 29,
+                            "mention": "Article 15"
+                        },
+                        {
+                            "id": 30,
+                            "mention": "Article 15"
+                        },
+                        {
+                            "id": 31,
+                            "mention": "Article 15"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "Article 18(5)",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 32,
+                            "mention": "Article 18(5)"
+                        },
+                        {
+                            "id": 33,
+                            "mention": "Article 18(5)"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "title": "Article 4(8)",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 34,
+                            "mention": "Article 4(8)"
+                        },
+                        {
+                            "id": 35,
+                            "mention": "Article 4(8)"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "title": "Article 5(11)",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 36,
+                            "mention": "Article 5(11)"
+                        },
+                        {
+                            "id": 37,
+                            "mention": "Article 5(11)"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "title": "Directive (EU) 2016/943",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 38,
+                            "mention": "Directive (EU) 2016/943"
+                        },
+                        {
+                            "id": 39,
+                            "mention": "Directive (EU) 2016/943"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "title": "Article 13",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 40,
+                            "mention": "Article 13"
+                        },
+                        {
+                            "id": 41,
+                            "mention": "Article 13"
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "title": "Article 25",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 42,
+                            "mention": "Article 25"
+                        },
+                        {
+                            "id": 43,
+                            "mention": "Article 25"
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "title": "Article 29",
+                    "type": "REGULATION",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 44,
+                            "mention": "Article 29"
+                        },
+                        {
+                            "id": 45,
+                            "mention": "Article 29"
+                        },
+                        {
+                            "id": 46,
+                            "mention": "Article 29"
+                        },
+                        {
+                            "id": 47,
+                            "mention": "Article 29"
+                        },
+                        {
+                            "id": 48,
+                            "mention": "Article 29"
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "title": "Article 37",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 49,
+                            "mention": "Article 37"
+                        },
+                        {
+                            "id": 50,
+                            "mention": "Article 37"
+                        }
+                    ]
+                },
+                {
+                    "id": 20,
+                    "title": "Article 50",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 51,
+                            "mention": "Article 50"
+                        },
+                        {
+                            "id": 52,
+                            "mention": "Article 50"
+                        }
+                    ]
+                },
+                {
+                    "id": 21,
+                    "title": "Commission",
+                    "type": "AUTHORITY",
+                    "nelements": 16,
+                    "mentions": [
+                        {
+                            "id": 53,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 54,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 55,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 56,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 57,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 58,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 59,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 60,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 61,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 62,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 63,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 64,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 65,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 66,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 67,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 68,
+                            "mention": "Commission"
+                        }
+                    ]
+                },
+                {
+                    "id": 22,
+                    "title": "European Parliament",
+                    "type": "AUTHORITY",
+                    "nelements": 18,
+                    "mentions": [
+                        {
+                            "id": 69,
+                            "mention": "European Parliament"
+                        },
+                        {
+                            "id": 70,
+                            "mention": "European Parliament"
+                        },
+                        {
+                            "id": 71,
+                            "mention": "European Parliament"
+                        },
+                        {
+                            "id": 72,
+                            "mention": "European Parliament"
+                        },
+                        {
+                            "id": 73,
+                            "mention": "European Parliament"
+                        },
+                        {
+                            "id": 74,
+                            "mention": "European Parliament"
+                        },
+                        {
+                            "id": 75,
+                            "mention": "European Parliament"
+                        },
+                        {
+                            "id": 76,
+                            "mention": "European Parliament"
+                        },
+                        {
+                            "id": 77,
+                            "mention": "European Parliament"
+                        },
+                        {
+                            "id": 78,
+                            "mention": "European Parliament"
+                        },
+                        {
+                            "id": 79,
+                            "mention": "European Parliament"
+                        },
+                        {
+                            "id": 80,
+                            "mention": "European Parliament"
+                        },
+                        {
+                            "id": 81,
+                            "mention": "European Parliament"
+                        },
+                        {
+                            "id": 82,
+                            "mention": "European Parliament"
+                        },
+                        {
+                            "id": 83,
+                            "mention": "European Parliament"
+                        },
+                        {
+                            "id": 84,
+                            "mention": "European Parliament"
+                        },
+                        {
+                            "id": 85,
+                            "mention": "European Parliament"
+                        },
+                        {
+                            "id": 86,
+                            "mention": "European Parliament"
+                        }
+                    ]
+                },
+                {
+                    "id": 23,
+                    "title": "Council",
+                    "type": "AUTHORITY",
+                    "nelements": 18,
+                    "mentions": [
+                        {
+                            "id": 87,
+                            "mention": "Council"
+                        },
+                        {
+                            "id": 88,
+                            "mention": "Council"
+                        },
+                        {
+                            "id": 89,
+                            "mention": "Council"
+                        },
+                        {
+                            "id": 90,
+                            "mention": "Council"
+                        },
+                        {
+                            "id": 91,
+                            "mention": "Council"
+                        },
+                        {
+                            "id": 92,
+                            "mention": "Council"
+                        },
+                        {
+                            "id": 93,
+                            "mention": "Council"
+                        },
+                        {
+                            "id": 94,
+                            "mention": "Council"
+                        },
+                        {
+                            "id": 95,
+                            "mention": "Council"
+                        },
+                        {
+                            "id": 96,
+                            "mention": "Council"
+                        },
+                        {
+                            "id": 97,
+                            "mention": "Council"
+                        },
+                        {
+                            "id": 98,
+                            "mention": "Council"
+                        },
+                        {
+                            "id": 99,
+                            "mention": "Council"
+                        },
+                        {
+                            "id": 100,
+                            "mention": "Council"
+                        },
+                        {
+                            "id": 101,
+                            "mention": "Council"
+                        },
+                        {
+                            "id": 102,
+                            "mention": "Council"
+                        },
+                        {
+                            "id": 103,
+                            "mention": "Council"
+                        },
+                        {
+                            "id": 104,
+                            "mention": "Council"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "DataAct_Chapter_XI"
+}

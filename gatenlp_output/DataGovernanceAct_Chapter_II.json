@@ -1,0 +1,1884 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 497,
+                    "end": 521,
+                    "id": 0,
+                    "features": {
+                        "text": "Directive (EU) 2019/1024"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7261,
+                    "end": 7285,
+                    "id": 1,
+                    "features": {
+                        "text": "Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 21050,
+                    "end": 21074,
+                    "id": 2,
+                    "features": {
+                        "text": "Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7927,
+                    "end": 7944,
+                    "id": 3,
+                    "features": {
+                        "text": "Directive 96/9/EC"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 66,
+                    "end": 86,
+                    "id": 4,
+                    "features": {
+                        "text": "public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 166,
+                    "end": 186,
+                    "id": 5,
+                    "features": {
+                        "text": "public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 856,
+                    "end": 876,
+                    "id": 6,
+                    "features": {
+                        "text": "public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1058,
+                    "end": 1078,
+                    "id": 7,
+                    "features": {
+                        "text": "public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1761,
+                    "end": 1781,
+                    "id": 8,
+                    "features": {
+                        "text": "public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3451,
+                    "end": 3471,
+                    "id": 9,
+                    "features": {
+                        "text": "Public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3942,
+                    "end": 3962,
+                    "id": 10,
+                    "features": {
+                        "text": "public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4325,
+                    "end": 4345,
+                    "id": 11,
+                    "features": {
+                        "text": "Public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5428,
+                    "end": 5448,
+                    "id": 12,
+                    "features": {
+                        "text": "public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7971,
+                    "end": 7991,
+                    "id": 13,
+                    "features": {
+                        "text": "public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8244,
+                    "end": 8264,
+                    "id": 14,
+                    "features": {
+                        "text": "public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9097,
+                    "end": 9117,
+                    "id": 15,
+                    "features": {
+                        "text": "Public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9730,
+                    "end": 9750,
+                    "id": 16,
+                    "features": {
+                        "text": "Public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9956,
+                    "end": 9976,
+                    "id": 17,
+                    "features": {
+                        "text": "public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11008,
+                    "end": 11028,
+                    "id": 18,
+                    "features": {
+                        "text": "public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12652,
+                    "end": 12672,
+                    "id": 19,
+                    "features": {
+                        "text": "Public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12965,
+                    "end": 12985,
+                    "id": 20,
+                    "features": {
+                        "text": "Public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 13296,
+                    "end": 13316,
+                    "id": 21,
+                    "features": {
+                        "text": "public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 13590,
+                    "end": 13610,
+                    "id": 22,
+                    "features": {
+                        "text": "public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 13779,
+                    "end": 13799,
+                    "id": 23,
+                    "features": {
+                        "text": "public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15250,
+                    "end": 15270,
+                    "id": 24,
+                    "features": {
+                        "text": "public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15458,
+                    "end": 15478,
+                    "id": 25,
+                    "features": {
+                        "text": "public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15506,
+                    "end": 15526,
+                    "id": 26,
+                    "features": {
+                        "text": "public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17116,
+                    "end": 17136,
+                    "id": 27,
+                    "features": {
+                        "text": "public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17411,
+                    "end": 17431,
+                    "id": 28,
+                    "features": {
+                        "text": "public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17592,
+                    "end": 17612,
+                    "id": 29,
+                    "features": {
+                        "text": "public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 18798,
+                    "end": 18818,
+                    "id": 30,
+                    "features": {
+                        "text": "public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 19950,
+                    "end": 19970,
+                    "id": 31,
+                    "features": {
+                        "text": "public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 20343,
+                    "end": 20363,
+                    "id": 32,
+                    "features": {
+                        "text": "public sector bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3864,
+                    "end": 3880,
+                    "id": 33,
+                    "features": {
+                        "text": "competent bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7720,
+                    "end": 7736,
+                    "id": 34,
+                    "features": {
+                        "text": "competent bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15034,
+                    "end": 15050,
+                    "id": 35,
+                    "features": {
+                        "text": "Competent bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15171,
+                    "end": 15187,
+                    "id": 36,
+                    "features": {
+                        "text": "competent bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15421,
+                    "end": 15437,
+                    "id": 37,
+                    "features": {
+                        "text": "competent bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15591,
+                    "end": 15607,
+                    "id": 38,
+                    "features": {
+                        "text": "competent bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15884,
+                    "end": 15900,
+                    "id": 39,
+                    "features": {
+                        "text": "competent bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15909,
+                    "end": 15925,
+                    "id": 40,
+                    "features": {
+                        "text": "competent bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17799,
+                    "end": 17815,
+                    "id": 41,
+                    "features": {
+                        "text": "competent bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17974,
+                    "end": 17990,
+                    "id": 42,
+                    "features": {
+                        "text": "competent bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 18827,
+                    "end": 18843,
+                    "id": 43,
+                    "features": {
+                        "text": "competent bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 19978,
+                    "end": 19994,
+                    "id": 44,
+                    "features": {
+                        "text": "competent bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 20371,
+                    "end": 20387,
+                    "id": 45,
+                    "features": {
+                        "text": "competent bodies"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 435,
+                    "end": 448,
+                    "id": 46,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 4697,
+                    "end": 4710,
+                    "id": 47,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 6889,
+                    "end": 6902,
+                    "id": 48,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 8459,
+                    "end": 8472,
+                    "id": 49,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 10975,
+                    "end": 10988,
+                    "id": 50,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 11577,
+                    "end": 11590,
+                    "id": 51,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 12492,
+                    "end": 12505,
+                    "id": 52,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 14363,
+                    "end": 14376,
+                    "id": 53,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 16893,
+                    "end": 16906,
+                    "id": 54,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 226,
+                    "end": 252,
+                    "id": 55,
+                    "features": {
+                        "text": "commercial confidentiality"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 312,
+                    "end": 339,
+                    "id": 56,
+                    "features": {
+                        "text": "statistical confidentiality"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 8211,
+                    "end": 8238,
+                    "id": 57,
+                    "features": {
+                        "text": "statistical confidentiality"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 363,
+                    "end": 391,
+                    "id": 58,
+                    "features": {
+                        "text": "intellectual property rights"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 4898,
+                    "end": 4926,
+                    "id": 59,
+                    "features": {
+                        "text": "intellectual property rights"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 7825,
+                    "end": 7853,
+                    "id": 60,
+                    "features": {
+                        "text": "intellectual property rights"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 9185,
+                    "end": 9213,
+                    "id": 61,
+                    "features": {
+                        "text": "intellectual property rights"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 17068,
+                    "end": 17096,
+                    "id": 62,
+                    "features": {
+                        "text": "intellectual property rights"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 6885,
+                    "end": 6902,
+                    "id": 63,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 8455,
+                    "end": 8472,
+                    "id": 64,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 10971,
+                    "end": 10988,
+                    "id": 65,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 11573,
+                    "end": 11590,
+                    "id": 66,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 12488,
+                    "end": 12505,
+                    "id": 67,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 11,
+                    "end": 17,
+                    "id": 68,
+                    "features": {
+                        "text": "Re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1738,
+                    "end": 1744,
+                    "id": 69,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1987,
+                    "end": 1993,
+                    "id": 70,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2152,
+                    "end": 2158,
+                    "id": 71,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2667,
+                    "end": 2673,
+                    "id": 72,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3441,
+                    "end": 3447,
+                    "id": 73,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3545,
+                    "end": 3551,
+                    "id": 74,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3684,
+                    "end": 3690,
+                    "id": 75,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3724,
+                    "end": 3730,
+                    "id": 76,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3828,
+                    "end": 3834,
+                    "id": 77,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4052,
+                    "end": 4058,
+                    "id": 78,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4199,
+                    "end": 4205,
+                    "id": 79,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4243,
+                    "end": 4249,
+                    "id": 80,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4528,
+                    "end": 4534,
+                    "id": 81,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4626,
+                    "end": 4632,
+                    "id": 82,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4946,
+                    "end": 4952,
+                    "id": 83,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 5086,
+                    "end": 5092,
+                    "id": 84,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 5357,
+                    "end": 5363,
+                    "id": 85,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6140,
+                    "end": 6146,
+                    "id": 86,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6222,
+                    "end": 6228,
+                    "id": 87,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6875,
+                    "end": 6881,
+                    "id": 88,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7085,
+                    "end": 7091,
+                    "id": 89,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7549,
+                    "end": 7555,
+                    "id": 90,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7769,
+                    "end": 7775,
+                    "id": 91,
+                    "features": {
+                        "text": "Re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 8016,
+                    "end": 8022,
+                    "id": 92,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 8046,
+                    "end": 8052,
+                    "id": 93,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 8346,
+                    "end": 8352,
+                    "id": 94,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 8366,
+                    "end": 8372,
+                    "id": 95,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 8683,
+                    "end": 8689,
+                    "id": 96,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 8719,
+                    "end": 8725,
+                    "id": 97,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 9027,
+                    "end": 9033,
+                    "id": 98,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10367,
+                    "end": 10373,
+                    "id": 99,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 12234,
+                    "end": 12240,
+                    "id": 100,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 12481,
+                    "end": 12487,
+                    "id": 101,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 12685,
+                    "end": 12691,
+                    "id": 102,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 12779,
+                    "end": 12785,
+                    "id": 103,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 13385,
+                    "end": 13391,
+                    "id": 104,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 13865,
+                    "end": 13871,
+                    "id": 105,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 14112,
+                    "end": 14118,
+                    "id": 106,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 14545,
+                    "end": 14551,
+                    "id": 107,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 14777,
+                    "end": 14783,
+                    "id": 108,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 15308,
+                    "end": 15314,
+                    "id": 109,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 15649,
+                    "end": 15655,
+                    "id": 110,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 15832,
+                    "end": 15838,
+                    "id": 111,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 16413,
+                    "end": 16419,
+                    "id": 112,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 16781,
+                    "end": 16787,
+                    "id": 113,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 17211,
+                    "end": 17217,
+                    "id": 114,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 18644,
+                    "end": 18650,
+                    "id": 115,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 19286,
+                    "end": 19292,
+                    "id": 116,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 19485,
+                    "end": 19491,
+                    "id": 117,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 19844,
+                    "end": 19850,
+                    "id": 118,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 20069,
+                    "end": 20075,
+                    "id": 119,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 20251,
+                    "end": 20257,
+                    "id": 120,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4670,
+                    "end": 4680,
+                    "id": 121,
+                    "features": {
+                        "text": "anonymised"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 11268,
+                    "end": 11278,
+                    "id": 122,
+                    "features": {
+                        "text": "anonymised"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 11791,
+                    "end": 11801,
+                    "id": 123,
+                    "features": {
+                        "text": "anonymised"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2592,
+                    "end": 2601,
+                    "id": 124,
+                    "features": {
+                        "text": "treatment"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4776,
+                    "end": 4786,
+                    "id": 125,
+                    "features": {
+                        "text": "disclosure"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6388,
+                    "end": 6398,
+                    "id": 126,
+                    "features": {
+                        "text": "disclosure"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 17484,
+                    "end": 17496,
+                    "id": 127,
+                    "features": {
+                        "text": "transmission"
+                    }
+                },
+                {
+                    "type": "RIGHT",
+                    "start": 2143,
+                    "end": 2158,
+                    "id": 128,
+                    "features": {
+                        "text": "right to re-use"
+                    }
+                },
+                {
+                    "type": "RIGHT",
+                    "start": 2658,
+                    "end": 2673,
+                    "id": 129,
+                    "features": {
+                        "text": "right to re-use"
+                    }
+                },
+                {
+                    "type": "RIGHT",
+                    "start": 12472,
+                    "end": 12487,
+                    "id": 130,
+                    "features": {
+                        "text": "right to re-use"
+                    }
+                },
+                {
+                    "type": "RISK/IMPACT",
+                    "start": 11035,
+                    "end": 11051,
+                    "id": 131,
+                    "features": {
+                        "text": "highly sensitive"
+                    }
+                },
+                {
+                    "type": "RISK/IMPACT",
+                    "start": 11705,
+                    "end": 11721,
+                    "id": 132,
+                    "features": {
+                        "text": "highly sensitive"
+                    }
+                }
+            ],
+            "next_annid": 133
+        }
+    },
+    "text": "CHAPTER II\nRe-use of certain categories of protected data held by public sector bodies\nArticle 3\nArticle 3\nCategories of data\n1. This Chapter applies to data held by public sector bodies which are protected on grounds of:\n(a) commercial confidentiality, including business, professional and company secrets;\n(b) statistical confidentiality;\n(c) the protection of intellectual property rights of third parties; or\n(d) the protection of personal data, insofar as such data fall outside the scope of Directive (EU) 2019/1024.\n2. This Chapter does not apply to:\n(a) data held by public undertakings;\n(b) data held by public service broadcasters and their subsidiaries, and by other bodies or their subsidiaries for the fulfilment of a public service broadcasting remit;\n(c) data held by cultural establishments and educational establishments;\n(d) data held by public sector bodies which are protected for reasons of public security, defence or national security; or\n(e) data the supply of which is an activity falling outside the scope of the public task of the public sector bodies concerned as defined by law or by other binding rules in the Member State concerned, or, in the absence of such rules, as defined in accordance with common administrative practice in that Member State, provided that the scope of the public tasks is transparent and subject to review.\n3. This Chapter is without prejudice to:\n(a) Union and national law and international agreements to which the Union or Member States are party on the protection of categories of data referred to in paragraph 1; and\n(b) Union and national law on access to documents.\nArticle 4\nArticle 4\nProhibition of exclusive arrangements\n1. Agreements or other practices pertaining to the re-use of data held by public sector bodies containing categories of data referred to in Article 3(1) which grant exclusive rights or which have as their objective or effect to grant such exclusive rights or to restrict the availability of data for re-use by entities other than the parties to such agreements or other practices shall be prohibited.\n2. By way of derogation from paragraph 1, an exclusive right to re-use data referred to in that paragraph may be granted to the extent necessary for the provision of a service or the supply of a product in the general interest that would not otherwise be possible.\n3. An exclusive right as referred to in paragraph 2 shall be granted through an administrative act or contractual arrangement in accordance with applicable Union or national law and in compliance with the principles of transparency, equal treatment and non-discrimination.\n4. The duration of an exclusive right to re-use data shall not exceed 12 months.\nWhere a contract is concluded, the duration of the contract shall be the same as the duration of the exclusive right.\n3.6.2022\n5. The grant of an exclusive right pursuant to paragraphs 2, 3 and 4, including the reasons as to why it is necessary to grant such a right, shall be transparent and be made publicly available online, in a form that complies with relevant Union law on public procurement.\n6. Agreements or other practices falling within the scope of the prohibition referred to in paragraph 1 which do not meet the conditions laid down in paragraphs 2 and 3 and which were concluded before 23 June 2022 shall be terminated at the end of the applicable contract and in any event by 24 December 2024.\nArticle 5\nConditions for re-use\n1. Public sector bodies which are competent under national law to grant or refuse access for the re-use of one or more of the categories of data referred to in Article 3(1) shall make publicly available the conditions for allowing such re-use and the procedure to request the re-use via the single information point referred to in Article 8.\nWhere they grant or refuse access for re-use, they may be assisted by the competent bodies referred to in Article 7(1).\nMember States shall ensure that public sector bodies are equipped with the necessary resources to comply with this Article.\n2. Conditions for re-use shall be non-discriminatory, transparent, proportionate and objectively justified with regard to the categories of data and the purposes of re-use and the nature of the data for which re-use is allowed.\nThose conditions shall not be used to restrict competition.\n3. Public sector bodies shall, in accordance with Union and national law, ensure that the protected nature of data is preserved.\nThey may provide for the following requirements:\n(a) to grant access for the re-use of data only where the public sector body or the competent body, following the request for re-use, has ensured that data has been:\n(i) anonymised, in the case of personal data; and\n(ii) modified, aggregated or treated by any other method of disclosure control, in the case of commercially confidential information, including trade secrets or content protected by intellectual property rights;\n(b) to access and re-use the data remotely within a secure processing environment that is provided or controlled by the public sector body;\n(c) to access and re-use the data within the physical premises in which the secure processing environment is located in accordance with high security standards, provided that remote access cannot be allowed without jeopardising the rights and interests of third parties.\n4. In the case of re-use allowed in accordance with paragraph 3, points (b) and (c), the public sector bodies shall impose conditions that preserve the integrity of the functioning of the technical systems of the secure processing environment used.\nThe public sector body shall reserve the right to verify the process, the means and any results of processing of data undertaken by the re-user to preserve the integrity of the protection of the data and reserve the right to prohibit the use of results that contain information jeopardising the rights and interests of third parties.\nThe decision to prohibit the use of the results shall be comprehensible and transparent to the re-user.\n5. Unless national law provides for specific safeguards on applicable confidentiality obligations relating to the re-use of data referred to in Article 3(1), the public sector body shall make the re-use of data provided in accordance with paragraph 3 of this Article conditional on the adherence by the re-user to a confidentiality obligation that prohibits the disclosure of any information that jeopardises the rights and interests of third parties that the re-user may have acquired despite the safeguards put in place.\nRe-users shall be prohibited from re-identifying any data subject to whom the data relates and shall take technical and operational measures to prevent re-identification and to notify any data breach resulting in the re-identification of the data subjects concerned to the public sector body.\nIn the event of the unauthorised re-use of non-personal data, the re-user shall, without delay, where appropriate with the assistance of the public sector body, inform the legal persons whose rights and interests may be affected.\n6. Where the re-use of data cannot be allowed in accordance with the obligations laid down in paragraphs 3 and 4 of this Article and there is no legal basis for transmitting the data under Regulation (EU) 2016/679, the public sector body shall make best efforts, in accordance with Union and national law, to provide assistance to potential re-users in seeking consent of the data subjects or permission from the data holders whose rights and interests may be affected by such re-use, where it is feasible without a disproportionate burden on the public sector body.\nWhere it provides such assistance, the public sector body may be assisted by the competent bodies referred to in Article 7(1).\n7. Re-use of data shall be allowed only in compliance with intellectual property rights.\nThe right of the maker of a database as provided for in Article 7(1) of Directive 96/9/EC shall not be exercised by public sector bodies in order to prevent the re-use of data or to restrict re-use beyond the limits set by this Regulation.\n8. Where data requested is considered to be confidential, in accordance with Union or national law on commercial or statistical confidentiality, the public sector bodies shall ensure that the confidential data is not disclosed as a result of allowing re-use, unless such re-use is allowed in accordance with paragraph 6.\n9. Where a re-user intends to transfer non-personal data protected on the grounds set out in Article 3(1) to a third country, it shall inform the public sector body of its intention to transfer such data and the purpose of such transfer at the time of requesting the re-use of such data.\nIn the case of re-use in accordance with paragraph 6 of this Article, the re-user shall, where appropriate with the assistance of the public sector body, inform the legal person whose rights and interests may be affected of that intention, purpose and the appropriate safeguards.\nThe public sector body shall not allow the re-use unless the legal person gives permission for the transfer.\n10.\nPublic sector bodies shall transmit non-personal confidential data or data protected by intellectual property rights to a re-user which intends to transfer those data to a third country other than a country designated in accordance with paragraph 12 only if the re-user contractually commits to:\n(a) complying with the obligations imposed in accordance with paragraphs 7 and 8 even after the data is transferred to the third country; and\n(b) accepting the jurisdiction of the courts or tribunals of the Member State of the transmitting public sector body with regard to any dispute related to compliance with paragraphs 7 and 8.\n11.\nPublic sector bodies shall, where relevant and to the extent of their capabilities, provide guidance and assistance to re-users in complying with the obligations referred to in paragraph 10 of this Article.\nIn order to assist public sector bodies and re-users, the Commission may adopt implementing acts establishing model contractual clauses for complying with the obligations referred to in paragraph 10 of this Article.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 33(3).\n12.\nWhere justified because of the substantial number of requests across the Union concerning the re-use of nonpersonal data in specific third countries, the Commission may adopt implementing acts declaring that the legal, supervisory and enforcement arrangements of a third country:\n(a) ensure protection of intellectual property and trade secrets in a way that is essentially equivalent to the protection ensured under Union law;\n(b) are being effectively applied and enforced; and\n(c) provide effective judicial redress.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 33(3).\n3.6.2022\n13.\nSpecific Union legislative acts may deem certain non-personal data categories held by public sector bodies to be highly sensitive for the purposes of this Article where their transfer to third countries may put at risk Union public policy objectives, such as safety and public health or may lead to the risk of re-identification of non-personal, anonymised data.\nWhere such an act is adopted, the Commission shall adopt delegated acts in accordance with Article 32 supplementing this Regulation by laying down special conditions applicable to the transfers of such data to third countries.\nThose special conditions shall be based on the nature of the non-personal data categories identified in the specific Union legislative act and on the grounds for deeming those categories to be highly sensitive, taking into account the risks of re-identification of non-personal, anonymised data.\nThey shall be non-discriminatory and limited to what is necessary to achieve the Union public policy objectives identified in that act, in accordance with the Union\u2019s international obligations.\nIf required by specific Union legislative acts as referred to in the first subparagraph, such special conditions may include terms applicable for the transfer or technical arrangements in this regard, limitations with regard to the re-use of data in third countries or categories of persons entitled to transfer such data to third countries or, in exceptional cases, restrictions with regard to transfers to third countries.\n14.\nThe natural or legal person to which the right to re-use non-personal data was granted may transfer the data only to those third countries for which the requirements in paragraphs 10, 12 and 13 are met.\nArticle 6\nFees\n1. Public sector bodies which allow re-use of the categories of data referred to in Article 3(1) may charge fees for allowing the re-use of such data.\n2. Any fees charged pursuant to paragraph 1 shall be transparent, non-discriminatory, proportionate and objectively justified and shall not restrict competition.\n3. Public sector bodies shall ensure that any fees can also be paid online through widely available cross-border payment services, without discrimination based on the place of establishment of the payment service provider, the place of issue of the payment instrument or the location of the payment account within the Union.\n4. Where public sector bodies charge fees, they shall take measures to provide incentives for the re-use of the categories of data referred to in Article 3(1) for non-commercial purposes, such as scientific research purposes, and by SMEs and startups in accordance with State aid rules.\nIn that regard, public sector bodies may also make the data available at a discounted fee or free of charge, in particular to SMEs and start-ups, civil society and educational establishments.\nTo that end, public sector bodies may establish a list of categories of re-users to which data for re-use is made available at a discounted fee or free of charge.\nThat list, together with the criteria used to establish it, shall be made public.\n5. Any fees shall be derived from the costs related to conducting the procedure for requests for the re-use of the categories of data referred to in Article 3(1) and limited to the necessary costs in relation to:\n(a) the reproduction, provision and dissemination of data;\n(b) the clearance of rights;\n(c) anonymisation or other forms of preparation of personal data and commercially confidential data as provided for in Article 5(3);\n(d) the maintenance of the secure processing environment;\n(e) the acquisition of the right to allow re-use in accordance with this Chapter by third parties outside the public sector; and\n(f) assisting re-users in seeking consent from data subjects and permission from data holders whose rights and interests may be affected by such re-use.\n6. The criteria and methodology for calculating fees shall be laid down by the Member States and published.\nThe public sector body shall publish a description of the main categories of costs and the rules used for the allocation of costs.\nArticle 7\nCompetent bodies\n1. For the purpose of carrying out the tasks referred to in this Article, each Member State shall designate one or more competent bodies, which may be competent for particular sectors, to assist the public sector bodies which grant or refuse access for the re-use of the categories of data referred to in Article 3(1).\nMember States may either establish one or more new competent bodies or rely on existing public sector bodies or on internal services of public sector bodies that fulfil the conditions laid down in this Regulation.\n2. The competent bodies may be empowered to grant access for the re-use of the categories of data referred to in Article 3(1) pursuant to Union or national law which provides for such access to be granted.\nWhere they grant or refuse access for the re-use, Articles 4, 5, 6 and 9 shall apply to those competent bodies.\n3. The competent bodies shall have adequate legal, financial, technical and human resources to carry out the tasks assigned to them, including the necessary technical knowledge to be able to comply with relevant Union or national law concerning the access regimes for the categories of data referred to in Article 3(1).\n4. The assistance provided for in paragraph 1 shall include, where necessary:\n(a) providing technical support by making available a secure processing environment for providing access for the re-use of data;\n(b) providing guidance and technical support on how to best structure and store data to make that data easily accessible;\n(c) providing technical support for pseudonymisation and ensuring data processing in a manner that effectively preserves the privacy, confidentiality, integrity and accessibility of the information contained in the data for which re-use is allowed, including techniques for the anonymisation, generalisation, suppression and randomisation of personal data or other state-of-the-art privacy-preserving methods, and the deletion of commercially confidential information, including trade secrets or content protected by intellectual property rights;\n(d) assisting the public sector bodies, where relevant, to provide support to re-users in requesting consent for re-use from data subjects or permission from data holders in line with their specific decisions, including on the jurisdiction in which the data processing is intended to take place and assisting the public sector bodies in establishing technical mechanisms that allow the transmission of requests for consent or permission from re-users, where practically feasible;\n(e) providing public sector bodies with assistance in assessing the adequacy of contractual commitments made by a re-user pursuant to Article 5(10).\n5. Each Member State shall notify the Commission of the identity of the competent bodies designated pursuant to paragraph 1 by 24 September 2023.\nEach Member State shall also notify the Commission of any subsequent change to the identity of those competent bodies.\nArticle 8\nSingle information points\n1. Member States shall ensure that all relevant information concerning the application of Articles 5 and 6 is available and easily accessible through a single information point.\nMember States shall establish a new body or designate an existing body or structure as the single information point.\nThe single information point may be linked to sectoral, regional or local information points.\nThe functions of the single information point may be automated provided that the public sector body ensures adequate support.\n3.6.2022\n2. The single information point shall be competent to receive enquiries or requests for the re-use of the categories of data referred to in Article 3(1) and shall transmit them, where possible and appropriate by automated means, to the competent public sector bodies, or the competent bodies referred to in Article 7(1), where relevant.\nThe single information point shall make available by electronic means a searchable asset list containing an overview of all available data resources including, where relevant, those data resources that are available at sectoral, regional or local information points, with relevant information describing the available data, including at least the data format and size and the conditions for their re-use.\n3. The single information point may establish a separate, simplified and well-documented information channel for SMEs and start-ups, addressing their needs and capabilities in requesting the re-use of the categories of data referred to in Article 3(1).\n4. The Commission shall establish a European single access point offering a searchable electronic register of data available in the national single information points and further information on how to request data via those national single information points.\nArticle 9\nProcedure for requests for re-use\n1. Unless shorter time limits have been established in accordance with national law, the competent public sector bodies or the competent bodies referred to in Article 7(1) shall adopt a decision on the request for the re-use of the categories of data referred to in Article 3(1) within two months of the date of receipt of the request.\nIn the case of exceptionally extensive and complex requests for re-use, that two-month period may be extended by up to 30 days.\nIn such cases the competent public sector bodies or the competent bodies referred to in Article 7(1) shall notify the applicant as soon as possible that more time is needed for conducting the procedure, together with the reasons for the delay.\n2. Any natural or legal person directly affected by a decision as referred to in paragraph 1 shall have an effective right of redress in the Member State where the relevant body is located.\nSuch a right of redress shall be laid down in national law and shall include the possibility of review by an impartial body with the appropriate expertise, such as the national competition authority, the relevant access-to-documents authority, the supervisory authority established in accordance with Regulation (EU) 2016/679 or a national judicial authority, whose decisions are binding upon the public sector body or the competent body concerned.\n",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Directive (EU) 2019/1024",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Directive (EU) 2019/1024"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Regulation (EU) 2016/679",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 1,
+                            "mention": "Regulation (EU) 2016/679"
+                        },
+                        {
+                            "id": 2,
+                            "mention": "Regulation (EU) 2016/679"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Directive 96/9/EC",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 3,
+                            "mention": "Directive 96/9/EC"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "public sector bodies",
+                    "type": "ROLE",
+                    "nelements": 29,
+                    "mentions": [
+                        {
+                            "id": 4,
+                            "mention": "public sector bodies"
+                        },
+                        {
+                            "id": 5,
+                            "mention": "public sector bodies"
+                        },
+                        {
+                            "id": 6,
+                            "mention": "public sector bodies"
+                        },
+                        {
+                            "id": 7,
+                            "mention": "public sector bodies"
+                        },
+                        {
+                            "id": 8,
+                            "mention": "public sector bodies"
+                        },
+                        {
+                            "id": 9,
+                            "mention": "Public sector bodies"
+                        },
+                        {
+                            "id": 10,
+                            "mention": "public sector bodies"
+                        },
+                        {
+                            "id": 11,
+                            "mention": "Public sector bodies"
+                        },
+                        {
+                            "id": 12,
+                            "mention": "public sector bodies"
+                        },
+                        {
+                            "id": 13,
+                            "mention": "public sector bodies"
+                        },
+                        {
+                            "id": 14,
+                            "mention": "public sector bodies"
+                        },
+                        {
+                            "id": 15,
+                            "mention": "Public sector bodies"
+                        },
+                        {
+                            "id": 16,
+                            "mention": "Public sector bodies"
+                        },
+                        {
+                            "id": 17,
+                            "mention": "public sector bodies"
+                        },
+                        {
+                            "id": 18,
+                            "mention": "public sector bodies"
+                        },
+                        {
+                            "id": 19,
+                            "mention": "Public sector bodies"
+                        },
+                        {
+                            "id": 20,
+                            "mention": "Public sector bodies"
+                        },
+                        {
+                            "id": 21,
+                            "mention": "public sector bodies"
+                        },
+                        {
+                            "id": 22,
+                            "mention": "public sector bodies"
+                        },
+                        {
+                            "id": 23,
+                            "mention": "public sector bodies"
+                        },
+                        {
+                            "id": 24,
+                            "mention": "public sector bodies"
+                        },
+                        {
+                            "id": 25,
+                            "mention": "public sector bodies"
+                        },
+                        {
+                            "id": 26,
+                            "mention": "public sector bodies"
+                        },
+                        {
+                            "id": 27,
+                            "mention": "public sector bodies"
+                        },
+                        {
+                            "id": 28,
+                            "mention": "public sector bodies"
+                        },
+                        {
+                            "id": 29,
+                            "mention": "public sector bodies"
+                        },
+                        {
+                            "id": 30,
+                            "mention": "public sector bodies"
+                        },
+                        {
+                            "id": 31,
+                            "mention": "public sector bodies"
+                        },
+                        {
+                            "id": 32,
+                            "mention": "public sector bodies"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "competent bodies",
+                    "type": "ROLE",
+                    "nelements": 13,
+                    "mentions": [
+                        {
+                            "id": 33,
+                            "mention": "competent bodies"
+                        },
+                        {
+                            "id": 34,
+                            "mention": "competent bodies"
+                        },
+                        {
+                            "id": 35,
+                            "mention": "Competent bodies"
+                        },
+                        {
+                            "id": 36,
+                            "mention": "competent bodies"
+                        },
+                        {
+                            "id": 37,
+                            "mention": "competent bodies"
+                        },
+                        {
+                            "id": 38,
+                            "mention": "competent bodies"
+                        },
+                        {
+                            "id": 39,
+                            "mention": "competent bodies"
+                        },
+                        {
+                            "id": 40,
+                            "mention": "competent bodies"
+                        },
+                        {
+                            "id": 41,
+                            "mention": "competent bodies"
+                        },
+                        {
+                            "id": 42,
+                            "mention": "competent bodies"
+                        },
+                        {
+                            "id": 43,
+                            "mention": "competent bodies"
+                        },
+                        {
+                            "id": 44,
+                            "mention": "competent bodies"
+                        },
+                        {
+                            "id": 45,
+                            "mention": "competent bodies"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "personal data",
+                    "type": "DATA.CAT",
+                    "nelements": 9,
+                    "mentions": [
+                        {
+                            "id": 46,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 47,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 48,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 49,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 50,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 51,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 52,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 53,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 54,
+                            "mention": "personal data"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "commercial confidentiality",
+                    "type": "DATA.CAT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 55,
+                            "mention": "commercial confidentiality"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "statistical confidentiality",
+                    "type": "DATA.CAT",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 56,
+                            "mention": "statistical confidentiality"
+                        },
+                        {
+                            "id": 57,
+                            "mention": "statistical confidentiality"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "intellectual property rights",
+                    "type": "DATA.CAT",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 58,
+                            "mention": "intellectual property rights"
+                        },
+                        {
+                            "id": 59,
+                            "mention": "intellectual property rights"
+                        },
+                        {
+                            "id": 60,
+                            "mention": "intellectual property rights"
+                        },
+                        {
+                            "id": 61,
+                            "mention": "intellectual property rights"
+                        },
+                        {
+                            "id": 62,
+                            "mention": "intellectual property rights"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "non-personal data",
+                    "type": "DATA.CAT",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 63,
+                            "mention": "non-personal data"
+                        },
+                        {
+                            "id": 64,
+                            "mention": "non-personal data"
+                        },
+                        {
+                            "id": 65,
+                            "mention": "non-personal data"
+                        },
+                        {
+                            "id": 66,
+                            "mention": "non-personal data"
+                        },
+                        {
+                            "id": 67,
+                            "mention": "non-personal data"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "Re-use",
+                    "type": "DATA.OP",
+                    "nelements": 53,
+                    "mentions": [
+                        {
+                            "id": 68,
+                            "mention": "Re-use"
+                        },
+                        {
+                            "id": 69,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 70,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 71,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 72,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 73,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 74,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 75,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 76,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 77,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 78,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 79,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 80,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 81,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 82,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 83,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 84,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 85,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 86,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 87,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 88,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 89,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 90,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 91,
+                            "mention": "Re-use"
+                        },
+                        {
+                            "id": 92,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 93,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 94,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 95,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 96,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 97,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 98,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 99,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 100,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 101,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 102,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 103,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 104,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 105,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 106,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 107,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 108,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 109,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 110,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 111,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 112,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 113,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 114,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 115,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 116,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 117,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 118,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 119,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 120,
+                            "mention": "re-use"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "anonymised",
+                    "type": "DATA.OP",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 121,
+                            "mention": "anonymised"
+                        },
+                        {
+                            "id": 122,
+                            "mention": "anonymised"
+                        },
+                        {
+                            "id": 123,
+                            "mention": "anonymised"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "title": "treatment",
+                    "type": "DATA.OP",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 124,
+                            "mention": "treatment"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "title": "disclosure",
+                    "type": "DATA.OP",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 125,
+                            "mention": "disclosure"
+                        },
+                        {
+                            "id": 126,
+                            "mention": "disclosure"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "title": "transmission",
+                    "type": "DATA.OP",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 127,
+                            "mention": "transmission"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "title": "right to re-use",
+                    "type": "RIGHT",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 128,
+                            "mention": "right to re-use"
+                        },
+                        {
+                            "id": 129,
+                            "mention": "right to re-use"
+                        },
+                        {
+                            "id": 130,
+                            "mention": "right to re-use"
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "title": "highly sensitive",
+                    "type": "RISK/IMPACT",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 131,
+                            "mention": "highly sensitive"
+                        },
+                        {
+                            "id": 132,
+                            "mention": "highly sensitive"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "DataGovernanceAct_Chapter_II"
+}

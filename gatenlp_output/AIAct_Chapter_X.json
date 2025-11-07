@@ -1,0 +1,408 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 42,
+                    "end": 52,
+                    "id": 0,
+                    "features": {
+                        "text": "Article 95"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2374,
+                    "end": 2384,
+                    "id": 1,
+                    "features": {
+                        "text": "Article 96"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3974,
+                    "end": 3984,
+                    "id": 2,
+                    "features": {
+                        "text": "Article 96"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 128,
+                    "end": 137,
+                    "id": 3,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 570,
+                    "end": 579,
+                    "id": 4,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2175,
+                    "end": 2184,
+                    "id": 5,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3856,
+                    "end": 3865,
+                    "id": 6,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5456,
+                    "end": 5465,
+                    "id": 7,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 146,
+                    "end": 159,
+                    "id": 8,
+                    "features": {
+                        "text": "Member States"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 588,
+                    "end": 601,
+                    "id": 9,
+                    "features": {
+                        "text": "Member States"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2193,
+                    "end": 2206,
+                    "id": 10,
+                    "features": {
+                        "text": "Member States"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3835,
+                    "end": 3848,
+                    "id": 11,
+                    "features": {
+                        "text": "Member States"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5435,
+                    "end": 5448,
+                    "id": 12,
+                    "features": {
+                        "text": "Member States"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1793,
+                    "end": 1802,
+                    "id": 13,
+                    "features": {
+                        "text": "providers"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 705,
+                    "end": 714,
+                    "id": 14,
+                    "features": {
+                        "text": "deployers"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1806,
+                    "end": 1815,
+                    "id": 15,
+                    "features": {
+                        "text": "deployers"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2405,
+                    "end": 2415,
+                    "id": 16,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2464,
+                    "end": 2474,
+                    "id": 17,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3255,
+                    "end": 3265,
+                    "id": 18,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3897,
+                    "end": 3907,
+                    "id": 19,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4005,
+                    "end": 4015,
+                    "id": 20,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4064,
+                    "end": 4074,
+                    "id": 21,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4855,
+                    "end": 4865,
+                    "id": 22,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 5497,
+                    "end": 5507,
+                    "id": 23,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "RISK/IMPACT",
+                    "start": 1561,
+                    "end": 1644,
+                    "id": 24,
+                    "features": {
+                        "text": "negative impact of AI systems on vulnerable persons or groups of vulnerable persons"
+                    }
+                }
+            ],
+            "next_annid": 25
+        }
+    },
+    "text": "CHAPTER X\nCODES OF CONDUCT AND GUIDELINES\nArticle 95\nCodes of conduct for voluntary application of specific requirements\n1. The AI Office and the Member States shall encourage and facilitate the drawing up of codes of conduct, including related governance mechanisms, intended to foster the voluntary application to AI systems, other than high-risk AI systems, of some or all of the requirements set out in Chapter III, Section 2 taking into account the available technical solutions and industry best practices allowing for the application of such requirements.\n2. The AI Office and the Member States shall facilitate the drawing up of codes of conduct concerning the voluntary application, including by deployers, of specific requirements to all AI systems, on the basis of clear objectives and key performance indicators to measure the achievement of those objectives, including elements such as, but not limited to:\n(a) applicable elements provided for in Union ethical guidelines for trustworthy AI;\n(b) assessing and minimising the impact of AI systems on environmental sustainability, including as regards energy-efficient programming and techniques for the efficient design, training and use of AI;\n(c) promoting AI literacy, in particular that of persons dealing with the development, operation and use of AI;\n(d) facilitating an inclusive and diverse design of AI systems, including through the establishment of inclusive and diverse development teams and the promotion of stakeholders\u2019 participation in that process;\n(e) assessing and preventing the negative impact of AI systems on vulnerable persons or groups of vulnerable persons, including as regards accessibility for persons with a disability, as well as on gender equality.\n3. Codes of conduct may be drawn up by individual providers or deployers of AI systems or by organisations representing them or by both, including with the involvement of any interested stakeholders and their representative organisations, including civil society organisations and academia.\nCodes of conduct may cover one or more AI systems taking into account the similarity of the intended purpose of the relevant systems.\n4. The AI Office and the Member States shall take into account the specific interests and needs of SMEs, including start-ups, when encouraging and facilitating the drawing up of codes of conduct.\n12.7.2024\nArticle 96\nGuidelines from the Commission on the implementation of this Regulation\n1. The Commission shall develop guidelines on the practical implementation of this Regulation, and in particular on:\n(a) the application of the requirements and obligations referred to in Articles 8 to 15 and in Article 25;\n(b) the prohibited practices referred to in Article 5;\n(c) the practical implementation of the provisions related to substantial modification;\n(d) the practical implementation of transparency obligations laid down in Article 50;\n(e) detailed information on the relationship of this Regulation with the Union harmonisation legislation listed in Annex I, as well as with other relevant Union law, including as regards consistency in their enforcement;\n(f) the application of the definition of an AI system as set out in Article 3, point (1).\nWhen issuing such guidelines, the Commission shall pay particular attention to the needs of SMEs including start-ups, of local public authorities and of the sectors most likely to be affected by this Regulation.\nThe guidelines referred to in the first subparagraph of this paragraph shall take due account of the generally acknowledged state of the art on AI, as well as of relevant harmonised standards and common specifications that are referred to in Articles 40 and 41, or of those harmonised standards or technical specifications that are set out pursuant to Union harmonisation law.\n2. At the request of the Member States or the AI Office, or on its own initiative, the Commission shall update guidelines previously adopted when deemed necessary.\nArticle 96\nGuidelines from the Commission on the implementation of this Regulation\n1. The Commission shall develop guidelines on the practical implementation of this Regulation, and in particular on:\n(a) the application of the requirements and obligations referred to in Articles 8 to 15 and in Article 25;\n(b) the prohibited practices referred to in Article 5;\n(c) the practical implementation of the provisions related to substantial modification;\n(d) the practical implementation of transparency obligations laid down in Article 50;\n(e) detailed information on the relationship of this Regulation with the Union harmonisation legislation listed in Annex I, as well as with other relevant Union law, including as regards consistency in their enforcement;\n(f) the application of the definition of an AI system as set out in Article 3, point (1).\nWhen issuing such guidelines, the Commission shall pay particular attention to the needs of SMEs including start-ups, of local public authorities and of the sectors most likely to be affected by this Regulation.\nThe guidelines referred to in the first subparagraph of this paragraph shall take due account of the generally acknowledged state of the art on AI, as well as of relevant harmonised standards and common specifications that are referred to in Articles 40 and 41, or of those harmonised standards or technical specifications that are set out pursuant to Union harmonisation law.\n2. At the request of the Member States or the AI Office, or on its own initiative, the Commission shall update guidelines previously adopted when deemed necessary.\n",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Article 95",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Article 95"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Article 96",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 1,
+                            "mention": "Article 96"
+                        },
+                        {
+                            "id": 2,
+                            "mention": "Article 96"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "AI Office",
+                    "type": "ROLE",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 3,
+                            "mention": "AI Office"
+                        },
+                        {
+                            "id": 4,
+                            "mention": "AI Office"
+                        },
+                        {
+                            "id": 5,
+                            "mention": "AI Office"
+                        },
+                        {
+                            "id": 6,
+                            "mention": "AI Office"
+                        },
+                        {
+                            "id": 7,
+                            "mention": "AI Office"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Member States",
+                    "type": "ROLE",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 8,
+                            "mention": "Member States"
+                        },
+                        {
+                            "id": 9,
+                            "mention": "Member States"
+                        },
+                        {
+                            "id": 10,
+                            "mention": "Member States"
+                        },
+                        {
+                            "id": 11,
+                            "mention": "Member States"
+                        },
+                        {
+                            "id": 12,
+                            "mention": "Member States"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "providers",
+                    "type": "ROLE",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 13,
+                            "mention": "providers"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "deployers",
+                    "type": "ROLE",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 14,
+                            "mention": "deployers"
+                        },
+                        {
+                            "id": 15,
+                            "mention": "deployers"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "Commission",
+                    "type": "AUTHORITY",
+                    "nelements": 8,
+                    "mentions": [
+                        {
+                            "id": 16,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 17,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 18,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 19,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 20,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 21,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 22,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 23,
+                            "mention": "Commission"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "negative impact of AI systems on vulnerable persons or groups of vulnerable persons",
+                    "type": "RISK/IMPACT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 24,
+                            "mention": "negative impact of AI systems on vulnerable persons or groups of vulnerable persons"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "AIAct_Chapter_X"
+}

@@ -1,0 +1,672 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 2013,
+                    "end": 2038,
+                    "id": 0,
+                    "features": {
+                        "text": "Regulations (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2062,
+                    "end": 2085,
+                    "id": 1,
+                    "features": {
+                        "text": "Directive (EU) 2016/680"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 86,
+                    "end": 96,
+                    "id": 2,
+                    "features": {
+                        "text": "Article 50"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4511,
+                    "end": 4525,
+                    "id": 3,
+                    "features": {
+                        "text": "Article 56 (6)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4736,
+                    "end": 4749,
+                    "id": 4,
+                    "features": {
+                        "text": "Article 98(2)"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 40,
+                    "end": 49,
+                    "id": 5,
+                    "features": {
+                        "text": "PROVIDERS"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 126,
+                    "end": 135,
+                    "id": 6,
+                    "features": {
+                        "text": "providers"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 175,
+                    "end": 184,
+                    "id": 7,
+                    "features": {
+                        "text": "Providers"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 878,
+                    "end": 887,
+                    "id": 8,
+                    "features": {
+                        "text": "Providers"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1143,
+                    "end": 1152,
+                    "id": 9,
+                    "features": {
+                        "text": "Providers"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 54,
+                    "end": 63,
+                    "id": 10,
+                    "features": {
+                        "text": "DEPLOYERS"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 140,
+                    "end": 149,
+                    "id": 11,
+                    "features": {
+                        "text": "deployers"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1797,
+                    "end": 1806,
+                    "id": 12,
+                    "features": {
+                        "text": "Deployers"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2404,
+                    "end": 2413,
+                    "id": 13,
+                    "features": {
+                        "text": "Deployers"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3067,
+                    "end": 3076,
+                    "id": 14,
+                    "features": {
+                        "text": "Deployers"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4113,
+                    "end": 4122,
+                    "id": 15,
+                    "features": {
+                        "text": "deployers"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4145,
+                    "end": 4154,
+                    "id": 16,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4391,
+                    "end": 4401,
+                    "id": 17,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4569,
+                    "end": 4579,
+                    "id": 18,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 1980,
+                    "end": 1993,
+                    "id": 19,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1968,
+                    "end": 1975,
+                    "id": 20,
+                    "features": {
+                        "text": "process"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3475,
+                    "end": 3482,
+                    "id": 21,
+                    "features": {
+                        "text": "process"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 654,
+                    "end": 660,
+                    "id": 22,
+                    "features": {
+                        "text": "detect"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1733,
+                    "end": 1739,
+                    "id": 23,
+                    "features": {
+                        "text": "detect"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2237,
+                    "end": 2243,
+                    "id": 24,
+                    "features": {
+                        "text": "detect"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2666,
+                    "end": 2672,
+                    "id": 25,
+                    "features": {
+                        "text": "detect"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3365,
+                    "end": 3371,
+                    "id": 26,
+                    "features": {
+                        "text": "detect"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 662,
+                    "end": 669,
+                    "id": 27,
+                    "features": {
+                        "text": "prevent"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1741,
+                    "end": 1748,
+                    "id": 28,
+                    "features": {
+                        "text": "prevent"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2245,
+                    "end": 2252,
+                    "id": 29,
+                    "features": {
+                        "text": "prevent"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2674,
+                    "end": 2681,
+                    "id": 30,
+                    "features": {
+                        "text": "prevent"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3373,
+                    "end": 3380,
+                    "id": 31,
+                    "features": {
+                        "text": "prevent"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 671,
+                    "end": 682,
+                    "id": 32,
+                    "features": {
+                        "text": "investigate"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1750,
+                    "end": 1761,
+                    "id": 33,
+                    "features": {
+                        "text": "investigate"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2256,
+                    "end": 2267,
+                    "id": 34,
+                    "features": {
+                        "text": "investigate"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2683,
+                    "end": 2694,
+                    "id": 35,
+                    "features": {
+                        "text": "investigate"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3382,
+                    "end": 3393,
+                    "id": 36,
+                    "features": {
+                        "text": "investigate"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 686,
+                    "end": 695,
+                    "id": 37,
+                    "features": {
+                        "text": "prosecute"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1765,
+                    "end": 1774,
+                    "id": 38,
+                    "features": {
+                        "text": "prosecute"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2698,
+                    "end": 2707,
+                    "id": 39,
+                    "features": {
+                        "text": "prosecute"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3397,
+                    "end": 3406,
+                    "id": 40,
+                    "features": {
+                        "text": "prosecute"
+                    }
+                }
+            ],
+            "next_annid": 41
+        }
+    },
+    "text": "CHAPTER IV\nTRANSPARENCY OBLIGATIONS FOR PROVIDERS AND DEPLOYERS OF CERTAIN AI SYSTEMS\nArticle 50\nTransparency obligations for providers and deployers of certain AI systems\n1. Providers shall ensure that AI systems intended to interact directly with natural persons are designed and developed in such a way that the natural persons concerned are informed that they are interacting with an AI system, unless this is obvious from the point of view of a natural person who is reasonably well-informed, observant and circumspect, taking into account the circumstances and the context of use.\nThis obligation shall not apply to AI systems authorised by law to detect, prevent, investigate or prosecute criminal offences, subject to appropriate safeguards for the rights and freedoms of third parties, unless those systems are available for the public to report a criminal offence.\n2. Providers of AI systems, including general-purpose AI systems, generating synthetic audio, image, video or text content, shall ensure that the outputs of the AI system are marked in a machine-readable format and detectable as artificially generated or manipulated.\nProviders shall ensure their technical solutions are effective, interoperable, robust and reliable as far as this is technically feasible, taking into account the specificities and limitations of various types of content, the costs of implementation and the generally acknowledged state of the art, as may be reflected in relevant technical standards.\nThis obligation shall not apply to the extent the AI systems perform an assistive function for standard editing or do not substantially alter the input data provided by the deployer or the semantics thereof, or where authorised by law to detect, prevent, investigate or prosecute criminal offences.\n3. Deployers of an emotion recognition system or a biometric categorisation system shall inform the natural persons exposed thereto of the operation of the system, and shall process the personal data in accordance with Regulations (EU) 2016/679 and (EU) 2018/1725 and Directive (EU) 2016/680, as applicable.\nThis obligation shall not apply to AI systems used for biometric categorisation and emotion recognition, which are permitted by law to detect, prevent or investigate criminal offences, subject to appropriate safeguards for the rights and freedoms of third parties, and in accordance with Union law.\n4. Deployers of an AI system that generates or manipulates image, audio or video content constituting a deep fake, shall disclose that the content has been artificially generated or manipulated.\nThis obligation shall not apply where the use is authorised by law to detect, prevent, investigate or prosecute criminal offence.\nWhere the content forms part of an evidently artistic, creative, satirical, fictional or analogous work or programme, the transparency obligations set out in this paragraph are limited to disclosure of the existence of such generated or manipulated content in an appropriate manner that does not hamper the display or enjoyment of the work.\nDeployers of an AI system that generates or manipulates text which is published with the purpose of informing the public on matters of public interest shall disclose that the text has been artificially generated or manipulated.\nThis obligation shall not apply where the use is authorised by law to detect, prevent, investigate or prosecute criminal offences or where the AI-generated content has undergone a process of human review or editorial control and where a natural or legal person holds editorial responsibility for the publication of the content.\n12.7.2024\n5. The information referred to in paragraphs 1 to 4 shall be provided to the natural persons concerned in a clear and distinguishable manner at the latest at the time of the first interaction or exposure.\nThe information shall conform to the applicable accessibility requirements.\n6. Paragraphs 1 to 4 shall not affect the requirements and obligations set out in Chapter III, and shall be without prejudice to other transparency obligations laid down in Union or national law for deployers of AI systems.\n7. The AI Office shall encourage and facilitate the drawing up of codes of practice at Union level to facilitate the effective implementation of the obligations regarding the detection and labelling of artificially generated or manipulated content.\nThe Commission may adopt implementing acts to approve those codes of practice in accordance with the procedure laid down in Article 56 (6).\nIf it deems the code is not adequate, the Commission may adopt an implementing act specifying common rules for the implementation of those obligations in accordance with the examination procedure laid down in Article 98(2).\n",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Regulations (EU) 2016/679",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Regulations (EU) 2016/679"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Directive (EU) 2016/680",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 1,
+                            "mention": "Directive (EU) 2016/680"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Article 50",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 2,
+                            "mention": "Article 50"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Article 56 (6)",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 3,
+                            "mention": "Article 56 (6)"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Article 98(2)",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 4,
+                            "mention": "Article 98(2)"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "PROVIDERS",
+                    "type": "ROLE",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 5,
+                            "mention": "PROVIDERS"
+                        },
+                        {
+                            "id": 6,
+                            "mention": "providers"
+                        },
+                        {
+                            "id": 7,
+                            "mention": "Providers"
+                        },
+                        {
+                            "id": 8,
+                            "mention": "Providers"
+                        },
+                        {
+                            "id": 9,
+                            "mention": "Providers"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "DEPLOYERS",
+                    "type": "ROLE",
+                    "nelements": 6,
+                    "mentions": [
+                        {
+                            "id": 10,
+                            "mention": "DEPLOYERS"
+                        },
+                        {
+                            "id": 11,
+                            "mention": "deployers"
+                        },
+                        {
+                            "id": 12,
+                            "mention": "Deployers"
+                        },
+                        {
+                            "id": 13,
+                            "mention": "Deployers"
+                        },
+                        {
+                            "id": 14,
+                            "mention": "Deployers"
+                        },
+                        {
+                            "id": 15,
+                            "mention": "deployers"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "AI Office",
+                    "type": "AUTHORITY",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 16,
+                            "mention": "AI Office"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "Commission",
+                    "type": "AUTHORITY",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 17,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 18,
+                            "mention": "Commission"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "personal data",
+                    "type": "DATA.CAT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 19,
+                            "mention": "personal data"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "process",
+                    "type": "DATA.OP",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 20,
+                            "mention": "process"
+                        },
+                        {
+                            "id": 21,
+                            "mention": "process"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "detect",
+                    "type": "DATA.OP",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 22,
+                            "mention": "detect"
+                        },
+                        {
+                            "id": 23,
+                            "mention": "detect"
+                        },
+                        {
+                            "id": 24,
+                            "mention": "detect"
+                        },
+                        {
+                            "id": 25,
+                            "mention": "detect"
+                        },
+                        {
+                            "id": 26,
+                            "mention": "detect"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "title": "prevent",
+                    "type": "DATA.OP",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 27,
+                            "mention": "prevent"
+                        },
+                        {
+                            "id": 28,
+                            "mention": "prevent"
+                        },
+                        {
+                            "id": 29,
+                            "mention": "prevent"
+                        },
+                        {
+                            "id": 30,
+                            "mention": "prevent"
+                        },
+                        {
+                            "id": 31,
+                            "mention": "prevent"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "title": "investigate",
+                    "type": "DATA.OP",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 32,
+                            "mention": "investigate"
+                        },
+                        {
+                            "id": 33,
+                            "mention": "investigate"
+                        },
+                        {
+                            "id": 34,
+                            "mention": "investigate"
+                        },
+                        {
+                            "id": 35,
+                            "mention": "investigate"
+                        },
+                        {
+                            "id": 36,
+                            "mention": "investigate"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "title": "prosecute",
+                    "type": "DATA.OP",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 37,
+                            "mention": "prosecute"
+                        },
+                        {
+                            "id": 38,
+                            "mention": "prosecute"
+                        },
+                        {
+                            "id": 39,
+                            "mention": "prosecute"
+                        },
+                        {
+                            "id": 40,
+                            "mention": "prosecute"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "AIAct_Chapter_IV"
+}

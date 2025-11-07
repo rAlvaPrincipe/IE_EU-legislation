@@ -1,0 +1,2697 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 78,
+                    "end": 88,
+                    "id": 0,
+                    "features": {
+                        "text": "Article 60"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 15845,
+                    "end": 15855,
+                    "id": 1,
+                    "features": {
+                        "text": "Article 60"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 18831,
+                    "end": 18841,
+                    "id": 2,
+                    "features": {
+                        "text": "Article 60"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 19585,
+                    "end": 19595,
+                    "id": 3,
+                    "features": {
+                        "text": "Article 60"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 624,
+                    "end": 634,
+                    "id": 4,
+                    "features": {
+                        "text": "Article 61"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4816,
+                    "end": 4826,
+                    "id": 5,
+                    "features": {
+                        "text": "Article 61"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 13139,
+                    "end": 13149,
+                    "id": 6,
+                    "features": {
+                        "text": "Article 61"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 680,
+                    "end": 690,
+                    "id": 7,
+                    "features": {
+                        "text": "Article 62"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 8028,
+                    "end": 8038,
+                    "id": 8,
+                    "features": {
+                        "text": "Article 62"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 13195,
+                    "end": 13205,
+                    "id": 9,
+                    "features": {
+                        "text": "Article 62"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1628,
+                    "end": 1638,
+                    "id": 10,
+                    "features": {
+                        "text": "Article 63"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 11413,
+                    "end": 11423,
+                    "id": 11,
+                    "features": {
+                        "text": "Article 63"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 31042,
+                    "end": 31052,
+                    "id": 12,
+                    "features": {
+                        "text": "Article 63"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 11704,
+                    "end": 11714,
+                    "id": 13,
+                    "features": {
+                        "text": "Article 64"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 16604,
+                    "end": 16614,
+                    "id": 14,
+                    "features": {
+                        "text": "Article 64"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 16676,
+                    "end": 16686,
+                    "id": 15,
+                    "features": {
+                        "text": "Article 64"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 20662,
+                    "end": 20672,
+                    "id": 16,
+                    "features": {
+                        "text": "Article 64"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 21198,
+                    "end": 21208,
+                    "id": 17,
+                    "features": {
+                        "text": "Article 64"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 27944,
+                    "end": 27954,
+                    "id": 18,
+                    "features": {
+                        "text": "Article 64"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 27992,
+                    "end": 28002,
+                    "id": 19,
+                    "features": {
+                        "text": "Article 64"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 15566,
+                    "end": 15576,
+                    "id": 20,
+                    "features": {
+                        "text": "Article 65"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 15596,
+                    "end": 15606,
+                    "id": 21,
+                    "features": {
+                        "text": "Article 65"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 20680,
+                    "end": 20690,
+                    "id": 22,
+                    "features": {
+                        "text": "Article 65"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 22376,
+                    "end": 22386,
+                    "id": 23,
+                    "features": {
+                        "text": "Article 65"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 28049,
+                    "end": 28059,
+                    "id": 24,
+                    "features": {
+                        "text": "Article 65"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 30063,
+                    "end": 30073,
+                    "id": 25,
+                    "features": {
+                        "text": "Article 65"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 30773,
+                    "end": 30783,
+                    "id": 26,
+                    "features": {
+                        "text": "Article 65"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4539,
+                    "end": 4549,
+                    "id": 27,
+                    "features": {
+                        "text": "Article 66"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7363,
+                    "end": 7373,
+                    "id": 28,
+                    "features": {
+                        "text": "Article 66"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7471,
+                    "end": 7481,
+                    "id": 29,
+                    "features": {
+                        "text": "Article 66"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 11238,
+                    "end": 11248,
+                    "id": 30,
+                    "features": {
+                        "text": "Article 66"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 11360,
+                    "end": 11370,
+                    "id": 31,
+                    "features": {
+                        "text": "Article 66"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 19245,
+                    "end": 19255,
+                    "id": 32,
+                    "features": {
+                        "text": "Article 66"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 28095,
+                    "end": 28105,
+                    "id": 33,
+                    "features": {
+                        "text": "Article 66"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 20875,
+                    "end": 20885,
+                    "id": 34,
+                    "features": {
+                        "text": "Article 67"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 21398,
+                    "end": 21408,
+                    "id": 35,
+                    "features": {
+                        "text": "Article 68"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 22632,
+                    "end": 22642,
+                    "id": 36,
+                    "features": {
+                        "text": "Article 69"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 22846,
+                    "end": 22856,
+                    "id": 37,
+                    "features": {
+                        "text": "Article 70"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 23001,
+                    "end": 23011,
+                    "id": 38,
+                    "features": {
+                        "text": "Article 70"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 29998,
+                    "end": 30008,
+                    "id": 39,
+                    "features": {
+                        "text": "Article 70"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 29505,
+                    "end": 29515,
+                    "id": 40,
+                    "features": {
+                        "text": "Article 71"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 30075,
+                    "end": 30085,
+                    "id": 41,
+                    "features": {
+                        "text": "Article 72"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 30356,
+                    "end": 30366,
+                    "id": 42,
+                    "features": {
+                        "text": "Article 73"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 30576,
+                    "end": 30586,
+                    "id": 43,
+                    "features": {
+                        "text": "Article 74"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 31173,
+                    "end": 31183,
+                    "id": 44,
+                    "features": {
+                        "text": "Article 75"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 29426,
+                    "end": 29436,
+                    "id": 45,
+                    "features": {
+                        "text": "Article 76"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 32780,
+                    "end": 32790,
+                    "id": 46,
+                    "features": {
+                        "text": "Article 76"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 113,
+                    "end": 139,
+                    "id": 47,
+                    "features": {
+                        "text": "lead supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 195,
+                    "end": 221,
+                    "id": 48,
+                    "features": {
+                        "text": "lead supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 359,
+                    "end": 385,
+                    "id": 49,
+                    "features": {
+                        "text": "lead supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 492,
+                    "end": 518,
+                    "id": 50,
+                    "features": {
+                        "text": "lead supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 869,
+                    "end": 895,
+                    "id": 51,
+                    "features": {
+                        "text": "lead supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1405,
+                    "end": 1431,
+                    "id": 52,
+                    "features": {
+                        "text": "lead supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1700,
+                    "end": 1726,
+                    "id": 53,
+                    "features": {
+                        "text": "lead supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2372,
+                    "end": 2398,
+                    "id": 54,
+                    "features": {
+                        "text": "lead supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3055,
+                    "end": 3081,
+                    "id": 55,
+                    "features": {
+                        "text": "lead supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4571,
+                    "end": 4597,
+                    "id": 56,
+                    "features": {
+                        "text": "lead supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15966,
+                    "end": 15992,
+                    "id": 57,
+                    "features": {
+                        "text": "lead supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17146,
+                    "end": 17172,
+                    "id": 58,
+                    "features": {
+                        "text": "lead supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 18150,
+                    "end": 18176,
+                    "id": 59,
+                    "features": {
+                        "text": "lead supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 18472,
+                    "end": 18498,
+                    "id": 60,
+                    "features": {
+                        "text": "lead supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 30791,
+                    "end": 30817,
+                    "id": 61,
+                    "features": {
+                        "text": "lead supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 154,
+                    "end": 187,
+                    "id": 62,
+                    "features": {
+                        "text": "supervisory authorities concerned"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 253,
+                    "end": 286,
+                    "id": 63,
+                    "features": {
+                        "text": "supervisory authorities concerned"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 394,
+                    "end": 427,
+                    "id": 64,
+                    "features": {
+                        "text": "supervisory authorities concerned"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 549,
+                    "end": 582,
+                    "id": 65,
+                    "features": {
+                        "text": "supervisory authorities concerned"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1079,
+                    "end": 1112,
+                    "id": 66,
+                    "features": {
+                        "text": "supervisory authorities concerned"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1194,
+                    "end": 1227,
+                    "id": 67,
+                    "features": {
+                        "text": "supervisory authorities concerned"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2040,
+                    "end": 2073,
+                    "id": 68,
+                    "features": {
+                        "text": "supervisory authorities concerned"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2245,
+                    "end": 2278,
+                    "id": 69,
+                    "features": {
+                        "text": "supervisory authorities concerned"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14252,
+                    "end": 14285,
+                    "id": 70,
+                    "features": {
+                        "text": "supervisory authorities concerned"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17614,
+                    "end": 17647,
+                    "id": 71,
+                    "features": {
+                        "text": "supervisory authorities concerned"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 18761,
+                    "end": 18794,
+                    "id": 72,
+                    "features": {
+                        "text": "supervisory authorities concerned"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 19886,
+                    "end": 19919,
+                    "id": 73,
+                    "features": {
+                        "text": "supervisory authorities concerned"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 801,
+                    "end": 811,
+                    "id": 74,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2492,
+                    "end": 2502,
+                    "id": 75,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3022,
+                    "end": 3032,
+                    "id": 76,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3402,
+                    "end": 3412,
+                    "id": 77,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3487,
+                    "end": 3497,
+                    "id": 78,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3793,
+                    "end": 3803,
+                    "id": 79,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3937,
+                    "end": 3947,
+                    "id": 80,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4128,
+                    "end": 4138,
+                    "id": 81,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8334,
+                    "end": 8344,
+                    "id": 82,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 18682,
+                    "end": 18692,
+                    "id": 83,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 24760,
+                    "end": 24770,
+                    "id": 84,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 815,
+                    "end": 824,
+                    "id": 85,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2506,
+                    "end": 2515,
+                    "id": 86,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3501,
+                    "end": 3510,
+                    "id": 87,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3807,
+                    "end": 3816,
+                    "id": 88,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3951,
+                    "end": 3960,
+                    "id": 89,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4142,
+                    "end": 4151,
+                    "id": 90,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8348,
+                    "end": 8357,
+                    "id": 91,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 18700,
+                    "end": 18709,
+                    "id": 92,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 24776,
+                    "end": 24785,
+                    "id": 93,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 21409,
+                    "end": 21439,
+                    "id": 94,
+                    "features": {
+                        "text": "European Data Protection Board"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 21447,
+                    "end": 21477,
+                    "id": 95,
+                    "features": {
+                        "text": "European Data Protection Board"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12806,
+                    "end": 12824,
+                    "id": 96,
+                    "features": {
+                        "text": "Chair of the Board"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14294,
+                    "end": 14312,
+                    "id": 97,
+                    "features": {
+                        "text": "Chair of the Board"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15127,
+                    "end": 15145,
+                    "id": 98,
+                    "features": {
+                        "text": "Chair of the Board"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15373,
+                    "end": 15391,
+                    "id": 99,
+                    "features": {
+                        "text": "Chair of the Board"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17799,
+                    "end": 17817,
+                    "id": 100,
+                    "features": {
+                        "text": "Chair of the Board"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 22261,
+                    "end": 22279,
+                    "id": 101,
+                    "features": {
+                        "text": "Chair of the Board"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 31388,
+                    "end": 31406,
+                    "id": 102,
+                    "features": {
+                        "text": "Chair of the Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 118,
+                    "end": 139,
+                    "id": 103,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 200,
+                    "end": 221,
+                    "id": 104,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 364,
+                    "end": 385,
+                    "id": 105,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 497,
+                    "end": 518,
+                    "id": 106,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 874,
+                    "end": 895,
+                    "id": 107,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 1410,
+                    "end": 1431,
+                    "id": 108,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 1705,
+                    "end": 1726,
+                    "id": 109,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2215,
+                    "end": 2236,
+                    "id": 110,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2377,
+                    "end": 2398,
+                    "id": 111,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2695,
+                    "end": 2716,
+                    "id": 112,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2885,
+                    "end": 2906,
+                    "id": 113,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3060,
+                    "end": 3081,
+                    "id": 114,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3600,
+                    "end": 3621,
+                    "id": 115,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4358,
+                    "end": 4379,
+                    "id": 116,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4576,
+                    "end": 4597,
+                    "id": 117,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 5298,
+                    "end": 5319,
+                    "id": 118,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 5398,
+                    "end": 5419,
+                    "id": 119,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 5844,
+                    "end": 5865,
+                    "id": 120,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6136,
+                    "end": 6157,
+                    "id": 121,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6209,
+                    "end": 6230,
+                    "id": 122,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6259,
+                    "end": 6280,
+                    "id": 123,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6408,
+                    "end": 6429,
+                    "id": 124,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 7006,
+                    "end": 7027,
+                    "id": 125,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 7157,
+                    "end": 7178,
+                    "id": 126,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 8547,
+                    "end": 8568,
+                    "id": 127,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 8754,
+                    "end": 8775,
+                    "id": 128,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 8896,
+                    "end": 8917,
+                    "id": 129,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 8939,
+                    "end": 8960,
+                    "id": 130,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 9026,
+                    "end": 9047,
+                    "id": 131,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 9255,
+                    "end": 9276,
+                    "id": 132,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 9306,
+                    "end": 9327,
+                    "id": 133,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 9450,
+                    "end": 9471,
+                    "id": 134,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 9592,
+                    "end": 9613,
+                    "id": 135,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 9629,
+                    "end": 9650,
+                    "id": 136,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 9723,
+                    "end": 9744,
+                    "id": 137,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 9809,
+                    "end": 9830,
+                    "id": 138,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 9893,
+                    "end": 9914,
+                    "id": 139,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 10919,
+                    "end": 10940,
+                    "id": 140,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 11883,
+                    "end": 11904,
+                    "id": 141,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 12779,
+                    "end": 12800,
+                    "id": 142,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 13039,
+                    "end": 13060,
+                    "id": 143,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 14619,
+                    "end": 14640,
+                    "id": 144,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 14774,
+                    "end": 14795,
+                    "id": 145,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 14948,
+                    "end": 14969,
+                    "id": 146,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 15312,
+                    "end": 15333,
+                    "id": 147,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 15971,
+                    "end": 15992,
+                    "id": 148,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 16512,
+                    "end": 16533,
+                    "id": 149,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 16706,
+                    "end": 16727,
+                    "id": 150,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 17151,
+                    "end": 17172,
+                    "id": 151,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 18155,
+                    "end": 18176,
+                    "id": 152,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 18477,
+                    "end": 18498,
+                    "id": 153,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 18527,
+                    "end": 18548,
+                    "id": 154,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 19315,
+                    "end": 19336,
+                    "id": 155,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 19768,
+                    "end": 19789,
+                    "id": 156,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 19968,
+                    "end": 19989,
+                    "id": 157,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 20236,
+                    "end": 20257,
+                    "id": 158,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 20372,
+                    "end": 20393,
+                    "id": 159,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 21887,
+                    "end": 21908,
+                    "id": 160,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 30796,
+                    "end": 30817,
+                    "id": 161,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 21409,
+                    "end": 21439,
+                    "id": 162,
+                    "features": {
+                        "text": "European Data Protection Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 21447,
+                    "end": 21477,
+                    "id": 163,
+                    "features": {
+                        "text": "European Data Protection Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 7540,
+                    "end": 7550,
+                    "id": 164,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 11630,
+                    "end": 11640,
+                    "id": 165,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 12832,
+                    "end": 12842,
+                    "id": 166,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 13951,
+                    "end": 13961,
+                    "id": 167,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 14406,
+                    "end": 14416,
+                    "id": 168,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 14707,
+                    "end": 14717,
+                    "id": 169,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 16745,
+                    "end": 16755,
+                    "id": 170,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 17955,
+                    "end": 17965,
+                    "id": 171,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 19945,
+                    "end": 19955,
+                    "id": 172,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 20914,
+                    "end": 20924,
+                    "id": 173,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 22095,
+                    "end": 22105,
+                    "id": 174,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 22212,
+                    "end": 22222,
+                    "id": 175,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 22305,
+                    "end": 22315,
+                    "id": 176,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 22820,
+                    "end": 22830,
+                    "id": 177,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 23200,
+                    "end": 23210,
+                    "id": 178,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 23424,
+                    "end": 23434,
+                    "id": 179,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 23576,
+                    "end": 23586,
+                    "id": 180,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 24087,
+                    "end": 24097,
+                    "id": 181,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 27021,
+                    "end": 27031,
+                    "id": 182,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 27128,
+                    "end": 27138,
+                    "id": 183,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 27214,
+                    "end": 27224,
+                    "id": 184,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 27582,
+                    "end": 27592,
+                    "id": 185,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 28908,
+                    "end": 28918,
+                    "id": 186,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 29173,
+                    "end": 29183,
+                    "id": 187,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 29829,
+                    "end": 29839,
+                    "id": 188,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 32308,
+                    "end": 32318,
+                    "id": 189,
+                    "features": {
+                        "text": "Commission"
+                    }
+                }
+            ],
+            "next_annid": 190
+        }
+    },
+    "text": "CHAPTER VII\nCooperation and consistency\nS e c t i o n 1\nC o o p e r a t i o n\nArticle 60\nCooperation between the lead supervisory authority and the other\nsupervisory authorities concerned\n1. The lead supervisory authority shall cooperate with the other\nsupervisory authorities concerned in accordance with this Article in an\nendeavour to reach consensus. The lead supervisory authority and the\nsupervisory authorities concerned shall exchange all relevant\ninformation with each other.\n2. The lead supervisory authority may request at any time other\nsupervisory authorities concerned to provide mutual assistance\npursuant to Article 61 and may conduct joint operations pursuant to\nArticle 62, in particular for carrying out investigations or for monitoring\nthe implementation of a measure concerning a controller or processor\nestablished in another Member State.\n3. The lead supervisory authority shall, without delay, communicate\nthe relevant information on the matter to the other supervisory auth\u00ad\norities concerned. It shall without delay submit a draft decision to the\nother supervisory authorities concerned for their opinion and take due\naccount of their views.\n4. Where any of the other supervisory authorities concerned within a\nperiod of four weeks after having been consulted in accordance with\nparagraph 3 of this Article, expresses a relevant and reasoned objection\nto the draft decision, the lead supervisory authority shall, if it does not\nfollow the relevant and reasoned objection or is of the opinion that the\nobjection is not relevant or reasoned, submit the matter to the\nconsistency mechanism referred to in Article 63.\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 56\n\u25bcB\n5. Where the lead supervisory authority intends to follow the relevant\nand reasoned objection made, it shall submit to the other supervisory\nauthorities concerned a revised draft decision for their opinion. That\nrevised draft decision shall be subject to the procedure referred to in\nparagraph 4 within a period of two weeks.\n6. Where none of the other supervisory authorities concerned has\nobjected to the draft decision submitted by the lead supervisory\nauthority within the period referred to in paragraphs 4 and 5, the lead\nsupervisory authority and the supervisory authorities concerned shall be\ndeemed to be in agreement with that draft decision and shall be bound\nby it.\n7. The lead supervisory authority shall adopt and notify the decision\nto the main establishment or single establishment of the controller or\nprocessor, as the case may be and inform the other supervisory auth\u00ad\norities concerned and the Board of the decision in question, including a\nsummary of the relevant facts and grounds. The supervisory authority\nwith which a complaint has been lodged shall inform the complainant\non the decision.\n8. By derogation from paragraph 7, where a complaint is dismissed\nor rejected, the supervisory authority with which the complaint was\nlodged shall adopt the decision and notify it to the complainant and\nshall inform the controller thereof.\n9. Where the lead supervisory authority and the supervisory auth\u00ad\norities concerned agree to dismiss or reject parts of a complaint and\nto act on other parts of that complaint, a separate decision shall be\nadopted for each of those parts of the matter. The lead supervisory\nauthority shall adopt the decision for the part concerning actions in\nrelation to the controller, shall notify it to the main establishment or\nsingle establishment of the controller or processor on the territory of its\nMember State and shall inform the complainant thereof, while the\nsupervisory authority of the complainant shall adopt the decision for\nthe part concerning dismissal or rejection of that complaint, and shall\nnotify it to that complainant and shall inform the controller or processor\nthereof.\n10. After being notified of the decision of the lead supervisory\nauthority pursuant to paragraphs 7 and 9, the controller or processor\nshall take the necessary measures to ensure compliance with the\ndecision as regards processing activities in the context of all its estab\u00ad\nlishments in the Union. The controller or processor shall notify the\nmeasures taken for complying with the decision to the lead supervisory\nauthority, which shall inform the other supervisory authorities\nconcerned.\n11. Where, in exceptional circumstances, a supervisory authority\nconcerned has reasons to consider that there is an urgent need to act\nin order to protect the interests of data subjects, the urgency procedure\nreferred to in Article 66 shall apply.\n12. The lead supervisory authority and the other supervisory auth\u00ad\norities concerned shall supply the information required under this\nArticle to each other by electronic means, using a standardised format.\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 57\n\u25bcB\nArticle 61\nMutual assistance\n1. Supervisory authorities shall provide each other with relevant\ninformation and mutual assistance in order to implement and apply\nthis Regulation in a consistent manner, and shall put in place\nmeasures for effective cooperation with one another. Mutual assistance\nshall cover, in particular, information requests and supervisory\nmeasures, such as requests to carry out prior authorisations and consul\u00ad\ntations, inspections and investigations.\n2. Each supervisory authority shall take all appropriate measures\nrequired to reply to a request of another supervisory authority without\nundue delay and no later than one month after receiving the request.\nSuch measures may include, in particular, the transmission of relevant\ninformation on the conduct of an investigation.\n3. Requests for assistance shall contain all the necessary information,\nincluding the purpose of and reasons for the request. Information\nexchanged shall be used only for the purpose for which it was\nrequested.\n4. The requested supervisory authority shall not refuse to comply\nwith the request unless:\n(a) it is not competent for the subject-matter of the request or for the\nmeasures it is requested to execute; or\n(b) compliance with the request would infringe this Regulation or\nUnion or Member State law to which the supervisory authority\nreceiving the request is subject.\n5. The requested supervisory authority shall inform the requesting\nsupervisory authority of the results or, as the case may be, of the\nprogress of the measures taken in order to respond to the request.\nThe requested supervisory authority shall provide reasons for any\nrefusal to comply with a request pursuant to paragraph 4.\n6. Requested supervisory authorities shall, as a rule, supply the\ninformation requested by other supervisory authorities by electronic\nmeans, using a standardised format.\n7. Requested supervisory authorities shall not charge a fee for any\naction taken by them pursuant to a request for mutual assistance. Super\u00ad\nvisory authorities may agree on rules to indemnify each other for\nspecific expenditure arising from the provision of mutual assistance in\nexceptional circumstances.\n8. Where a supervisory authority does not provide the information\nreferred to in paragraph 5 of this Article within one month of receiving\nthe request of another supervisory authority, the requesting supervisory\nauthority may adopt a provisional measure on the territory of its\nMember State in accordance with Article 55(1). In that case, the\nurgent need to act under Article 66(1) shall be presumed to be met\nand require an urgent binding decision from the Board pursuant to\nArticle 66(2).\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 58\n\u25bcB\n9. The Commission may, by means of implementing acts, specify the\nformat and procedures for mutual assistance referred to in this Article\nand the arrangements for the exchange of information by electronic\nmeans between supervisory authorities, and between supervisory auth\u00ad\norities and the Board, in particular the standardised format referred to in\nparagraph 6 of this Article. Those implementing acts shall be adopted in\naccordance with the examination procedure referred to in Article 93(2).\nArticle 62\nJoint operations of supervisory authorities\n1. The supervisory authorities shall, where appropriate, conduct joint\noperations including joint investigations and joint enforcement measures\nin which members or staff of the supervisory authorities of other\nMember States are involved.\n2. Where the controller or processor has establishments in several\nMember States or where a significant number of data subjects in\nmore than one Member State are likely to be substantially affected by\nprocessing operations, a supervisory authority of each of those Member\nStates shall have the right to participate in joint operations. The super\u00ad\nvisory authority which is competent pursuant to Article 56(1) or (4)\nshall invite the supervisory authority of each of those Member States\nto take part in the joint operations and shall respond without delay to\nthe request of a supervisory authority to participate.\n3. A supervisory authority may, in accordance with Member State\nlaw, and with the seconding supervisory authority's authorisation, confer\npowers, including investigative powers on the seconding supervisory\nauthority's members or staff involved in joint operations or, in so far\nas the law of the Member State of the host supervisory authority\npermits, allow the seconding supervisory authority's members or staff\nto exercise their investigative powers in accordance with the law of the\nMember State of the seconding supervisory authority. Such investigative\npowers may be exercised only under the guidance and in the presence\nof members or staff of the host supervisory authority. The seconding\nsupervisory authority's members or staff shall be subject to the\nMember State law of the host supervisory authority.\n4. Where, in accordance with paragraph 1, staff of a seconding\nsupervisory authority operate in another Member State, the\nMember State of the host supervisory authority shall assume responsi\u00ad\nbility for their actions, including liability, for any damage caused by\nthem during their operations, in accordance with the law of the\nMember State in whose territory they are operating.\n5. The Member State in whose territory the damage was caused shall\nmake good such damage under the conditions applicable to damage\ncaused by its own staff. The Member State of the seconding supervisory\nauthority whose staff has caused damage to any person in the territory\nof another Member State shall reimburse that other Member State in full\nany sums it has paid to the persons entitled on their behalf.\n6. Without prejudice to the exercise of its rights vis-\u00e0-vis third parties\nand with the exception of paragraph 5, each Member State shall refrain,\nin the case provided for in paragraph 1, from requesting reimbursement\nfrom another Member State in relation to damage referred to in\nparagraph 4.\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 59\n\u25bcB\n7. Where a joint operation is intended and a supervisory authority\ndoes not, within one month, comply with the obligation laid down in\nthe second sentence of paragraph 2 of this Article, the other supervisory\nauthorities may adopt a provisional measure on the territory of its\nMember State in accordance with Article 55. In that case, the urgent\nneed to act under Article 66(1) shall be presumed to be met and require\nan opinion or an urgent binding decision from the Board pursuant to\nArticle 66(2).\nS e c t i o n 2\nC o n s i s t e n c y\nArticle 63\nConsistency mechanism\nIn order to contribute to the consistent application of this Regulation\nthroughout the Union, the supervisory authorities shall cooperate with\neach other and, where relevant, with the Commission, through the\nconsistency mechanism as set out in this Section.\nArticle 64\nOpinion of the Board\n1. The Board shall issue an opinion where a competent supervisory\nauthority intends to adopt any of the measures below. To that end, the\ncompetent supervisory authority shall communicate the draft decision to\nthe Board, when it:\n(a) aims to adopt a list of the processing operations subject to the\nrequirement for a data protection impact assessment pursuant to\nArticle 35(4);\n(b) concerns a matter pursuant to Article 40(7) whether a draft code of\nconduct or an amendment or extension to a code of conduct\ncomplies with this Regulation;\n\u25bcC1\n(c) aims to approve the requirements for accreditation of a body\npursuant to Article 41(3), of a certification body pursuant to\nArticle 43(3) or the criteria for certification referred to in\nArticle 42(5);\n\u25bcB\n(d) aims to determine standard data protection clauses referred to in\npoint (d) of Article 46(2) and in Article 28(8);\n(e) aims to authorise contractual clauses referred to in point (a) of\nArticle 46(3); or\n(f) aims to approve binding corporate rules within the meaning of\nArticle 47.\n2. Any supervisory authority, the Chair of the Board or the\nCommission may request that any matter of general application or\nproducing effects in more than one Member State be examined by the\nBoard with a view to obtaining an opinion, in particular where a\ncompetent supervisory authority does not comply with the obligations\nfor mutual assistance in accordance with Article 61 or for joint oper\u00ad\nations in accordance with Article 62.\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 60\n\u25bcB\n3. In the cases referred to in paragraphs 1 and 2, the Board shall\nissue an opinion on the matter submitted to it provided that it has not\nalready issued an opinion on the same matter. That opinion shall be\nadopted within eight weeks by simple majority of the members of the\nBoard. That period may be extended by a further six weeks, taking into\naccount the complexity of the subject matter. Regarding the draft\ndecision referred to in paragraph 1 circulated to the members of the\nBoard in accordance with paragraph 5, a member which has not\nobjected within a reasonable period indicated by the Chair, shall be\ndeemed to be in agreement with the draft decision.\n4. Supervisory authorities and the Commission shall, without undue\ndelay, communicate by electronic means to the Board, using a stan\u00ad\ndardised format any relevant information, including as the case may\nbe a summary of the facts, the draft decision, the grounds which\nmake the enactment of such measure necessary, and the views of\nother supervisory authorities concerned.\n5. The Chair of the Board shall, without undue, delay inform by\nelectronic means:\n(a) the members of the Board and the Commission of any relevant\ninformation which has been communicated to it using a standardised\nformat. The secretariat of the Board shall, where necessary, provide\ntranslations of relevant information; and\n(b) the supervisory authority referred to, as the case may be, in para\u00ad\ngraphs 1 and 2, and the Commission of the opinion and make it\npublic.\n\u25bcC1\n6. The competent supervisory authority referred to in paragraph 1\nshall not adopt its draft decision referred to in paragraph 1 within the\nperiod referred to in paragraph 3.\n7. The competent supervisory authority referred to in paragraph 1\nshall take utmost account of the opinion of the Board and shall,\nwithin two weeks after receiving the opinion, communicate to the\nChair of the Board by electronic means whether it will maintain or\namend its draft decision and, if any, the amended draft decision,\nusing a standardised format.\n8. Where the competent supervisory authority referred to in\nparagraph 1 informs the Chair of the Board within the period referred\nto in paragraph 7 of this Article that it does not intend to follow the\nopinion of the Board, in whole or in part, providing the relevant\ngrounds, Article 65(1) shall apply.\n\u25bcB\nArticle 65\nDispute resolution by the Board\n1. In order to ensure the correct and consistent application of this\nRegulation in individual cases, the Board shall adopt a binding decision\nin the following cases:\n(a) \u25baC1 where, in a case referred to in Article 60(4), a supervisory\nauthority concerned has raised a relevant and reasoned objection to\na draft decision of the lead supervisory authority and the lead super\u00ad\nvisory authority has not followed the objection or has rejected such\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 61\n\u25bcB\nan objection as being not relevant or reasoned. \u25c4 The binding\ndecision shall concern all the matters which are the subject of the\nrelevant and reasoned objection, in particular whether there is an\ninfringement of this Regulation;\n(b) where there are conflicting views on which of the supervisory auth\u00ad\norities concerned is competent for the main establishment;\n(c) where a competent supervisory authority does not request the\nopinion of the Board in the cases referred to in Article 64(1), or\ndoes not follow the opinion of the Board issued under Article 64. In\nthat case, any supervisory authority concerned or the Commission\nmay communicate the matter to the Board.\n2. The decision referred to in paragraph 1 shall be adopted within\none month from the referral of the subject-matter by a two-thirds\nmajority of the members of the Board. That period may be extended\nby a further month on account of the complexity of the subject-matter.\nThe decision referred to in paragraph 1 shall be reasoned and addressed\nto the lead supervisory authority and all the supervisory authorities\nconcerned and binding on them.\n3. Where the Board has been unable to adopt a decision within the\nperiods referred to in paragraph 2, it shall adopt its decision within two\nweeks following the expiration of the second month referred to in\nparagraph 2 by a simple majority of the members of the Board.\nWhere the members of the Board are split, the decision shall by\nadopted by the vote of its Chair.\n4. The supervisory authorities concerned shall not adopt a decision\non the subject matter submitted to the Board under paragraph 1 during\nthe periods referred to in paragraphs 2 and 3.\n5. The Chair of the Board shall notify, without undue delay, the\ndecision referred to in paragraph 1 to the supervisory authorities\nconcerned. It shall inform the Commission thereof. The decision shall\nbe published on the website of the Board without delay after the super\u00ad\nvisory authority has notified the final decision referred to in\nparagraph 6.\n6. The lead supervisory authority or, as the case may be, the super\u00ad\nvisory authority with which the complaint has been lodged shall adopt\nits final decision on the basis of the decision referred to in paragraph 1\nof this Article, without undue delay and at the latest by one month after\nthe Board has notified its decision. The lead supervisory authority or, as\nthe case may be, the supervisory authority with which the complaint has\nbeen lodged, shall inform the Board of the date when its final decision\nis notified respectively to the controller or the processor and to the data\nsubject. The final decision of the supervisory authorities concerned shall\nbe adopted under the terms of Article 60(7), (8) and (9). The final\ndecision shall refer to the decision referred to in paragraph 1 of this\nArticle and shall specify that the decision referred to in that paragraph\nwill be published on the website of the Board in accordance with\nparagraph 5 of this Article. The final decision shall attach the\ndecision referred to in paragraph 1 of this Article.\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 62\n\u25bcB\nArticle 66\nUrgency procedure\n1. In exceptional circumstances, where a supervisory authority\nconcerned considers that there is an urgent need to act in order to\nprotect the rights and freedoms of data subjects, it may, by way of\nderogation from the consistency mechanism referred to in Articles 63,\n64 and 65 or the procedure referred to in Article 60, immediately adopt\nprovisional measures intended to produce legal effects on its own\nterritory with a specified period of validity which shall not exceed\nthree months. The supervisory authority shall, without delay,\ncommunicate those measures and the reasons for adopting them to the\nother supervisory authorities concerned, to the Board and to the\nCommission.\n2. Where a supervisory authority has taken a measure pursuant to\nparagraph 1 and considers that final measures need urgently be adopted,\nit may request an urgent opinion or an urgent binding decision from the\nBoard, giving reasons for requesting such opinion or decision.\n3. Any supervisory authority may request an urgent opinion or an\nurgent binding decision, as the case may be, from the Board where a\ncompetent supervisory authority has not taken an appropriate measure in\na situation where there is an urgent need to act, in order to protect the\nrights and freedoms of data subjects, giving reasons for requesting such\nopinion or decision, including for the urgent need to act.\n4. By derogation from Article 64(3) and Article 65(2), an urgent\nopinion or an urgent binding decision referred to in paragraphs 2\nand 3 of this Article shall be adopted within two weeks by simple\nmajority of the members of the Board.\nArticle 67\nExchange of information\nThe Commission may adopt implementing acts of general scope in\norder to specify the arrangements for the exchange of information by\nelectronic means between supervisory authorities, and between super\u00ad\nvisory authorities and the Board, in particular the standardised format\nreferred to in Article 64.\nThose implementing acts shall be adopted in accordance with the exa\u00ad\nmination procedure referred to in Article 93(2).\nS e c t i o n 3\nE u r o p e a n d a t a p r o t e c t i o n b o a r d\nArticle 68\nEuropean Data Protection Board\n1. The European Data Protection Board (the \u2018Board\u2019) is hereby estab\u00ad\nlished as a body of the Union and shall have legal personality.\n2. The Board shall be represented by its Chair.\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 63\n\u25bcB\n3. The Board shall be composed of the head of one supervisory\nauthority of each Member State and of the European Data Protection\nSupervisor, or their respective representatives.\n4. Where in a Member State more than one supervisory authority is\nresponsible for monitoring the application of the provisions pursuant to\nthis Regulation, a joint representative shall be appointed in accordance\nwith that Member State's law.\n5. The Commission shall have the right to participate in the activities\nand meetings of the Board without voting right. The Commission shall\ndesignate a representative. The Chair of the Board shall communicate to\nthe Commission the activities of the Board.\n6. In the cases referred to in Article 65, the European Data Protection\nSupervisor shall have voting rights only on decisions which concern\nprinciples and rules applicable to the Union institutions, bodies, offices\nand agencies which correspond in substance to those of this Regulation.\nArticle 69\nIndependence\n1. The Board shall act independently when performing its tasks or\nexercising its powers pursuant to Articles 70 and 71.\n\u25bcC1\n2. Without prejudice to requests by the Commission referred to in\nArticle 70(1) and (2), the Board shall, in the performance of its tasks or\nthe exercise of its powers, neither seek nor take instructions from\nanybody.\n\u25bcB\nArticle 70\nTasks of the Board\n1. The Board shall ensure the consistent application of this Regu\u00ad\nlation. To that end, the Board shall, on its own initiative or, where\nrelevant, at the request of the Commission, in particular:\n(a) monitor and ensure the correct application of this Regulation in the\ncases provided for in Articles 64 and 65 without prejudice to the\ntasks of national supervisory authorities;\n(b) advise the Commission on any issue related to the protection of\npersonal data in the Union, including on any proposed amendment\nof this Regulation;\n(c) advise the Commission on the format and procedures for the\nexchange of information between controllers, processors and super\u00ad\nvisory authorities for binding corporate rules;\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 64\n\u25bcB\n(d) issue guidelines, recommendations, and best practices on\nprocedures for erasing links, copies or replications of personal\ndata from publicly available communication services as referred\nto in Article 17(2);\n(e) examine, on its own initiative, on request of one of its members or\non request of the Commission, any question covering the appli\u00ad\ncation of this Regulation and issue guidelines, recommendations\nand best practices in order to encourage consistent application of\nthis Regulation;\n(f) issue guidelines, recommendations and best practices in accordance\nwith point (e) of this paragraph for further specifying the criteria\nand conditions for decisions based on profiling pursuant to\nArticle 22(2);\n(g) issue guidelines, recommendations and best practices in accordance\nwith point (e) of this paragraph for establishing the personal data\nbreaches and determining the undue delay referred to in\nArticle 33(1) and (2) and for the particular circumstances in\nwhich a controller or a processor is required to notify the\npersonal data breach;\n(h) issue guidelines, recommendations and best practices in accordance\nwith point (e) of this paragraph as to the circumstances in which a\npersonal data breach is likely to result in a high risk to the rights\nand freedoms of the natural persons referred to in Article 34(1).\n(i) issue guidelines, recommendations and best practices in accordance\nwith point (e) of this paragraph for the purpose of further spec\u00ad\nifying the criteria and requirements for personal data transfers\nbased on binding corporate rules adhered to by controllers and\nbinding corporate rules adhered to by processors and on further\nnecessary requirements to ensure the protection of personal data\nof the data subjects concerned referred to in Article 47;\n(j) issue guidelines, recommendations and best practices in accordance\nwith point (e) of this paragraph for the purpose of further spec\u00ad\nifying the criteria and requirements for the personal data transfers\non the basis of Article 49(1);\n(k) draw up guidelines for supervisory authorities concerning the appli\u00ad\ncation of measures referred to in Article 58(1), (2) and (3) and the\nsetting of administrative fines pursuant to Article 83;\n\u25bcC1\n(l) review the practical application of the guidelines, recommendations\nand best practices;\n\u25bcB\n(m) issue guidelines, recommendations and best practices in accordance\nwith point (e) of this paragraph for establishing common\nprocedures for reporting by natural persons of infringements of\nthis Regulation pursuant to Article 54(2);\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 65\n\u25bcB\n(n) encourage the drawing-up of codes of conduct and the estab\u00ad\nlishment of data protection certification mechanisms and data\nprotection seals and marks pursuant to Articles 40 and 42;\n\u25bcC1\n(o) approve the criteria of certification pursuant to Article 42(5) and\nmaintain a public register of certification mechanisms and data\nprotection seals and marks pursuant to Article 42(8) and of the\ncertified controllers or processors established in third countries\npursuant to Article 42(7);\n(p) approve the requirements referred to in Article 43(3) with a view to\nthe accreditation of certification bodies referred to in Article 43;\n\u25bcB\n(q) provide the Commission with an opinion on the certification\nrequirements referred to in Article 43(8);\n(r) provide the Commission with an opinion on the icons referred to in\nArticle 12(7);\n(s) provide the Commission with an opinion for the assessment of the\nadequacy of the level of protection in a third country or inter\u00ad\nnational organisation, including for the assessment whether a\nthird country, a territory or one or more specified sectors within\nthat third country, or an international organisation no longer\nensures an adequate level of protection. To that end, the\nCommission shall provide the Board with all necessary documen\u00ad\ntation, including correspondence with the government of the third\ncountry, with regard to that third country, territory or specified\nsector, or with the international organisation.\n(t) issue opinions on draft decisions of supervisory authorities pursuant\nto the consistency mechanism referred to in Article 64(1), on\nmatters submitted pursuant to Article 64(2) and to issue binding\ndecisions pursuant to Article 65, including in cases referred to in\nArticle 66;\n(u) promote the cooperation and the effective bilateral and multilateral\nexchange of information and best practices between the supervisory\nauthorities;\n(v) promote common training programmes and facilitate personnel\nexchanges between the supervisory authorities and, where appro\u00ad\npriate, with the supervisory authorities of third countries or with\ninternational organisations;\n(w) promote the exchange of knowledge and documentation on data\nprotection legislation and practice with data protection supervisory\nauthorities worldwide.\n(x) issue opinions on codes of conduct drawn up at Union level\npursuant to Article 40(9); and\n(y) maintain a publicly accessible electronic register of decisions taken\nby supervisory authorities and courts on issues handled in the\nconsistency mechanism.\n2. Where the Commission requests advice from the Board, it may\nindicate a time limit, taking into account the urgency of the matter.\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 66\n\u25bcB\n3. The Board shall forward its opinions, guidelines, recommen\u00ad\ndations, and best practices to the Commission and to the committee\nreferred to in Article 93 and make them public.\n4. The Board shall, where appropriate, consult interested parties and\ngive them the opportunity to comment within a reasonable period. The\nBoard shall, without prejudice to Article 76, make the results of the\nconsultation procedure publicly available.\nArticle 71\nReports\n1. The Board shall draw up an annual report regarding the protection\nof natural persons with regard to processing in the Union and, where\nrelevant, in third countries and international organisations. The report\nshall be made public and be transmitted to the European Parliament, to\nthe Council and to the Commission.\n2. The annual report shall include a review of the practical appli\u00ad\ncation of the guidelines, recommendations and best practices referred to\nin point (l) of Article 70(1) as well as of the binding decisions referred\nto in Article 65.\nArticle 72\nProcedure\n1. The Board shall take decisions by a simple majority of its\nmembers, unless otherwise provided for in this Regulation.\n2. The Board shall adopt its own rules of procedure by a two-thirds\nmajority of its members and organise its own operational arrangements.\nArticle 73\nChair\n1. The Board shall elect a chair and two deputy chairs from amongst\nits members by simple majority.\n2. The term of office of the Chair and of the deputy chairs shall be\nfive years and be renewable once.\nArticle 74\nTasks of the Chair\n1. The Chair shall have the following tasks:\n(a) to convene the meetings of the Board and prepare its agenda;\n(b) to notify decisions adopted by the Board pursuant to Article 65 to\nthe lead supervisory authority and the supervisory authorities\nconcerned;\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 67\n\u25bcB\n(c) to ensure the timely performance of the tasks of the Board, in\nparticular in relation to the consistency mechanism referred to in\nArticle 63.\n2. The Board shall lay down the allocation of tasks between the\nChair and the deputy chairs in its rules of procedure.\nArticle 75\nSecretariat\n1. The Board shall have a secretariat, which shall be provided by the\nEuropean Data Protection Supervisor.\n2. The secretariat shall perform its tasks exclusively under the\ninstructions of the Chair of the Board.\n3. The staff of the European Data Protection Supervisor involved in\ncarrying out the tasks conferred on the Board by this Regulation shall\nbe subject to separate reporting lines from the staff involved in carrying\nout tasks conferred on the European Data Protection Supervisor.\n4. Where appropriate, the Board and the European Data Protection\nSupervisor shall establish and publish a Memorandum of Understanding\nimplementing this Article, determining the terms of their cooperation,\nand applicable to the staff of the European Data Protection Supervisor\ninvolved in carrying out the tasks conferred on the Board by this\nRegulation.\n5. The secretariat shall provide analytical, administrative and\nlogistical support to the Board.\n6. The secretariat shall be responsible in particular for:\n(a) the day-to-day business of the Board;\n(b) communication between the members of the Board, its Chair and\nthe Commission;\n(c) communication with other institutions and the public;\n(d) the use of electronic means for the internal and external\ncommunication;\n(e) the translation of relevant information;\n(f) the preparation and follow-up of the meetings of the Board;\n(g) the preparation, drafting and publication of opinions, decisions on\nthe settlement of disputes between supervisory authorities and other\ntexts adopted by the Board.\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 68\n\u25bcB\nArticle 76\nConfidentiality\n1. The discussions of the Board shall be confidential where the\nBoard deems it necessary, as provided for in its rules of procedure.\n2. Access to documents submitted to members of the Board, experts\nand representatives of third parties shall be governed by\nRegulation (EC) No 1049/2001 of the European Parliament and of\nthe Council (1 ).\n",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Article 60",
+                    "type": "REGULATION",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Article 60"
+                        },
+                        {
+                            "id": 1,
+                            "mention": "Article 60"
+                        },
+                        {
+                            "id": 2,
+                            "mention": "Article 60"
+                        },
+                        {
+                            "id": 3,
+                            "mention": "Article 60"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Article 61",
+                    "type": "REGULATION",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 4,
+                            "mention": "Article 61"
+                        },
+                        {
+                            "id": 5,
+                            "mention": "Article 61"
+                        },
+                        {
+                            "id": 6,
+                            "mention": "Article 61"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Article 62",
+                    "type": "REGULATION",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 7,
+                            "mention": "Article 62"
+                        },
+                        {
+                            "id": 8,
+                            "mention": "Article 62"
+                        },
+                        {
+                            "id": 9,
+                            "mention": "Article 62"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Article 63",
+                    "type": "REGULATION",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 10,
+                            "mention": "Article 63"
+                        },
+                        {
+                            "id": 11,
+                            "mention": "Article 63"
+                        },
+                        {
+                            "id": 12,
+                            "mention": "Article 63"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Article 64",
+                    "type": "REGULATION",
+                    "nelements": 7,
+                    "mentions": [
+                        {
+                            "id": 13,
+                            "mention": "Article 64"
+                        },
+                        {
+                            "id": 14,
+                            "mention": "Article 64"
+                        },
+                        {
+                            "id": 15,
+                            "mention": "Article 64"
+                        },
+                        {
+                            "id": 16,
+                            "mention": "Article 64"
+                        },
+                        {
+                            "id": 17,
+                            "mention": "Article 64"
+                        },
+                        {
+                            "id": 18,
+                            "mention": "Article 64"
+                        },
+                        {
+                            "id": 19,
+                            "mention": "Article 64"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Article 65",
+                    "type": "REGULATION",
+                    "nelements": 7,
+                    "mentions": [
+                        {
+                            "id": 20,
+                            "mention": "Article 65"
+                        },
+                        {
+                            "id": 21,
+                            "mention": "Article 65"
+                        },
+                        {
+                            "id": 22,
+                            "mention": "Article 65"
+                        },
+                        {
+                            "id": 23,
+                            "mention": "Article 65"
+                        },
+                        {
+                            "id": 24,
+                            "mention": "Article 65"
+                        },
+                        {
+                            "id": 25,
+                            "mention": "Article 65"
+                        },
+                        {
+                            "id": 26,
+                            "mention": "Article 65"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "Article 66",
+                    "type": "REGULATION",
+                    "nelements": 7,
+                    "mentions": [
+                        {
+                            "id": 27,
+                            "mention": "Article 66"
+                        },
+                        {
+                            "id": 28,
+                            "mention": "Article 66"
+                        },
+                        {
+                            "id": 29,
+                            "mention": "Article 66"
+                        },
+                        {
+                            "id": 30,
+                            "mention": "Article 66"
+                        },
+                        {
+                            "id": 31,
+                            "mention": "Article 66"
+                        },
+                        {
+                            "id": 32,
+                            "mention": "Article 66"
+                        },
+                        {
+                            "id": 33,
+                            "mention": "Article 66"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "Article 67",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 34,
+                            "mention": "Article 67"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "Article 68",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 35,
+                            "mention": "Article 68"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "Article 69",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 36,
+                            "mention": "Article 69"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "Article 70",
+                    "type": "REGULATION",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 37,
+                            "mention": "Article 70"
+                        },
+                        {
+                            "id": 38,
+                            "mention": "Article 70"
+                        },
+                        {
+                            "id": 39,
+                            "mention": "Article 70"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "Article 71",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 40,
+                            "mention": "Article 71"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "title": "Article 72",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 41,
+                            "mention": "Article 72"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "title": "Article 73",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 42,
+                            "mention": "Article 73"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "title": "Article 74",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 43,
+                            "mention": "Article 74"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "title": "Article 75",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 44,
+                            "mention": "Article 75"
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "title": "Article 76",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 45,
+                            "mention": "Article 76"
+                        },
+                        {
+                            "id": 46,
+                            "mention": "Article 76"
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "title": "lead supervisory authority",
+                    "type": "ROLE",
+                    "nelements": 15,
+                    "mentions": [
+                        {
+                            "id": 47,
+                            "mention": "lead supervisory authority"
+                        },
+                        {
+                            "id": 48,
+                            "mention": "lead supervisory authority"
+                        },
+                        {
+                            "id": 49,
+                            "mention": "lead supervisory authority"
+                        },
+                        {
+                            "id": 50,
+                            "mention": "lead supervisory authority"
+                        },
+                        {
+                            "id": 51,
+                            "mention": "lead supervisory authority"
+                        },
+                        {
+                            "id": 52,
+                            "mention": "lead supervisory authority"
+                        },
+                        {
+                            "id": 53,
+                            "mention": "lead supervisory authority"
+                        },
+                        {
+                            "id": 54,
+                            "mention": "lead supervisory authority"
+                        },
+                        {
+                            "id": 55,
+                            "mention": "lead supervisory authority"
+                        },
+                        {
+                            "id": 56,
+                            "mention": "lead supervisory authority"
+                        },
+                        {
+                            "id": 57,
+                            "mention": "lead supervisory authority"
+                        },
+                        {
+                            "id": 58,
+                            "mention": "lead supervisory authority"
+                        },
+                        {
+                            "id": 59,
+                            "mention": "lead supervisory authority"
+                        },
+                        {
+                            "id": 60,
+                            "mention": "lead supervisory authority"
+                        },
+                        {
+                            "id": 61,
+                            "mention": "lead supervisory authority"
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "title": "supervisory authorities concerned",
+                    "type": "ROLE",
+                    "nelements": 12,
+                    "mentions": [
+                        {
+                            "id": 62,
+                            "mention": "supervisory authorities concerned"
+                        },
+                        {
+                            "id": 63,
+                            "mention": "supervisory authorities concerned"
+                        },
+                        {
+                            "id": 64,
+                            "mention": "supervisory authorities concerned"
+                        },
+                        {
+                            "id": 65,
+                            "mention": "supervisory authorities concerned"
+                        },
+                        {
+                            "id": 66,
+                            "mention": "supervisory authorities concerned"
+                        },
+                        {
+                            "id": 67,
+                            "mention": "supervisory authorities concerned"
+                        },
+                        {
+                            "id": 68,
+                            "mention": "supervisory authorities concerned"
+                        },
+                        {
+                            "id": 69,
+                            "mention": "supervisory authorities concerned"
+                        },
+                        {
+                            "id": 70,
+                            "mention": "supervisory authorities concerned"
+                        },
+                        {
+                            "id": 71,
+                            "mention": "supervisory authorities concerned"
+                        },
+                        {
+                            "id": 72,
+                            "mention": "supervisory authorities concerned"
+                        },
+                        {
+                            "id": 73,
+                            "mention": "supervisory authorities concerned"
+                        }
+                    ]
+                },
+                {
+                    "id": 20,
+                    "title": "controller",
+                    "type": "ROLE",
+                    "nelements": 11,
+                    "mentions": [
+                        {
+                            "id": 74,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 75,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 76,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 77,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 78,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 79,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 80,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 81,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 82,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 83,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 84,
+                            "mention": "controller"
+                        }
+                    ]
+                },
+                {
+                    "id": 21,
+                    "title": "processor",
+                    "type": "ROLE",
+                    "nelements": 9,
+                    "mentions": [
+                        {
+                            "id": 85,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 86,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 87,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 88,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 89,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 90,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 91,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 92,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 93,
+                            "mention": "processor"
+                        }
+                    ]
+                },
+                {
+                    "id": 22,
+                    "title": "European Data Protection Board",
+                    "type": "ROLE",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 94,
+                            "mention": "European Data Protection Board"
+                        },
+                        {
+                            "id": 95,
+                            "mention": "European Data Protection Board"
+                        }
+                    ]
+                },
+                {
+                    "id": 23,
+                    "title": "Chair of the Board",
+                    "type": "ROLE",
+                    "nelements": 7,
+                    "mentions": [
+                        {
+                            "id": 96,
+                            "mention": "Chair of the Board"
+                        },
+                        {
+                            "id": 97,
+                            "mention": "Chair of the Board"
+                        },
+                        {
+                            "id": 98,
+                            "mention": "Chair of the Board"
+                        },
+                        {
+                            "id": 99,
+                            "mention": "Chair of the Board"
+                        },
+                        {
+                            "id": 100,
+                            "mention": "Chair of the Board"
+                        },
+                        {
+                            "id": 101,
+                            "mention": "Chair of the Board"
+                        },
+                        {
+                            "id": 102,
+                            "mention": "Chair of the Board"
+                        }
+                    ]
+                },
+                {
+                    "id": 24,
+                    "title": "supervisory authority",
+                    "type": "AUTHORITY",
+                    "nelements": 59,
+                    "mentions": [
+                        {
+                            "id": 103,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 104,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 105,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 106,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 107,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 108,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 109,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 110,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 111,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 112,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 113,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 114,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 115,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 116,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 117,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 118,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 119,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 120,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 121,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 122,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 123,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 124,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 125,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 126,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 127,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 128,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 129,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 130,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 131,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 132,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 133,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 134,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 135,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 136,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 137,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 138,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 139,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 140,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 141,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 142,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 143,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 144,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 145,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 146,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 147,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 148,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 149,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 150,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 151,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 152,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 153,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 154,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 155,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 156,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 157,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 158,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 159,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 160,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 161,
+                            "mention": "supervisory authority"
+                        }
+                    ]
+                },
+                {
+                    "id": 25,
+                    "title": "European Data Protection Board",
+                    "type": "AUTHORITY",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 162,
+                            "mention": "European Data Protection Board"
+                        },
+                        {
+                            "id": 163,
+                            "mention": "European Data Protection Board"
+                        }
+                    ]
+                },
+                {
+                    "id": 26,
+                    "title": "Commission",
+                    "type": "AUTHORITY",
+                    "nelements": 26,
+                    "mentions": [
+                        {
+                            "id": 164,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 165,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 166,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 167,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 168,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 169,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 170,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 171,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 172,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 173,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 174,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 175,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 176,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 177,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 178,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 179,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 180,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 181,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 182,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 183,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 184,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 185,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 186,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 187,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 188,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 189,
+                            "mention": "Commission"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "GDPR_Chapter_VII"
+}

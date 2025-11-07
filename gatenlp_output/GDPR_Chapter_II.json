@@ -1,0 +1,1761 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 249,
+                    "end": 273,
+                    "id": 0,
+                    "features": {
+                        "text": "Directive (EU) 2015/1535"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 22,
+                    "end": 31,
+                    "id": 1,
+                    "features": {
+                        "text": "Article 5"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2361,
+                    "end": 2370,
+                    "id": 2,
+                    "features": {
+                        "text": "Article 6"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7914,
+                    "end": 7923,
+                    "id": 3,
+                    "features": {
+                        "text": "Article 6"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 13559,
+                    "end": 13568,
+                    "id": 4,
+                    "features": {
+                        "text": "Article 6"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6573,
+                    "end": 6582,
+                    "id": 5,
+                    "features": {
+                        "text": "Article 7"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7797,
+                    "end": 7806,
+                    "id": 6,
+                    "features": {
+                        "text": "Article 8"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6274,
+                    "end": 6283,
+                    "id": 7,
+                    "features": {
+                        "text": "Article 9"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 8867,
+                    "end": 8876,
+                    "id": 8,
+                    "features": {
+                        "text": "Article 9"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6382,
+                    "end": 6392,
+                    "id": 9,
+                    "features": {
+                        "text": "Article 10"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 13362,
+                    "end": 13372,
+                    "id": 10,
+                    "features": {
+                        "text": "Article 10"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 13947,
+                    "end": 13957,
+                    "id": 11,
+                    "features": {
+                        "text": "Article 11"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 856,
+                    "end": 869,
+                    "id": 12,
+                    "features": {
+                        "text": "Article 89(1)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1735,
+                    "end": 1748,
+                    "id": 13,
+                    "features": {
+                        "text": "Article 89(1)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 12441,
+                    "end": 12454,
+                    "id": 14,
+                    "features": {
+                        "text": "Article 89(1)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5611,
+                    "end": 5624,
+                    "id": 15,
+                    "features": {
+                        "text": "Article 23(1)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1851,
+                    "end": 1861,
+                    "id": 16,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3813,
+                    "end": 3823,
+                    "id": 17,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4674,
+                    "end": 4684,
+                    "id": 18,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7151,
+                    "end": 7161,
+                    "id": 19,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14333,
+                    "end": 14343,
+                    "id": 20,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2248,
+                    "end": 2258,
+                    "id": 21,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2889,
+                    "end": 2899,
+                    "id": 22,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3225,
+                    "end": 3235,
+                    "id": 23,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3325,
+                    "end": 3335,
+                    "id": 24,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4268,
+                    "end": 4278,
+                    "id": 25,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4571,
+                    "end": 4581,
+                    "id": 26,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4767,
+                    "end": 4777,
+                    "id": 27,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5630,
+                    "end": 5640,
+                    "id": 28,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6140,
+                    "end": 6150,
+                    "id": 29,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6651,
+                    "end": 6661,
+                    "id": 30,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8492,
+                    "end": 8502,
+                    "id": 31,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9738,
+                    "end": 9748,
+                    "id": 32,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14038,
+                    "end": 14048,
+                    "id": 33,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14148,
+                    "end": 14158,
+                    "id": 34,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14164,
+                    "end": 14174,
+                    "id": 35,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14412,
+                    "end": 14422,
+                    "id": 36,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14509,
+                    "end": 14519,
+                    "id": 37,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 188,
+                    "end": 200,
+                    "id": 38,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1915,
+                    "end": 1927,
+                    "id": 39,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2504,
+                    "end": 2516,
+                    "id": 40,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2691,
+                    "end": 2703,
+                    "id": 41,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2761,
+                    "end": 2773,
+                    "id": 42,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2987,
+                    "end": 2999,
+                    "id": 43,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3459,
+                    "end": 3471,
+                    "id": 44,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3539,
+                    "end": 3551,
+                    "id": 45,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5431,
+                    "end": 5443,
+                    "id": 46,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6700,
+                    "end": 6712,
+                    "id": 47,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6780,
+                    "end": 6792,
+                    "id": 48,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7191,
+                    "end": 7203,
+                    "id": 49,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7410,
+                    "end": 7422,
+                    "id": 50,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9370,
+                    "end": 9382,
+                    "id": 51,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9607,
+                    "end": 9619,
+                    "id": 52,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10048,
+                    "end": 10060,
+                    "id": 53,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10180,
+                    "end": 10192,
+                    "id": 54,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10836,
+                    "end": 10848,
+                    "id": 55,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12230,
+                    "end": 12242,
+                    "id": 56,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12699,
+                    "end": 12711,
+                    "id": 57,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14128,
+                    "end": 14140,
+                    "id": 58,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14276,
+                    "end": 14288,
+                    "id": 59,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14491,
+                    "end": 14503,
+                    "id": 60,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14537,
+                    "end": 14549,
+                    "id": 61,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14642,
+                    "end": 14654,
+                    "id": 62,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 69,
+                    "end": 82,
+                    "id": 63,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 86,
+                    "end": 99,
+                    "id": 64,
+                    "features": {
+                        "text": "Personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 1197,
+                    "end": 1210,
+                    "id": 65,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 1501,
+                    "end": 1514,
+                    "id": 66,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 1563,
+                    "end": 1576,
+                    "id": 67,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 2019,
+                    "end": 2032,
+                    "id": 68,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 2567,
+                    "end": 2580,
+                    "id": 69,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 4912,
+                    "end": 4925,
+                    "id": 70,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 5377,
+                    "end": 5390,
+                    "id": 71,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 5754,
+                    "end": 5767,
+                    "id": 72,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 5872,
+                    "end": 5885,
+                    "id": 73,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 6034,
+                    "end": 6047,
+                    "id": 74,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 6174,
+                    "end": 6187,
+                    "id": 75,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 6233,
+                    "end": 6246,
+                    "id": 76,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 6296,
+                    "end": 6309,
+                    "id": 77,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 6755,
+                    "end": 6768,
+                    "id": 78,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 7723,
+                    "end": 7736,
+                    "id": 79,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 8036,
+                    "end": 8049,
+                    "id": 80,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 8913,
+                    "end": 8926,
+                    "id": 81,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 8944,
+                    "end": 8957,
+                    "id": 82,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 9437,
+                    "end": 9450,
+                    "id": 83,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 10664,
+                    "end": 10677,
+                    "id": 84,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 10782,
+                    "end": 10795,
+                    "id": 85,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 12716,
+                    "end": 12729,
+                    "id": 86,
+                    "features": {
+                        "text": "Personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 13387,
+                    "end": 13400,
+                    "id": 87,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 13461,
+                    "end": 13474,
+                    "id": 88,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 14059,
+                    "end": 14072,
+                    "id": 89,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 9098,
+                    "end": 9110,
+                    "id": 90,
+                    "features": {
+                        "text": "genetic data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 13306,
+                    "end": 13318,
+                    "id": 91,
+                    "features": {
+                        "text": "genetic data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 9112,
+                    "end": 9126,
+                    "id": 92,
+                    "features": {
+                        "text": "biometric data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 13320,
+                    "end": 13334,
+                    "id": 93,
+                    "features": {
+                        "text": "biometric data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 13338,
+                    "end": 13360,
+                    "id": 94,
+                    "features": {
+                        "text": "data concerning health"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 9211,
+                    "end": 9276,
+                    "id": 95,
+                    "features": {
+                        "text": "data concerning a natural person's sex life or sexual orientation"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 8968,
+                    "end": 8991,
+                    "id": 96,
+                    "features": {
+                        "text": "racial or ethnic origin"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 8993,
+                    "end": 9011,
+                    "id": 97,
+                    "features": {
+                        "text": "political opinions"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 9013,
+                    "end": 9047,
+                    "id": 98,
+                    "features": {
+                        "text": "religious or philosophical beliefs"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 114,
+                    "end": 123,
+                    "id": 99,
+                    "features": {
+                        "text": "processed"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 633,
+                    "end": 642,
+                    "id": 100,
+                    "features": {
+                        "text": "processed"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1061,
+                    "end": 1070,
+                    "id": 101,
+                    "features": {
+                        "text": "processed"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1281,
+                    "end": 1290,
+                    "id": 102,
+                    "features": {
+                        "text": "processed"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1490,
+                    "end": 1499,
+                    "id": 103,
+                    "features": {
+                        "text": "processed"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1585,
+                    "end": 1594,
+                    "id": 104,
+                    "features": {
+                        "text": "processed"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1956,
+                    "end": 1965,
+                    "id": 105,
+                    "features": {
+                        "text": "processed"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6251,
+                    "end": 6260,
+                    "id": 106,
+                    "features": {
+                        "text": "processed"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6359,
+                    "end": 6368,
+                    "id": 107,
+                    "features": {
+                        "text": "processed"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 12764,
+                    "end": 12773,
+                    "id": 108,
+                    "features": {
+                        "text": "processed"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 12851,
+                    "end": 12860,
+                    "id": 109,
+                    "features": {
+                        "text": "processed"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 559,
+                    "end": 568,
+                    "id": 110,
+                    "features": {
+                        "text": "collected"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 5401,
+                    "end": 5410,
+                    "id": 111,
+                    "features": {
+                        "text": "collected"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 5782,
+                    "end": 5791,
+                    "id": 112,
+                    "features": {
+                        "text": "collected"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 5896,
+                    "end": 5905,
+                    "id": 113,
+                    "features": {
+                        "text": "collected"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6058,
+                    "end": 6067,
+                    "id": 114,
+                    "features": {
+                        "text": "collected"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1296,
+                    "end": 1302,
+                    "id": 115,
+                    "features": {
+                        "text": "erased"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1306,
+                    "end": 1315,
+                    "id": 116,
+                    "features": {
+                        "text": "rectified"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1522,
+                    "end": 1528,
+                    "id": 117,
+                    "features": {
+                        "text": "stored"
+                    }
+                }
+            ],
+            "next_annid": 118
+        }
+    },
+    "text": "CHAPTER II\nPrinciples\nArticle 5\nPrinciples relating to processing of personal data\n1. Personal data shall be:\n(a) processed lawfully, fairly and in a transparent manner in relation to\nthe data subject (\u2018lawfulness, fairness and transparency\u2019);\n(1 ) Directive (EU) 2015/1535 of the European Parliament and of the Council of\n9 September 2015 laying down a procedure for the provision of information\nin the field of technical regulations and of rules on Information Society\nservices (OJ L 241, 17.9.2015, p. 1).\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 7\n\u25bcB\n(b) collected for specified, explicit and legitimate purposes and not\nfurther processed in a manner that is incompatible with those\npurposes; further processing for archiving purposes in the public\ninterest, scientific or historical research purposes or statistical\npurposes shall, in accordance with Article 89(1), not be considered\nto be incompatible with the initial purposes (\u2018purpose limitation\u2019);\n(c) adequate, relevant and limited to what is necessary in relation to the\npurposes for which they are processed (\u2018data minimisation\u2019);\n(d) accurate and, where necessary, kept up to date; every reasonable\nstep must be taken to ensure that personal data that are inaccurate,\nhaving regard to the purposes for which they are processed, are\nerased or rectified without delay (\u2018accuracy\u2019);\n(e) kept in a form which permits identification of data subjects for no\nlonger than is necessary for the purposes for which the personal\ndata are processed; personal data may be stored for longer periods\ninsofar as the personal data will be processed solely for archiving\npurposes in the public interest, scientific or historical research\npurposes or statistical purposes in accordance with Article 89(1)\nsubject to implementation of the appropriate technical and organi\u00ad\nsational measures required by this Regulation in order to safeguard\nthe rights and freedoms of the data subject (\u2018storage limitation\u2019);\n(f) processed in a manner that ensures appropriate security of the\npersonal data, including protection against unauthorised or\nunlawful processing and against accidental loss, destruction or\ndamage, using appropriate technical or organisational measures\n(\u2018integrity and confidentiality\u2019).\n2. The controller shall be responsible for, and be able to demonstrate\ncompliance with, paragraph 1 (\u2018accountability\u2019).\nArticle 6\nLawfulness of processing\n1. Processing shall be lawful only if and to the extent that at least\none of the following applies:\n(a) the data subject has given consent to the processing of his or her\npersonal data for one or more specific purposes;\n(b) processing is necessary for the performance of a contract to which\nthe data subject is party or in order to take steps at the request of\nthe data subject prior to entering into a contract;\n(c) processing is necessary for compliance with a legal obligation to\nwhich the controller is subject;\n(d) processing is necessary in order to protect the vital interests of the\ndata subject or of another natura l person;\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 8\n\u25bcB\n(e) processing is necessary for the performance of a task carried out in\nthe public interest or in the exercise of official authority vested in\nthe controller;\n(f) processing is necessary for the purposes of the legitimate interests\npursued by the controller or by a third party, except where such\ninterests are overridden by the interests or fundamental rights and\nfreedoms of the data subject which require protection of personal\ndata, in particular where the data subject is a child.\nPoint (f) of the first subparagraph shall not apply to processing carried\nout by public authorities in the performance of their tasks.\n2. Member States may maintain or introduce more specific provisions\nto adapt the application of the rules of this Regulation with regard to\nprocessing for compliance with points (c) and (e) of paragraph 1 by\ndetermining more precisely specific requirements for the processing and\nother measures to ensure lawful and fair processing including for other\nspecific processing situations as provided for in Chapter IX.\n3. The basis for the processing referred to in point (c) and (e) of\nparagraph 1 shall be laid down by:\n(a) Union law; or\n(b) Member State law to which the controller is subject.\nThe purpose of the processing shall be determined in that legal basis or,\nas regards the processing referred to in point (e) of paragraph 1, shall be\nnecessary for the performance of a task carried out in the public interest\nor in the exercise of official authority vested in the controller. That legal\nbasis may contain specific provisions to adapt the application of rules of\nthis Regulation, inter alia: the general conditions governing the\nlawfulness of processing by the controller; the types of data which\nare subject to the processing; the data subjects concerned; the entities\nto, and the purposes for which, the personal data may be disclosed; the\npurpose limitation; storage periods; and processing operations and\nprocessing procedures, including measures to ensure lawful and fair\nprocessing such as those for other specific processing situations as\nprovided for in Chapter IX. The Union or the Member State law\nshall meet an objective of public interest and be proportionate to the\nlegitimate aim pursued.\n4. Where the processing for a purpose other than that for which the\npersonal data have been collected is not based on the data subject's\nconsent or on a Union or Member State law which constitutes a\nnecessary and proportionate measure in a democratic society to\nsafeguard the objectives referred to in Article 23(1), the controller\nshall, in order to ascertain whether processing for another purpose is\ncompatible with the purpose for which the personal data are initially\ncollected, take into account, inter alia:\n(a) any link between the purposes for which the personal data have\nbeen collected and the purposes of the intended further processing;\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 9\n\u25bcB\n(b) the context in which the personal data have been collected, in\nparticular regarding the relationship between data subjects and the\ncontroller;\n(c) the nature of the personal data, in particular whether special\ncategories of personal data are processed, pursuant to Article 9, or\nwhether personal data related to criminal convictions and offences\nare processed, pursuant to Article 10;\n(d) the possible consequences of the intended further processing for\ndata subjects;\n(e) the existence of appropriate safeguards, which may include\nencryption or pseudonymisation.\nArticle 7\nConditions for consent\n1. Where processing is based on consent, the controller shall be able\nto demonstrate that the data subject has consented to processing of his\nor her personal data.\n2. If the data subject's consent is given in the context of a written\ndeclaration which also concerns other matters, the request for consent\nshall be presented in a manner which is clearly distinguishable from the\nother matters, in an intelligible and easily accessible form, using clear\nand plain language. Any part of such a declaration which constitutes an\ninfringement of this Regulation shall not be binding.\n3. The data subject shall have the right to withdraw his or her\nconsent at any time. The withdrawal of consent shall not affect the\nlawfulness of processing based on consent before its withdrawal. Prior\nto giving consent, the data subject shall be informed thereof. It shall be\nas easy to withdraw as to give consent.\n4. When assessing whether consent is freely given, utmost account\nshall be taken of whether, inter alia, the performance of a contract,\nincluding the provision of a service, is conditional on consent to the\nprocessing of personal data that is not necessary for the performance of\nthat contract.\nArticle 8\nConditions applicable to child's consent in relation to information\nsociety services\n1. Where point (a) of Article 6(1) applies, in relation to the offer of\ninformation society services directly to a child, the processing of the\npersonal data of a child shall be lawful where the child is at least 16\nyears old. Where the child is below the age of 16 years, such processing\nshall be lawful only if and to the extent that consent is given or auth\u00ad\norised by the holder of parental responsibility over the child.\nMember States may provide by law for a lower age for those purposes\nprovided that such lower age is not below 13 years.\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 10\n\u25bcB\n2. The controller shall make reasonable efforts to verify in such cases\nthat consent is given or authorised by the holder of parental responsi\u00ad\nbility over the child, taking into consideration available technology.\n3. Paragraph 1 shall not affect the general contract law of Member\nStates such as the rules on the validity, formation or effect of a contract\nin relation to a child.\nArticle 9\nProcessing of special categories of personal data\n1. Processing of personal data revealing racial or ethnic origin,\npolitical opinions, religious or philosophical beliefs, or trade union\nmembership, and the processing of genetic data, biometric data for\nthe purpose of uniquely identifying a natural person, data concerning\nhealth or data concerning a natural person's sex life or sexual orientation\nshall be prohibited.\n2. Paragraph 1 shall not apply if one of the following applies:\n(a) the data subject has given explicit consent to the processing of those\npersonal data for one or more specified purposes, except where\nUnion or Member State law provide that the prohibition referred\nto in paragraph 1 may not be lifted by the data subject;\n(b) processing is necessary for the purposes of carrying out the obli\u00ad\ngations and exercising specific rights of the controller or of the data\nsubject in the field of employment and social security and social\nprotection law in so far as it is authorised by Union or Member\nState law or a collective agreement pursuant to Member State law\nproviding for appropriate safeguards for the fundamental rights and\nthe interests of the data subject;\n(c) processing is necessary to protect the vital interests of the data\nsubject or of another natural person where the data subject is\nphysically or legally incapable of giving consent;\n(d) processing is carried out in the course of its legitimate activities\nwith appropriate safeguards by a foundation, association or any\nother not-for-profit body with a political, philosophical, religious\nor trade union aim and on condition that the processing relates\nsolely to the members or to former members of the body or to\npersons who have regular contact with it in connection with its\npurposes and that the personal data are not disclosed outside that\nbody without the consent of the data subjects;\n(e) processing relates to personal data which are manifestly made\npublic by the data subject;\n(f) processing is necessary for the establishment, exercise or defence of\nlegal claims or whenever courts are acting in their judicial capacity;\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 11\n\u25bcB\n(g) processing is necessary for reasons of substantial public interest, on\nthe basis of Union or Member State law which shall be propor\u00ad\ntionate to the aim pursued, respect the essence of the right to data\nprotection and provide for suitable and specific measures to\nsafeguard the fundamental rights and the interests of the data\nsubject;\n(h) processing is necessary for the purposes of preventive or occupa\u00ad\ntional medicine, for the assessment of the working capacity of the\nemployee, medical diagnosis, the provision of health or social care\nor treatment or the management of health or social care systems and\nservices on the basis of Union or Member State law or pursuant to\ncontract with a health professional and subject to the conditions and\nsafeguards referred to in paragraph 3;\n(i) processing is necessary for reasons of public interest in the area of\npublic health, such as protecting against serious cross-border threats\nto health or ensuring high standards of quality and safety of health\ncare and of medicinal products or medical devices, on the basis of\nUnion or Member State law which provides for suitable and specific\nmeasures to safeguard the rights and freedoms of the data subject, in\nparticular professional secrecy;\n(j) processing is necessary for archiving purposes in the public interest,\nscientific or historical research purposes or statistical purposes in\naccordance with Article 89(1) based on Union or Member State law\nwhich shall be proportionate to the aim pursued, respect the essence\nof the right to data protection and provide for suitable and specific\nmeasures to safeguard the fundamental rights and the interests of the\ndata subject.\n3. Personal data referred to in paragraph 1 may be processed for the\npurposes referred to in point (h) of paragraph 2 when those data are\nprocessed by or under the responsibility of a professional subject to the\nobligation of professional secrecy under Union or Member State law or\nrules established by national competent bodies or by another person also\nsubject to an obligation of secrecy under Union or Member State law or\nrules established by national competent bodies.\n4. Member States may maintain or introduce further conditions,\nincluding limitations, with regard to the processing of genetic data,\nbiometric data or data concerning health.\nArticle 10\nProcessing of personal data relating to criminal convictions and\noffences\nProcessing of personal data relating to criminal convictions and offences\nor related security measures based on Article 6(1) shall be carried out\nonly under the control of official authority or when the processing is\nauthorised by Union or Member State law providing for appropriate\nsafeguards for the rights and freedoms of data subjects. Any compre\u00ad\nhensive register of criminal convictions shall be kept only under the\ncontrol of official authority.\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 12\n\u25bcB\nArticle 11\nProcessing which does not require identification\n1. If the purposes for which a controller processes personal data do\nnot or do no longer require the identification of a data subject by the\ncontroller, the controller shall not be obliged to maintain, acquire or\nprocess additional information in order to identify the data subject for\nthe sole purpose of complying with this Regulation.\n2. Where, in cases referred to in paragraph 1 of this Article, the\ncontroller is able to demonstrate that it is not in a position to identify\nthe data subject, the controller shall inform the data subject accordingly,\nif possible. In such cases, Articles 15 to 20 shall not apply except where\nthe data subject, for the purpose of exercising his or her rights under\nthose articles, provides additional information enabling his or her\nidentification.\n",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Directive (EU) 2015/1535",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Directive (EU) 2015/1535"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Article 5",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 1,
+                            "mention": "Article 5"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Article 6",
+                    "type": "REGULATION",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 2,
+                            "mention": "Article 6"
+                        },
+                        {
+                            "id": 3,
+                            "mention": "Article 6"
+                        },
+                        {
+                            "id": 4,
+                            "mention": "Article 6"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Article 7",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 5,
+                            "mention": "Article 7"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Article 8",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 6,
+                            "mention": "Article 8"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Article 9",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 7,
+                            "mention": "Article 9"
+                        },
+                        {
+                            "id": 8,
+                            "mention": "Article 9"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "Article 10",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 9,
+                            "mention": "Article 10"
+                        },
+                        {
+                            "id": 10,
+                            "mention": "Article 10"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "Article 11",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 11,
+                            "mention": "Article 11"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "Article 89(1)",
+                    "type": "REGULATION",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 12,
+                            "mention": "Article 89(1)"
+                        },
+                        {
+                            "id": 13,
+                            "mention": "Article 89(1)"
+                        },
+                        {
+                            "id": 14,
+                            "mention": "Article 89(1)"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "Article 23(1)",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 15,
+                            "mention": "Article 23(1)"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "Regulation",
+                    "type": "REGULATION",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 16,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 17,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 18,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 19,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 20,
+                            "mention": "Regulation"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "controller",
+                    "type": "ROLE",
+                    "nelements": 17,
+                    "mentions": [
+                        {
+                            "id": 21,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 22,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 23,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 24,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 25,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 26,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 27,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 28,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 29,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 30,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 31,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 32,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 33,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 34,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 35,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 36,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 37,
+                            "mention": "controller"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "title": "data subject",
+                    "type": "ROLE",
+                    "nelements": 25,
+                    "mentions": [
+                        {
+                            "id": 38,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 39,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 40,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 41,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 42,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 43,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 44,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 45,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 46,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 47,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 48,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 49,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 50,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 51,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 52,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 53,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 54,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 55,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 56,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 57,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 58,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 59,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 60,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 61,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 62,
+                            "mention": "data subject"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "title": "personal data",
+                    "type": "DATA.CAT",
+                    "nelements": 27,
+                    "mentions": [
+                        {
+                            "id": 63,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 64,
+                            "mention": "Personal data"
+                        },
+                        {
+                            "id": 65,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 66,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 67,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 68,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 69,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 70,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 71,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 72,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 73,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 74,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 75,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 76,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 77,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 78,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 79,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 80,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 81,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 82,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 83,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 84,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 85,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 86,
+                            "mention": "Personal data"
+                        },
+                        {
+                            "id": 87,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 88,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 89,
+                            "mention": "personal data"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "title": "genetic data",
+                    "type": "DATA.CAT",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 90,
+                            "mention": "genetic data"
+                        },
+                        {
+                            "id": 91,
+                            "mention": "genetic data"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "title": "biometric data",
+                    "type": "DATA.CAT",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 92,
+                            "mention": "biometric data"
+                        },
+                        {
+                            "id": 93,
+                            "mention": "biometric data"
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "title": "data concerning health",
+                    "type": "DATA.CAT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 94,
+                            "mention": "data concerning health"
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "title": "data concerning a natural person's sex life or sexual orientation",
+                    "type": "DATA.CAT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 95,
+                            "mention": "data concerning a natural person's sex life or sexual orientation"
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "title": "racial or ethnic origin",
+                    "type": "DATA.CAT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 96,
+                            "mention": "racial or ethnic origin"
+                        }
+                    ]
+                },
+                {
+                    "id": 20,
+                    "title": "political opinions",
+                    "type": "DATA.CAT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 97,
+                            "mention": "political opinions"
+                        }
+                    ]
+                },
+                {
+                    "id": 21,
+                    "title": "religious or philosophical beliefs",
+                    "type": "DATA.CAT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 98,
+                            "mention": "religious or philosophical beliefs"
+                        }
+                    ]
+                },
+                {
+                    "id": 22,
+                    "title": "processed",
+                    "type": "DATA.OP",
+                    "nelements": 11,
+                    "mentions": [
+                        {
+                            "id": 99,
+                            "mention": "processed"
+                        },
+                        {
+                            "id": 100,
+                            "mention": "processed"
+                        },
+                        {
+                            "id": 101,
+                            "mention": "processed"
+                        },
+                        {
+                            "id": 102,
+                            "mention": "processed"
+                        },
+                        {
+                            "id": 103,
+                            "mention": "processed"
+                        },
+                        {
+                            "id": 104,
+                            "mention": "processed"
+                        },
+                        {
+                            "id": 105,
+                            "mention": "processed"
+                        },
+                        {
+                            "id": 106,
+                            "mention": "processed"
+                        },
+                        {
+                            "id": 107,
+                            "mention": "processed"
+                        },
+                        {
+                            "id": 108,
+                            "mention": "processed"
+                        },
+                        {
+                            "id": 109,
+                            "mention": "processed"
+                        }
+                    ]
+                },
+                {
+                    "id": 23,
+                    "title": "collected",
+                    "type": "DATA.OP",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 110,
+                            "mention": "collected"
+                        },
+                        {
+                            "id": 111,
+                            "mention": "collected"
+                        },
+                        {
+                            "id": 112,
+                            "mention": "collected"
+                        },
+                        {
+                            "id": 113,
+                            "mention": "collected"
+                        },
+                        {
+                            "id": 114,
+                            "mention": "collected"
+                        }
+                    ]
+                },
+                {
+                    "id": 24,
+                    "title": "erased",
+                    "type": "DATA.OP",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 115,
+                            "mention": "erased"
+                        }
+                    ]
+                },
+                {
+                    "id": 25,
+                    "title": "rectified",
+                    "type": "DATA.OP",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 116,
+                            "mention": "rectified"
+                        }
+                    ]
+                },
+                {
+                    "id": 26,
+                    "title": "stored",
+                    "type": "DATA.OP",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 117,
+                            "mention": "stored"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "GDPR_Chapter_II"
+}

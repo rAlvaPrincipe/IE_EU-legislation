@@ -1,0 +1,2473 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 68,
+                    "end": 78,
+                    "id": 0,
+                    "features": {
+                        "text": "Article 10"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1274,
+                    "end": 1284,
+                    "id": 1,
+                    "features": {
+                        "text": "Article 10"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1855,
+                    "end": 1865,
+                    "id": 2,
+                    "features": {
+                        "text": "Article 10"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4450,
+                    "end": 4460,
+                    "id": 3,
+                    "features": {
+                        "text": "Article 10"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 8042,
+                    "end": 8052,
+                    "id": 4,
+                    "features": {
+                        "text": "Article 10"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1092,
+                    "end": 1102,
+                    "id": 5,
+                    "features": {
+                        "text": "Article 11"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 186,
+                    "end": 196,
+                    "id": 6,
+                    "features": {
+                        "text": "Article 12"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5414,
+                    "end": 5424,
+                    "id": 7,
+                    "features": {
+                        "text": "Article 12"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7919,
+                    "end": 7929,
+                    "id": 8,
+                    "features": {
+                        "text": "Article 12"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 13374,
+                    "end": 13384,
+                    "id": 9,
+                    "features": {
+                        "text": "Article 13"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 13385,
+                    "end": 13395,
+                    "id": 10,
+                    "features": {
+                        "text": "Article 13"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14571,
+                    "end": 14581,
+                    "id": 11,
+                    "features": {
+                        "text": "Article 14"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 19858,
+                    "end": 19868,
+                    "id": 12,
+                    "features": {
+                        "text": "Article 15"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1031,
+                    "end": 1055,
+                    "id": 13,
+                    "features": {
+                        "text": "Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1165,
+                    "end": 1202,
+                    "id": 14,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1416,
+                    "end": 1453,
+                    "id": 15,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1714,
+                    "end": 1751,
+                    "id": 16,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2099,
+                    "end": 2136,
+                    "id": 17,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2566,
+                    "end": 2603,
+                    "id": 18,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2651,
+                    "end": 2688,
+                    "id": 19,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2849,
+                    "end": 2886,
+                    "id": 20,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2972,
+                    "end": 3009,
+                    "id": 21,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3088,
+                    "end": 3125,
+                    "id": 22,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3267,
+                    "end": 3304,
+                    "id": 23,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3475,
+                    "end": 3512,
+                    "id": 24,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3522,
+                    "end": 3559,
+                    "id": 25,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3640,
+                    "end": 3677,
+                    "id": 26,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3790,
+                    "end": 3827,
+                    "id": 27,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4049,
+                    "end": 4086,
+                    "id": 28,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4212,
+                    "end": 4249,
+                    "id": 29,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4346,
+                    "end": 4383,
+                    "id": 30,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4809,
+                    "end": 4846,
+                    "id": 31,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5026,
+                    "end": 5063,
+                    "id": 32,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5226,
+                    "end": 5263,
+                    "id": 33,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5345,
+                    "end": 5382,
+                    "id": 34,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5468,
+                    "end": 5505,
+                    "id": 35,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5525,
+                    "end": 5562,
+                    "id": 36,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7414,
+                    "end": 7451,
+                    "id": 37,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8107,
+                    "end": 8144,
+                    "id": 38,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8596,
+                    "end": 8633,
+                    "id": 39,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9298,
+                    "end": 9335,
+                    "id": 40,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10305,
+                    "end": 10342,
+                    "id": 41,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10575,
+                    "end": 10612,
+                    "id": 42,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10775,
+                    "end": 10812,
+                    "id": 43,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11289,
+                    "end": 11326,
+                    "id": 44,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11507,
+                    "end": 11544,
+                    "id": 45,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11563,
+                    "end": 11600,
+                    "id": 46,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11832,
+                    "end": 11869,
+                    "id": 47,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12019,
+                    "end": 12056,
+                    "id": 48,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12205,
+                    "end": 12242,
+                    "id": 49,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12375,
+                    "end": 12412,
+                    "id": 50,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12830,
+                    "end": 12867,
+                    "id": 51,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 13262,
+                    "end": 13299,
+                    "id": 52,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15444,
+                    "end": 15481,
+                    "id": 53,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15573,
+                    "end": 15610,
+                    "id": 54,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 16954,
+                    "end": 16991,
+                    "id": 55,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17197,
+                    "end": 17234,
+                    "id": 56,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17264,
+                    "end": 17301,
+                    "id": 57,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17501,
+                    "end": 17538,
+                    "id": 58,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 18170,
+                    "end": 18207,
+                    "id": 59,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 18499,
+                    "end": 18536,
+                    "id": 60,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 18576,
+                    "end": 18613,
+                    "id": 61,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8465,
+                    "end": 8476,
+                    "id": 62,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8530,
+                    "end": 8541,
+                    "id": 63,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8687,
+                    "end": 8698,
+                    "id": 64,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9441,
+                    "end": 9452,
+                    "id": 65,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10188,
+                    "end": 10199,
+                    "id": 66,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8480,
+                    "end": 8489,
+                    "id": 67,
+                    "features": {
+                        "text": "data user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8545,
+                    "end": 8554,
+                    "id": 68,
+                    "features": {
+                        "text": "data user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8702,
+                    "end": 8711,
+                    "id": 69,
+                    "features": {
+                        "text": "data user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9581,
+                    "end": 9590,
+                    "id": 70,
+                    "features": {
+                        "text": "data user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 715,
+                    "end": 728,
+                    "id": 71,
+                    "features": {
+                        "text": "data subjects"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 997,
+                    "end": 1010,
+                    "id": 72,
+                    "features": {
+                        "text": "data subjects"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2246,
+                    "end": 2259,
+                    "id": 73,
+                    "features": {
+                        "text": "data subjects"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9765,
+                    "end": 9778,
+                    "id": 74,
+                    "features": {
+                        "text": "data subjects"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9956,
+                    "end": 9969,
+                    "id": 75,
+                    "features": {
+                        "text": "data subjects"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10454,
+                    "end": 10467,
+                    "id": 76,
+                    "features": {
+                        "text": "data subjects"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11202,
+                    "end": 11215,
+                    "id": 77,
+                    "features": {
+                        "text": "data subjects"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11241,
+                    "end": 11254,
+                    "id": 78,
+                    "features": {
+                        "text": "data subjects"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12434,
+                    "end": 12447,
+                    "id": 79,
+                    "features": {
+                        "text": "data subjects"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12465,
+                    "end": 12478,
+                    "id": 80,
+                    "features": {
+                        "text": "data subjects"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12605,
+                    "end": 12618,
+                    "id": 81,
+                    "features": {
+                        "text": "data subjects"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12790,
+                    "end": 12803,
+                    "id": 82,
+                    "features": {
+                        "text": "data subjects"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12910,
+                    "end": 12923,
+                    "id": 83,
+                    "features": {
+                        "text": "data subjects"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 13112,
+                    "end": 13125,
+                    "id": 84,
+                    "features": {
+                        "text": "data subjects"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 20273,
+                    "end": 20286,
+                    "id": 85,
+                    "features": {
+                        "text": "data subjects"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1902,
+                    "end": 1922,
+                    "id": 86,
+                    "features": {
+                        "text": "legal representative"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2053,
+                    "end": 2073,
+                    "id": 87,
+                    "features": {
+                        "text": "legal representative"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2362,
+                    "end": 2382,
+                    "id": 88,
+                    "features": {
+                        "text": "legal representative"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2767,
+                    "end": 2787,
+                    "id": 89,
+                    "features": {
+                        "text": "legal representative"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2821,
+                    "end": 2841,
+                    "id": 90,
+                    "features": {
+                        "text": "legal representative"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3957,
+                    "end": 3977,
+                    "id": 91,
+                    "features": {
+                        "text": "legal representative"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17597,
+                    "end": 17617,
+                    "id": 92,
+                    "features": {
+                        "text": "legal representative"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17625,
+                    "end": 17645,
+                    "id": 93,
+                    "features": {
+                        "text": "legal representative"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 18014,
+                    "end": 18034,
+                    "id": 94,
+                    "features": {
+                        "text": "legal representative"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 18648,
+                    "end": 18668,
+                    "id": 95,
+                    "features": {
+                        "text": "legal representative"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 18849,
+                    "end": 18869,
+                    "id": 96,
+                    "features": {
+                        "text": "legal representative"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1320,
+                    "end": 1372,
+                    "id": 97,
+                    "features": {
+                        "text": "competent authority for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4618,
+                    "end": 4670,
+                    "id": 98,
+                    "features": {
+                        "text": "competent authority for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4852,
+                    "end": 4904,
+                    "id": 99,
+                    "features": {
+                        "text": "competent authority for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5269,
+                    "end": 5321,
+                    "id": 100,
+                    "features": {
+                        "text": "competent authority for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6197,
+                    "end": 6249,
+                    "id": 101,
+                    "features": {
+                        "text": "competent authority for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6623,
+                    "end": 6675,
+                    "id": 102,
+                    "features": {
+                        "text": "competent authority for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6917,
+                    "end": 6969,
+                    "id": 103,
+                    "features": {
+                        "text": "competent authority for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7081,
+                    "end": 7133,
+                    "id": 104,
+                    "features": {
+                        "text": "competent authority for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7240,
+                    "end": 7292,
+                    "id": 105,
+                    "features": {
+                        "text": "competent authority for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7504,
+                    "end": 7556,
+                    "id": 106,
+                    "features": {
+                        "text": "competent authority for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7626,
+                    "end": 7678,
+                    "id": 107,
+                    "features": {
+                        "text": "competent authority for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15378,
+                    "end": 15430,
+                    "id": 108,
+                    "features": {
+                        "text": "competent authority for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15735,
+                    "end": 15787,
+                    "id": 109,
+                    "features": {
+                        "text": "competent authority for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 16076,
+                    "end": 16128,
+                    "id": 110,
+                    "features": {
+                        "text": "competent authority for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 16567,
+                    "end": 16619,
+                    "id": 111,
+                    "features": {
+                        "text": "competent authority for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 16858,
+                    "end": 16910,
+                    "id": 112,
+                    "features": {
+                        "text": "competent authority for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17322,
+                    "end": 17374,
+                    "id": 113,
+                    "features": {
+                        "text": "competent authority for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17380,
+                    "end": 17432,
+                    "id": 114,
+                    "features": {
+                        "text": "competent authority for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17673,
+                    "end": 17725,
+                    "id": 115,
+                    "features": {
+                        "text": "competent authority for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17835,
+                    "end": 17887,
+                    "id": 116,
+                    "features": {
+                        "text": "competent authority for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 18737,
+                    "end": 18789,
+                    "id": 117,
+                    "features": {
+                        "text": "competent authority for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 19287,
+                    "end": 19339,
+                    "id": 118,
+                    "features": {
+                        "text": "competent authority for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 19387,
+                    "end": 19439,
+                    "id": 119,
+                    "features": {
+                        "text": "competent authority for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 19505,
+                    "end": 19557,
+                    "id": 120,
+                    "features": {
+                        "text": "competent authority for data intermediation services"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 5792,
+                    "end": 5802,
+                    "id": 121,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6267,
+                    "end": 6277,
+                    "id": 122,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6342,
+                    "end": 6352,
+                    "id": 123,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 7696,
+                    "end": 7706,
+                    "id": 124,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 7803,
+                    "end": 7813,
+                    "id": 125,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 13637,
+                    "end": 13647,
+                    "id": 126,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 13757,
+                    "end": 13767,
+                    "id": 127,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 16929,
+                    "end": 16939,
+                    "id": 128,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 17450,
+                    "end": 17460,
+                    "id": 129,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 753,
+                    "end": 766,
+                    "id": 130,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 818,
+                    "end": 831,
+                    "id": 131,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 11727,
+                    "end": 11740,
+                    "id": 132,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 11977,
+                    "end": 11990,
+                    "id": 133,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 12182,
+                    "end": 12195,
+                    "id": 134,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 814,
+                    "end": 831,
+                    "id": 135,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 11723,
+                    "end": 11740,
+                    "id": 136,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 11973,
+                    "end": 11990,
+                    "id": 137,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 12178,
+                    "end": 12195,
+                    "id": 138,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 112,
+                    "end": 121,
+                    "id": 139,
+                    "features": {
+                        "text": "provision"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7988,
+                    "end": 7997,
+                    "id": 140,
+                    "features": {
+                        "text": "provision"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 8418,
+                    "end": 8427,
+                    "id": 141,
+                    "features": {
+                        "text": "provision"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 8842,
+                    "end": 8851,
+                    "id": 142,
+                    "features": {
+                        "text": "provision"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10890,
+                    "end": 10899,
+                    "id": 143,
+                    "features": {
+                        "text": "provision"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 16469,
+                    "end": 16478,
+                    "id": 144,
+                    "features": {
+                        "text": "provision"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 16675,
+                    "end": 16684,
+                    "id": 145,
+                    "features": {
+                        "text": "provision"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 17093,
+                    "end": 17102,
+                    "id": 146,
+                    "features": {
+                        "text": "provision"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 17959,
+                    "end": 17968,
+                    "id": 147,
+                    "features": {
+                        "text": "provision"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 223,
+                    "end": 235,
+                    "id": 148,
+                    "features": {
+                        "text": "notification"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1103,
+                    "end": 1115,
+                    "id": 149,
+                    "features": {
+                        "text": "Notification"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1300,
+                    "end": 1312,
+                    "id": 150,
+                    "features": {
+                        "text": "notification"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3039,
+                    "end": 3051,
+                    "id": 151,
+                    "features": {
+                        "text": "notification"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3209,
+                    "end": 3221,
+                    "id": 152,
+                    "features": {
+                        "text": "notification"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3374,
+                    "end": 3386,
+                    "id": 153,
+                    "features": {
+                        "text": "notification"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4597,
+                    "end": 4609,
+                    "id": 154,
+                    "features": {
+                        "text": "notification"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4693,
+                    "end": 4705,
+                    "id": 155,
+                    "features": {
+                        "text": "notification"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4958,
+                    "end": 4970,
+                    "id": 156,
+                    "features": {
+                        "text": "notification"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 5082,
+                    "end": 5094,
+                    "id": 157,
+                    "features": {
+                        "text": "notification"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 5135,
+                    "end": 5147,
+                    "id": 158,
+                    "features": {
+                        "text": "notification"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6290,
+                    "end": 6302,
+                    "id": 159,
+                    "features": {
+                        "text": "notification"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6700,
+                    "end": 6712,
+                    "id": 160,
+                    "features": {
+                        "text": "notification"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7715,
+                    "end": 7727,
+                    "id": 161,
+                    "features": {
+                        "text": "notification"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 13560,
+                    "end": 13572,
+                    "id": 162,
+                    "features": {
+                        "text": "notification"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 15714,
+                    "end": 15726,
+                    "id": 163,
+                    "features": {
+                        "text": "notification"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 16809,
+                    "end": 16821,
+                    "id": 164,
+                    "features": {
+                        "text": "notification"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 17476,
+                    "end": 17488,
+                    "id": 165,
+                    "features": {
+                        "text": "notification"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 9342,
+                    "end": 9352,
+                    "id": 166,
+                    "features": {
+                        "text": "facilitate"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2607,
+                    "end": 2624,
+                    "id": 167,
+                    "features": {
+                        "text": "ensure compliance"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 14675,
+                    "end": 14682,
+                    "id": 168,
+                    "features": {
+                        "text": "monitor"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 14857,
+                    "end": 14864,
+                    "id": 169,
+                    "features": {
+                        "text": "monitor"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 14687,
+                    "end": 14696,
+                    "id": 170,
+                    "features": {
+                        "text": "supervise"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 14869,
+                    "end": 14878,
+                    "id": 171,
+                    "features": {
+                        "text": "supervise"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 11890,
+                    "end": 11896,
+                    "id": 172,
+                    "features": {
+                        "text": "inform"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6680,
+                    "end": 6691,
+                    "id": 173,
+                    "features": {
+                        "text": "charge fees"
+                    }
+                }
+            ],
+            "next_annid": 174
+        }
+    },
+    "text": "CHAPTER III\nRequirements applicable to data intermediation services\nArticle 10\nData intermediation services\nThe provision of the following data intermediation services shall comply with Article 12 and shall be subject to a notification procedure:\n(a) intermediation services between data holders and potential data users, including making available the technical or other means to enable such services; those services may include bilateral or multilateral exchanges of data or the creation of platforms or databases enabling the exchange or joint use of data, as well as the establishment of other specific infrastructure for the interconnection of data holders with data users;\n(b) intermediation services between data subjects that seek to make their personal data available or natural persons that seek to make non-personal data available, and potential data users, including making available the technical or other means to enable such services, and in particular enabling the exercise of the data subjects\u2019 rights provided in Regulation (EU) 2016/679;\n(c) services of data cooperatives.\nArticle 11\nNotification by data intermediation services providers\n1. Any data intermediation services provider who intends to provide the data intermediation services referred to in Article 10 shall submit a notification to the competent authority for data intermediation services.\n2. For the purposes of this Regulation, a data intermediation services provider with establishments in more than one Member State shall be deemed to be under the jurisdiction of the Member State in which it has its main establishment, without prejudice to Union law regulating cross-border actions for damages and related proceedings.\n3. A data intermediation services provider that is not established in the Union, but which offers the data intermediation services referred to in Article 10 within the Union, shall designate a legal representative in one of the Member States in which those services are offered.\nFor the purpose of ensuring compliance with this Regulation, the legal representative shall be mandated by the data intermediation services provider to be addressed in addition to or instead of it by competent authorities for data intermediation services or data subjects and data holders, with regard to all issues related to the data intermediation services provided.\nThe legal representative shall cooperate with and comprehensively demonstrate to the competent authorities for data intermediation services, upon request, the actions taken and provisions put in place by the data intermediation services provider to ensure compliance with this Regulation.\nThe data intermediation services provider shall be deemed to be under the jurisdiction of the Member State in which the legal representative is located.\nThe designation of a legal representative by the data intermediation services provider shall be without prejudice to any legal actions which could be initiated against the data intermediation services provider.\n4. After having submitted a notification in accordance with paragraph 1, the data intermediation services provider may start the activity subject to the conditions laid down in this Chapter.\n5. The notification referred to in paragraph 1 shall entitle the data intermediation services provider to provide data intermediation services in all Member States.\n6. The notification referred to in paragraph 1 shall include the following information:\n(a) the name of the data intermediation services provider;\n(b) the data intermediation services provider\u2019s legal status, form, ownership structure, relevant subsidiaries and, where the data intermediation services provider is registered in a trade or other similar public national register, registration number;\n(c) the address of the data intermediation services provider\u2019s main establishment in the Union, if any, and, where applicable, of any secondary branch in another Member State or that of the legal representative;\n(d) a public website where complete and up-to-date information on the data intermediation services provider and the activities can be found, including as a minimum the information referred to in points (a), (b), (c) and (f);\n(e) the data intermediation services provider\u2019s contact persons and contact details;\n(f) a description of the data intermediation service the data intermediation services provider intends to provide, and an indication of the categories listed in Article 10 under which such data intermediation service falls;\n(g) the estimated date for starting the activity, if different from the date of the notification.\n7. The competent authority for data intermediation services shall ensure that the notification procedure is nondiscriminatory and does not distort the competition.\n3.6.2022\n8. At the request of the data intermediation services provider, the competent authority for data intermediation services shall, within one week of a duly and fully completed notification, issue a standardised declaration, confirming that the data intermediation services provider has submitted the notification referred to in paragraph 1 and that the notification contains the information referred to in paragraph 6.\n9. At the request of the data intermediation services provider, the competent authority for data intermediation services shall confirm that the data intermediation services provider complies with this Article and Article 12.\nUpon receipt of such a confirmation, that data intermediation services provider may use the label \u2018data intermediation services provider recognised in the Union\u2019 in its written and spoken communication, as well as a common logo.\nIn order to ensure that data intermediation services providers recognised in the Union are easily identifiable throughout the Union, the Commission shall, by means of implementing acts, establish a design for the common logo.\nData intermediation services providers recognised in the Union shall display the common logo clearly on every online and offline publication that relates to their data intermediation activities.\nThose implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 33(2).\n10.\nThe competent authority for data intermediation services shall notify the Commission of each new notification by electronic means without delay.\nThe Commission shall keep and regularly update a public register of all data intermediation services providers providing their services in the Union.\nThe information referred to in paragraph 6, points (a), (b), (c), (d), (f) and (g), shall be published in the public register.\n11.\nThe competent authority for data intermediation services may charge fees for the notification in accordance with national law.\nSuch fees shall be proportionate and objective and be based on the administrative costs related to the monitoring of compliance and other market control activities of the competent authority for data intermediation services in relation to notifications of data intermediation services providers.\nIn the case of SMEs and start-ups, the competent authority for data intermediation services may charge a discounted fee or waive the fee.\n12.\nData intermediation services providers shall notify the competent authority for data intermediation services of any changes to the information provided pursuant to paragraph 6 within 14 days of the date of the change.\n13.\nWhere a data intermediation services provider ceases its activities, it shall notify the relevant competent authority for data intermediation services determined pursuant to paragraphs 1, 2 and 3 within 15 days.\n14.\nThe competent authority for data intermediation services shall notify the Commission of each notification referred to in paragraphs 12 and 13 by electronic means without delay.\nThe Commission shall update the public register of the data intermediation services providers in the Union accordingly.\nArticle 12\nConditions for providing data intermediation services\nThe provision of data intermediation services referred in Article 10 shall be subject to the following conditions:\n(a) the data intermediation services provider shall not use the data for which it provides data intermediation services for purposes other than to put them at the disposal of data users and shall provide data intermediation services through a separate legal person;\n(b) the commercial terms, including pricing, for the provision of data intermediation services to a data holder or data user shall not be dependent upon whether the data holder or data user uses other services provided by the same data intermediation services provider or by a related entity, and if so to what degree the data holder or data user uses such other services;\n(c) the data collected with respect to any activity of a natural or legal person for the purpose of the provision of the data intermediation service, including the date, time and geolocation data, duration of activity and connections to other natural or legal persons established by the person who uses the data intermediation service, shall be used only for the development of that data intermediation service, which may entail the use of data for the detection of fraud or cybersecurity, and shall be made available to the data holders upon request;\n(d) the data intermediation services provider shall facilitate the exchange of the data in the format in which it receives it from a data subject or a data holder, shall convert the data into specific formats only to enhance interoperability within and across sectors or if requested by the data user or where mandated by Union law or to ensure harmonisation with international or European data standards and shall offer an opt-out possibility regarding those conversions to data subjects or data holders, unless the conversion is mandated by Union law;\n(e) data intermediation services may include offering additional specific tools and services to data holders or data subjects for the specific purpose of facilitating the exchange of data, such as temporary storage, curation, conversion, anonymisation and pseudonymisation, such tools being used only at the explicit request or approval of the data holder or data subject and third-party tools offered in that context not being used for other purposes;\n(f) the data intermediation services provider shall ensure that the procedure for access to its service is fair, transparent and non-discriminatory for both data subjects and data holders, as well as for data users, including with regard to prices and terms of service;\n(g) the data intermediation services provider shall have procedures in place to prevent fraudulent or abusive practices in relation to parties seeking access through its data intermediation services;\n(h) the data intermediation services provider shall, in the event of its insolvency, ensure a reasonable continuity of the provision of its data intermediation services and, where such data intermediation services ensure the storage of data, shall have mechanisms in place to allow data holders and data users to obtain access to, to transfer or to retrieve their data and, where such data intermediation services are provided between data subjects and data users, to allow data subjects to exercise their rights;\n(i) the data intermediation services provider shall take appropriate measures to ensure interoperability with other data intermediation services, inter alia, by means of commonly used open standards in the sector in which the data intermediation services provider operates;\n(j) the data intermediation services provider shall put in place adequate technical, legal and organisational measures in order to prevent the transfer of or access to non-personal data that is unlawful under Union law or the national law of the relevant Member State;\n(k) the data intermediation services provider shall without delay inform data holders in the event of an unauthorised transfer, access or use of the non-personal data that it has shared;\n(l) the data intermediation services provider shall take necessary measures to ensure an appropriate level of security for the storage, processing and transmission of non-personal data, and the data intermediation services provider shall further ensure the highest level of security for the storage and transmission of competitively sensitive information;\n(m) the data intermediation services provider offering services to data subjects shall act in the data subjects\u2019 best interest where it facilitates the exercise of their rights, in particular by informing and, where appropriate, advising data subjects in a concise, transparent, intelligible and easily accessible manner about intended data uses by data users and standard terms and conditions attached to such uses before data subjects give consent;\n(n) where a data intermediation services provider provides tools for obtaining consent from data subjects or permissions to process data made available by data holders, it shall, where relevant, specify the third-country jurisdiction in which the data use is intended to take place and provide data subjects with tools to both give and withdraw consent and data holders with tools to both give and withdraw permissions to process data;\n(o) the data intermediation services provider shall maintain a log record of the data intermediation activity.\n3.6.2022\nArticle 13\nArticle 13\nCompetent authorities for data intermediation services\n1. Each Member State shall designate one or more competent authorities to carry out the tasks related to the notification procedure for data intermediation services and shall notify the Commission of the identity of those competent authorities by 24 September 2023.\nEach Member State shall also notify the Commission of any subsequent change to the identity of those competent authorities.\n2. The competent authorities for data intermediation services shall comply with the requirements set out in Article 26.\n3. The powers of the competent authorities for data intermediation services are without prejudice to the powers of the data protection authorities, national competition authorities, authorities in charge of cybersecurity and other relevant sectoral authorities.\nIn accordance with their respective competences under Union and national law, those authorities shall establish strong cooperation and exchange information as is necessary for the exercise of their tasks in relation to data intermediation services providers, and shall aim to achieve consistency in the decisions taken in applying this Regulation.\nArticle 14\nMonitoring of compliance\n1. The competent authorities for data intermediation services shall monitor and supervise compliance of data intermediation services providers with the requirements of this Chapter.\nThe competent authorities for data intermediation services may also monitor and supervise the compliance of data intermediation services providers, on the basis of a request by a natural or legal person.\n2. The competent authorities for data intermediation services shall have the power to request from data intermediation services providers or their legal representatives all the information that is necessary to verify compliance with the requirements of this Chapter.\nAny request for information shall be proportionate to the performance of the task and shall be reasoned.\n3. Where the competent authority for data intermediation services finds that a data intermediation services provider does not comply with one or more of the requirements of this Chapter, it shall notify that data intermediation services provider of those findings and give it the opportunity to state its views, within 30 days of the receipt of the notification.\n4. The competent authority for data intermediation services shall have the power to require the cessation of the infringement referred to in paragraph 3 within a reasonable time limit or immediately in the case of a serious infringement and shall take appropriate and proportionate measures with the aim of ensuring compliance.\nIn that regard, the competent authority for data intermediation services shall have the power, where appropriate:\n(a) to impose, through administrative procedures, dissuasive financial penalties, which may include periodic penalties and penalties with retroactive effect, to initiate legal proceedings for the imposition of fines, or both;\n(b) to require a postponement of the commencement or a suspension of the provision of the data intermediation service until any changes to the conditions requested by the competent authority for data intermediation services have been made; or\n(c) to require the cessation of the provision of the data intermediation service in the event that serious or repeated infringements have not been remedied despite prior notification in accordance with paragraph 3.\nThe competent authority for data intermediation services shall request the Commission to remove the data intermediation services provider from the register of data intermediation services providers once it has ordered the cessation of the provision of the data intermediation service in accordance with the first subparagraph, point (c).\nIf a data intermediation services provider remedies infringements, that data intermediation services provider shall re-notify the competent authority for data intermediation services.\nThe competent authority for data intermediation services shall notify the Commission of each new re-notification.\n5. Where a data intermediation services provider that is not established in the Union fails to designate a legal representative or the legal representative fails, upon request of the competent authority for data intermediation services, to provide the necessary information that comprehensively demonstrates compliance with this Regulation, the competent authority for data intermediation services shall have the power to postpone the commencement of or to suspend the provision of the data intermediation service until the legal representative is designated or the necessary information is provided.\n6. The competent authorities for data intermediation services shall notify the data intermediation services provider concerned of the measures imposed pursuant to paragraphs 4 and 5 and the reasons on which they are based, as well as the necessary steps to be taken to rectify the relevant shortcomings, without delay, and shall stipulate a reasonable period, which shall not be longer than 30 days, for the data intermediation services provider to comply with those measures.\n7. If a data intermediation services provider has its main establishment or its legal representative in a Member State but provides services in other Member States, the competent authority for data intermediation services of the Member State of the main establishment or where the legal representative is located and the competent authorities for data intermediation services of those other Member States shall cooperate and assist each other.\nSuch assistance and cooperation may cover information exchanges between the competent authorities for data intermediation services concerned for the purposes of their tasks under this Regulation and reasoned requests to take the measures referred to in this Article.\nWhere a competent authority for data intermediation services in one Member State requests assistance from a competent authority for data intermediation services in another Member State, it shall submit a reasoned request.\nThe competent authority for data intermediation services shall, upon such a request, provide a response without delay and within a timeframe proportionate to the urgency of the request.\nAny information exchanged in the context of assistance requested and provided under this paragraph shall be used only in respect of the matter for which it was requested.\nArticle 15\nExceptions\nThis Chapter shall not apply to recognised data altruism organisations or other not-for-profit entities insofar as their activities consist of seeking to collect data for objectives of general interest, made available by natural or legal persons on the basis of data altruism, unless those organisations and entities aim to establish commercial relationships between an undetermined number of data subjects and data holders on the one hand and data users on the other.\n",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Article 10",
+                    "type": "REGULATION",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Article 10"
+                        },
+                        {
+                            "id": 1,
+                            "mention": "Article 10"
+                        },
+                        {
+                            "id": 2,
+                            "mention": "Article 10"
+                        },
+                        {
+                            "id": 3,
+                            "mention": "Article 10"
+                        },
+                        {
+                            "id": 4,
+                            "mention": "Article 10"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Article 11",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 5,
+                            "mention": "Article 11"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Article 12",
+                    "type": "REGULATION",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 6,
+                            "mention": "Article 12"
+                        },
+                        {
+                            "id": 7,
+                            "mention": "Article 12"
+                        },
+                        {
+                            "id": 8,
+                            "mention": "Article 12"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Article 13",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 9,
+                            "mention": "Article 13"
+                        },
+                        {
+                            "id": 10,
+                            "mention": "Article 13"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Article 14",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 11,
+                            "mention": "Article 14"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Article 15",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 12,
+                            "mention": "Article 15"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "Regulation (EU) 2016/679",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 13,
+                            "mention": "Regulation (EU) 2016/679"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "data intermediation services provider",
+                    "type": "ROLE",
+                    "nelements": 48,
+                    "mentions": [
+                        {
+                            "id": 14,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 15,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 16,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 17,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 18,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 19,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 20,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 21,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 22,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 23,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 24,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 25,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 26,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 27,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 28,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 29,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 30,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 31,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 32,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 33,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 34,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 35,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 36,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 37,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 38,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 39,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 40,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 41,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 42,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 43,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 44,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 45,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 46,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 47,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 48,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 49,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 50,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 51,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 52,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 53,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 54,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 55,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 56,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 57,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 58,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 59,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 60,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 61,
+                            "mention": "data intermediation services provider"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "data holder",
+                    "type": "ROLE",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 62,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 63,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 64,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 65,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 66,
+                            "mention": "data holder"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "data user",
+                    "type": "ROLE",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 67,
+                            "mention": "data user"
+                        },
+                        {
+                            "id": 68,
+                            "mention": "data user"
+                        },
+                        {
+                            "id": 69,
+                            "mention": "data user"
+                        },
+                        {
+                            "id": 70,
+                            "mention": "data user"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "data subjects",
+                    "type": "ROLE",
+                    "nelements": 15,
+                    "mentions": [
+                        {
+                            "id": 71,
+                            "mention": "data subjects"
+                        },
+                        {
+                            "id": 72,
+                            "mention": "data subjects"
+                        },
+                        {
+                            "id": 73,
+                            "mention": "data subjects"
+                        },
+                        {
+                            "id": 74,
+                            "mention": "data subjects"
+                        },
+                        {
+                            "id": 75,
+                            "mention": "data subjects"
+                        },
+                        {
+                            "id": 76,
+                            "mention": "data subjects"
+                        },
+                        {
+                            "id": 77,
+                            "mention": "data subjects"
+                        },
+                        {
+                            "id": 78,
+                            "mention": "data subjects"
+                        },
+                        {
+                            "id": 79,
+                            "mention": "data subjects"
+                        },
+                        {
+                            "id": 80,
+                            "mention": "data subjects"
+                        },
+                        {
+                            "id": 81,
+                            "mention": "data subjects"
+                        },
+                        {
+                            "id": 82,
+                            "mention": "data subjects"
+                        },
+                        {
+                            "id": 83,
+                            "mention": "data subjects"
+                        },
+                        {
+                            "id": 84,
+                            "mention": "data subjects"
+                        },
+                        {
+                            "id": 85,
+                            "mention": "data subjects"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "legal representative",
+                    "type": "ROLE",
+                    "nelements": 11,
+                    "mentions": [
+                        {
+                            "id": 86,
+                            "mention": "legal representative"
+                        },
+                        {
+                            "id": 87,
+                            "mention": "legal representative"
+                        },
+                        {
+                            "id": 88,
+                            "mention": "legal representative"
+                        },
+                        {
+                            "id": 89,
+                            "mention": "legal representative"
+                        },
+                        {
+                            "id": 90,
+                            "mention": "legal representative"
+                        },
+                        {
+                            "id": 91,
+                            "mention": "legal representative"
+                        },
+                        {
+                            "id": 92,
+                            "mention": "legal representative"
+                        },
+                        {
+                            "id": 93,
+                            "mention": "legal representative"
+                        },
+                        {
+                            "id": 94,
+                            "mention": "legal representative"
+                        },
+                        {
+                            "id": 95,
+                            "mention": "legal representative"
+                        },
+                        {
+                            "id": 96,
+                            "mention": "legal representative"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "title": "competent authority for data intermediation services",
+                    "type": "ROLE",
+                    "nelements": 24,
+                    "mentions": [
+                        {
+                            "id": 97,
+                            "mention": "competent authority for data intermediation services"
+                        },
+                        {
+                            "id": 98,
+                            "mention": "competent authority for data intermediation services"
+                        },
+                        {
+                            "id": 99,
+                            "mention": "competent authority for data intermediation services"
+                        },
+                        {
+                            "id": 100,
+                            "mention": "competent authority for data intermediation services"
+                        },
+                        {
+                            "id": 101,
+                            "mention": "competent authority for data intermediation services"
+                        },
+                        {
+                            "id": 102,
+                            "mention": "competent authority for data intermediation services"
+                        },
+                        {
+                            "id": 103,
+                            "mention": "competent authority for data intermediation services"
+                        },
+                        {
+                            "id": 104,
+                            "mention": "competent authority for data intermediation services"
+                        },
+                        {
+                            "id": 105,
+                            "mention": "competent authority for data intermediation services"
+                        },
+                        {
+                            "id": 106,
+                            "mention": "competent authority for data intermediation services"
+                        },
+                        {
+                            "id": 107,
+                            "mention": "competent authority for data intermediation services"
+                        },
+                        {
+                            "id": 108,
+                            "mention": "competent authority for data intermediation services"
+                        },
+                        {
+                            "id": 109,
+                            "mention": "competent authority for data intermediation services"
+                        },
+                        {
+                            "id": 110,
+                            "mention": "competent authority for data intermediation services"
+                        },
+                        {
+                            "id": 111,
+                            "mention": "competent authority for data intermediation services"
+                        },
+                        {
+                            "id": 112,
+                            "mention": "competent authority for data intermediation services"
+                        },
+                        {
+                            "id": 113,
+                            "mention": "competent authority for data intermediation services"
+                        },
+                        {
+                            "id": 114,
+                            "mention": "competent authority for data intermediation services"
+                        },
+                        {
+                            "id": 115,
+                            "mention": "competent authority for data intermediation services"
+                        },
+                        {
+                            "id": 116,
+                            "mention": "competent authority for data intermediation services"
+                        },
+                        {
+                            "id": 117,
+                            "mention": "competent authority for data intermediation services"
+                        },
+                        {
+                            "id": 118,
+                            "mention": "competent authority for data intermediation services"
+                        },
+                        {
+                            "id": 119,
+                            "mention": "competent authority for data intermediation services"
+                        },
+                        {
+                            "id": 120,
+                            "mention": "competent authority for data intermediation services"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "title": "Commission",
+                    "type": "AUTHORITY",
+                    "nelements": 9,
+                    "mentions": [
+                        {
+                            "id": 121,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 122,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 123,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 124,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 125,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 126,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 127,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 128,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 129,
+                            "mention": "Commission"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "title": "personal data",
+                    "type": "DATA.CAT",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 130,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 131,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 132,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 133,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 134,
+                            "mention": "personal data"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "title": "non-personal data",
+                    "type": "DATA.CAT",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 135,
+                            "mention": "non-personal data"
+                        },
+                        {
+                            "id": 136,
+                            "mention": "non-personal data"
+                        },
+                        {
+                            "id": 137,
+                            "mention": "non-personal data"
+                        },
+                        {
+                            "id": 138,
+                            "mention": "non-personal data"
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "title": "provision",
+                    "type": "DATA.OP",
+                    "nelements": 9,
+                    "mentions": [
+                        {
+                            "id": 139,
+                            "mention": "provision"
+                        },
+                        {
+                            "id": 140,
+                            "mention": "provision"
+                        },
+                        {
+                            "id": 141,
+                            "mention": "provision"
+                        },
+                        {
+                            "id": 142,
+                            "mention": "provision"
+                        },
+                        {
+                            "id": 143,
+                            "mention": "provision"
+                        },
+                        {
+                            "id": 144,
+                            "mention": "provision"
+                        },
+                        {
+                            "id": 145,
+                            "mention": "provision"
+                        },
+                        {
+                            "id": 146,
+                            "mention": "provision"
+                        },
+                        {
+                            "id": 147,
+                            "mention": "provision"
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "title": "notification",
+                    "type": "DATA.OP",
+                    "nelements": 18,
+                    "mentions": [
+                        {
+                            "id": 148,
+                            "mention": "notification"
+                        },
+                        {
+                            "id": 149,
+                            "mention": "Notification"
+                        },
+                        {
+                            "id": 150,
+                            "mention": "notification"
+                        },
+                        {
+                            "id": 151,
+                            "mention": "notification"
+                        },
+                        {
+                            "id": 152,
+                            "mention": "notification"
+                        },
+                        {
+                            "id": 153,
+                            "mention": "notification"
+                        },
+                        {
+                            "id": 154,
+                            "mention": "notification"
+                        },
+                        {
+                            "id": 155,
+                            "mention": "notification"
+                        },
+                        {
+                            "id": 156,
+                            "mention": "notification"
+                        },
+                        {
+                            "id": 157,
+                            "mention": "notification"
+                        },
+                        {
+                            "id": 158,
+                            "mention": "notification"
+                        },
+                        {
+                            "id": 159,
+                            "mention": "notification"
+                        },
+                        {
+                            "id": 160,
+                            "mention": "notification"
+                        },
+                        {
+                            "id": 161,
+                            "mention": "notification"
+                        },
+                        {
+                            "id": 162,
+                            "mention": "notification"
+                        },
+                        {
+                            "id": 163,
+                            "mention": "notification"
+                        },
+                        {
+                            "id": 164,
+                            "mention": "notification"
+                        },
+                        {
+                            "id": 165,
+                            "mention": "notification"
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "title": "facilitate",
+                    "type": "DATA.OP",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 166,
+                            "mention": "facilitate"
+                        }
+                    ]
+                },
+                {
+                    "id": 20,
+                    "title": "ensure compliance",
+                    "type": "DATA.OP",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 167,
+                            "mention": "ensure compliance"
+                        }
+                    ]
+                },
+                {
+                    "id": 21,
+                    "title": "monitor",
+                    "type": "DATA.OP",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 168,
+                            "mention": "monitor"
+                        },
+                        {
+                            "id": 169,
+                            "mention": "monitor"
+                        }
+                    ]
+                },
+                {
+                    "id": 22,
+                    "title": "supervise",
+                    "type": "DATA.OP",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 170,
+                            "mention": "supervise"
+                        },
+                        {
+                            "id": 171,
+                            "mention": "supervise"
+                        }
+                    ]
+                },
+                {
+                    "id": 23,
+                    "title": "inform",
+                    "type": "DATA.OP",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 172,
+                            "mention": "inform"
+                        }
+                    ]
+                },
+                {
+                    "id": 24,
+                    "title": "charge fees",
+                    "type": "DATA.OP",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 173,
+                            "mention": "charge fees"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "DataGovernanceAct_Chapter_III"
+}

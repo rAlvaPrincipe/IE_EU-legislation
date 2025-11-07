@@ -1,0 +1,993 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 42,
+                    "end": 52,
+                    "id": 0,
+                    "features": {
+                        "text": "Article 29"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1128,
+                    "end": 1138,
+                    "id": 1,
+                    "features": {
+                        "text": "Article 30"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1276,
+                    "end": 1286,
+                    "id": 2,
+                    "features": {
+                        "text": "Article 30"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1621,
+                    "end": 1631,
+                    "id": 3,
+                    "features": {
+                        "text": "Article 30"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1851,
+                    "end": 1861,
+                    "id": 4,
+                    "features": {
+                        "text": "Article 30"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2211,
+                    "end": 2223,
+                    "id": 5,
+                    "features": {
+                        "text": "Article 3(1)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6043,
+                    "end": 6055,
+                    "id": 6,
+                    "features": {
+                        "text": "Article 3(1)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2121,
+                    "end": 2133,
+                    "id": 7,
+                    "features": {
+                        "text": "Article 7(1)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7167,
+                    "end": 7180,
+                    "id": 8,
+                    "features": {
+                        "text": "Article 25(1)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7000,
+                    "end": 7013,
+                    "id": 9,
+                    "features": {
+                        "text": "Article 5(11)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2848,
+                    "end": 2858,
+                    "id": 10,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11,
+                    "end": 41,
+                    "id": 11,
+                    "features": {
+                        "text": "European Data Innovation Board"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 53,
+                    "end": 83,
+                    "id": 12,
+                    "features": {
+                        "text": "European Data Innovation Board"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 120,
+                    "end": 150,
+                    "id": 13,
+                    "features": {
+                        "text": "European Data Innovation Board"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 821,
+                    "end": 851,
+                    "id": 14,
+                    "features": {
+                        "text": "European Data Innovation Board"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1569,
+                    "end": 1599,
+                    "id": 15,
+                    "features": {
+                        "text": "European Data Innovation Board"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1718,
+                    "end": 1748,
+                    "id": 16,
+                    "features": {
+                        "text": "European Data Innovation Board"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1757,
+                    "end": 1787,
+                    "id": 17,
+                    "features": {
+                        "text": "European Data Innovation Board"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1875,
+                    "end": 1905,
+                    "id": 18,
+                    "features": {
+                        "text": "European Data Innovation Board"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1910,
+                    "end": 1940,
+                    "id": 19,
+                    "features": {
+                        "text": "European Data Innovation Board"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 91,
+                    "end": 101,
+                    "id": 20,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 467,
+                    "end": 477,
+                    "id": 21,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 711,
+                    "end": 721,
+                    "id": 22,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1675,
+                    "end": 1685,
+                    "id": 23,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1839,
+                    "end": 1849,
+                    "id": 24,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2002,
+                    "end": 2012,
+                    "id": 25,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2254,
+                    "end": 2264,
+                    "id": 26,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2378,
+                    "end": 2388,
+                    "id": 27,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2742,
+                    "end": 2752,
+                    "id": 28,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3134,
+                    "end": 3144,
+                    "id": 29,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3280,
+                    "end": 3290,
+                    "id": 30,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3863,
+                    "end": 3873,
+                    "id": 31,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6918,
+                    "end": 6928,
+                    "id": 32,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7071,
+                    "end": 7081,
+                    "id": 33,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7200,
+                    "end": 7210,
+                    "id": 34,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 220,
+                    "end": 274,
+                    "id": 35,
+                    "features": {
+                        "text": "competent authorities for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 940,
+                    "end": 994,
+                    "id": 36,
+                    "features": {
+                        "text": "competent authorities for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2444,
+                    "end": 2498,
+                    "id": 37,
+                    "features": {
+                        "text": "competent authorities for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6151,
+                    "end": 6205,
+                    "id": 38,
+                    "features": {
+                        "text": "competent authorities for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6698,
+                    "end": 6752,
+                    "id": 39,
+                    "features": {
+                        "text": "competent authorities for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 283,
+                    "end": 356,
+                    "id": 40,
+                    "features": {
+                        "text": "competent authorities for the registration of data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1003,
+                    "end": 1076,
+                    "id": 41,
+                    "features": {
+                        "text": "competent authorities for the registration of data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2507,
+                    "end": 2580,
+                    "id": 42,
+                    "features": {
+                        "text": "competent authorities for the registration of data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6210,
+                    "end": 6283,
+                    "id": 43,
+                    "features": {
+                        "text": "competent authorities for the registration of data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6757,
+                    "end": 6830,
+                    "id": 44,
+                    "features": {
+                        "text": "competent authorities for the registration of data altruism organisations"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 383,
+                    "end": 413,
+                    "id": 45,
+                    "features": {
+                        "text": "European Data Protection Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 419,
+                    "end": 454,
+                    "id": 46,
+                    "features": {
+                        "text": "European Data Protection Supervisor"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 456,
+                    "end": 461,
+                    "id": 47,
+                    "features": {
+                        "text": "ENISA"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 2883,
+                    "end": 2900,
+                    "id": 48,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 7269,
+                    "end": 7286,
+                    "id": 49,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 2177,
+                    "end": 2195,
+                    "id": 50,
+                    "features": {
+                        "text": "categories of data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 6009,
+                    "end": 6027,
+                    "id": 51,
+                    "features": {
+                        "text": "categories of data"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2163,
+                    "end": 2169,
+                    "id": 52,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 5995,
+                    "end": 6001,
+                    "id": 53,
+                    "features": {
+                        "text": "re-use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3232,
+                    "end": 3240,
+                    "id": 54,
+                    "features": {
+                        "text": "exchange"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3564,
+                    "end": 3572,
+                    "id": 55,
+                    "features": {
+                        "text": "exchange"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 5099,
+                    "end": 5107,
+                    "id": 56,
+                    "features": {
+                        "text": "exchange"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6318,
+                    "end": 6326,
+                    "id": 57,
+                    "features": {
+                        "text": "exchange"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6399,
+                    "end": 6407,
+                    "id": 58,
+                    "features": {
+                        "text": "exchange"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3245,
+                    "end": 3252,
+                    "id": 59,
+                    "features": {
+                        "text": "storage"
+                    }
+                },
+                {
+                    "type": "RISK/IMPACT",
+                    "start": 3052,
+                    "end": 3079,
+                    "id": 60,
+                    "features": {
+                        "text": "intellectual property theft"
+                    }
+                },
+                {
+                    "type": "RISK/IMPACT",
+                    "start": 3083,
+                    "end": 3103,
+                    "id": 61,
+                    "features": {
+                        "text": "industrial espionage"
+                    }
+                }
+            ],
+            "next_annid": 62
+        }
+    },
+    "text": "CHAPTER VI\nEuropean Data Innovation Board\nArticle 29\nEuropean Data Innovation Board\n1. The Commission shall establish a European Data Innovation Board in the form of an expert group, consisting of representatives of the competent authorities for data intermediation services and the competent authorities for the registration of data altruism organisations of all Member States, the European Data Protection Board, the European Data Protection Supervisor, ENISA, the Commission, the EU SME Envoy or a representative appointed by the network of SME envoys, and other representatives of relevant bodies in specific sectors as well as bodies with specific expertise.\nIn its appointments of individual experts, the Commission shall aim to achieve gender and geographical balance among the members of the expert group.\n2. The European Data Innovation Board shall consist of at least the following three subgroups:\n(a) a subgroup composed of the competent authorities for data intermediation services and the competent authorities for the registration of data altruism organisations, with a view to carrying out the tasks pursuant to Article 30, points (a), (c), (j) and (k);\n(b) a subgroup for technical discussions on standardisation, portability and interoperability pursuant to Article 30, points\n(f) and (g);\n(c) a subgroup for stakeholder involvement composed of relevant representatives from industry, research, academia, civil society, standardisation organisations, relevant common European data spaces and other relevant stakeholders and third parties advising the European Data Innovation Board on tasks pursuant to Article 30, points (d), (e), (f), (g) and (h).\n3. The Commission shall chair the meetings of the European Data Innovation Board.\n4. The European Data Innovation Board shall be assisted by a secretariat provided by the Commission.\nArticle 30\nTasks of the European Data Innovation Board\nThe European Data Innovation Board shall have the following tasks:\n(a) to advise and assist the Commission with regard to developing a consistent practice of public sector bodies and competent bodies referred to in Article 7(1) in handling requests for the re-use of the categories of data referred to in Article 3(1);\n(b) to advise and assist the Commission with regard to developing a consistent practice for data altruism across the Union;\n(c) to advise and assist the Commission with regard to developing a consistent practice of the competent authorities for data intermediation services and the competent authorities for the registration of data altruism organisations in the application of requirements applicable to data intermediation services providers and recognised data altruism organisations;\n(d) to advise and assist the Commission with regard to developing consistent guidelines on how to best protect, in the context of this Regulation, commercially sensitive non-personal data, in particular trade secrets, but also nonpersonal data representing content protected by intellectual property rights from unlawful access that risks intellectual property theft or industrial espionage;\n(e) to advise and assist the Commission with regard to developing consistent guidelines for cybersecurity requirements for the exchange and storage of data;\n(f) to advise the Commission, in particular taking into account the input from standardisation organisations, on the prioritisation of cross-sector standards to be used and developed for data use and cross-sector data sharing between emerging common European data spaces, cross-sectoral comparison and exchange of best practices with regard to sectoral requirements for security and access procedures, taking into account sector-specific standardisation activities, in particular clarifying and distinguishing which standards and practices are cross-sectoral and which are sectoral;\n(g) to assist the Commission, in particular taking into account the input from standardisation organisations, in addressing fragmentation of the internal market and the data economy in the internal market by enhancing cross-border, crosssector interoperability of data as well as data sharing services between different sectors and domains, building on existing European, international or national standards, inter alia with the aim of encouraging the creation of common European data spaces;\n(h) to propose guidelines for common European data spaces, namely purpose- or sector-specific or cross-sectoral interoperable frameworks of common standards and practices to share or jointly process data for, inter alia, the development of new products and services, scientific research or civil society initiatives, such common standards and practices taking into account existing standards, complying with the competition rules and ensuring nondiscriminatory access to all participants, for the purpose of facilitating data sharing in the Union and reaping the potential of existing and future data spaces, addressing, inter alia:\n(i) cross-sectoral standards to be used and developed for data use and cross-sector data sharing, cross-sectoral comparison and exchange of best practices with regard to sectoral requirements for security and access procedures, taking into account sector-specific standardisation activities, in particular clarifying and distinguishing which standards and practices are cross-sectoral and which are sectoral;\n(ii) requirements to counter barriers to market entry and to avoid lock-in effects, for the purpose of ensuring fair competition and interoperability;\n3.6.2022\n(iii) adequate protection for lawful data transfers to third countries, including safeguards against any transfers prohibited by Union law;\n(iv) adequate and non-discriminatory representation of relevant stakeholders in the governance of common European data spaces;\n(v) adherence to cybersecurity requirements in accordance with Union law;\n(i) to facilitate cooperation between Member States with regard to setting harmonised conditions allowing for the re-use of the categories of data referred to in Article 3(1) held by public sector bodies across the internal market;\n(j) to facilitate cooperation between competent authorities for data intermediation services and competent authorities for the registration of data altruism organisations through capacity-building and the exchange of information, in particular by establishing methods for the efficient exchange of information relating to the notification procedure for data intermediation services providers and the registration and monitoring of recognised data altruism organisations, including coordination with regard to the setting of fees or penalties, as well as facilitate cooperation between competent authorities for data intermediation services and competent authorities for the registration of data altruism organisations with regard to international access and transfer of data;\n(k) to advise and assist the Commission with regard to evaluating whether the implementing acts referred to in Article 5(11) and (12) are to be adopted;\n(l) to advise and assist the Commission with regard to developing the European data altruism consent form in accordance with Article 25(1);\n(m) to advise the Commission on improving the international regulatory environment for non-personal data, including standardisation.\n",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Article 29",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Article 29"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Article 30",
+                    "type": "REGULATION",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 1,
+                            "mention": "Article 30"
+                        },
+                        {
+                            "id": 2,
+                            "mention": "Article 30"
+                        },
+                        {
+                            "id": 3,
+                            "mention": "Article 30"
+                        },
+                        {
+                            "id": 4,
+                            "mention": "Article 30"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Article 3(1)",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 5,
+                            "mention": "Article 3(1)"
+                        },
+                        {
+                            "id": 6,
+                            "mention": "Article 3(1)"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Article 7(1)",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 7,
+                            "mention": "Article 7(1)"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Article 25(1)",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 8,
+                            "mention": "Article 25(1)"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Article 5(11)",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 9,
+                            "mention": "Article 5(11)"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "Regulation",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 10,
+                            "mention": "Regulation"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "European Data Innovation Board",
+                    "type": "ROLE",
+                    "nelements": 9,
+                    "mentions": [
+                        {
+                            "id": 11,
+                            "mention": "European Data Innovation Board"
+                        },
+                        {
+                            "id": 12,
+                            "mention": "European Data Innovation Board"
+                        },
+                        {
+                            "id": 13,
+                            "mention": "European Data Innovation Board"
+                        },
+                        {
+                            "id": 14,
+                            "mention": "European Data Innovation Board"
+                        },
+                        {
+                            "id": 15,
+                            "mention": "European Data Innovation Board"
+                        },
+                        {
+                            "id": 16,
+                            "mention": "European Data Innovation Board"
+                        },
+                        {
+                            "id": 17,
+                            "mention": "European Data Innovation Board"
+                        },
+                        {
+                            "id": 18,
+                            "mention": "European Data Innovation Board"
+                        },
+                        {
+                            "id": 19,
+                            "mention": "European Data Innovation Board"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "Commission",
+                    "type": "ROLE",
+                    "nelements": 15,
+                    "mentions": [
+                        {
+                            "id": 20,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 21,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 22,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 23,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 24,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 25,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 26,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 27,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 28,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 29,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 30,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 31,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 32,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 33,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 34,
+                            "mention": "Commission"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "competent authorities for data intermediation services",
+                    "type": "ROLE",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 35,
+                            "mention": "competent authorities for data intermediation services"
+                        },
+                        {
+                            "id": 36,
+                            "mention": "competent authorities for data intermediation services"
+                        },
+                        {
+                            "id": 37,
+                            "mention": "competent authorities for data intermediation services"
+                        },
+                        {
+                            "id": 38,
+                            "mention": "competent authorities for data intermediation services"
+                        },
+                        {
+                            "id": 39,
+                            "mention": "competent authorities for data intermediation services"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "competent authorities for the registration of data altruism organisations",
+                    "type": "ROLE",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 40,
+                            "mention": "competent authorities for the registration of data altruism organisations"
+                        },
+                        {
+                            "id": 41,
+                            "mention": "competent authorities for the registration of data altruism organisations"
+                        },
+                        {
+                            "id": 42,
+                            "mention": "competent authorities for the registration of data altruism organisations"
+                        },
+                        {
+                            "id": 43,
+                            "mention": "competent authorities for the registration of data altruism organisations"
+                        },
+                        {
+                            "id": 44,
+                            "mention": "competent authorities for the registration of data altruism organisations"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "European Data Protection Board",
+                    "type": "AUTHORITY",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 45,
+                            "mention": "European Data Protection Board"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "title": "European Data Protection Supervisor",
+                    "type": "AUTHORITY",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 46,
+                            "mention": "European Data Protection Supervisor"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "title": "ENISA",
+                    "type": "AUTHORITY",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 47,
+                            "mention": "ENISA"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "title": "non-personal data",
+                    "type": "DATA.CAT",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 48,
+                            "mention": "non-personal data"
+                        },
+                        {
+                            "id": 49,
+                            "mention": "non-personal data"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "title": "categories of data",
+                    "type": "DATA.CAT",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 50,
+                            "mention": "categories of data"
+                        },
+                        {
+                            "id": 51,
+                            "mention": "categories of data"
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "title": "re-use",
+                    "type": "DATA.OP",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 52,
+                            "mention": "re-use"
+                        },
+                        {
+                            "id": 53,
+                            "mention": "re-use"
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "title": "exchange",
+                    "type": "DATA.OP",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 54,
+                            "mention": "exchange"
+                        },
+                        {
+                            "id": 55,
+                            "mention": "exchange"
+                        },
+                        {
+                            "id": 56,
+                            "mention": "exchange"
+                        },
+                        {
+                            "id": 57,
+                            "mention": "exchange"
+                        },
+                        {
+                            "id": 58,
+                            "mention": "exchange"
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "title": "storage",
+                    "type": "DATA.OP",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 59,
+                            "mention": "storage"
+                        }
+                    ]
+                },
+                {
+                    "id": 20,
+                    "title": "intellectual property theft",
+                    "type": "RISK/IMPACT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 60,
+                            "mention": "intellectual property theft"
+                        }
+                    ]
+                },
+                {
+                    "id": 21,
+                    "title": "industrial espionage",
+                    "type": "RISK/IMPACT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 61,
+                            "mention": "industrial espionage"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "DataGovernanceAct_Chapter_VI"
+}

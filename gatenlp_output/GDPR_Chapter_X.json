@@ -1,0 +1,379 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 47,
+                    "end": 57,
+                    "id": 0,
+                    "features": {
+                        "text": "Article 92"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 248,
+                    "end": 261,
+                    "id": 1,
+                    "features": {
+                        "text": "Article 12(8)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 413,
+                    "end": 426,
+                    "id": 2,
+                    "features": {
+                        "text": "Article 12(8)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1008,
+                    "end": 1021,
+                    "id": 3,
+                    "features": {
+                        "text": "Article 12(8)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 266,
+                    "end": 279,
+                    "id": 4,
+                    "features": {
+                        "text": "Article 43(8)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 431,
+                    "end": 444,
+                    "id": 5,
+                    "features": {
+                        "text": "Article 43(8)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1026,
+                    "end": 1039,
+                    "id": 6,
+                    "features": {
+                        "text": "Article 43(8)"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 142,
+                    "end": 152,
+                    "id": 7,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 306,
+                    "end": 316,
+                    "id": 8,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 880,
+                    "end": 890,
+                    "id": 9,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1359,
+                    "end": 1369,
+                    "id": 10,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1545,
+                    "end": 1555,
+                    "id": 11,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 479,
+                    "end": 498,
+                    "id": 12,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 929,
+                    "end": 948,
+                    "id": 13,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1117,
+                    "end": 1136,
+                    "id": 14,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1219,
+                    "end": 1238,
+                    "id": 15,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1300,
+                    "end": 1319,
+                    "id": 16,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1468,
+                    "end": 1487,
+                    "id": 17,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 509,
+                    "end": 516,
+                    "id": 18,
+                    "features": {
+                        "text": "Council"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 960,
+                    "end": 967,
+                    "id": 19,
+                    "features": {
+                        "text": "Council"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1144,
+                    "end": 1151,
+                    "id": 20,
+                    "features": {
+                        "text": "Council"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1247,
+                    "end": 1254,
+                    "id": 21,
+                    "features": {
+                        "text": "Council"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1328,
+                    "end": 1335,
+                    "id": 22,
+                    "features": {
+                        "text": "Council"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1498,
+                    "end": 1505,
+                    "id": 23,
+                    "features": {
+                        "text": "Council"
+                    }
+                }
+            ],
+            "next_annid": 24
+        }
+    },
+    "text": "CHAPTER X\nDelegated acts and implementing acts\nArticle 92\nExercise of the delegation\n1. The power to adopt delegated acts is conferred on the Commission\nsubject to the conditions laid down in this Article.\n2. The delegation of power referred to in Article 12(8) and\nArticle 43(8) shall be conferred on the Commission for an indeterminate\nperiod of time from 24 May 2016.\n3. The delegation of power referred to in Article 12(8) and\nArticle 43(8) may be revoked at any time by the European Parliament\nor by the Council. A decision of revocation shall put an end to the\ndelegation of power specified in that decision. It shall take effect the\nday following that of its publication in the Official Journal of the\nEuropean Union or at a later date specified therein. It shall not affect\nthe validity of any delegated acts already in force.\n4. As soon as it adopts a delegated act, the Commission shall notify\nit simultaneously to the European Parliament and to the Council.\n5. A delegated act adopted pursuant to Article 12(8) and Article 43(8)\nshall enter into force only if no objection has been expressed by either\nthe European Parliament or the Council within a period of three months\nof notification of that act to the European Parliament and the Council or\nif, before the expiry of that period, the European Parliament and the\nCouncil have both informed the Commission that they will not object.\nThat period shall be extended by three months at the initiative of the\nEuropean Parliament or of the Council.\nArticle 93\nCommittee procedure\n1. The Commission shall be assisted by a committee. That committee\nshall be a committee within the meaning of Regulation (EU)\nNo 182/2011.\n2. Where reference is made to this paragraph, Article 5 of Regu\u00ad\nlation (EU) No 182/2011 shall apply.\n3. Where reference is made to this paragraph, Article 8 of Regu\u00ad\nlation (EU) No 182/2011, in conjunction with Article 5 thereof, shall\napply.\n",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Article 92",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Article 92"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Article 12(8)",
+                    "type": "REGULATION",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 1,
+                            "mention": "Article 12(8)"
+                        },
+                        {
+                            "id": 2,
+                            "mention": "Article 12(8)"
+                        },
+                        {
+                            "id": 3,
+                            "mention": "Article 12(8)"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Article 43(8)",
+                    "type": "REGULATION",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 4,
+                            "mention": "Article 43(8)"
+                        },
+                        {
+                            "id": 5,
+                            "mention": "Article 43(8)"
+                        },
+                        {
+                            "id": 6,
+                            "mention": "Article 43(8)"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Commission",
+                    "type": "ROLE",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 7,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 8,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 9,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 10,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 11,
+                            "mention": "Commission"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "European Parliament",
+                    "type": "ROLE",
+                    "nelements": 6,
+                    "mentions": [
+                        {
+                            "id": 12,
+                            "mention": "European Parliament"
+                        },
+                        {
+                            "id": 13,
+                            "mention": "European Parliament"
+                        },
+                        {
+                            "id": 14,
+                            "mention": "European Parliament"
+                        },
+                        {
+                            "id": 15,
+                            "mention": "European Parliament"
+                        },
+                        {
+                            "id": 16,
+                            "mention": "European Parliament"
+                        },
+                        {
+                            "id": 17,
+                            "mention": "European Parliament"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Council",
+                    "type": "ROLE",
+                    "nelements": 6,
+                    "mentions": [
+                        {
+                            "id": 18,
+                            "mention": "Council"
+                        },
+                        {
+                            "id": 19,
+                            "mention": "Council"
+                        },
+                        {
+                            "id": 20,
+                            "mention": "Council"
+                        },
+                        {
+                            "id": 21,
+                            "mention": "Council"
+                        },
+                        {
+                            "id": 22,
+                            "mention": "Council"
+                        },
+                        {
+                            "id": 23,
+                            "mention": "Council"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "GDPR_Chapter_X"
+}

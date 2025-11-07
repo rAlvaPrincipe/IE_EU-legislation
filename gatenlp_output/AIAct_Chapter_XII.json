@@ -1,0 +1,2559 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 22,
+                    "end": 32,
+                    "id": 0,
+                    "features": {
+                        "text": "Article 99"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 108,
+                    "end": 118,
+                    "id": 1,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 299,
+                    "end": 309,
+                    "id": 2,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3577,
+                    "end": 3587,
+                    "id": 3,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5500,
+                    "end": 5510,
+                    "id": 4,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5691,
+                    "end": 5701,
+                    "id": 5,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 8969,
+                    "end": 8979,
+                    "id": 6,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 11062,
+                    "end": 11072,
+                    "id": 7,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 12886,
+                    "end": 12896,
+                    "id": 8,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14708,
+                    "end": 14718,
+                    "id": 9,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 504,
+                    "end": 514,
+                    "id": 10,
+                    "features": {
+                        "text": "Article 96"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5896,
+                    "end": 5906,
+                    "id": 11,
+                    "features": {
+                        "text": "Article 96"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1052,
+                    "end": 1061,
+                    "id": 12,
+                    "features": {
+                        "text": "Article 5"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6444,
+                    "end": 6453,
+                    "id": 13,
+                    "features": {
+                        "text": "Article 5"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 12724,
+                    "end": 12733,
+                    "id": 14,
+                    "features": {
+                        "text": "Article 5"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 12928,
+                    "end": 12937,
+                    "id": 15,
+                    "features": {
+                        "text": "Article 5"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1657,
+                    "end": 1667,
+                    "id": 16,
+                    "features": {
+                        "text": "Article 16"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7049,
+                    "end": 7059,
+                    "id": 17,
+                    "features": {
+                        "text": "Article 16"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1727,
+                    "end": 1737,
+                    "id": 18,
+                    "features": {
+                        "text": "Article 22"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7119,
+                    "end": 7129,
+                    "id": 19,
+                    "features": {
+                        "text": "Article 22"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1780,
+                    "end": 1790,
+                    "id": 20,
+                    "features": {
+                        "text": "Article 23"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7172,
+                    "end": 7182,
+                    "id": 21,
+                    "features": {
+                        "text": "Article 23"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1836,
+                    "end": 1846,
+                    "id": 22,
+                    "features": {
+                        "text": "Article 24"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7228,
+                    "end": 7238,
+                    "id": 23,
+                    "features": {
+                        "text": "Article 24"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1889,
+                    "end": 1899,
+                    "id": 24,
+                    "features": {
+                        "text": "Article 26"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7281,
+                    "end": 7291,
+                    "id": 25,
+                    "features": {
+                        "text": "Article 26"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1965,
+                    "end": 1975,
+                    "id": 26,
+                    "features": {
+                        "text": "Article 31"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7357,
+                    "end": 7367,
+                    "id": 27,
+                    "features": {
+                        "text": "Article 31"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1977,
+                    "end": 1990,
+                    "id": 28,
+                    "features": {
+                        "text": "Article 33(1)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7369,
+                    "end": 7382,
+                    "id": 29,
+                    "features": {
+                        "text": "Article 33(1)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2007,
+                    "end": 2017,
+                    "id": 30,
+                    "features": {
+                        "text": "Article 34"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7399,
+                    "end": 7409,
+                    "id": 31,
+                    "features": {
+                        "text": "Article 34"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2088,
+                    "end": 2098,
+                    "id": 32,
+                    "features": {
+                        "text": "Article 50"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7480,
+                    "end": 7490,
+                    "id": 33,
+                    "features": {
+                        "text": "Article 50"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 10817,
+                    "end": 10828,
+                    "id": 34,
+                    "features": {
+                        "text": "Article 100"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14318,
+                    "end": 14329,
+                    "id": 35,
+                    "features": {
+                        "text": "Article 101"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14802,
+                    "end": 14812,
+                    "id": 36,
+                    "features": {
+                        "text": "Article 91"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14927,
+                    "end": 14937,
+                    "id": 37,
+                    "features": {
+                        "text": "Article 93"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 15449,
+                    "end": 15459,
+                    "id": 38,
+                    "features": {
+                        "text": "Article 93"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 16981,
+                    "end": 16991,
+                    "id": 39,
+                    "features": {
+                        "text": "Article 93"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 15146,
+                    "end": 15156,
+                    "id": 40,
+                    "features": {
+                        "text": "Article 92"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 16678,
+                    "end": 16688,
+                    "id": 41,
+                    "features": {
+                        "text": "Article 92"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14949,
+                    "end": 14960,
+                    "id": 42,
+                    "features": {
+                        "text": "Article 104"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 16481,
+                    "end": 16492,
+                    "id": 43,
+                    "features": {
+                        "text": "Article 104"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 120,
+                    "end": 133,
+                    "id": 44,
+                    "features": {
+                        "text": "Member States"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 703,
+                    "end": 716,
+                    "id": 45,
+                    "features": {
+                        "text": "Member States"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4719,
+                    "end": 4732,
+                    "id": 46,
+                    "features": {
+                        "text": "Member States"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4899,
+                    "end": 4912,
+                    "id": 47,
+                    "features": {
+                        "text": "Member States"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4953,
+                    "end": 4966,
+                    "id": 48,
+                    "features": {
+                        "text": "Member States"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5202,
+                    "end": 5215,
+                    "id": 49,
+                    "features": {
+                        "text": "Member States"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5512,
+                    "end": 5525,
+                    "id": 50,
+                    "features": {
+                        "text": "Member States"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6095,
+                    "end": 6108,
+                    "id": 51,
+                    "features": {
+                        "text": "Member States"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10111,
+                    "end": 10124,
+                    "id": 52,
+                    "features": {
+                        "text": "Member States"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10291,
+                    "end": 10304,
+                    "id": 53,
+                    "features": {
+                        "text": "Member States"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10345,
+                    "end": 10358,
+                    "id": 54,
+                    "features": {
+                        "text": "Member States"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10594,
+                    "end": 10607,
+                    "id": 55,
+                    "features": {
+                        "text": "Member States"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 313,
+                    "end": 322,
+                    "id": 56,
+                    "features": {
+                        "text": "operators"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1336,
+                    "end": 1345,
+                    "id": 57,
+                    "features": {
+                        "text": "operators"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5705,
+                    "end": 5714,
+                    "id": 58,
+                    "features": {
+                        "text": "operators"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6728,
+                    "end": 6737,
+                    "id": 59,
+                    "features": {
+                        "text": "operators"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1635,
+                    "end": 1644,
+                    "id": 60,
+                    "features": {
+                        "text": "providers"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2052,
+                    "end": 2061,
+                    "id": 61,
+                    "features": {
+                        "text": "providers"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7027,
+                    "end": 7036,
+                    "id": 62,
+                    "features": {
+                        "text": "providers"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7444,
+                    "end": 7453,
+                    "id": 63,
+                    "features": {
+                        "text": "providers"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14340,
+                    "end": 14349,
+                    "id": 64,
+                    "features": {
+                        "text": "providers"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14411,
+                    "end": 14420,
+                    "id": 65,
+                    "features": {
+                        "text": "providers"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1688,
+                    "end": 1714,
+                    "id": 66,
+                    "features": {
+                        "text": "authorised representatives"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7080,
+                    "end": 7106,
+                    "id": 67,
+                    "features": {
+                        "text": "authorised representatives"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1758,
+                    "end": 1767,
+                    "id": 68,
+                    "features": {
+                        "text": "importers"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7150,
+                    "end": 7159,
+                    "id": 69,
+                    "features": {
+                        "text": "importers"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1811,
+                    "end": 1823,
+                    "id": 70,
+                    "features": {
+                        "text": "distributors"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7203,
+                    "end": 7215,
+                    "id": 71,
+                    "features": {
+                        "text": "distributors"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1867,
+                    "end": 1876,
+                    "id": 72,
+                    "features": {
+                        "text": "deployers"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2066,
+                    "end": 2075,
+                    "id": 73,
+                    "features": {
+                        "text": "deployers"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7259,
+                    "end": 7268,
+                    "id": 74,
+                    "features": {
+                        "text": "deployers"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7458,
+                    "end": 7467,
+                    "id": 75,
+                    "features": {
+                        "text": "deployers"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1349,
+                    "end": 1364,
+                    "id": 76,
+                    "features": {
+                        "text": "notified bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1937,
+                    "end": 1952,
+                    "id": 77,
+                    "features": {
+                        "text": "notified bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2178,
+                    "end": 2193,
+                    "id": 78,
+                    "features": {
+                        "text": "notified bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6741,
+                    "end": 6756,
+                    "id": 79,
+                    "features": {
+                        "text": "notified bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7329,
+                    "end": 7344,
+                    "id": 80,
+                    "features": {
+                        "text": "notified bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7570,
+                    "end": 7585,
+                    "id": 81,
+                    "features": {
+                        "text": "notified bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10853,
+                    "end": 10871,
+                    "id": 82,
+                    "features": {
+                        "text": "Union institutions"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10980,
+                    "end": 10998,
+                    "id": 83,
+                    "features": {
+                        "text": "Union institutions"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1358,
+                    "end": 1364,
+                    "id": 84,
+                    "features": {
+                        "text": "bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1946,
+                    "end": 1952,
+                    "id": 85,
+                    "features": {
+                        "text": "bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2187,
+                    "end": 2193,
+                    "id": 86,
+                    "features": {
+                        "text": "bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4638,
+                    "end": 4644,
+                    "id": 87,
+                    "features": {
+                        "text": "bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4868,
+                    "end": 4874,
+                    "id": 88,
+                    "features": {
+                        "text": "bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6750,
+                    "end": 6756,
+                    "id": 89,
+                    "features": {
+                        "text": "bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7338,
+                    "end": 7344,
+                    "id": 90,
+                    "features": {
+                        "text": "bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7579,
+                    "end": 7585,
+                    "id": 91,
+                    "features": {
+                        "text": "bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10030,
+                    "end": 10036,
+                    "id": 92,
+                    "features": {
+                        "text": "bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10260,
+                    "end": 10266,
+                    "id": 93,
+                    "features": {
+                        "text": "bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10873,
+                    "end": 10879,
+                    "id": 94,
+                    "features": {
+                        "text": "bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11000,
+                    "end": 11006,
+                    "id": 95,
+                    "features": {
+                        "text": "bodies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10881,
+                    "end": 10888,
+                    "id": 96,
+                    "features": {
+                        "text": "offices"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11008,
+                    "end": 11015,
+                    "id": 97,
+                    "features": {
+                        "text": "offices"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10893,
+                    "end": 10901,
+                    "id": 98,
+                    "features": {
+                        "text": "agencies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11020,
+                    "end": 11028,
+                    "id": 99,
+                    "features": {
+                        "text": "agencies"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10909,
+                    "end": 10944,
+                    "id": 100,
+                    "features": {
+                        "text": "European Data Protection Supervisor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11922,
+                    "end": 11957,
+                    "id": 101,
+                    "features": {
+                        "text": "European Data Protection Supervisor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12129,
+                    "end": 12164,
+                    "id": 102,
+                    "features": {
+                        "text": "European Data Protection Supervisor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12419,
+                    "end": 12454,
+                    "id": 103,
+                    "features": {
+                        "text": "European Data Protection Supervisor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 13059,
+                    "end": 13094,
+                    "id": 104,
+                    "features": {
+                        "text": "European Data Protection Supervisor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 13209,
+                    "end": 13244,
+                    "id": 105,
+                    "features": {
+                        "text": "European Data Protection Supervisor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 13331,
+                    "end": 13366,
+                    "id": 106,
+                    "features": {
+                        "text": "European Data Protection Supervisor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 13704,
+                    "end": 13739,
+                    "id": 107,
+                    "features": {
+                        "text": "European Data Protection Supervisor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14101,
+                    "end": 14136,
+                    "id": 108,
+                    "features": {
+                        "text": "European Data Protection Supervisor"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 481,
+                    "end": 491,
+                    "id": 109,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 806,
+                    "end": 816,
+                    "id": 110,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 5257,
+                    "end": 5267,
+                    "id": 111,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 5873,
+                    "end": 5883,
+                    "id": 112,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6198,
+                    "end": 6208,
+                    "id": 113,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 10649,
+                    "end": 10659,
+                    "id": 114,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 14175,
+                    "end": 14185,
+                    "id": 115,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 14386,
+                    "end": 14396,
+                    "id": 116,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 14597,
+                    "end": 14607,
+                    "id": 117,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 14997,
+                    "end": 15007,
+                    "id": 118,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 15378,
+                    "end": 15388,
+                    "id": 119,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 15593,
+                    "end": 15603,
+                    "id": 120,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 16048,
+                    "end": 16058,
+                    "id": 121,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 16152,
+                    "end": 16162,
+                    "id": 122,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 16529,
+                    "end": 16539,
+                    "id": 123,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 16910,
+                    "end": 16920,
+                    "id": 124,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 17125,
+                    "end": 17135,
+                    "id": 125,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 17580,
+                    "end": 17590,
+                    "id": 126,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 17684,
+                    "end": 17694,
+                    "id": 127,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 10909,
+                    "end": 10944,
+                    "id": 128,
+                    "features": {
+                        "text": "European Data Protection Supervisor"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 11922,
+                    "end": 11957,
+                    "id": 129,
+                    "features": {
+                        "text": "European Data Protection Supervisor"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 12129,
+                    "end": 12164,
+                    "id": 130,
+                    "features": {
+                        "text": "European Data Protection Supervisor"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 12419,
+                    "end": 12454,
+                    "id": 131,
+                    "features": {
+                        "text": "European Data Protection Supervisor"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 13059,
+                    "end": 13094,
+                    "id": 132,
+                    "features": {
+                        "text": "European Data Protection Supervisor"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 13209,
+                    "end": 13244,
+                    "id": 133,
+                    "features": {
+                        "text": "European Data Protection Supervisor"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 13331,
+                    "end": 13366,
+                    "id": 134,
+                    "features": {
+                        "text": "European Data Protection Supervisor"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 13704,
+                    "end": 13739,
+                    "id": 135,
+                    "features": {
+                        "text": "European Data Protection Supervisor"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 14101,
+                    "end": 14136,
+                    "id": 136,
+                    "features": {
+                        "text": "European Data Protection Supervisor"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2197,
+                    "end": 2227,
+                    "id": 137,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3917,
+                    "end": 3947,
+                    "id": 138,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4239,
+                    "end": 4269,
+                    "id": 139,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 7589,
+                    "end": 7619,
+                    "id": 140,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 9309,
+                    "end": 9339,
+                    "id": 141,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 9631,
+                    "end": 9661,
+                    "id": 142,
+                    "features": {
+                        "text": "national competent authorities"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1082,
+                    "end": 1102,
+                    "id": 143,
+                    "features": {
+                        "text": "administrative fines"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1428,
+                    "end": 1448,
+                    "id": 144,
+                    "features": {
+                        "text": "administrative fines"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2270,
+                    "end": 2290,
+                    "id": 145,
+                    "features": {
+                        "text": "administrative fines"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3179,
+                    "end": 3199,
+                    "id": 146,
+                    "features": {
+                        "text": "administrative fines"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3327,
+                    "end": 3347,
+                    "id": 147,
+                    "features": {
+                        "text": "administrative fines"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4576,
+                    "end": 4596,
+                    "id": 148,
+                    "features": {
+                        "text": "administrative fines"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4747,
+                    "end": 4767,
+                    "id": 149,
+                    "features": {
+                        "text": "administrative fines"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 5278,
+                    "end": 5298,
+                    "id": 150,
+                    "features": {
+                        "text": "administrative fines"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6474,
+                    "end": 6494,
+                    "id": 151,
+                    "features": {
+                        "text": "administrative fines"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6820,
+                    "end": 6840,
+                    "id": 152,
+                    "features": {
+                        "text": "administrative fines"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7662,
+                    "end": 7682,
+                    "id": 153,
+                    "features": {
+                        "text": "administrative fines"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 8571,
+                    "end": 8591,
+                    "id": 154,
+                    "features": {
+                        "text": "administrative fines"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 8719,
+                    "end": 8739,
+                    "id": 155,
+                    "features": {
+                        "text": "administrative fines"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 9968,
+                    "end": 9988,
+                    "id": 156,
+                    "features": {
+                        "text": "administrative fines"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10139,
+                    "end": 10159,
+                    "id": 157,
+                    "features": {
+                        "text": "administrative fines"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10670,
+                    "end": 10690,
+                    "id": 158,
+                    "features": {
+                        "text": "administrative fines"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10829,
+                    "end": 10849,
+                    "id": 159,
+                    "features": {
+                        "text": "Administrative fines"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10956,
+                    "end": 10976,
+                    "id": 160,
+                    "features": {
+                        "text": "administrative fines"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 12754,
+                    "end": 12774,
+                    "id": 161,
+                    "features": {
+                        "text": "administrative fines"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 12959,
+                    "end": 12979,
+                    "id": 162,
+                    "features": {
+                        "text": "administrative fines"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 14193,
+                    "end": 14213,
+                    "id": 163,
+                    "features": {
+                        "text": "administrative fines"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 981,
+                    "end": 995,
+                    "id": 164,
+                    "features": {
+                        "text": "Non-compliance"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1273,
+                    "end": 1287,
+                    "id": 165,
+                    "features": {
+                        "text": "Non-compliance"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6373,
+                    "end": 6387,
+                    "id": 166,
+                    "features": {
+                        "text": "Non-compliance"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6665,
+                    "end": 6679,
+                    "id": 167,
+                    "features": {
+                        "text": "Non-compliance"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 12653,
+                    "end": 12667,
+                    "id": 168,
+                    "features": {
+                        "text": "Non-compliance"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 12806,
+                    "end": 12820,
+                    "id": 169,
+                    "features": {
+                        "text": "non-compliance"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2117,
+                    "end": 2174,
+                    "id": 170,
+                    "features": {
+                        "text": "supply of incorrect, incomplete or misleading information"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7509,
+                    "end": 7566,
+                    "id": 171,
+                    "features": {
+                        "text": "supply of incorrect, incomplete or misleading information"
+                    }
+                }
+            ],
+            "next_annid": 172
+        }
+    },
+    "text": "CHAPTER XII\nPENALTIES\nArticle 99\nPenalties\n1. In accordance with the terms and conditions laid down in this Regulation, Member States shall lay down the rules on penalties and other enforcement measures, which may also include warnings and non-monetary measures, applicable to infringements of this Regulation by operators, and shall take all measures necessary to ensure that they are properly and effectively implemented, thereby taking into account the guidelines issued by the Commission pursuant to Article 96.\nThe penalties provided for shall be effective, proportionate and dissuasive.\nThey shall take into account the interests of SMEs, including start-ups, and their economic viability.\n2. The Member States shall, without delay and at the latest by the date of entry into application, notify the Commission of the rules on penalties and of other enforcement measures referred to in paragraph 1, and shall notify it, without delay, of any subsequent amendment to them.\n3. Non-compliance with the prohibition of the AI practices referred to in Article 5 shall be subject to administrative fines of up to EUR 35 000 000 or, if the offender is an undertaking, up to 7 % of its total worldwide annual turnover for the preceding financial year, whichever is higher.\n4. Non-compliance with any of the following provisions related to operators or notified bodies, other than those laid down in Articles 5, shall be subject to administrative fines of up to EUR 15 000 000 or, if the offender is an undertaking, up to 3 % of its total worldwide annual turnover for the preceding financial year, whichever is higher:\n(a) obligations of providers pursuant to Article 16;\n(b) obligations of authorised representatives pursuant to Article 22;\n(c) obligations of importers pursuant to Article 23;\n(d) obligations of distributors pursuant to Article 24;\n(e) obligations of deployers pursuant to Article 26;\n(f) requirements and obligations of notified bodies pursuant to Article 31, Article 33(1), (3) and (4) or Article 34;\n(g) transparency obligations for providers and deployers pursuant to Article 50.\n12.7.2024\n5. The supply of incorrect, incomplete or misleading information to notified bodies or national competent authorities in reply to a request shall be subject to administrative fines of up to EUR 7 500 000 or, if the offender is an undertaking, up to 1 % of its total worldwide annual turnover for the preceding financial year, whichever is higher.\n6. In the case of SMEs, including start-ups, each fine referred to in this Article shall be up to the percentages or amount referred to in paragraphs 3, 4 and 5, whichever thereof is lower.\n7. When deciding whether to impose an administrative fine and when deciding on the amount of the administrative fine in each individual case, all relevant circumstances of the specific situation shall be taken into account and, as appropriate, regard shall be given to the following:\n(a) the nature, gravity and duration of the infringement and of its consequences, taking into account the purpose of the AI system, as well as, where appropriate, the number of affected persons and the level of damage suffered by them;\n(b) whether administrative fines have already been applied by other market surveillance authorities to the same operator for the same infringement;\n(c) whether administrative fines have already been applied by other authorities to the same operator for infringements of other Union or national law, when such infringements result from the same activity or omission constituting a relevant infringement of this Regulation;\n(d) the size, the annual turnover and market share of the operator committing the infringement;\n(e) any other aggravating or mitigating factor applicable to the circumstances of the case, such as financial benefits gained, or losses avoided, directly or indirectly, from the infringement;\n(f) the degree of cooperation with the national competent authorities, in order to remedy the infringement and mitigate the possible adverse effects of the infringement;\n(g) the degree of responsibility of the operator taking into account the technical and organisational measures implemented by it;\n(h) the manner in which the infringement became known to the national competent authorities, in particular whether, and if so to what extent, the operator notified the infringement;\n(i) the intentional or negligent character of the infringement;\n(j) any action taken by the operator to mitigate the harm suffered by the affected persons.\n8. Each Member State shall lay down rules on to what extent administrative fines may be imposed on public authorities and bodies established in that Member State.\n9. Depending on the legal system of the Member States, the rules on administrative fines may be applied in such a manner that the fines are imposed by competent national courts or by other bodies, as applicable in those Member States.\nThe application of such rules in those Member States shall have an equivalent effect.\n10.\nThe exercise of powers under this Article shall be subject to appropriate procedural safeguards in accordance with Union and national law, including effective judicial remedies and due process.\n11.\nMember States shall, on an annual basis, report to the Commission about the administrative fines they have issued during that year, in accordance with this Article, and about any related litigation or judicial proceedings.\nPenalties\n1. In accordance with the terms and conditions laid down in this Regulation, Member States shall lay down the rules on penalties and other enforcement measures, which may also include warnings and non-monetary measures, applicable to infringements of this Regulation by operators, and shall take all measures necessary to ensure that they are properly and effectively implemented, thereby taking into account the guidelines issued by the Commission pursuant to Article 96.\nThe penalties provided for shall be effective, proportionate and dissuasive.\nThey shall take into account the interests of SMEs, including start-ups, and their economic viability.\n2. The Member States shall, without delay and at the latest by the date of entry into application, notify the Commission of the rules on penalties and of other enforcement measures referred to in paragraph 1, and shall notify it, without delay, of any subsequent amendment to them.\n3. Non-compliance with the prohibition of the AI practices referred to in Article 5 shall be subject to administrative fines of up to EUR 35 000 000 or, if the offender is an undertaking, up to 7 % of its total worldwide annual turnover for the preceding financial year, whichever is higher.\n4. Non-compliance with any of the following provisions related to operators or notified bodies, other than those laid down in Articles 5, shall be subject to administrative fines of up to EUR 15 000 000 or, if the offender is an undertaking, up to 3 % of its total worldwide annual turnover for the preceding financial year, whichever is higher:\n(a) obligations of providers pursuant to Article 16;\n(b) obligations of authorised representatives pursuant to Article 22;\n(c) obligations of importers pursuant to Article 23;\n(d) obligations of distributors pursuant to Article 24;\n(e) obligations of deployers pursuant to Article 26;\n(f) requirements and obligations of notified bodies pursuant to Article 31, Article 33(1), (3) and (4) or Article 34;\n(g) transparency obligations for providers and deployers pursuant to Article 50.\n12.7.2024\n5. The supply of incorrect, incomplete or misleading information to notified bodies or national competent authorities in reply to a request shall be subject to administrative fines of up to EUR 7 500 000 or, if the offender is an undertaking, up to 1 % of its total worldwide annual turnover for the preceding financial year, whichever is higher.\n6. In the case of SMEs, including start-ups, each fine referred to in this Article shall be up to the percentages or amount referred to in paragraphs 3, 4 and 5, whichever thereof is lower.\n7. When deciding whether to impose an administrative fine and when deciding on the amount of the administrative fine in each individual case, all relevant circumstances of the specific situation shall be taken into account and, as appropriate, regard shall be given to the following:\n(a) the nature, gravity and duration of the infringement and of its consequences, taking into account the purpose of the AI system, as well as, where appropriate, the number of affected persons and the level of damage suffered by them;\n(b) whether administrative fines have already been applied by other market surveillance authorities to the same operator for the same infringement;\n(c) whether administrative fines have already been applied by other authorities to the same operator for infringements of other Union or national law, when such infringements result from the same activity or omission constituting a relevant infringement of this Regulation;\n(d) the size, the annual turnover and market share of the operator committing the infringement;\n(e) any other aggravating or mitigating factor applicable to the circumstances of the case, such as financial benefits gained, or losses avoided, directly or indirectly, from the infringement;\n(f) the degree of cooperation with the national competent authorities, in order to remedy the infringement and mitigate the possible adverse effects of the infringement;\n(g) the degree of responsibility of the operator taking into account the technical and organisational measures implemented by it;\n(h) the manner in which the infringement became known to the national competent authorities, in particular whether, and if so to what extent, the operator notified the infringement;\n(i) the intentional or negligent character of the infringement;\n(j) any action taken by the operator to mitigate the harm suffered by the affected persons.\n8. Each Member State shall lay down rules on to what extent administrative fines may be imposed on public authorities and bodies established in that Member State.\n9. Depending on the legal system of the Member States, the rules on administrative fines may be applied in such a manner that the fines are imposed by competent national courts or by other bodies, as applicable in those Member States.\nThe application of such rules in those Member States shall have an equivalent effect.\n10.\nThe exercise of powers under this Article shall be subject to appropriate procedural safeguards in accordance with Union and national law, including effective judicial remedies and due process.\n11.\nMember States shall, on an annual basis, report to the Commission about the administrative fines they have issued during that year, in accordance with this Article, and about any related litigation or judicial proceedings.\nArticle 100\nAdministrative fines on Union institutions, bodies, offices and agencies\n1. The European Data Protection Supervisor may impose administrative fines on Union institutions, bodies, offices and agencies falling within the scope of this Regulation.\nWhen deciding whether to impose an administrative fine and when deciding on the amount of the administrative fine in each individual case, all relevant circumstances of the specific situation shall be taken into account and due regard shall be given to the following:\n12.7.2024\n(a) the nature, gravity and duration of the infringement and of its consequences, taking into account the purpose of the AI system concerned, as well as, where appropriate, the number of affected persons and the level of damage suffered by them;\n(b) the degree of responsibility of the Union institution, body, office or agency, taking into account technical and organisational measures implemented by them;\n(c) any action taken by the Union institution, body, office or agency to mitigate the damage suffered by affected persons;\n(d) the degree of cooperation with the European Data Protection Supervisor in order to remedy the infringement and mitigate the possible adverse effects of the infringement, including compliance with any of the measures previously ordered by the European Data Protection Supervisor against the Union institution, body, office or agency concerned with regard to the same subject matter;\n(e) any similar previous infringements by the Union institution, body, office or agency;\n(f) the manner in which the infringement became known to the European Data Protection Supervisor, in particular whether, and if so to what extent, the Union institution, body, office or agency notified the infringement;\n(g) the annual budget of the Union institution, body, office or agency.\n2. Non-compliance with the prohibition of the AI practices referred to in Article 5 shall be subject to administrative fines of up to EUR 1 500 000.\n3. The non-compliance of the AI system with any requirements or obligations under this Regulation, other than those laid down in Article 5, shall be subject to administrative fines of up to EUR 750 000.\n4. Before taking decisions pursuant to this Article, the European Data Protection Supervisor shall give the Union institution, body, office or agency which is the subject of the proceedings conducted by the European Data Protection Supervisor the opportunity of being heard on the matter regarding the possible infringement.\nThe European Data Protection Supervisor shall base his or her decisions only on elements and circumstances on which the parties concerned have been able to comment.\nComplainants, if any, shall be associated closely with the proceedings.\n5. The rights of defence of the parties concerned shall be fully respected in the proceedings.\nThey shall be entitled to have access to the European Data Protection Supervisor\u2019s file, subject to the legitimate interest of individuals or undertakings in the protection of their personal data or business secrets.\n6. Funds collected by imposition of fines in this Article shall contribute to the general budget of the Union.\nThe fines shall not affect the effective operation of the Union institution, body, office or agency fined.\n7. The European Data Protection Supervisor shall, on an annual basis, notify the Commission of the administrative fines it has imposed pursuant to this Article and of any litigation or judicial proceedings it has initiated.\nArticle 101\nFines for providers of general-purpose AI models\n1. The Commission may impose on providers of general-purpose AI models fines not exceeding 3 % of their annual total worldwide turnover in the preceding financial year or EUR 15 000 000, whichever is higher., when the Commission finds that the provider intentionally or negligently:\n(a) infringed the relevant provisions of this Regulation;\n(b) failed to comply with a request for a document or for information pursuant to Article 91, or supplied incorrect, incomplete or misleading information;\n(c) failed to comply with a measure requested under Article 93;\n12.7.2024 Article 104\n(d) failed to make available to the Commission access to the general-purpose AI model or general-purpose AI model with systemic risk with a view to conducting an evaluation pursuant to Article 92.\nIn fixing the amount of the fine or periodic penalty payment, regard shall be had to the nature, gravity and duration of the infringement, taking due account of the principles of proportionality and appropriateness.\nThe Commission shall also into account commitments made in accordance with Article 93(3) or made in relevant codes of practice in accordance with Article 56.\n2. Before adopting the decision pursuant to paragraph 1, the Commission shall communicate its preliminary findings to the provider of the general-purpose AI model and give it an opportunity to be heard.\n3. Fines imposed in accordance with this Article shall be effective, proportionate and dissuasive.\n4. Information on fines imposed under this Article shall also be communicated to the Board as appropriate.\n5. The Court of Justice of the European Union shall have unlimited jurisdiction to review decisions of the Commission fixing a fine under this Article.\nIt may cancel, reduce or increase the fine imposed.\n6. The Commission shall adopt implementing acts containing detailed arrangements and procedural safeguards for proceedings in view of the possible adoption of decisions pursuant to paragraph 1 of this Article.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 98(2).\n12.7.2024 Article 104\n(d) failed to make available to the Commission access to the general-purpose AI model or general-purpose AI model with systemic risk with a view to conducting an evaluation pursuant to Article 92.\nIn fixing the amount of the fine or periodic penalty payment, regard shall be had to the nature, gravity and duration of the infringement, taking due account of the principles of proportionality and appropriateness.\nThe Commission shall also into account commitments made in accordance with Article 93(3) or made in relevant codes of practice in accordance with Article 56.\n2. Before adopting the decision pursuant to paragraph 1, the Commission shall communicate its preliminary findings to the provider of the general-purpose AI model and give it an opportunity to be heard.\n3. Fines imposed in accordance with this Article shall be effective, proportionate and dissuasive.\n4. Information on fines imposed under this Article shall also be communicated to the Board as appropriate.\n5. The Court of Justice of the European Union shall have unlimited jurisdiction to review decisions of the Commission fixing a fine under this Article.\nIt may cancel, reduce or increase the fine imposed.\n6. The Commission shall adopt implementing acts containing detailed arrangements and procedural safeguards for proceedings in view of the possible adoption of decisions pursuant to paragraph 1 of this Article.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 98(2).\n",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Article 99",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Article 99"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Regulation",
+                    "type": "REGULATION",
+                    "nelements": 9,
+                    "mentions": [
+                        {
+                            "id": 1,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 2,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 3,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 4,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 5,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 6,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 7,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 8,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 9,
+                            "mention": "Regulation"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Article 96",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 10,
+                            "mention": "Article 96"
+                        },
+                        {
+                            "id": 11,
+                            "mention": "Article 96"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Article 5",
+                    "type": "REGULATION",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 12,
+                            "mention": "Article 5"
+                        },
+                        {
+                            "id": 13,
+                            "mention": "Article 5"
+                        },
+                        {
+                            "id": 14,
+                            "mention": "Article 5"
+                        },
+                        {
+                            "id": 15,
+                            "mention": "Article 5"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Article 16",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 16,
+                            "mention": "Article 16"
+                        },
+                        {
+                            "id": 17,
+                            "mention": "Article 16"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Article 22",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 18,
+                            "mention": "Article 22"
+                        },
+                        {
+                            "id": 19,
+                            "mention": "Article 22"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "Article 23",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 20,
+                            "mention": "Article 23"
+                        },
+                        {
+                            "id": 21,
+                            "mention": "Article 23"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "Article 24",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 22,
+                            "mention": "Article 24"
+                        },
+                        {
+                            "id": 23,
+                            "mention": "Article 24"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "Article 26",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 24,
+                            "mention": "Article 26"
+                        },
+                        {
+                            "id": 25,
+                            "mention": "Article 26"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "Article 31",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 26,
+                            "mention": "Article 31"
+                        },
+                        {
+                            "id": 27,
+                            "mention": "Article 31"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "Article 33(1)",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 28,
+                            "mention": "Article 33(1)"
+                        },
+                        {
+                            "id": 29,
+                            "mention": "Article 33(1)"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "Article 34",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 30,
+                            "mention": "Article 34"
+                        },
+                        {
+                            "id": 31,
+                            "mention": "Article 34"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "title": "Article 50",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 32,
+                            "mention": "Article 50"
+                        },
+                        {
+                            "id": 33,
+                            "mention": "Article 50"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "title": "Article 100",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 34,
+                            "mention": "Article 100"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "title": "Article 101",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 35,
+                            "mention": "Article 101"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "title": "Article 91",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 36,
+                            "mention": "Article 91"
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "title": "Article 93",
+                    "type": "REGULATION",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 37,
+                            "mention": "Article 93"
+                        },
+                        {
+                            "id": 38,
+                            "mention": "Article 93"
+                        },
+                        {
+                            "id": 39,
+                            "mention": "Article 93"
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "title": "Article 92",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 40,
+                            "mention": "Article 92"
+                        },
+                        {
+                            "id": 41,
+                            "mention": "Article 92"
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "title": "Article 104",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 42,
+                            "mention": "Article 104"
+                        },
+                        {
+                            "id": 43,
+                            "mention": "Article 104"
+                        }
+                    ]
+                },
+                {
+                    "id": 20,
+                    "title": "Member States",
+                    "type": "ROLE",
+                    "nelements": 12,
+                    "mentions": [
+                        {
+                            "id": 44,
+                            "mention": "Member States"
+                        },
+                        {
+                            "id": 45,
+                            "mention": "Member States"
+                        },
+                        {
+                            "id": 46,
+                            "mention": "Member States"
+                        },
+                        {
+                            "id": 47,
+                            "mention": "Member States"
+                        },
+                        {
+                            "id": 48,
+                            "mention": "Member States"
+                        },
+                        {
+                            "id": 49,
+                            "mention": "Member States"
+                        },
+                        {
+                            "id": 50,
+                            "mention": "Member States"
+                        },
+                        {
+                            "id": 51,
+                            "mention": "Member States"
+                        },
+                        {
+                            "id": 52,
+                            "mention": "Member States"
+                        },
+                        {
+                            "id": 53,
+                            "mention": "Member States"
+                        },
+                        {
+                            "id": 54,
+                            "mention": "Member States"
+                        },
+                        {
+                            "id": 55,
+                            "mention": "Member States"
+                        }
+                    ]
+                },
+                {
+                    "id": 21,
+                    "title": "operators",
+                    "type": "ROLE",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 56,
+                            "mention": "operators"
+                        },
+                        {
+                            "id": 57,
+                            "mention": "operators"
+                        },
+                        {
+                            "id": 58,
+                            "mention": "operators"
+                        },
+                        {
+                            "id": 59,
+                            "mention": "operators"
+                        }
+                    ]
+                },
+                {
+                    "id": 22,
+                    "title": "providers",
+                    "type": "ROLE",
+                    "nelements": 6,
+                    "mentions": [
+                        {
+                            "id": 60,
+                            "mention": "providers"
+                        },
+                        {
+                            "id": 61,
+                            "mention": "providers"
+                        },
+                        {
+                            "id": 62,
+                            "mention": "providers"
+                        },
+                        {
+                            "id": 63,
+                            "mention": "providers"
+                        },
+                        {
+                            "id": 64,
+                            "mention": "providers"
+                        },
+                        {
+                            "id": 65,
+                            "mention": "providers"
+                        }
+                    ]
+                },
+                {
+                    "id": 23,
+                    "title": "authorised representatives",
+                    "type": "ROLE",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 66,
+                            "mention": "authorised representatives"
+                        },
+                        {
+                            "id": 67,
+                            "mention": "authorised representatives"
+                        }
+                    ]
+                },
+                {
+                    "id": 24,
+                    "title": "importers",
+                    "type": "ROLE",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 68,
+                            "mention": "importers"
+                        },
+                        {
+                            "id": 69,
+                            "mention": "importers"
+                        }
+                    ]
+                },
+                {
+                    "id": 25,
+                    "title": "distributors",
+                    "type": "ROLE",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 70,
+                            "mention": "distributors"
+                        },
+                        {
+                            "id": 71,
+                            "mention": "distributors"
+                        }
+                    ]
+                },
+                {
+                    "id": 26,
+                    "title": "deployers",
+                    "type": "ROLE",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 72,
+                            "mention": "deployers"
+                        },
+                        {
+                            "id": 73,
+                            "mention": "deployers"
+                        },
+                        {
+                            "id": 74,
+                            "mention": "deployers"
+                        },
+                        {
+                            "id": 75,
+                            "mention": "deployers"
+                        }
+                    ]
+                },
+                {
+                    "id": 27,
+                    "title": "notified bodies",
+                    "type": "ROLE",
+                    "nelements": 6,
+                    "mentions": [
+                        {
+                            "id": 76,
+                            "mention": "notified bodies"
+                        },
+                        {
+                            "id": 77,
+                            "mention": "notified bodies"
+                        },
+                        {
+                            "id": 78,
+                            "mention": "notified bodies"
+                        },
+                        {
+                            "id": 79,
+                            "mention": "notified bodies"
+                        },
+                        {
+                            "id": 80,
+                            "mention": "notified bodies"
+                        },
+                        {
+                            "id": 81,
+                            "mention": "notified bodies"
+                        }
+                    ]
+                },
+                {
+                    "id": 28,
+                    "title": "Union institutions",
+                    "type": "ROLE",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 82,
+                            "mention": "Union institutions"
+                        },
+                        {
+                            "id": 83,
+                            "mention": "Union institutions"
+                        }
+                    ]
+                },
+                {
+                    "id": 29,
+                    "title": "bodies",
+                    "type": "ROLE",
+                    "nelements": 12,
+                    "mentions": [
+                        {
+                            "id": 84,
+                            "mention": "bodies"
+                        },
+                        {
+                            "id": 85,
+                            "mention": "bodies"
+                        },
+                        {
+                            "id": 86,
+                            "mention": "bodies"
+                        },
+                        {
+                            "id": 87,
+                            "mention": "bodies"
+                        },
+                        {
+                            "id": 88,
+                            "mention": "bodies"
+                        },
+                        {
+                            "id": 89,
+                            "mention": "bodies"
+                        },
+                        {
+                            "id": 90,
+                            "mention": "bodies"
+                        },
+                        {
+                            "id": 91,
+                            "mention": "bodies"
+                        },
+                        {
+                            "id": 92,
+                            "mention": "bodies"
+                        },
+                        {
+                            "id": 93,
+                            "mention": "bodies"
+                        },
+                        {
+                            "id": 94,
+                            "mention": "bodies"
+                        },
+                        {
+                            "id": 95,
+                            "mention": "bodies"
+                        }
+                    ]
+                },
+                {
+                    "id": 30,
+                    "title": "offices",
+                    "type": "ROLE",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 96,
+                            "mention": "offices"
+                        },
+                        {
+                            "id": 97,
+                            "mention": "offices"
+                        }
+                    ]
+                },
+                {
+                    "id": 31,
+                    "title": "agencies",
+                    "type": "ROLE",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 98,
+                            "mention": "agencies"
+                        },
+                        {
+                            "id": 99,
+                            "mention": "agencies"
+                        }
+                    ]
+                },
+                {
+                    "id": 32,
+                    "title": "European Data Protection Supervisor",
+                    "type": "ROLE",
+                    "nelements": 9,
+                    "mentions": [
+                        {
+                            "id": 100,
+                            "mention": "European Data Protection Supervisor"
+                        },
+                        {
+                            "id": 101,
+                            "mention": "European Data Protection Supervisor"
+                        },
+                        {
+                            "id": 102,
+                            "mention": "European Data Protection Supervisor"
+                        },
+                        {
+                            "id": 103,
+                            "mention": "European Data Protection Supervisor"
+                        },
+                        {
+                            "id": 104,
+                            "mention": "European Data Protection Supervisor"
+                        },
+                        {
+                            "id": 105,
+                            "mention": "European Data Protection Supervisor"
+                        },
+                        {
+                            "id": 106,
+                            "mention": "European Data Protection Supervisor"
+                        },
+                        {
+                            "id": 107,
+                            "mention": "European Data Protection Supervisor"
+                        },
+                        {
+                            "id": 108,
+                            "mention": "European Data Protection Supervisor"
+                        }
+                    ]
+                },
+                {
+                    "id": 33,
+                    "title": "Commission",
+                    "type": "AUTHORITY",
+                    "nelements": 19,
+                    "mentions": [
+                        {
+                            "id": 109,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 110,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 111,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 112,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 113,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 114,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 115,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 116,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 117,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 118,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 119,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 120,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 121,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 122,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 123,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 124,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 125,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 126,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 127,
+                            "mention": "Commission"
+                        }
+                    ]
+                },
+                {
+                    "id": 34,
+                    "title": "European Data Protection Supervisor",
+                    "type": "AUTHORITY",
+                    "nelements": 9,
+                    "mentions": [
+                        {
+                            "id": 128,
+                            "mention": "European Data Protection Supervisor"
+                        },
+                        {
+                            "id": 129,
+                            "mention": "European Data Protection Supervisor"
+                        },
+                        {
+                            "id": 130,
+                            "mention": "European Data Protection Supervisor"
+                        },
+                        {
+                            "id": 131,
+                            "mention": "European Data Protection Supervisor"
+                        },
+                        {
+                            "id": 132,
+                            "mention": "European Data Protection Supervisor"
+                        },
+                        {
+                            "id": 133,
+                            "mention": "European Data Protection Supervisor"
+                        },
+                        {
+                            "id": 134,
+                            "mention": "European Data Protection Supervisor"
+                        },
+                        {
+                            "id": 135,
+                            "mention": "European Data Protection Supervisor"
+                        },
+                        {
+                            "id": 136,
+                            "mention": "European Data Protection Supervisor"
+                        }
+                    ]
+                },
+                {
+                    "id": 35,
+                    "title": "national competent authorities",
+                    "type": "AUTHORITY",
+                    "nelements": 6,
+                    "mentions": [
+                        {
+                            "id": 137,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 138,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 139,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 140,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 141,
+                            "mention": "national competent authorities"
+                        },
+                        {
+                            "id": 142,
+                            "mention": "national competent authorities"
+                        }
+                    ]
+                },
+                {
+                    "id": 36,
+                    "title": "administrative fines",
+                    "type": "DATA.OP",
+                    "nelements": 21,
+                    "mentions": [
+                        {
+                            "id": 143,
+                            "mention": "administrative fines"
+                        },
+                        {
+                            "id": 144,
+                            "mention": "administrative fines"
+                        },
+                        {
+                            "id": 145,
+                            "mention": "administrative fines"
+                        },
+                        {
+                            "id": 146,
+                            "mention": "administrative fines"
+                        },
+                        {
+                            "id": 147,
+                            "mention": "administrative fines"
+                        },
+                        {
+                            "id": 148,
+                            "mention": "administrative fines"
+                        },
+                        {
+                            "id": 149,
+                            "mention": "administrative fines"
+                        },
+                        {
+                            "id": 150,
+                            "mention": "administrative fines"
+                        },
+                        {
+                            "id": 151,
+                            "mention": "administrative fines"
+                        },
+                        {
+                            "id": 152,
+                            "mention": "administrative fines"
+                        },
+                        {
+                            "id": 153,
+                            "mention": "administrative fines"
+                        },
+                        {
+                            "id": 154,
+                            "mention": "administrative fines"
+                        },
+                        {
+                            "id": 155,
+                            "mention": "administrative fines"
+                        },
+                        {
+                            "id": 156,
+                            "mention": "administrative fines"
+                        },
+                        {
+                            "id": 157,
+                            "mention": "administrative fines"
+                        },
+                        {
+                            "id": 158,
+                            "mention": "administrative fines"
+                        },
+                        {
+                            "id": 159,
+                            "mention": "Administrative fines"
+                        },
+                        {
+                            "id": 160,
+                            "mention": "administrative fines"
+                        },
+                        {
+                            "id": 161,
+                            "mention": "administrative fines"
+                        },
+                        {
+                            "id": 162,
+                            "mention": "administrative fines"
+                        },
+                        {
+                            "id": 163,
+                            "mention": "administrative fines"
+                        }
+                    ]
+                },
+                {
+                    "id": 37,
+                    "title": "Non-compliance",
+                    "type": "DATA.OP",
+                    "nelements": 6,
+                    "mentions": [
+                        {
+                            "id": 164,
+                            "mention": "Non-compliance"
+                        },
+                        {
+                            "id": 165,
+                            "mention": "Non-compliance"
+                        },
+                        {
+                            "id": 166,
+                            "mention": "Non-compliance"
+                        },
+                        {
+                            "id": 167,
+                            "mention": "Non-compliance"
+                        },
+                        {
+                            "id": 168,
+                            "mention": "Non-compliance"
+                        },
+                        {
+                            "id": 169,
+                            "mention": "non-compliance"
+                        }
+                    ]
+                },
+                {
+                    "id": 38,
+                    "title": "supply of incorrect, incomplete or misleading information",
+                    "type": "DATA.OP",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 170,
+                            "mention": "supply of incorrect, incomplete or misleading information"
+                        },
+                        {
+                            "id": 171,
+                            "mention": "supply of incorrect, incomplete or misleading information"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "AIAct_Chapter_XII"
+}

@@ -1,0 +1,1751 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 87,
+                    "end": 97,
+                    "id": 0,
+                    "features": {
+                        "text": "Article 44"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 802,
+                    "end": 812,
+                    "id": 1,
+                    "features": {
+                        "text": "Article 45"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6085,
+                    "end": 6095,
+                    "id": 2,
+                    "features": {
+                        "text": "Article 45"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14290,
+                    "end": 14300,
+                    "id": 3,
+                    "features": {
+                        "text": "Article 45"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 16012,
+                    "end": 16022,
+                    "id": 4,
+                    "features": {
+                        "text": "Article 45"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5986,
+                    "end": 5996,
+                    "id": 5,
+                    "features": {
+                        "text": "Article 46"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14346,
+                    "end": 14356,
+                    "id": 6,
+                    "features": {
+                        "text": "Article 46"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6691,
+                    "end": 6701,
+                    "id": 7,
+                    "features": {
+                        "text": "Article 47"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 8673,
+                    "end": 8683,
+                    "id": 8,
+                    "features": {
+                        "text": "Article 47"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 13659,
+                    "end": 13669,
+                    "id": 9,
+                    "features": {
+                        "text": "Article 48"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14189,
+                    "end": 14199,
+                    "id": 10,
+                    "features": {
+                        "text": "Article 49"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 18317,
+                    "end": 18327,
+                    "id": 11,
+                    "features": {
+                        "text": "Article 50"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4071,
+                    "end": 4089,
+                    "id": 12,
+                    "features": {
+                        "text": "Directive 95/46/EC"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5823,
+                    "end": 5841,
+                    "id": 13,
+                    "features": {
+                        "text": "Directive 95/46/EC"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 8309,
+                    "end": 8327,
+                    "id": 14,
+                    "features": {
+                        "text": "Directive 95/46/EC"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 8500,
+                    "end": 8518,
+                    "id": 15,
+                    "features": {
+                        "text": "Directive 95/46/EC"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 439,
+                    "end": 449,
+                    "id": 16,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6102,
+                    "end": 6112,
+                    "id": 17,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6219,
+                    "end": 6229,
+                    "id": 18,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7124,
+                    "end": 7134,
+                    "id": 19,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7373,
+                    "end": 7383,
+                    "id": 20,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7710,
+                    "end": 7720,
+                    "id": 21,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7742,
+                    "end": 7752,
+                    "id": 22,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10764,
+                    "end": 10774,
+                    "id": 23,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10954,
+                    "end": 10964,
+                    "id": 24,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 13840,
+                    "end": 13850,
+                    "id": 25,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14881,
+                    "end": 14891,
+                    "id": 26,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15115,
+                    "end": 15125,
+                    "id": 27,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 16454,
+                    "end": 16464,
+                    "id": 28,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 16559,
+                    "end": 16569,
+                    "id": 29,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 16756,
+                    "end": 16766,
+                    "id": 30,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 16827,
+                    "end": 16837,
+                    "id": 31,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17778,
+                    "end": 17788,
+                    "id": 32,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 18116,
+                    "end": 18126,
+                    "id": 33,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 454,
+                    "end": 463,
+                    "id": 34,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6116,
+                    "end": 6125,
+                    "id": 35,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6233,
+                    "end": 6242,
+                    "id": 36,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7138,
+                    "end": 7147,
+                    "id": 37,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7387,
+                    "end": 7396,
+                    "id": 38,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7724,
+                    "end": 7733,
+                    "id": 39,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7754,
+                    "end": 7763,
+                    "id": 40,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10778,
+                    "end": 10787,
+                    "id": 41,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10972,
+                    "end": 10981,
+                    "id": 42,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 13854,
+                    "end": 13863,
+                    "id": 43,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 18130,
+                    "end": 18139,
+                    "id": 44,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 968,
+                    "end": 978,
+                    "id": 45,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 1299,
+                    "end": 1309,
+                    "id": 46,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2941,
+                    "end": 2951,
+                    "id": 47,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3808,
+                    "end": 3818,
+                    "id": 48,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4098,
+                    "end": 4108,
+                    "id": 49,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4791,
+                    "end": 4801,
+                    "id": 50,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4925,
+                    "end": 4935,
+                    "id": 51,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 5402,
+                    "end": 5412,
+                    "id": 52,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 5779,
+                    "end": 5789,
+                    "id": 53,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 5905,
+                    "end": 5915,
+                    "id": 54,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6755,
+                    "end": 6765,
+                    "id": 55,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6933,
+                    "end": 6943,
+                    "id": 56,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 8456,
+                    "end": 8466,
+                    "id": 57,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 8597,
+                    "end": 8607,
+                    "id": 58,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 13293,
+                    "end": 13303,
+                    "id": 59,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 18097,
+                    "end": 18107,
+                    "id": 60,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 18458,
+                    "end": 18468,
+                    "id": 61,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3594,
+                    "end": 3615,
+                    "id": 62,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6891,
+                    "end": 6912,
+                    "id": 63,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 8025,
+                    "end": 8046,
+                    "id": 64,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 8254,
+                    "end": 8275,
+                    "id": 65,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 8725,
+                    "end": 8746,
+                    "id": 66,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 10479,
+                    "end": 10500,
+                    "id": 67,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 12351,
+                    "end": 12372,
+                    "id": 68,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 12477,
+                    "end": 12498,
+                    "id": 69,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 12539,
+                    "end": 12560,
+                    "id": 70,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 12729,
+                    "end": 12750,
+                    "id": 71,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 23,
+                    "end": 36,
+                    "id": 72,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 146,
+                    "end": 159,
+                    "id": 73,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 499,
+                    "end": 512,
+                    "id": 74,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 877,
+                    "end": 890,
+                    "id": 75,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 1615,
+                    "end": 1628,
+                    "id": 76,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 1791,
+                    "end": 1804,
+                    "id": 77,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 2078,
+                    "end": 2091,
+                    "id": 78,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 2919,
+                    "end": 2932,
+                    "id": 79,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 5208,
+                    "end": 5221,
+                    "id": 80,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 6139,
+                    "end": 6152,
+                    "id": 81,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 7788,
+                    "end": 7801,
+                    "id": 82,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 9168,
+                    "end": 9181,
+                    "id": 83,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 9552,
+                    "end": 9565,
+                    "id": 84,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 10040,
+                    "end": 10053,
+                    "id": 85,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 13271,
+                    "end": 13284,
+                    "id": 86,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 13888,
+                    "end": 13901,
+                    "id": 87,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 14429,
+                    "end": 14442,
+                    "id": 88,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 16737,
+                    "end": 16750,
+                    "id": 89,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 17128,
+                    "end": 17141,
+                    "id": 90,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 17170,
+                    "end": 17183,
+                    "id": 91,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 17980,
+                    "end": 17993,
+                    "id": 92,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 18376,
+                    "end": 18389,
+                    "id": 93,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 18773,
+                    "end": 18786,
+                    "id": 94,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 18949,
+                    "end": 18962,
+                    "id": 95,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 19217,
+                    "end": 19230,
+                    "id": 96,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 19278,
+                    "end": 19291,
+                    "id": 97,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 134,
+                    "end": 142,
+                    "id": 98,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 229,
+                    "end": 237,
+                    "id": 99,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 865,
+                    "end": 873,
+                    "id": 100,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1181,
+                    "end": 1189,
+                    "id": 101,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1779,
+                    "end": 1787,
+                    "id": 102,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6130,
+                    "end": 6138,
+                    "id": 103,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 13867,
+                    "end": 13875,
+                    "id": 104,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 14154,
+                    "end": 14162,
+                    "id": 105,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 14395,
+                    "end": 14403,
+                    "id": 106,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 14615,
+                    "end": 14623,
+                    "id": 107,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 14792,
+                    "end": 14800,
+                    "id": 108,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 14987,
+                    "end": 14995,
+                    "id": 109,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 15171,
+                    "end": 15179,
+                    "id": 110,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 15243,
+                    "end": 15251,
+                    "id": 111,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 15333,
+                    "end": 15341,
+                    "id": 112,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 15521,
+                    "end": 15529,
+                    "id": 113,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 15966,
+                    "end": 15974,
+                    "id": 114,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 16209,
+                    "end": 16217,
+                    "id": 115,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 16297,
+                    "end": 16305,
+                    "id": 116,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 16626,
+                    "end": 16634,
+                    "id": 117,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 16813,
+                    "end": 16821,
+                    "id": 118,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 16952,
+                    "end": 16960,
+                    "id": 119,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 17018,
+                    "end": 17026,
+                    "id": 120,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 17304,
+                    "end": 17312,
+                    "id": 121,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 17945,
+                    "end": 17953,
+                    "id": 122,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "RIGHT",
+                    "start": 7997,
+                    "end": 8016,
+                    "id": 123,
+                    "features": {
+                        "text": "data subject rights"
+                    }
+                }
+            ],
+            "next_annid": 124
+        }
+    },
+    "text": "CHAPTER V\nTransfers of personal data to third countries or international\norganisations\nArticle 44\nGeneral principle for transfers\nAny transfer of personal data which are undergoing processing or are\nintended for processing after transfer to a third country or to an inter\u00ad\nnational organisation shall take place only if, subject to the other\nprovisions of this Regulation, the conditions laid down in this\nChapter are complied with by the controller and processor, including\nfor onward transfers of personal data from the third country or an\ninternational organisation to another third country or to another inter\u00ad\nnational organisation. All provisions in this Chapter shall be applied in\norder to ensure that the level of protection of natural persons guaranteed\nby this Regulation is not undermined.\nArticle 45\nTransfers on the basis of an adequacy decision\n1. A transfer of personal data to a third country or an international\norganisation may take place where the Commission has decided that the\nthird country, a territory or one or more specified sectors within that\nthird country, or the international organisation in question ensures an\nadequate level of protection. Such a transfer shall not require any\nspecific authorisation.\n2. When assessing the adequacy of the level of protection, the\nCommission shall, in particular, take account of the following elements:\n(a) the rule of law, respect for human rights and fundamental freedoms,\nrelevant legislation, both general and sectoral, including concerning\npublic security, defence, national security and criminal law and the\naccess of public authorities to personal data, as well as the im\u00ad\nplementation of such legislation, data protection rules, professional\nrules and security measures, including rules for the onward transfer\nof personal data to another third country or international organis\u00ad\nation which are complied with in that country or international\norganisation, case-law, as well as effective and enforceable data\nsubject rights and effective administrative and judicial redress for\nthe data subjects whose personal data are being transferred;\n(b) the existence and effective functioning of one or more independent\nsupervisory authorities in the third country or to which an inter\u00ad\nnational organisation is subject, with responsibility for ensuring and\nenforcing compliance with the data protection rules, including\nadequate enforcement powers, for assisting and advising the data\nsubjects in exercising their rights and for cooperation with the\nsupervisory authorities of the Member States; and\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 42\n\u25bcB\n(c) the international commitments the third country or international\norganisation concerned has entered into, or other obligations\narising from legally binding conventions or instruments as well as\nfrom its participation in multilateral or regional systems, in\nparticular in relation to the protection of personal data.\n3. The Commission, after assessing the adequacy of the level of\nprotection, may decide, by means of implementing act, that a third\ncountry, a territory or one or more specified sectors within a third\ncountry, or an international organisation ensures an adequate level of\nprotection within the meaning of paragraph 2 of this Article. The im\u00ad\nplementing act shall provide for a mechanism for a periodic review, at\nleast every four years, which shall take into account all relevant deve\u00ad\nlopments in the third country or international organisation. The imple\u00ad\nmenting act shall specify its territorial and sectoral application and,\nwhere applicable, identify the supervisory authority or authorities\nreferred to in point (b) of paragraph 2 of this Article. The implementing\nact shall be adopted in accordance with the examination procedure\nreferred to in Article 93(2).\n4. The Commission shall, on an ongoing basis, monitor develop\u00ad\nments in third countries and international organisations that could\naffect the functioning of decisions adopted pursuant to paragraph 3 of\nthis Article and decisions adopted on the basis of Article 25(6) of\nDirective 95/46/EC.\n5. The Commission shall, where available information reveals, in\nparticular following the review referred to in paragraph 3 of this\nArticle, that a third country, a territory or one or more specified\nsectors within a third country, or an international organisation no\nlonger ensures an adequate level of protection within the meaning of\nparagraph 2 of this Article, to the extent necessary, repeal, amend or\nsuspend the decision referred to in paragraph 3 of this Article by means\nof implementing acts without retro-active effect. Those implementing\nacts shall be adopted in accordance with the examination procedure\nreferred to in Article 93(2).\nOn duly justified imperative grounds of urgency, the Commission shall\nadopt immediately applicable implementing acts in accordance with the\nprocedure referred to in Article 93(3).\n6. The Commission shall enter into consultations with the third\ncountry or international organisation with a view to remedying the\nsituation giving rise to the decision made pursuant to paragraph 5.\n7. A decision pursuant to paragraph 5 of this Article is without\nprejudice to transfers of personal data to the third country, a territory\nor one or more specified sectors within that third country, or the inter\u00ad\nnational organisation in question pursuant to Articles 46 to 49.\n8. The Commission shall publish in the Official Journal of the\nEuropean Union and on its website a list of the third countries, terri\u00ad\ntories and specified sectors within a third country and international\norganisations for which it has decided that an adequate level of\nprotection is or is no longer ensured.\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 43\n\u25bcB\n9. Decisions adopted by the Commission on the basis of Article 25(6)\nof Directive 95/46/EC shall remain in force until amended, replaced or\nrepealed by a Commission Decision adopted in accordance with\nparagraph 3 or 5 of this Article.\nArticle 46\nTransfers subject to appropriate safeguards\n1. In the absence of a decision pursuant to Article 45(3), a controller\nor processor may transfer personal data to a third country or an inter\u00ad\nnational organisation only if the controller or processor has provided\nappropriate safeguards, and on condition that enforceable data subject\nrights and effective legal remedies for data subjects are available.\n2. The appropriate safeguards referred to in paragraph 1 may be\nprovided for, without requiring any specific authorisation from a super\u00ad\nvisory authority, by:\n(a) a legally binding and enforceable instrument between public auth\u00ad\norities or bodies;\n(b) binding corporate rules in accordance with Article 47;\n(c) standard data protection clauses adopted by the Commission in\naccordance with the examination procedure referred to in\nArticle 93(2);\n(d) standard data protection clauses adopted by a supervisory authority\nand approved by the Commission pursuant to the examination\nprocedure referred to in Article 93(2);\n(e) an approved code of conduct pursuant to Article 40 together with\nbinding and enforceable commitments of the controller or processor\nin the third country to apply the appropriate safeguards, including as\nregards data subjects' rights; or\n(f) an approved certification mechanism pursuant to Article 42 together\nwith binding and enforceable commitments of the controller or\nprocessor in the third country to apply the appropriate safeguards,\nincluding as regards data subjects' rights.\n3. Subject to the authorisation from the competent supervisory auth\u00ad\nority, the appropriate safeguards referred to in paragraph 1 may also be\nprovided for, in particular, by:\n(a) contractual clauses between the controller or processor and the\ncontroller, processor or the recipient of the personal data in the\nthird country or international organisation; or\n(b) provisions to be inserted into administrative arrangements between\npublic authorities or bodies which include enforceable and effective\ndata subject rights.\n4. The supervisory authority shall apply the consistency mechanism\nreferred to in Article 63 in the cases referred to in paragraph 3 of this\nArticle.\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 44\n\u25bcB\n5. Authorisations by a Member State or supervisory authority on the\nbasis of Article 26(2) of Directive 95/46/EC shall remain valid until\namended, replaced or repealed, if necessary, by that supervisory auth\u00ad\nority. Decisions adopted by the Commission on the basis of Article 26(4)\nof Directive 95/46/EC shall remain in force until amended, replaced or\nrepealed, if necessary, by a Commission Decision adopted in accordance\nwith paragraph 2 of this Article.\nArticle 47\nBinding corporate rules\n1. The competent supervisory authority shall approve binding\ncorporate rules in accordance with the consistency mechanism set out\nin Article 63, provided that they:\n(a) are legally binding and apply to and are enforced by every member\nconcerned of the group of undertakings, or group of enterprises\nengaged in a joint economic activity, including their employees;\n(b) expressly confer enforceable rights on data subjects with regard to\nthe processing of their personal data; and\n(c) fulfil the requirements laid down in paragraph 2.\n2. The binding corporate rules referred to in paragraph 1 shall specify\nat least:\n(a) the structure and contact details of the group of undertakings, or\ngroup of enterprises engaged in a joint economic activity and of\neach of its members;\n(b) the data transfers or set of transfers, including the categories of\npersonal data, the type of processing and its purposes, the type\nof data subjects affected and the identification of the third\ncountry or countries in question;\n(c) their legally binding nature, both internally and externally;\n(d) the application of the general data protection principles, in\nparticular purpose limitation, data minimisation, limited storage\nperiods, data quality, data protection by design and by default,\nlegal basis for processing, processing of special categories of\npersonal data, measures to ensure data security, and the\nrequirements in respect of onward transfers to bodies not bound\nby the binding corporate rules;\n(e) the rights of data subjects in regard to processing and the means to\nexercise those rights, including the right not to be subject to\ndecisions based solely on automated processing, including\nprofiling in accordance with Article 22, the right to lodge a\ncomplaint with the competent supervisory authority and before\nthe competent courts of the Member States in accordance with\nArticle 79, and to obtain redress and, where appropriate, compen\u00ad\nsation for a breach of the binding corporate rules;\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 45\n\u25bcB\n(f) the acceptance by the controller or processor established on the\nterritory of a Member State of liability for any breaches of the\nbinding corporate rules by any member concerned not established\nin the Union; the controller or the processor shall be exempt from\nthat liability, in whole or in part, only if it proves that that member\nis not responsible for the event giving rise to the damage;\n(g) how the information on the binding corporate rules, in particular on\nthe provisions referred to in points (d), (e) and (f) of this paragraph\nis provided to the data subjects in addition to Articles 13 and 14;\n(h) the tasks of any data protection officer designated in accordance\nwith Article 37 or any other person or entity in charge of the\nmonitoring compliance with the binding corporate rules within\nthe group of undertakings, or group of enterprises engaged in a\njoint economic activity, as well as monitoring training and\ncomplaint-handling;\n(i) the complaint procedures;\n(j) the mechanisms within the group of undertakings, or group of\nenterprises engaged in a joint economic activity for ensuring the\nverification of compliance with the binding corporate rules. Such\nmechanisms shall include data protection audits and methods for\nensuring corrective actions to protect the rights of the data subject.\nResults of such verification should be communicated to the person\nor entity referred to in point (h) and to the board of the controlling\nundertaking of a group of undertakings, or of the group of enter\u00ad\nprises engaged in a joint economic activity, and should be available\nupon request to the competent supervisory authority;\n(k) the mechanisms for reporting and recording changes to the rules\nand reporting those changes to the supervisory authority;\n(l) the cooperation mechanism with the supervisory authority to ensure\ncompliance by any member of the group of undertakings, or group\nof enterprises engaged in a joint economic activity, in particular by\nmaking available to the supervisory authority the results of verifi\u00ad\ncations of the measures referred to in point (j);\n(m) the mechanisms for reporting to the competent supervisory\nauthority any legal requirements to which a member of the group\nof undertakings, or group of enterprises engaged in a joint\neconomic activity is subject in a third country which are likely\nto have a substantial adverse effect on the guarantees provided\nby the binding corporate rules; and\n(n) the appropriate data protection training to personnel having\npermanent or regular access to personal data.\n3. The Commission may specify the format and procedures for the\nexchange of information between controllers, processors and super\u00ad\nvisory authorities for binding corporate rules within the meaning of\nthis Article. Those implementing acts shall be adopted in accordance\nwith the examination procedure set out in Article 93(2).\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 46\n\u25bcB\nArticle 48\nTransfers or disclosures not authorised by Union law\nAny judgment of a court or tribunal and any decision of an adminis\u00ad\ntrative authority of a third country requiring a controller or processor to\ntransfer or disclose personal data may only be recognised or enforceable\nin any manner if based on an international agreement, such as a mutual\nlegal assistance treaty, in force between the requesting third country and\nthe Union or a Member State, without prejudice to other grounds for\ntransfer pursuant to this Chapter.\nArticle 49\nDerogations for specific situations\n1. In the absence of an adequacy decision pursuant to Article 45(3),\nor of appropriate safeguards pursuant to Article 46, including binding\ncorporate rules, a transfer or a set of transfers of personal data to a third\ncountry or an international organisation shall take place only on one of\nthe following conditions:\n(a) the data subject has explicitly consented to the proposed transfer,\nafter having been informed of the possible risks of such transfers for\nthe data subject due to the absence of an adequacy decision and\nappropriate safeguards;\n(b) the transfer is necessary for the performance of a contract between\nthe data subject and the controller or the implementation of\npre-contractual measures taken at the data subject's request;\n(c) the transfer is necessary for the conclusion or performance of a\ncontract concluded in the interest of the data subject between the\ncontroller and another natural or legal person;\n(d) the transfer is necessary for important reasons of public interest;\n(e) the transfer is necessary for the establishment, exercise or defence\nof legal claims;\n(f) the transfer is necessary in order to protect the vital interests of the\ndata subject or of other persons, where the data subject is physically\nor legally incapable of giving consent;\n(g) the transfer is made from a register which according to Union or\nMember State law is intended to provide information to the public\nand which is open to consultation either by the public in general or\nby any person who can demonstrate a legitimate interest, but only to\nthe extent that the conditions laid down by Union or Member State\nlaw for consultation are fulfilled in the particular case.\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 47\n\u25bcB\nWhere a transfer could not be based on a provision in Article 45 or 46,\nincluding the provisions on binding corporate rules, and none of the\nderogations for a specific situation referred to in the first subparagraph\nof this paragraph is applicable, a transfer to a third country or an\ninternational organisation may take place only if the transfer is not\nrepetitive, concerns only a limited number of data subjects, is\nnecessary for the purposes of compelling legitimate interests pursued\nby the controller which are not overridden by the interests or rights and\nfreedoms of the data subject, and the controller has assessed all the\ncircumstances surrounding the data transfer and has on the basis of\nthat assessment provided suitable safeguards with regard to the\nprotection of personal data. The controller shall inform the supervisory\nauthority of the transfer. The controller shall, in addition to providing\nthe information referred to in Articles 13 and 14, inform the data subject\nof the transfer and on the compelling legitimate interests pursued.\n2. A transfer pursuant to point (g) of the first subparagraph of\nparagraph 1 shall not involve the entirety of the personal data or\nentire categories of the personal data contained in the register. Where\nthe register is intended for consultation by persons having a legitimate\ninterest, the transfer shall be made only at the request of those persons\nor if they are to be the recipients.\n3. Points (a), (b) and (c) of the first subparagraph of paragraph 1 and\nthe second subparagraph thereof shall not apply to activities carried out\nby public authorities in the exercise of their public powers.\n4. The public interest referred to in point (d) of the first subparagraph\nof paragraph 1 shall be recognised in Union law or in the law of the\nMember State to which the controller is subject.\n5. In the absence of an adequacy decision, Union or Member State\nlaw may, for important reasons of public interest, expressly set limits to\nthe transfer of specific categories of personal data to a third country or\nan international organisation. Member States shall notify such\nprovisions to the Commission.\n6. The controller or processor shall document the assessment as well\nas the suitable safeguards referred to in the second subparagraph of\nparagraph 1 of this Article in the records referred to in Article 30.\nArticle 50\nInternational cooperation for the protection of personal data\nIn relation to third countries and international organisations, the\nCommission and supervisory authorities shall take appropriate steps to:\n(a) develop international cooperation mechanisms to facilitate the\neffective enforcement of legislation for the protection of personal\ndata;\n(b) provide international mutual assistance in the enforcement of legis\u00ad\nlation for the protection of personal data, including through notifi\u00ad\ncation, complaint referral, investigative assistance and information\nexchange, subject to appropriate safeguards for the protection of\npersonal data and other fundamental rights and freedoms;\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 48\n\u25bcB\n(c) engage relevant stakeholders in discussion and activities aimed at\nfurthering international cooperation in the enforcement of legislation\nfor the protection of personal data;\n(d) promote the exchange and documentation of personal data\nprotection legislation and practice, including on jurisdictional\nconflicts with third countries.\n",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Article 44",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Article 44"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Article 45",
+                    "type": "REGULATION",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 1,
+                            "mention": "Article 45"
+                        },
+                        {
+                            "id": 2,
+                            "mention": "Article 45"
+                        },
+                        {
+                            "id": 3,
+                            "mention": "Article 45"
+                        },
+                        {
+                            "id": 4,
+                            "mention": "Article 45"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Article 46",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 5,
+                            "mention": "Article 46"
+                        },
+                        {
+                            "id": 6,
+                            "mention": "Article 46"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Article 47",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 7,
+                            "mention": "Article 47"
+                        },
+                        {
+                            "id": 8,
+                            "mention": "Article 47"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Article 48",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 9,
+                            "mention": "Article 48"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Article 49",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 10,
+                            "mention": "Article 49"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "Article 50",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 11,
+                            "mention": "Article 50"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "Directive 95/46/EC",
+                    "type": "REGULATION",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 12,
+                            "mention": "Directive 95/46/EC"
+                        },
+                        {
+                            "id": 13,
+                            "mention": "Directive 95/46/EC"
+                        },
+                        {
+                            "id": 14,
+                            "mention": "Directive 95/46/EC"
+                        },
+                        {
+                            "id": 15,
+                            "mention": "Directive 95/46/EC"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "controller",
+                    "type": "ROLE",
+                    "nelements": 18,
+                    "mentions": [
+                        {
+                            "id": 16,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 17,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 18,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 19,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 20,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 21,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 22,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 23,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 24,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 25,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 26,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 27,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 28,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 29,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 30,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 31,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 32,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 33,
+                            "mention": "controller"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "processor",
+                    "type": "ROLE",
+                    "nelements": 11,
+                    "mentions": [
+                        {
+                            "id": 34,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 35,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 36,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 37,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 38,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 39,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 40,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 41,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 42,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 43,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 44,
+                            "mention": "processor"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "Commission",
+                    "type": "AUTHORITY",
+                    "nelements": 17,
+                    "mentions": [
+                        {
+                            "id": 45,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 46,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 47,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 48,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 49,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 50,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 51,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 52,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 53,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 54,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 55,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 56,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 57,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 58,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 59,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 60,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 61,
+                            "mention": "Commission"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "supervisory authority",
+                    "type": "AUTHORITY",
+                    "nelements": 10,
+                    "mentions": [
+                        {
+                            "id": 62,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 63,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 64,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 65,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 66,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 67,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 68,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 69,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 70,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 71,
+                            "mention": "supervisory authority"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "title": "personal data",
+                    "type": "DATA.CAT",
+                    "nelements": 26,
+                    "mentions": [
+                        {
+                            "id": 72,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 73,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 74,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 75,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 76,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 77,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 78,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 79,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 80,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 81,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 82,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 83,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 84,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 85,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 86,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 87,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 88,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 89,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 90,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 91,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 92,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 93,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 94,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 95,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 96,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 97,
+                            "mention": "personal data"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "title": "transfer",
+                    "type": "DATA.OP",
+                    "nelements": 25,
+                    "mentions": [
+                        {
+                            "id": 98,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 99,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 100,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 101,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 102,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 103,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 104,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 105,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 106,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 107,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 108,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 109,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 110,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 111,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 112,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 113,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 114,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 115,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 116,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 117,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 118,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 119,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 120,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 121,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 122,
+                            "mention": "transfer"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "title": "data subject rights",
+                    "type": "RIGHT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 123,
+                            "mention": "data subject rights"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "GDPR_Chapter_V"
+}

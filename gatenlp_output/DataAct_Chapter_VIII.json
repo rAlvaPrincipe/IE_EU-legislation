@@ -1,0 +1,1435 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 30,
+                    "end": 40,
+                    "id": 0,
+                    "features": {
+                        "text": "Article 33"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2001,
+                    "end": 2011,
+                    "id": 1,
+                    "features": {
+                        "text": "Article 45"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3003,
+                    "end": 3031,
+                    "id": 2,
+                    "features": {
+                        "text": "Regulation (EU) No 1025/2012"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3476,
+                    "end": 3504,
+                    "id": 3,
+                    "features": {
+                        "text": "Regulation (EU) No 1025/2012"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3847,
+                    "end": 3875,
+                    "id": 4,
+                    "features": {
+                        "text": "Regulation (EU) No 1025/2012"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4152,
+                    "end": 4180,
+                    "id": 5,
+                    "features": {
+                        "text": "Regulation (EU) No 1025/2012"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4535,
+                    "end": 4563,
+                    "id": 6,
+                    "features": {
+                        "text": "Regulation (EU) No 1025/2012"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5580,
+                    "end": 5608,
+                    "id": 7,
+                    "features": {
+                        "text": "Regulation (EU) No 1025/2012"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 8886,
+                    "end": 8914,
+                    "id": 8,
+                    "features": {
+                        "text": "Regulation (EU) No 1025/2012"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 9080,
+                    "end": 9108,
+                    "id": 9,
+                    "features": {
+                        "text": "Regulation (EU) No 1025/2012"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 13534,
+                    "end": 13562,
+                    "id": 10,
+                    "features": {
+                        "text": "Regulation (EU) No 1025/2012"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14007,
+                    "end": 14035,
+                    "id": 11,
+                    "features": {
+                        "text": "Regulation (EU) No 1025/2012"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14378,
+                    "end": 14406,
+                    "id": 12,
+                    "features": {
+                        "text": "Regulation (EU) No 1025/2012"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14683,
+                    "end": 14711,
+                    "id": 13,
+                    "features": {
+                        "text": "Regulation (EU) No 1025/2012"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 15066,
+                    "end": 15094,
+                    "id": 14,
+                    "features": {
+                        "text": "Regulation (EU) No 1025/2012"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 16249,
+                    "end": 16277,
+                    "id": 15,
+                    "features": {
+                        "text": "Regulation (EU) No 1025/2012"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2989,
+                    "end": 3031,
+                    "id": 16,
+                    "features": {
+                        "text": "Article 10 of Regulation (EU) No 1025/2012"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 13520,
+                    "end": 13562,
+                    "id": 17,
+                    "features": {
+                        "text": "Article 10 of Regulation (EU) No 1025/2012"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4521,
+                    "end": 4563,
+                    "id": 18,
+                    "features": {
+                        "text": "Article 22 of Regulation (EU) No 1025/2012"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 15052,
+                    "end": 15094,
+                    "id": 19,
+                    "features": {
+                        "text": "Article 22 of Regulation (EU) No 1025/2012"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6755,
+                    "end": 6765,
+                    "id": 20,
+                    "features": {
+                        "text": "Article 23"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6767,
+                    "end": 6777,
+                    "id": 21,
+                    "features": {
+                        "text": "Article 24"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6779,
+                    "end": 6792,
+                    "id": 22,
+                    "features": {
+                        "text": "Article 25(2)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6835,
+                    "end": 6848,
+                    "id": 23,
+                    "features": {
+                        "text": "Article 30(2)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 10637,
+                    "end": 10647,
+                    "id": 24,
+                    "features": {
+                        "text": "Article 36"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6481,
+                    "end": 6505,
+                    "id": 25,
+                    "features": {
+                        "text": "Regulation (EU) 2022/868"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 186,
+                    "end": 213,
+                    "id": 26,
+                    "features": {
+                        "text": "Participants in data spaces"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2523,
+                    "end": 2550,
+                    "id": 27,
+                    "features": {
+                        "text": "participants in data spaces"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2593,
+                    "end": 2620,
+                    "id": 28,
+                    "features": {
+                        "text": "participants in data spaces"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4898,
+                    "end": 4925,
+                    "id": 29,
+                    "features": {
+                        "text": "participants in data spaces"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4968,
+                    "end": 4995,
+                    "id": 30,
+                    "features": {
+                        "text": "participants in data spaces"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10742,
+                    "end": 10766,
+                    "id": 31,
+                    "features": {
+                        "text": "vendor of an application"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12713,
+                    "end": 12737,
+                    "id": 32,
+                    "features": {
+                        "text": "vendor of an application"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10821,
+                    "end": 10906,
+                    "id": 33,
+                    "features": {
+                        "text": "person whose trade, business or profession involves the deployment of smart contracts"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12281,
+                    "end": 12366,
+                    "id": 34,
+                    "features": {
+                        "text": "person whose trade, business or profession involves the deployment of smart contracts"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12792,
+                    "end": 12877,
+                    "id": 35,
+                    "features": {
+                        "text": "person whose trade, business or profession involves the deployment of smart contracts"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15488,
+                    "end": 15573,
+                    "id": 36,
+                    "features": {
+                        "text": "person whose trade, business or profession involves the deployment of smart contracts"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 1929,
+                    "end": 1943,
+                    "id": 37,
+                    "features": {
+                        "text": "The Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2378,
+                    "end": 2392,
+                    "id": 38,
+                    "features": {
+                        "text": "The Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2955,
+                    "end": 2969,
+                    "id": 39,
+                    "features": {
+                        "text": "The Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3207,
+                    "end": 3221,
+                    "id": 40,
+                    "features": {
+                        "text": "The Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3417,
+                    "end": 3431,
+                    "id": 41,
+                    "features": {
+                        "text": "the Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4464,
+                    "end": 4478,
+                    "id": 42,
+                    "features": {
+                        "text": "the Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4727,
+                    "end": 4741,
+                    "id": 43,
+                    "features": {
+                        "text": "the Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 5403,
+                    "end": 5417,
+                    "id": 44,
+                    "features": {
+                        "text": "the Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 5509,
+                    "end": 5523,
+                    "id": 45,
+                    "features": {
+                        "text": "the Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 5715,
+                    "end": 5729,
+                    "id": 46,
+                    "features": {
+                        "text": "the Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6133,
+                    "end": 6147,
+                    "id": 47,
+                    "features": {
+                        "text": "the Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6194,
+                    "end": 6208,
+                    "id": 48,
+                    "features": {
+                        "text": "The Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6355,
+                    "end": 6369,
+                    "id": 49,
+                    "features": {
+                        "text": "The Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 9024,
+                    "end": 9038,
+                    "id": 50,
+                    "features": {
+                        "text": "the Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 9291,
+                    "end": 9305,
+                    "id": 51,
+                    "features": {
+                        "text": "The Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 9581,
+                    "end": 9595,
+                    "id": 52,
+                    "features": {
+                        "text": "the Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 9964,
+                    "end": 9978,
+                    "id": 53,
+                    "features": {
+                        "text": "the Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 10025,
+                    "end": 10039,
+                    "id": 54,
+                    "features": {
+                        "text": "The Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 10219,
+                    "end": 10233,
+                    "id": 55,
+                    "features": {
+                        "text": "the Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 13486,
+                    "end": 13500,
+                    "id": 56,
+                    "features": {
+                        "text": "The Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 13738,
+                    "end": 13752,
+                    "id": 57,
+                    "features": {
+                        "text": "The Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 13948,
+                    "end": 13962,
+                    "id": 58,
+                    "features": {
+                        "text": "the Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 14995,
+                    "end": 15009,
+                    "id": 59,
+                    "features": {
+                        "text": "the Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 15258,
+                    "end": 15272,
+                    "id": 60,
+                    "features": {
+                        "text": "the Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 16072,
+                    "end": 16086,
+                    "id": 61,
+                    "features": {
+                        "text": "the Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 16178,
+                    "end": 16192,
+                    "id": 62,
+                    "features": {
+                        "text": "the Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 16384,
+                    "end": 16398,
+                    "id": 63,
+                    "features": {
+                        "text": "the Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 16742,
+                    "end": 16756,
+                    "id": 64,
+                    "features": {
+                        "text": "the Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 16803,
+                    "end": 16817,
+                    "id": 65,
+                    "features": {
+                        "text": "The Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3053,
+                    "end": 3091,
+                    "id": 66,
+                    "features": {
+                        "text": "European standardisation organisations"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3518,
+                    "end": 3556,
+                    "id": 67,
+                    "features": {
+                        "text": "European standardisation organisations"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 9130,
+                    "end": 9168,
+                    "id": 68,
+                    "features": {
+                        "text": "European standardisation organisations"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 13584,
+                    "end": 13622,
+                    "id": 69,
+                    "features": {
+                        "text": "European standardisation organisations"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 14049,
+                    "end": 14087,
+                    "id": 70,
+                    "features": {
+                        "text": "European standardisation organisations"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2464,
+                    "end": 2468,
+                    "id": 71,
+                    "features": {
+                        "text": "EDIB"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4784,
+                    "end": 4788,
+                    "id": 72,
+                    "features": {
+                        "text": "EDIB"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6431,
+                    "end": 6435,
+                    "id": 73,
+                    "features": {
+                        "text": "EDIB"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 15315,
+                    "end": 15319,
+                    "id": 74,
+                    "features": {
+                        "text": "EDIB"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 103,
+                    "end": 115,
+                    "id": 75,
+                    "features": {
+                        "text": "data sharing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 371,
+                    "end": 383,
+                    "id": 76,
+                    "features": {
+                        "text": "data sharing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1676,
+                    "end": 1688,
+                    "id": 77,
+                    "features": {
+                        "text": "data sharing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10711,
+                    "end": 10723,
+                    "id": 78,
+                    "features": {
+                        "text": "data sharing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 12158,
+                    "end": 12170,
+                    "id": 79,
+                    "features": {
+                        "text": "data sharing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6697,
+                    "end": 6721,
+                    "id": 80,
+                    "features": {
+                        "text": "data processing services"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6906,
+                    "end": 6930,
+                    "id": 81,
+                    "features": {
+                        "text": "data processing services"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7001,
+                    "end": 7025,
+                    "id": 82,
+                    "features": {
+                        "text": "data processing services"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7143,
+                    "end": 7167,
+                    "id": 83,
+                    "features": {
+                        "text": "data processing services"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7323,
+                    "end": 7347,
+                    "id": 84,
+                    "features": {
+                        "text": "data processing services"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7441,
+                    "end": 7465,
+                    "id": 85,
+                    "features": {
+                        "text": "data processing services"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7549,
+                    "end": 7573,
+                    "id": 86,
+                    "features": {
+                        "text": "data processing services"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7668,
+                    "end": 7692,
+                    "id": 87,
+                    "features": {
+                        "text": "data processing services"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7812,
+                    "end": 7836,
+                    "id": 88,
+                    "features": {
+                        "text": "data processing services"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7964,
+                    "end": 7988,
+                    "id": 89,
+                    "features": {
+                        "text": "data processing services"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 8120,
+                    "end": 8144,
+                    "id": 90,
+                    "features": {
+                        "text": "data processing services"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 8239,
+                    "end": 8263,
+                    "id": 91,
+                    "features": {
+                        "text": "data processing services"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10373,
+                    "end": 10397,
+                    "id": 92,
+                    "features": {
+                        "text": "data processing services"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10466,
+                    "end": 10490,
+                    "id": 93,
+                    "features": {
+                        "text": "data processing services"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7179,
+                    "end": 7198,
+                    "id": 94,
+                    "features": {
+                        "text": "data egress charges"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 11640,
+                    "end": 11654,
+                    "id": 95,
+                    "features": {
+                        "text": "data archiving"
+                    }
+                }
+            ],
+            "next_annid": 96
+        }
+    },
+    "text": "CHAPTER VIII\nINTEROPERABILITY\nArticle 33\nEssential requirements regarding interoperability of data, of data sharing mechanisms and services, as well as of common European data spaces\n1. Participants in data spaces that offer data or data services to other participants shall comply with the following essential requirements to facilitate the interoperability of data, of data sharing mechanisms and services, as well as of common European data spaces which are purpose- or sector-specific or cross-sectoral interoperable frameworks for common standards and practices to share or jointly process data for, inter alia, the development of new products and services, scientific research or civil society initiatives:\n(a) the dataset content, use restrictions, licences, data collection methodology, data quality and uncertainty shall be sufficiently described, where applicable, in a machine-readable format, to allow the recipient to find, access and use the data;\n(b) the data structures, data formats, vocabularies, classification schemes, taxonomies and code lists, where available, shall be described in a publicly available and consistent manner;\n(c) the technical means to access the data, such as application programming interfaces, and their terms of use and quality of service shall be sufficiently described to enable automatic access and transmission of data between parties, including continuously, in bulk download or in real-time in a machine-readable format where that is technically feasible and does not hamper the good functioning of the connected product;\n(d) where applicable, the means to enable the interoperability of tools for automating the execution of data sharing agreements, such as smart contracts shall be provided.\nThe requirements can have a generic nature or concern specific sectors, while taking fully into account the interrelation with requirements arising from other Union or national law.\n2. The Commission is empowered to adopt delegated acts, in accordance with Article 45 of this Regulation to supplement this Regulation by further specifying the essential requirements laid down in paragraph 1 of this Article, in relation to those requirements that, by their nature, cannot produce the intended effect unless they are further specified in binding Union legal acts and in order to properly reflect technological and market developments.\nThe Commission shall when adopting delegated acts take into account the advice of the EDIB in accordance with Article 42, point (c)(iii).\n3. The participants in data spaces that offer data or data services to other participants in data spaces which meet the harmonised standards or parts thereof, the references of which are published in the Official Journal of the European Union, shall be presumed to be in conformity with the essential requirements laid down in paragraph 1 to the extent that those requirements are covered by such harmonised standards or parts thereof.\n4. The Commission shall, pursuant to Article 10 of Regulation (EU) No 1025/2012, request one or more European standardisation organisations to draft harmonised standards that satisfy the essential requirements laid down in paragraph 1 of this Article.\n5. The Commission may, by means of implementing acts, adopt common specifications covering any or all of the essential requirements laid down in paragraph 1 where the following conditions have been fulfilled:\n(a) the Commission has requested, pursuant to Article 10(1) of Regulation (EU) No 1025/2012, one or more European standardisation organisations to draft a harmonised standard that satisfies the essential requirements laid down in paragraph 1 of this Article and:\n(i) the request has not been accepted;\n(ii) the harmonised standards addressing that request are not delivered within the deadline set in accordance with Article 10(1) of Regulation (EU) No 1025/2012; or\n(iii) the harmonised standards do not comply with the request; and\n(b) no reference to harmonised standards covering the relevant essential requirements laid down in paragraph 1 of this Article is published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012 and no such reference is expected to be published within a reasonable period.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 46(2).\n6. Before preparing a draft implementing act referred to in paragraph 5 of this Article, the Commission shall inform the committee referred to in Article 22 of Regulation (EU) No 1025/2012 that it considers that the conditions in paragraph 5 of this Article have been fulfilled.\n7. When preparing the draft implementing act referred to in paragraph 5, the Commission shall take into account the advice of the EDIB and views of other relevant bodies or expert groups and shall duly consult all relevant stakeholders.\n8. The participants in data spaces that offer data or data services to other participants in data spaces that meet the common specifications established by implementing acts referred to in paragraph 5 or parts thereof shall be presumed to be in conformity with the essential requirements laid down in paragraph 1 to the extent that those requirements are covered by such common specifications or parts thereof.\n9. Where a harmonised standard is adopted by a European standardisation organisation and proposed to the Commission for the purpose of publishing its reference in the Official Journal of the European Union, the Commission shall assess the harmonised standard in accordance with Regulation (EU) No 1025/2012.\nWhere the reference of a harmonised standard is published in the Official Journal of the European Union, the Commission shall repeal the implementing acts referred to in paragraph 5 of this Article, or parts thereof which cover the same essential requirements as those covered by that harmonised standard.\n22.12.2023 http://data.europa.eu/eli/reg/2023/2854/oj 62/71\n10.\nWhen a Member State considers that a common specification does not entirely satisfy the essential requirements laid down in paragraph 1, it shall inform the Commission thereof by submitting a detailed explanation.\nThe Commission shall assess that detailed explanation and may, if appropriate, amend the implementing act establishing the common specification in question.\n11.\nThe Commission may adopt guidelines taking into account the proposal of the EDIB in accordance with Article 30, point (h), of Regulation (EU) 2022/868 laying down interoperable frameworks for common standards and practices for the functioning of common European data spaces.\nArticle 34\nInteroperability for the purposes of in-parallel use of data processing services\n1. The requirements laid down in Article 23, Article 24, Article 25(2), points (a)(ii), (a)(iv), (e) and (f) and Article 30(2) to\n(5) shall also apply mutatis mutandis to providers of data processing services to facilitate interoperability for the purposes of in-parallel use of data processing services.\n2. Where a data processing service is being used in parallel with another data processing service, the providers of data processing services may impose data egress charges, but only for the purpose of passing on egress costs incurred, without exceeding such costs.\nArticle 35\nInteroperability of data processing services\n1. Open interoperability specifications and harmonised standards for the interoperability of data processing services shall:\n(a) achieve, where technically feasible, interoperability between different data processing services that cover the same service type;\n(b) enhance portability of digital assets between different data processing services that cover the same service type;\n(c) facilitate, where technically feasible, functional equivalence between different data processing services referred to in Article 30(1) that cover the same service type;\n(d) not have an adverse impact on the security and integrity of data processing services and data;\n(e) be designed in such a way so as to allow for technical advances and the inclusion of new functions and innovation in data processing services.\n2. Open interoperability specifications and harmonised standards for the interoperability of data processing services shall adequately address:\n(a) the cloud interoperability aspects of transport interoperability, syntactic interoperability, semantic data interoperability, behavioural interoperability and policy interoperability;\n(b) the cloud data portability aspects of data syntactic portability, data semantic portability and data policy portability;\n(c) the cloud application aspects of application syntactic portability, application instruction portability, application metadata portability, application behaviour portability and application policy portability.\n3. Open interoperability specifications shall comply with Annex II to Regulation (EU) No 1025/2012.\n4. After taking into account relevant international and European standards and self-regulatory initiatives, the Commission may, in accordance with Article 10(1) of Regulation (EU) No 1025/2012, request one or more European standardisation organisations to draft harmonised standards that satisfy the essential requirements laid down in paragraphs 1 and 2 of this Article.\n5. The Commission may, by means of implementing acts, adopt common specifications based on open interoperability specifications covering all of the essential requirements laid down in paragraphs 1 and 2.\n6. When preparing the draft implementing act referred to in paragraph 5 of this Article, the Commission shall take into account the views of the relevant competent authorities referred to in Article 37(5), point (h) and other relevant bodies or expert groups and shall duly consult all relevant stakeholders.\n7. When a Member State considers that a common specification does not entirely satisfy the essential requirements laid down in paragraphs 1 and 2, it shall inform the Commission thereof by submitting a detailed explanation.\nThe Commission shall assess that detailed explanation and may, if appropriate, amend the implementing act establishing the common specification in question.\n8. For the purpose of Article 30(3), the Commission shall, by means of implementing acts, publish the references of harmonised standards and common specifications for the interoperability of data processing services in a central Union standards repository for the interoperability of data processing services.\n9. The implementing acts referred to in this Article shall be adopted in accordance with the examination procedure referred to in Article 46(2).\nArticle 36\nEssential requirements regarding smart contracts for executing data sharing agreements\n1. The vendor of an application using smart contracts or, in the absence thereof, the person whose trade, business or profession involves the deployment of smart contracts for others in the context of executing an agreement or part of it, to make data available shall ensure that those smart contracts comply with the following essential requirements of:\n(a) robustness and access control, to ensure that the smart contract has been designed to offer access control mechanisms and a very high degree of robustness to avoid functional errors and to withstand manipulation by third parties;\n(b) safe termination and interruption, to ensure that a mechanism exists to terminate the continued execution of transactions and that the smart contract includes internal functions which can reset or instruct the contract to stop or interrupt the operation, in particular to avoid future accidental executions;\n(c) data archiving and continuity, to ensure, in circumstances in which a smart contract must be terminated or deactivated, there is a possibility to archive the transactional data, smart contract logic and code in order to keep the record of operations performed on the data in the past (auditability);\n(d) access control, to ensure that a smart contract is protected through rigorous access control mechanisms at the governance and smart contract layers; and\n(e) consistency, to ensure consistency with the terms of the data sharing agreement that the smart contract executes.\n2. The vendor of a smart contract or, in the absence thereof, the person whose trade, business or profession involves the deployment of smart contracts for others in the context of executing an agreement or part of it, to make data available shall perform a conformity assessment with a view to fulfilling the essential requirements laid down in paragraph 1 and, on the fulfilment of those requirements, issue an EU declaration of conformity.\n3. By drawing up the EU declaration of conformity, the vendor of an application using smart contracts or, in the absence thereof, the person whose trade, business or profession involves the deployment of smart contracts for others in the context executing an agreement or part of it, to make data available shall be responsible for compliance with the essential requirements laid down in paragraph 1.\n22.12.2023 http://data.europa.eu/eli/reg/2023/2854/oj 64/71\n4. A smart contract that meets the harmonised standards or the relevant parts thereof, the references of which are published in the Official Journal of the European Union, shall be presumed to be in conformity with the essential requirements laid down in paragraph 1 to the extent that those requirements are covered by such harmonised standards or parts thereof.\n5. The Commission shall, pursuant to Article 10 of Regulation (EU) No 1025/2012, request one or more European standardisation organisations to draft harmonised standards that satisfy the essential requirements laid down in paragraph 1 of this Article.\n6. The Commission may, by means of implementing acts, adopt common specifications covering any or all of the essential requirements laid down in paragraph 1 where the following conditions have been fulfilled:\n(a) the Commission has requested, pursuant to Article 10(1) of Regulation (EU) No 1025/2012, one or more European standardisation organisations to draft a harmonised standard that satisfies the essential requirements laid down in paragraph 1 of this Article and:\n(i) the request has not been accepted;\n(ii) the harmonised standards addressing that request are not delivered within the deadline set in accordance with Article 10(1) of Regulation (EU) No 1025/2012; or\n(iii) the harmonised standards do not comply with the request; and\n(b) no reference to harmonised standards covering the relevant essential requirements laid down in paragraph 1 of this Article is published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012 and no such reference is expected to be published within a reasonable period.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 46(2).\n7. Before preparing a draft implementing act referred to in paragraph 6 of this Article, the Commission shall inform the committee referred to in Article 22 of Regulation (EU) No 1025/2012 that it considers that the conditions in paragraph 6 of this Article have been fulfilled.\n8. When preparing the draft implementing act referred to in paragraph 6, the Commission shall take into account the advice of the EDIB and views of other relevant bodies or expert groups and shall duly consult all relevant stakeholders.\n9. The vendor of a smart contract or, in the absence thereof, the person whose trade, business or profession involves the deployment of smart contracts for others in the context of executing an agreement or part of it, to make data available that meet the common specifications established by implementing acts referred to in paragraph 6 or parts thereof shall be presumed to be in conformity with the essential requirements laid down in paragraph 1 to the extent that those requirements are covered by such common specifications or parts thereof.\n10.\nWhere a harmonised standard is adopted by a European standardisation organisation and proposed to the Commission for the purpose of publishing its reference in the Official Journal of the European Union, the Commission shall assess the harmonised standard in accordance with Regulation (EU) No 1025/2012.\nWhere the reference of a harmonised standard is published in the Official Journal of the European Union, the Commission shall repeal the implementing acts referred to in paragraph 6 of this Article, or parts thereof which cover the same essential requirements as those covered by that harmonised standard.\n11.\nWhen a Member State considers that a common specification does not entirely satisfy the essential requirements laid down in paragraph 1, it shall inform the Commission thereof by submitting a detailed explanation.\nThe Commission shall assess that detailed explanation and may, if appropriate, amend the implementing act establishing the common specification in question.\n",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Article 33",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Article 33"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Article 45",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 1,
+                            "mention": "Article 45"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Regulation (EU) No 1025/2012",
+                    "type": "REGULATION",
+                    "nelements": 14,
+                    "mentions": [
+                        {
+                            "id": 2,
+                            "mention": "Regulation (EU) No 1025/2012"
+                        },
+                        {
+                            "id": 3,
+                            "mention": "Regulation (EU) No 1025/2012"
+                        },
+                        {
+                            "id": 4,
+                            "mention": "Regulation (EU) No 1025/2012"
+                        },
+                        {
+                            "id": 5,
+                            "mention": "Regulation (EU) No 1025/2012"
+                        },
+                        {
+                            "id": 6,
+                            "mention": "Regulation (EU) No 1025/2012"
+                        },
+                        {
+                            "id": 7,
+                            "mention": "Regulation (EU) No 1025/2012"
+                        },
+                        {
+                            "id": 8,
+                            "mention": "Regulation (EU) No 1025/2012"
+                        },
+                        {
+                            "id": 9,
+                            "mention": "Regulation (EU) No 1025/2012"
+                        },
+                        {
+                            "id": 10,
+                            "mention": "Regulation (EU) No 1025/2012"
+                        },
+                        {
+                            "id": 11,
+                            "mention": "Regulation (EU) No 1025/2012"
+                        },
+                        {
+                            "id": 12,
+                            "mention": "Regulation (EU) No 1025/2012"
+                        },
+                        {
+                            "id": 13,
+                            "mention": "Regulation (EU) No 1025/2012"
+                        },
+                        {
+                            "id": 14,
+                            "mention": "Regulation (EU) No 1025/2012"
+                        },
+                        {
+                            "id": 15,
+                            "mention": "Regulation (EU) No 1025/2012"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Article 10 of Regulation (EU) No 1025/2012",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 16,
+                            "mention": "Article 10 of Regulation (EU) No 1025/2012"
+                        },
+                        {
+                            "id": 17,
+                            "mention": "Article 10 of Regulation (EU) No 1025/2012"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Article 22 of Regulation (EU) No 1025/2012",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 18,
+                            "mention": "Article 22 of Regulation (EU) No 1025/2012"
+                        },
+                        {
+                            "id": 19,
+                            "mention": "Article 22 of Regulation (EU) No 1025/2012"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Article 23",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 20,
+                            "mention": "Article 23"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "Article 24",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 21,
+                            "mention": "Article 24"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "Article 25(2)",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 22,
+                            "mention": "Article 25(2)"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "Article 30(2)",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 23,
+                            "mention": "Article 30(2)"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "Article 36",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 24,
+                            "mention": "Article 36"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "Regulation (EU) 2022/868",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 25,
+                            "mention": "Regulation (EU) 2022/868"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "Participants in data spaces",
+                    "type": "ROLE",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 26,
+                            "mention": "Participants in data spaces"
+                        },
+                        {
+                            "id": 27,
+                            "mention": "participants in data spaces"
+                        },
+                        {
+                            "id": 28,
+                            "mention": "participants in data spaces"
+                        },
+                        {
+                            "id": 29,
+                            "mention": "participants in data spaces"
+                        },
+                        {
+                            "id": 30,
+                            "mention": "participants in data spaces"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "title": "vendor of an application",
+                    "type": "ROLE",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 31,
+                            "mention": "vendor of an application"
+                        },
+                        {
+                            "id": 32,
+                            "mention": "vendor of an application"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "title": "person whose trade, business or profession involves the deployment of smart contracts",
+                    "type": "ROLE",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 33,
+                            "mention": "person whose trade, business or profession involves the deployment of smart contracts"
+                        },
+                        {
+                            "id": 34,
+                            "mention": "person whose trade, business or profession involves the deployment of smart contracts"
+                        },
+                        {
+                            "id": 35,
+                            "mention": "person whose trade, business or profession involves the deployment of smart contracts"
+                        },
+                        {
+                            "id": 36,
+                            "mention": "person whose trade, business or profession involves the deployment of smart contracts"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "title": "The Commission",
+                    "type": "AUTHORITY",
+                    "nelements": 29,
+                    "mentions": [
+                        {
+                            "id": 37,
+                            "mention": "The Commission"
+                        },
+                        {
+                            "id": 38,
+                            "mention": "The Commission"
+                        },
+                        {
+                            "id": 39,
+                            "mention": "The Commission"
+                        },
+                        {
+                            "id": 40,
+                            "mention": "The Commission"
+                        },
+                        {
+                            "id": 41,
+                            "mention": "the Commission"
+                        },
+                        {
+                            "id": 42,
+                            "mention": "the Commission"
+                        },
+                        {
+                            "id": 43,
+                            "mention": "the Commission"
+                        },
+                        {
+                            "id": 44,
+                            "mention": "the Commission"
+                        },
+                        {
+                            "id": 45,
+                            "mention": "the Commission"
+                        },
+                        {
+                            "id": 46,
+                            "mention": "the Commission"
+                        },
+                        {
+                            "id": 47,
+                            "mention": "the Commission"
+                        },
+                        {
+                            "id": 48,
+                            "mention": "The Commission"
+                        },
+                        {
+                            "id": 49,
+                            "mention": "The Commission"
+                        },
+                        {
+                            "id": 50,
+                            "mention": "the Commission"
+                        },
+                        {
+                            "id": 51,
+                            "mention": "The Commission"
+                        },
+                        {
+                            "id": 52,
+                            "mention": "the Commission"
+                        },
+                        {
+                            "id": 53,
+                            "mention": "the Commission"
+                        },
+                        {
+                            "id": 54,
+                            "mention": "The Commission"
+                        },
+                        {
+                            "id": 55,
+                            "mention": "the Commission"
+                        },
+                        {
+                            "id": 56,
+                            "mention": "The Commission"
+                        },
+                        {
+                            "id": 57,
+                            "mention": "The Commission"
+                        },
+                        {
+                            "id": 58,
+                            "mention": "the Commission"
+                        },
+                        {
+                            "id": 59,
+                            "mention": "the Commission"
+                        },
+                        {
+                            "id": 60,
+                            "mention": "the Commission"
+                        },
+                        {
+                            "id": 61,
+                            "mention": "the Commission"
+                        },
+                        {
+                            "id": 62,
+                            "mention": "the Commission"
+                        },
+                        {
+                            "id": 63,
+                            "mention": "the Commission"
+                        },
+                        {
+                            "id": 64,
+                            "mention": "the Commission"
+                        },
+                        {
+                            "id": 65,
+                            "mention": "The Commission"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "title": "European standardisation organisations",
+                    "type": "AUTHORITY",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 66,
+                            "mention": "European standardisation organisations"
+                        },
+                        {
+                            "id": 67,
+                            "mention": "European standardisation organisations"
+                        },
+                        {
+                            "id": 68,
+                            "mention": "European standardisation organisations"
+                        },
+                        {
+                            "id": 69,
+                            "mention": "European standardisation organisations"
+                        },
+                        {
+                            "id": 70,
+                            "mention": "European standardisation organisations"
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "title": "EDIB",
+                    "type": "AUTHORITY",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 71,
+                            "mention": "EDIB"
+                        },
+                        {
+                            "id": 72,
+                            "mention": "EDIB"
+                        },
+                        {
+                            "id": 73,
+                            "mention": "EDIB"
+                        },
+                        {
+                            "id": 74,
+                            "mention": "EDIB"
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "title": "data sharing",
+                    "type": "DATA.OP",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 75,
+                            "mention": "data sharing"
+                        },
+                        {
+                            "id": 76,
+                            "mention": "data sharing"
+                        },
+                        {
+                            "id": 77,
+                            "mention": "data sharing"
+                        },
+                        {
+                            "id": 78,
+                            "mention": "data sharing"
+                        },
+                        {
+                            "id": 79,
+                            "mention": "data sharing"
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "title": "data processing services",
+                    "type": "DATA.OP",
+                    "nelements": 14,
+                    "mentions": [
+                        {
+                            "id": 80,
+                            "mention": "data processing services"
+                        },
+                        {
+                            "id": 81,
+                            "mention": "data processing services"
+                        },
+                        {
+                            "id": 82,
+                            "mention": "data processing services"
+                        },
+                        {
+                            "id": 83,
+                            "mention": "data processing services"
+                        },
+                        {
+                            "id": 84,
+                            "mention": "data processing services"
+                        },
+                        {
+                            "id": 85,
+                            "mention": "data processing services"
+                        },
+                        {
+                            "id": 86,
+                            "mention": "data processing services"
+                        },
+                        {
+                            "id": 87,
+                            "mention": "data processing services"
+                        },
+                        {
+                            "id": 88,
+                            "mention": "data processing services"
+                        },
+                        {
+                            "id": 89,
+                            "mention": "data processing services"
+                        },
+                        {
+                            "id": 90,
+                            "mention": "data processing services"
+                        },
+                        {
+                            "id": 91,
+                            "mention": "data processing services"
+                        },
+                        {
+                            "id": 92,
+                            "mention": "data processing services"
+                        },
+                        {
+                            "id": 93,
+                            "mention": "data processing services"
+                        }
+                    ]
+                },
+                {
+                    "id": 20,
+                    "title": "data egress charges",
+                    "type": "DATA.OP",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 94,
+                            "mention": "data egress charges"
+                        }
+                    ]
+                },
+                {
+                    "id": 21,
+                    "title": "data archiving",
+                    "type": "DATA.OP",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 95,
+                            "mention": "data archiving"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "DataAct_Chapter_VIII"
+}

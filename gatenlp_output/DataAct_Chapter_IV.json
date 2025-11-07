@@ -1,0 +1,869 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 87,
+                    "end": 97,
+                    "id": 0,
+                    "features": {
+                        "text": "Article 13"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 518,
+                    "end": 527,
+                    "id": 1,
+                    "features": {
+                        "text": "Union law"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 546,
+                    "end": 555,
+                    "id": 2,
+                    "features": {
+                        "text": "Union law"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 518,
+                    "end": 527,
+                    "id": 3,
+                    "features": {
+                        "text": "Union law"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 546,
+                    "end": 555,
+                    "id": 4,
+                    "features": {
+                        "text": "Union law"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 155,
+                    "end": 165,
+                    "id": 5,
+                    "features": {
+                        "text": "enterprise"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 360,
+                    "end": 370,
+                    "id": 6,
+                    "features": {
+                        "text": "enterprise"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 382,
+                    "end": 392,
+                    "id": 7,
+                    "features": {
+                        "text": "enterprise"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 429,
+                    "end": 439,
+                    "id": 8,
+                    "features": {
+                        "text": "enterprise"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1903,
+                    "end": 1913,
+                    "id": 9,
+                    "features": {
+                        "text": "enterprise"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2059,
+                    "end": 2076,
+                    "id": 10,
+                    "features": {
+                        "text": "contracting party"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2164,
+                    "end": 2181,
+                    "id": 11,
+                    "features": {
+                        "text": "contracting party"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3205,
+                    "end": 3222,
+                    "id": 12,
+                    "features": {
+                        "text": "contracting party"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4123,
+                    "end": 4140,
+                    "id": 13,
+                    "features": {
+                        "text": "contracting party"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4212,
+                    "end": 4229,
+                    "id": 14,
+                    "features": {
+                        "text": "contracting party"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4435,
+                    "end": 4452,
+                    "id": 15,
+                    "features": {
+                        "text": "contracting party"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4467,
+                    "end": 4484,
+                    "id": 16,
+                    "features": {
+                        "text": "contracting party"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4568,
+                    "end": 4585,
+                    "id": 17,
+                    "features": {
+                        "text": "contracting party"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4703,
+                    "end": 4720,
+                    "id": 18,
+                    "features": {
+                        "text": "contracting party"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 47,
+                    "end": 51,
+                    "id": 19,
+                    "features": {
+                        "text": "DATA"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 224,
+                    "end": 228,
+                    "id": 20,
+                    "features": {
+                        "text": "data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 292,
+                    "end": 296,
+                    "id": 21,
+                    "features": {
+                        "text": "data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 787,
+                    "end": 791,
+                    "id": 22,
+                    "features": {
+                        "text": "data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 1456,
+                    "end": 1460,
+                    "id": 23,
+                    "features": {
+                        "text": "data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 1562,
+                    "end": 1566,
+                    "id": 24,
+                    "features": {
+                        "text": "data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 2041,
+                    "end": 2045,
+                    "id": 25,
+                    "features": {
+                        "text": "data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 2207,
+                    "end": 2211,
+                    "id": 26,
+                    "features": {
+                        "text": "data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 2243,
+                    "end": 2247,
+                    "id": 27,
+                    "features": {
+                        "text": "data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 2404,
+                    "end": 2408,
+                    "id": 28,
+                    "features": {
+                        "text": "data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 2508,
+                    "end": 2512,
+                    "id": 29,
+                    "features": {
+                        "text": "data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 2599,
+                    "end": 2603,
+                    "id": 30,
+                    "features": {
+                        "text": "data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 2633,
+                    "end": 2637,
+                    "id": 31,
+                    "features": {
+                        "text": "data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 2891,
+                    "end": 2895,
+                    "id": 32,
+                    "features": {
+                        "text": "data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 3592,
+                    "end": 3596,
+                    "id": 33,
+                    "features": {
+                        "text": "data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 5106,
+                    "end": 5110,
+                    "id": 34,
+                    "features": {
+                        "text": "data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 2220,
+                    "end": 2247,
+                    "id": 35,
+                    "features": {
+                        "text": "commercially sensitive data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 2268,
+                    "end": 2281,
+                    "id": 36,
+                    "features": {
+                        "text": "trade secrets"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 2288,
+                    "end": 2316,
+                    "id": 37,
+                    "features": {
+                        "text": "intellectual property rights"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 52,
+                    "end": 58,
+                    "id": 38,
+                    "features": {
+                        "text": "ACCESS"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 199,
+                    "end": 205,
+                    "id": 39,
+                    "features": {
+                        "text": "access"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 792,
+                    "end": 798,
+                    "id": 40,
+                    "features": {
+                        "text": "access"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2022,
+                    "end": 2028,
+                    "id": 41,
+                    "features": {
+                        "text": "access"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2576,
+                    "end": 2582,
+                    "id": 42,
+                    "features": {
+                        "text": "access"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 63,
+                    "end": 66,
+                    "id": 43,
+                    "features": {
+                        "text": "USE"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 217,
+                    "end": 220,
+                    "id": 44,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 733,
+                    "end": 736,
+                    "id": 45,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 803,
+                    "end": 806,
+                    "id": 46,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2033,
+                    "end": 2036,
+                    "id": 47,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2496,
+                    "end": 2499,
+                    "id": 48,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2562,
+                    "end": 2565,
+                    "id": 49,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3086,
+                    "end": 3095,
+                    "id": 50,
+                    "features": {
+                        "text": "terminate"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3668,
+                    "end": 3677,
+                    "id": 51,
+                    "features": {
+                        "text": "terminate"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4241,
+                    "end": 4250,
+                    "id": 52,
+                    "features": {
+                        "text": "terminate"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3456,
+                    "end": 3462,
+                    "id": 53,
+                    "features": {
+                        "text": "change"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3713,
+                    "end": 3719,
+                    "id": 54,
+                    "features": {
+                        "text": "change"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3898,
+                    "end": 3904,
+                    "id": 55,
+                    "features": {
+                        "text": "change"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4185,
+                    "end": 4191,
+                    "id": 56,
+                    "features": {
+                        "text": "change"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4292,
+                    "end": 4298,
+                    "id": 57,
+                    "features": {
+                        "text": "change"
+                    }
+                }
+            ],
+            "next_annid": 58
+        }
+    },
+    "text": "CHAPTER IV\nUNFAIR CONTRACTUAL TERMS RELATED TO DATA ACCESS AND USE BETWEEN ENTERPRISES\nArticle 13\nUnfair contractual terms unilaterally imposed on another enterprise\n1. A contractual term concerning access to and the use of data or liability and remedies for the breach or the termination of data related obligations, which has been unilaterally imposed by an enterprise on another enterprise, shall not be binding on the latter enterprise if it is unfair.\n2. A contractual term which reflects mandatory provisions of Union law, or provisions of Union law which would apply if the contractual terms did not regulate the matter, shall not be considered to be unfair.\n3. A contractual term is unfair if it is of such a nature that its use grossly deviates from good commercial practice in data access and use, contrary to good faith and fair dealing.\n4. In particular, a contractual term shall be unfair for the purposes of paragraph 3, if its object or effect is to:\n(a) exclude or limit the liability of the party that unilaterally imposed the term for intentional acts or gross negligence;\n(b) exclude the remedies available to the party upon whom the term has been unilaterally imposed in the case of nonperformance of contractual obligations, or the liability of the party that unilaterally imposed the term in the case of a breach of those obligations;\n(c) give the party that unilaterally imposed the term the exclusive right to determine whether the data supplied are in conformity with the contract or to interpret any contractual term.\n22.12.2023 http://data.europa.eu/eli/reg/2023/2854/oj 48/71\n5. A contractual term shall be presumed to be unfair for the purposes of paragraph 3 if its object or effect is to:\n(a) inappropriately limit remedies in the case of non-performance of contractual obligations or liability in the case of a breach of those obligations, or extend the liability of the enterprise upon whom the term has been unilaterally imposed;\n(b) allow the party that unilaterally imposed the term to access and use the data of the other contracting party in a manner that is significantly detrimental to the legitimate interests of the other contracting party, in particular when such data contain commercially sensitive data or are protected by trade secrets or by intellectual property rights;\n(c) prevent the party upon whom the term has been unilaterally imposed from using the data provided or generated by that party during the period of the contract, or to limit the use of such data to the extent that that party is not entitled to use, capture, access or control such data or exploit the value of such data in an adequate manner;\n(d) prevent the party upon whom the term has been unilaterally imposed from terminating the agreement within a reasonable period;\n(e) prevent the party upon whom the term has been unilaterally imposed from obtaining a copy of the data provided or generated by that party during the period of the contract or within a reasonable period after the termination thereof;\n(f) enable the party that unilaterally imposed the term to terminate the contract at unreasonably short notice, taking into consideration any reasonable possibility of the other contracting party to switch to an alternative and comparable service and the financial detriment caused by such termination, except where there are serious grounds for so doing;\n(g) enable the party that unilaterally imposed the term to substantially change the price specified in the contract or any other substantive condition related to the nature, format, quality or quantity of the data to be shared, where no valid reason and no right of the other party to terminate the contract in the case of such a change is specified in the contract.\nPoint (g) of the first subparagraph shall not affect terms by which the party that unilaterally imposed the term reserves the right to unilaterally change the terms of a contract of an indeterminate duration, provided that the contract specified a valid reason for such unilateral changes, that the party that unilaterally imposed the term is required to provide the other contracting party with reasonable notice of any such intended change, and that the other contracting party is free to terminate the contract at no cost in the case of a change.\n6. A contractual term shall be considered to be unilaterally imposed within the meaning of this Article if it has been supplied by one contracting party and the other contracting party has not been able to influence its content despite an attempt to negotiate it.\nThe contracting party that supplied the contractual term bears the burden of proving that that term has not been unilaterally imposed.\nThe contracting party that supplied the contested contractual term may not argue that the term is an unfair contractual term.\n7. Where the unfair contractual term is severable from the remaining terms of the contract, those remaining terms shall be binding.\n8. This Article does not apply to contractual terms defining the main subject matter of the contract or to the adequacy of the price, as against the data supplied in exchange.\n9. The parties to a contract covered by paragraph 1 shall not exclude the application of this Article, derogate from it, or vary its effects.\n",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Article 13",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Article 13"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Union law",
+                    "type": "REGULATION",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 1,
+                            "mention": "Union law"
+                        },
+                        {
+                            "id": 2,
+                            "mention": "Union law"
+                        },
+                        {
+                            "id": 3,
+                            "mention": "Union law"
+                        },
+                        {
+                            "id": 4,
+                            "mention": "Union law"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "enterprise",
+                    "type": "ROLE",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 5,
+                            "mention": "enterprise"
+                        },
+                        {
+                            "id": 6,
+                            "mention": "enterprise"
+                        },
+                        {
+                            "id": 7,
+                            "mention": "enterprise"
+                        },
+                        {
+                            "id": 8,
+                            "mention": "enterprise"
+                        },
+                        {
+                            "id": 9,
+                            "mention": "enterprise"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "contracting party",
+                    "type": "ROLE",
+                    "nelements": 9,
+                    "mentions": [
+                        {
+                            "id": 10,
+                            "mention": "contracting party"
+                        },
+                        {
+                            "id": 11,
+                            "mention": "contracting party"
+                        },
+                        {
+                            "id": 12,
+                            "mention": "contracting party"
+                        },
+                        {
+                            "id": 13,
+                            "mention": "contracting party"
+                        },
+                        {
+                            "id": 14,
+                            "mention": "contracting party"
+                        },
+                        {
+                            "id": 15,
+                            "mention": "contracting party"
+                        },
+                        {
+                            "id": 16,
+                            "mention": "contracting party"
+                        },
+                        {
+                            "id": 17,
+                            "mention": "contracting party"
+                        },
+                        {
+                            "id": 18,
+                            "mention": "contracting party"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "DATA",
+                    "type": "DATA.CAT",
+                    "nelements": 16,
+                    "mentions": [
+                        {
+                            "id": 19,
+                            "mention": "DATA"
+                        },
+                        {
+                            "id": 20,
+                            "mention": "data"
+                        },
+                        {
+                            "id": 21,
+                            "mention": "data"
+                        },
+                        {
+                            "id": 22,
+                            "mention": "data"
+                        },
+                        {
+                            "id": 23,
+                            "mention": "data"
+                        },
+                        {
+                            "id": 24,
+                            "mention": "data"
+                        },
+                        {
+                            "id": 25,
+                            "mention": "data"
+                        },
+                        {
+                            "id": 26,
+                            "mention": "data"
+                        },
+                        {
+                            "id": 27,
+                            "mention": "data"
+                        },
+                        {
+                            "id": 28,
+                            "mention": "data"
+                        },
+                        {
+                            "id": 29,
+                            "mention": "data"
+                        },
+                        {
+                            "id": 30,
+                            "mention": "data"
+                        },
+                        {
+                            "id": 31,
+                            "mention": "data"
+                        },
+                        {
+                            "id": 32,
+                            "mention": "data"
+                        },
+                        {
+                            "id": 33,
+                            "mention": "data"
+                        },
+                        {
+                            "id": 34,
+                            "mention": "data"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "commercially sensitive data",
+                    "type": "DATA.CAT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 35,
+                            "mention": "commercially sensitive data"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "trade secrets",
+                    "type": "DATA.CAT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 36,
+                            "mention": "trade secrets"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "intellectual property rights",
+                    "type": "DATA.CAT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 37,
+                            "mention": "intellectual property rights"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "ACCESS",
+                    "type": "DATA.OP",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 38,
+                            "mention": "ACCESS"
+                        },
+                        {
+                            "id": 39,
+                            "mention": "access"
+                        },
+                        {
+                            "id": 40,
+                            "mention": "access"
+                        },
+                        {
+                            "id": 41,
+                            "mention": "access"
+                        },
+                        {
+                            "id": 42,
+                            "mention": "access"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "USE",
+                    "type": "DATA.OP",
+                    "nelements": 7,
+                    "mentions": [
+                        {
+                            "id": 43,
+                            "mention": "USE"
+                        },
+                        {
+                            "id": 44,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 45,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 46,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 47,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 48,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 49,
+                            "mention": "use"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "terminate",
+                    "type": "DATA.OP",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 50,
+                            "mention": "terminate"
+                        },
+                        {
+                            "id": 51,
+                            "mention": "terminate"
+                        },
+                        {
+                            "id": 52,
+                            "mention": "terminate"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "change",
+                    "type": "DATA.OP",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 53,
+                            "mention": "change"
+                        },
+                        {
+                            "id": 54,
+                            "mention": "change"
+                        },
+                        {
+                            "id": 55,
+                            "mention": "change"
+                        },
+                        {
+                            "id": 56,
+                            "mention": "change"
+                        },
+                        {
+                            "id": 57,
+                            "mention": "change"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "DataAct_Chapter_IV"
+}

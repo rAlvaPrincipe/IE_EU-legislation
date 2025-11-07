@@ -1,0 +1,1128 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 42,
+                    "end": 52,
+                    "id": 0,
+                    "features": {
+                        "text": "Article 37"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 866,
+                    "end": 890,
+                    "id": 1,
+                    "features": {
+                        "text": "Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1042,
+                    "end": 1066,
+                    "id": 2,
+                    "features": {
+                        "text": "Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3917,
+                    "end": 3941,
+                    "id": 3,
+                    "features": {
+                        "text": "Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 10538,
+                    "end": 10562,
+                    "id": 4,
+                    "features": {
+                        "text": "Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 12980,
+                    "end": 13004,
+                    "id": 5,
+                    "features": {
+                        "text": "Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 13103,
+                    "end": 13127,
+                    "id": 6,
+                    "features": {
+                        "text": "Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1320,
+                    "end": 1345,
+                    "id": 7,
+                    "features": {
+                        "text": "Regulation (EU) 2018/1725"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 13417,
+                    "end": 13442,
+                    "id": 8,
+                    "features": {
+                        "text": "Regulation (EU) 2018/1725"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1306,
+                    "end": 1316,
+                    "id": 9,
+                    "features": {
+                        "text": "Article 62"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 9438,
+                    "end": 9448,
+                    "id": 10,
+                    "features": {
+                        "text": "Article 38"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 10668,
+                    "end": 10678,
+                    "id": 11,
+                    "features": {
+                        "text": "Article 39"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 11503,
+                    "end": 11513,
+                    "id": 12,
+                    "features": {
+                        "text": "Article 40"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 13509,
+                    "end": 13519,
+                    "id": 13,
+                    "features": {
+                        "text": "Article 41"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4363,
+                    "end": 4373,
+                    "id": 14,
+                    "features": {
+                        "text": "Article 29"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14086,
+                    "end": 14096,
+                    "id": 15,
+                    "features": {
+                        "text": "Article 29"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 15136,
+                    "end": 15146,
+                    "id": 16,
+                    "features": {
+                        "text": "Article 29"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14100,
+                    "end": 14124,
+                    "id": 17,
+                    "features": {
+                        "text": "Regulation (EU) 2022/868"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 53,
+                    "end": 74,
+                    "id": 18,
+                    "features": {
+                        "text": "Competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 146,
+                    "end": 167,
+                    "id": 19,
+                    "features": {
+                        "text": "competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 242,
+                    "end": 263,
+                    "id": 20,
+                    "features": {
+                        "text": "competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 517,
+                    "end": 538,
+                    "id": 21,
+                    "features": {
+                        "text": "competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 657,
+                    "end": 678,
+                    "id": 22,
+                    "features": {
+                        "text": "Competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2003,
+                    "end": 2024,
+                    "id": 23,
+                    "features": {
+                        "text": "competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3300,
+                    "end": 3321,
+                    "id": 24,
+                    "features": {
+                        "text": "competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3647,
+                    "end": 3668,
+                    "id": 25,
+                    "features": {
+                        "text": "competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4096,
+                    "end": 4117,
+                    "id": 26,
+                    "features": {
+                        "text": "competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4597,
+                    "end": 4618,
+                    "id": 27,
+                    "features": {
+                        "text": "competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5254,
+                    "end": 5275,
+                    "id": 28,
+                    "features": {
+                        "text": "competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5530,
+                    "end": 5551,
+                    "id": 29,
+                    "features": {
+                        "text": "competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5800,
+                    "end": 5821,
+                    "id": 30,
+                    "features": {
+                        "text": "competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6975,
+                    "end": 6996,
+                    "id": 31,
+                    "features": {
+                        "text": "competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7133,
+                    "end": 7154,
+                    "id": 32,
+                    "features": {
+                        "text": "competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8337,
+                    "end": 8358,
+                    "id": 33,
+                    "features": {
+                        "text": "Competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9072,
+                    "end": 9093,
+                    "id": 34,
+                    "features": {
+                        "text": "Competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10240,
+                    "end": 10261,
+                    "id": 35,
+                    "features": {
+                        "text": "Competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10926,
+                    "end": 10947,
+                    "id": 36,
+                    "features": {
+                        "text": "competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14135,
+                    "end": 14156,
+                    "id": 37,
+                    "features": {
+                        "text": "competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14334,
+                    "end": 14355,
+                    "id": 38,
+                    "features": {
+                        "text": "competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14444,
+                    "end": 14465,
+                    "id": 39,
+                    "features": {
+                        "text": "competent authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 79,
+                    "end": 96,
+                    "id": 40,
+                    "features": {
+                        "text": "data coordinators"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 796,
+                    "end": 819,
+                    "id": 41,
+                    "features": {
+                        "text": "supervisory authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1404,
+                    "end": 1427,
+                    "id": 42,
+                    "features": {
+                        "text": "supervisory authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12910,
+                    "end": 12933,
+                    "id": 43,
+                    "features": {
+                        "text": "supervisory authorities"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 446,
+                    "end": 462,
+                    "id": 44,
+                    "features": {
+                        "text": "data coordinator"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4461,
+                    "end": 4477,
+                    "id": 45,
+                    "features": {
+                        "text": "data coordinator"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4646,
+                    "end": 4662,
+                    "id": 46,
+                    "features": {
+                        "text": "data coordinator"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5345,
+                    "end": 5361,
+                    "id": 47,
+                    "features": {
+                        "text": "data coordinator"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9861,
+                    "end": 9877,
+                    "id": 48,
+                    "features": {
+                        "text": "data coordinator"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9545,
+                    "end": 9570,
+                    "id": 49,
+                    "features": {
+                        "text": "natural and legal persons"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9940,
+                    "end": 9965,
+                    "id": 50,
+                    "features": {
+                        "text": "natural and legal persons"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 1101,
+                    "end": 1136,
+                    "id": 51,
+                    "features": {
+                        "text": "European Data Protection Supervisor"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 13285,
+                    "end": 13320,
+                    "id": 52,
+                    "features": {
+                        "text": "European Data Protection Supervisor"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 1235,
+                    "end": 1245,
+                    "id": 53,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3375,
+                    "end": 3385,
+                    "id": 54,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 5086,
+                    "end": 5096,
+                    "id": 55,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 5223,
+                    "end": 5233,
+                    "id": 56,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 5367,
+                    "end": 5377,
+                    "id": 57,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 11833,
+                    "end": 11843,
+                    "id": 58,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 11954,
+                    "end": 11964,
+                    "id": 59,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 13581,
+                    "end": 13591,
+                    "id": 60,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 14044,
+                    "end": 14054,
+                    "id": 61,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 14274,
+                    "end": 14284,
+                    "id": 62,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 14810,
+                    "end": 14820,
+                    "id": 63,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3393,
+                    "end": 3397,
+                    "id": 64,
+                    "features": {
+                        "text": "EDIB"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 12125,
+                    "end": 12129,
+                    "id": 65,
+                    "features": {
+                        "text": "EDIB"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 14011,
+                    "end": 14015,
+                    "id": 66,
+                    "features": {
+                        "text": "EDIB"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 14020,
+                    "end": 14024,
+                    "id": 67,
+                    "features": {
+                        "text": "EDIB"
+                    }
+                },
+                {
+                    "type": "RIGHT",
+                    "start": 9449,
+                    "end": 9475,
+                    "id": 68,
+                    "features": {
+                        "text": "Right to lodge a complaint"
+                    }
+                },
+                {
+                    "type": "RIGHT",
+                    "start": 9586,
+                    "end": 9612,
+                    "id": 69,
+                    "features": {
+                        "text": "right to lodge a complaint"
+                    }
+                },
+                {
+                    "type": "RIGHT",
+                    "start": 10679,
+                    "end": 10716,
+                    "id": 70,
+                    "features": {
+                        "text": "Right to an effective judicial remedy"
+                    }
+                },
+                {
+                    "type": "RIGHT",
+                    "start": 10838,
+                    "end": 10875,
+                    "id": 71,
+                    "features": {
+                        "text": "right to an effective judicial remedy"
+                    }
+                },
+                {
+                    "type": "RIGHT",
+                    "start": 11103,
+                    "end": 11140,
+                    "id": 72,
+                    "features": {
+                        "text": "right to an effective judicial remedy"
+                    }
+                }
+            ],
+            "next_annid": 73
+        }
+    },
+    "text": "CHAPTER IX\nIMPLEMENTATION AND ENFORCEMENT\nArticle 37\nCompetent authorities and data coordinators\n1. Each Member State shall designate one or more competent authorities to be responsible for the application and enforcement of this Regulation (competent authorities).\nMember States may establish one or more new authorities or rely on existing authorities.\n2. Where a Member State designates more than one competent authority, it shall designate a data coordinator from among them to facilitate cooperation between the competent authorities and to assist entities within the scope of this Regulation on all matters related to its application and enforcement.\nCompetent authorities shall, in the exercise of the tasks and powers assigned to them under paragraph 5, cooperate with each other.\n3. The supervisory authorities responsible for monitoring the application of Regulation (EU) 2016/679 shall be responsible for monitoring the application of this Regulation insofar as the protection of personal data is concerned.\nChapters VI and VII of Regulation (EU) 2016/679 shall apply mutatis mutandis.\nThe European Data Protection Supervisor shall be responsible for monitoring the application of this Regulation insofar as it concerns the Commission, the European Central Bank or Union bodies.\nWhere relevant, Article 62 of Regulation (EU) 2018/1725 shall apply mutatis mutandis.\nThe tasks and powers of the supervisory authorities referred to in this paragraph shall be exercised with regard to the processing of personal data.\n4. Without prejudice to paragraph 1 of this Article:\n(a) for specific sectoral data access and use issues related to the application of this Regulation, the competence of sectoral authorities shall be respected;\n(b) the competent authority responsible for the application and enforcement of Articles 23 to 31 and Articles 34 and 35 shall have experience in the field of data and electronic communications services.\n5. Member States shall ensure that the tasks and powers of the competent authorities are clearly defined and include:\n(a) promoting data literacy and awareness among users and entities falling within the scope of this Regulation of the rights and obligations under this Regulation;\n(b) handling complaints arising from alleged infringements of this Regulation, including in relation to trade secrets, and investigating, to the extent appropriate, the subject matter of complaints and regularly informing complainants, where relevant in accordance with national law, of the progress and the outcome of the investigation within a reasonable period, in particular if further investigation or coordination with another competent authority is necessary;\n(c) conducting investigations into matters that concern the application of this Regulation, including on the basis of information received from another competent authority or other public authority;\n(d) imposing effective, proportionate and dissuasive financial penalties which may include periodic penalties and penalties with retroactive effect, or initiating legal proceedings for the imposition of fines;\n22.12.2023 http://data.europa.eu/eli/reg/2023/2854/oj 66/71\n(e) monitoring technological and relevant commercial developments of relevance for the making available and use of data;\n(f) cooperating with competent authorities of other Member States and, where relevant, with the Commission or the EDIB, to ensure the consistent and efficient application of this Regulation, including the exchange of all relevant information by electronic means, without undue delay, including regarding paragraph 10 of this Article;\n(g) cooperating with the relevant competent authorities responsible for the implementation of other Union or national legal acts, including with authorities competent in the field of data and electronic communication services, with the supervisory authority responsible for monitoring the application of Regulation (EU) 2016/679 or with sectoral authorities to ensure that this Regulation is enforced consistently with other Union and national law;\n(h) cooperating with the relevant competent authorities to ensure that Articles 23 to 31 and Articles 34 and 35 are enforced consistently with other Union law and self-regulation applicable to providers of data processing services;\n(i) ensuring that switching charges are withdrawn in accordance with Article 29;\n(j) examining the requests for data made pursuant to Chapter V.\nWhere designated, the data coordinator shall facilitate the cooperation referred to in points (f), (g) and (h) of the first subparagraph and shall assist the competent authorities upon their request.\n6. The data coordinator, where such competent authority has been designated, shall:\n(a) act as the single point of contact for all issues related to the application of this Regulation;\n(b) ensure the online public availability of requests to make data available made by public sector bodies in the case of exceptional need under Chapter V and promote voluntary data sharing agreements between public sector bodies and data holders;\n(c) inform the Commission, on an annual basis, of the refusals notified under Article 4(2) and (8) and Article 5(11).\n7. Member States shall notify the Commission of the names of the competent authorities and of their tasks and powers and, where applicable, the name of the data coordinator.\nThe Commission shall maintain a public register of those authorities.\n8. When carrying out their tasks and exercising their powers in accordance with this Regulation, competent authorities shall remain impartial and free from any external influence, whether direct or indirect, and shall neither seek nor take instructions for individual cases from any other public authority or any private party.\n9. Member States shall ensure that the competent authorities are provided with sufficient human and technical resources and relevant expertise to effectively carry out their tasks in accordance with this Regulation.\n10.\nEntities falling within the scope of this Regulation shall be subject to the competence of the Member State where the entity is established.\nWhere the entity is established in more than one Member State, it shall be considered to be under the competence of the Member State in which it has its main establishment, that is, where the entity has its head office or registered office from which the principal financial functions and operational control are exercised.\n11.\nAny entity falling within the scope of this Regulation that makes connected products available or offers services in the Union, and which is not established in the Union, shall designate a legal representative in one of the Member States.\n12.\nFor the purpose of ensuring compliance with this Regulation, a legal representative shall be mandated by an entity falling within the scope of this Regulation that makes connected products available or offers services in the Union to be addressed in addition to or instead of it by competent authorities with regard to all issues related to that entity.\nThat legal representative shall cooperate with and comprehensively demonstrate to the competent authorities, upon request, the actions taken and provisions put in place by the entity falling within the scope of this Regulation that makes connected products available or offers services in the Union to ensure compliance with this Regulation.\n13.\nAn entity falling within the scope of this Regulation that makes connected products available or offers services in the Union, shall be considered to be under the competence of the Member State in which its legal representative is located.\nThe designation of a legal representative by such an entity shall be without prejudice to the liability of, and any legal action that could be initiated against, such an entity.\nUntil such time as an entity designates a legal representative in accordance with this Article, it shall be under the competence of all Member States, where applicable, for the purposes of ensuring the application and enforcement of this Regulation.\nAny competent authority may exercise its competence, including by imposing effective, proportionate and dissuasive penalties, provided that the entity is not subject to enforcement proceedings under this Regulation regarding the same facts by another competent authority.\n14.\nCompetent authorities shall have the power to request from users, data holders, or data recipients, or their legal representatives, falling under the competence of their Member State all information necessary to verify compliance with this Regulation.\nAny request for information shall be proportionate to the performance of the underlying task and shall be reasoned.\n15.\nWhere a competent authority in one Member State requests assistance or enforcement measures from a competent authority in another Member State, it shall submit a reasoned request.\nA competent authority shall, upon receiving such a request, provide a response, detailing the actions that have been taken or which are intended to be taken, without undue delay.\n16.\nCompetent authorities shall respect the principles of confidentiality and of professional and commercial secrecy and shall protect personal data in accordance with Union or national law.\nAny information exchanged in the context of a request for assistance and provided pursuant to this Article shall be used only in respect of the matter for which it was requested.\nArticle 38\nRight to lodge a complaint\n1. Without prejudice to any other administrative or judicial remedy, natural and legal persons shall have the right to lodge a complaint, individually or, where relevant, collectively, with the relevant competent authority in the Member State of their habitual residence, place of work or establishment if they consider that their rights under this Regulation have been infringed.\nThe data coordinator shall, upon request, provide all the necessary information to natural and legal persons for the lodging of their complaints with the appropriate competent authority.\n2. The competent authority with which the complaint has been lodged shall inform the complainant, in accordance with national law, of the progress of the proceedings and of the decision taken.\n3. Competent authorities shall cooperate to handle and resolve complaints effectively and in a timely manner, including by exchanging all relevant information by electronic means, without undue delay.\nThis cooperation shall not affect the cooperation mechanisms provided for by Chapters VI and VII of Regulation (EU) 2016/679 and by Regulation (EU) 2017/2394.\n22.12.2023 http://data.europa.eu/eli/reg/2023/2854/oj 68/71 Article 42\nArticle 39\nRight to an effective judicial remedy\n1. Notwithstanding any administrative or other non-judicial remedy, any affected natural and legal person shall have the right to an effective judicial remedy with regard to legally binding decisions taken by competent authorities.\n2. Where a competent authority fails to act on a complaint, any affected natural and legal person shall, in accordance with national law, either have the right to an effective judicial remedy or access to review by an impartial body with the appropriate expertise.\n3. Proceedings pursuant to this Article shall be brought before the courts or tribunals of the Member State of the competent authority against which the judicial remedy is sought individually or, where relevant, collectively by the representatives of one or more natural or legal persons.\nArticle 40\nPenalties\n1. Member States shall lay down the rules on penalties applicable to infringements of this Regulation and shall take all measures necessary to ensure that they are implemented.\nThe penalties provided for shall be effective, proportionate and dissuasive.\n2. Member States shall by 12 September 2025 notify the Commission of those rules and measures and shall notify it without delay of any subsequent amendment affecting them.\nThe Commission shall regularly update and maintain an easily accessible public register of those measures.\n3. Member States shall take into account the recommendations of the EDIB and the following non-exhaustive criteria for the imposition of penalties for infringements of this Regulation:\n(a) the nature, gravity, scale and duration of the infringement;\n(b) any action taken by the infringing party to mitigate or remedy the damage caused by the infringement;\n(c) any previous infringements by the infringing party;\n(d) the financial benefits gained or losses avoided by the infringing party due to the infringement, insofar as such benefits or losses can be reliably established;\n(e) any other aggravating or mitigating factor applicable to the circumstances of the case;\n(f) infringing party\u2019s annual turnover in the preceding financial year in the Union.\n4. For infringements of the obligations laid down in Chapter II, III and V of this Regulation, the supervisory authorities responsible for monitoring the application of Regulation (EU) 2016/679 may within their scope of competence impose administrative fines in accordance with Article 83 of Regulation (EU) 2016/679 and up to the amount referred to in Article 83(5) of that Regulation.\n5. For infringements of the obligations laid down in Chapter V of this Regulation, the European Data Protection Supervisor may impose within its scope of competence administrative fines in accordance with Article 66 of Regulation (EU) 2018/1725 up to the amount referred to in Article 66(3) of that Regulation.\nArticle 41\nModel contractual terms and standard contractual clauses The Commission, before 12 September 2025, shall develop and recommend non-binding model contractual terms on data access and use, including terms on reasonable compensation and the protection of trade secrets, and non-binding standard contractual clauses for cloud computing contracts to assist parties in drafting and negotiating contracts with fair, reasonable and non-discriminatory contractual rights and obligations.\nRole of the EDIB\nThe EDIB established by the Commission as an expert group pursuant to Article 29 of Regulation (EU) 2022/868, in which competent authorities shall be represented, shall support the consistent application of this Regulation by:\n(a) advising and assisting the Commission with regard to developing consistent practice of competent authorities in the enforcement of Chapters II, III, V and VII;\n(b) facilitating cooperation between competent authorities through capacity-building and the exchange of information, in particular by establishing methods for the efficient exchange of information relating to the enforcement of the rights and obligations under Chapters II, III and V in cross-border cases, including coordination with regard to the setting of penalties;\n(c) advising and assisting the Commission with regard to:\n(i) whether to request the drafting of harmonised standards referred to in Article 33(4), Article 35(4) and Article 36(5);\n(ii) the preparation of the implementing acts referred to in Article 33(5), Article 35(5) and (8) and Article 36(6);\n(iii) the preparation of the delegated acts referred to in Article 29(7) and Article 33(2); and\n(iv) the adoption of the guidelines laying down interoperable frameworks for common standards and practices for the functioning of common European data spaces referred to in Article 33(11).\n",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Article 37",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Article 37"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Regulation (EU) 2016/679",
+                    "type": "REGULATION",
+                    "nelements": 6,
+                    "mentions": [
+                        {
+                            "id": 1,
+                            "mention": "Regulation (EU) 2016/679"
+                        },
+                        {
+                            "id": 2,
+                            "mention": "Regulation (EU) 2016/679"
+                        },
+                        {
+                            "id": 3,
+                            "mention": "Regulation (EU) 2016/679"
+                        },
+                        {
+                            "id": 4,
+                            "mention": "Regulation (EU) 2016/679"
+                        },
+                        {
+                            "id": 5,
+                            "mention": "Regulation (EU) 2016/679"
+                        },
+                        {
+                            "id": 6,
+                            "mention": "Regulation (EU) 2016/679"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Regulation (EU) 2018/1725",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 7,
+                            "mention": "Regulation (EU) 2018/1725"
+                        },
+                        {
+                            "id": 8,
+                            "mention": "Regulation (EU) 2018/1725"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Article 62",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 9,
+                            "mention": "Article 62"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Article 38",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 10,
+                            "mention": "Article 38"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Article 39",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 11,
+                            "mention": "Article 39"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "Article 40",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 12,
+                            "mention": "Article 40"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "Article 41",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 13,
+                            "mention": "Article 41"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "Article 29",
+                    "type": "REGULATION",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 14,
+                            "mention": "Article 29"
+                        },
+                        {
+                            "id": 15,
+                            "mention": "Article 29"
+                        },
+                        {
+                            "id": 16,
+                            "mention": "Article 29"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "Regulation (EU) 2022/868",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 17,
+                            "mention": "Regulation (EU) 2022/868"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "Competent authorities",
+                    "type": "ROLE",
+                    "nelements": 22,
+                    "mentions": [
+                        {
+                            "id": 18,
+                            "mention": "Competent authorities"
+                        },
+                        {
+                            "id": 19,
+                            "mention": "competent authorities"
+                        },
+                        {
+                            "id": 20,
+                            "mention": "competent authorities"
+                        },
+                        {
+                            "id": 21,
+                            "mention": "competent authorities"
+                        },
+                        {
+                            "id": 22,
+                            "mention": "Competent authorities"
+                        },
+                        {
+                            "id": 23,
+                            "mention": "competent authorities"
+                        },
+                        {
+                            "id": 24,
+                            "mention": "competent authorities"
+                        },
+                        {
+                            "id": 25,
+                            "mention": "competent authorities"
+                        },
+                        {
+                            "id": 26,
+                            "mention": "competent authorities"
+                        },
+                        {
+                            "id": 27,
+                            "mention": "competent authorities"
+                        },
+                        {
+                            "id": 28,
+                            "mention": "competent authorities"
+                        },
+                        {
+                            "id": 29,
+                            "mention": "competent authorities"
+                        },
+                        {
+                            "id": 30,
+                            "mention": "competent authorities"
+                        },
+                        {
+                            "id": 31,
+                            "mention": "competent authorities"
+                        },
+                        {
+                            "id": 32,
+                            "mention": "competent authorities"
+                        },
+                        {
+                            "id": 33,
+                            "mention": "Competent authorities"
+                        },
+                        {
+                            "id": 34,
+                            "mention": "Competent authorities"
+                        },
+                        {
+                            "id": 35,
+                            "mention": "Competent authorities"
+                        },
+                        {
+                            "id": 36,
+                            "mention": "competent authorities"
+                        },
+                        {
+                            "id": 37,
+                            "mention": "competent authorities"
+                        },
+                        {
+                            "id": 38,
+                            "mention": "competent authorities"
+                        },
+                        {
+                            "id": 39,
+                            "mention": "competent authorities"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "data coordinators",
+                    "type": "ROLE",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 40,
+                            "mention": "data coordinators"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "title": "supervisory authorities",
+                    "type": "ROLE",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 41,
+                            "mention": "supervisory authorities"
+                        },
+                        {
+                            "id": 42,
+                            "mention": "supervisory authorities"
+                        },
+                        {
+                            "id": 43,
+                            "mention": "supervisory authorities"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "title": "data coordinator",
+                    "type": "ROLE",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 44,
+                            "mention": "data coordinator"
+                        },
+                        {
+                            "id": 45,
+                            "mention": "data coordinator"
+                        },
+                        {
+                            "id": 46,
+                            "mention": "data coordinator"
+                        },
+                        {
+                            "id": 47,
+                            "mention": "data coordinator"
+                        },
+                        {
+                            "id": 48,
+                            "mention": "data coordinator"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "title": "natural and legal persons",
+                    "type": "ROLE",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 49,
+                            "mention": "natural and legal persons"
+                        },
+                        {
+                            "id": 50,
+                            "mention": "natural and legal persons"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "title": "European Data Protection Supervisor",
+                    "type": "AUTHORITY",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 51,
+                            "mention": "European Data Protection Supervisor"
+                        },
+                        {
+                            "id": 52,
+                            "mention": "European Data Protection Supervisor"
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "title": "Commission",
+                    "type": "AUTHORITY",
+                    "nelements": 11,
+                    "mentions": [
+                        {
+                            "id": 53,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 54,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 55,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 56,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 57,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 58,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 59,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 60,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 61,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 62,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 63,
+                            "mention": "Commission"
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "title": "EDIB",
+                    "type": "AUTHORITY",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 64,
+                            "mention": "EDIB"
+                        },
+                        {
+                            "id": 65,
+                            "mention": "EDIB"
+                        },
+                        {
+                            "id": 66,
+                            "mention": "EDIB"
+                        },
+                        {
+                            "id": 67,
+                            "mention": "EDIB"
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "title": "Right to lodge a complaint",
+                    "type": "RIGHT",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 68,
+                            "mention": "Right to lodge a complaint"
+                        },
+                        {
+                            "id": 69,
+                            "mention": "right to lodge a complaint"
+                        }
+                    ]
+                },
+                {
+                    "id": 20,
+                    "title": "Right to an effective judicial remedy",
+                    "type": "RIGHT",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 70,
+                            "mention": "Right to an effective judicial remedy"
+                        },
+                        {
+                            "id": 71,
+                            "mention": "right to an effective judicial remedy"
+                        },
+                        {
+                            "id": 72,
+                            "mention": "right to an effective judicial remedy"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "DataAct_Chapter_IX"
+}

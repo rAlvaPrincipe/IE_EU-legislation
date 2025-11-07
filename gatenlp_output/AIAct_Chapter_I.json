@@ -1,0 +1,3431 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 78,
+                    "end": 88,
+                    "id": 0,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 491,
+                    "end": 501,
+                    "id": 1,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1115,
+                    "end": 1125,
+                    "id": 2,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2333,
+                    "end": 2343,
+                    "id": 3,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2414,
+                    "end": 2424,
+                    "id": 4,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2711,
+                    "end": 2721,
+                    "id": 5,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2991,
+                    "end": 3001,
+                    "id": 6,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3275,
+                    "end": 3285,
+                    "id": 7,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3411,
+                    "end": 3421,
+                    "id": 8,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3842,
+                    "end": 3852,
+                    "id": 9,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3987,
+                    "end": 3997,
+                    "id": 10,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4156,
+                    "end": 4166,
+                    "id": 11,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4537,
+                    "end": 4547,
+                    "id": 12,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4554,
+                    "end": 4564,
+                    "id": 13,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4582,
+                    "end": 4592,
+                    "id": 14,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4726,
+                    "end": 4736,
+                    "id": 15,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4746,
+                    "end": 4756,
+                    "id": 16,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5075,
+                    "end": 5085,
+                    "id": 17,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5216,
+                    "end": 5226,
+                    "id": 18,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5382,
+                    "end": 5392,
+                    "id": 19,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5760,
+                    "end": 5770,
+                    "id": 20,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6014,
+                    "end": 6024,
+                    "id": 21,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7232,
+                    "end": 7242,
+                    "id": 22,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7313,
+                    "end": 7323,
+                    "id": 23,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7610,
+                    "end": 7620,
+                    "id": 24,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7890,
+                    "end": 7900,
+                    "id": 25,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 8174,
+                    "end": 8184,
+                    "id": 26,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 8310,
+                    "end": 8320,
+                    "id": 27,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 8741,
+                    "end": 8751,
+                    "id": 28,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 8886,
+                    "end": 8896,
+                    "id": 29,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 9055,
+                    "end": 9065,
+                    "id": 30,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 9436,
+                    "end": 9446,
+                    "id": 31,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 9453,
+                    "end": 9463,
+                    "id": 32,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 9481,
+                    "end": 9491,
+                    "id": 33,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 9625,
+                    "end": 9635,
+                    "id": 34,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 9645,
+                    "end": 9655,
+                    "id": 35,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 9974,
+                    "end": 9984,
+                    "id": 36,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 10115,
+                    "end": 10125,
+                    "id": 37,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 10281,
+                    "end": 10291,
+                    "id": 38,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 10659,
+                    "end": 10669,
+                    "id": 39,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 10893,
+                    "end": 10903,
+                    "id": 40,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 12111,
+                    "end": 12121,
+                    "id": 41,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 12192,
+                    "end": 12202,
+                    "id": 42,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 12489,
+                    "end": 12499,
+                    "id": 43,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 12769,
+                    "end": 12779,
+                    "id": 44,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 13053,
+                    "end": 13063,
+                    "id": 45,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 13189,
+                    "end": 13199,
+                    "id": 46,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 13620,
+                    "end": 13630,
+                    "id": 47,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 13765,
+                    "end": 13775,
+                    "id": 48,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 13934,
+                    "end": 13944,
+                    "id": 49,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14315,
+                    "end": 14325,
+                    "id": 50,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14332,
+                    "end": 14342,
+                    "id": 51,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14360,
+                    "end": 14370,
+                    "id": 52,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14504,
+                    "end": 14514,
+                    "id": 53,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14524,
+                    "end": 14534,
+                    "id": 54,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14853,
+                    "end": 14863,
+                    "id": 55,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14994,
+                    "end": 15004,
+                    "id": 56,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 15160,
+                    "end": 15170,
+                    "id": 57,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 15538,
+                    "end": 15548,
+                    "id": 58,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 15805,
+                    "end": 15815,
+                    "id": 59,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 17210,
+                    "end": 17220,
+                    "id": 60,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 17820,
+                    "end": 17830,
+                    "id": 61,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 20295,
+                    "end": 20305,
+                    "id": 62,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 21475,
+                    "end": 21485,
+                    "id": 63,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 21653,
+                    "end": 21663,
+                    "id": 64,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 21758,
+                    "end": 21768,
+                    "id": 65,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 23414,
+                    "end": 23424,
+                    "id": 66,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 23499,
+                    "end": 23509,
+                    "id": 67,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 25579,
+                    "end": 25589,
+                    "id": 68,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 25707,
+                    "end": 25717,
+                    "id": 69,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 26920,
+                    "end": 26930,
+                    "id": 70,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 27288,
+                    "end": 27298,
+                    "id": 71,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 27898,
+                    "end": 27908,
+                    "id": 72,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 28024,
+                    "end": 28034,
+                    "id": 73,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 28122,
+                    "end": 28132,
+                    "id": 74,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 29140,
+                    "end": 29150,
+                    "id": 75,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2069,
+                    "end": 2081,
+                    "id": 76,
+                    "features": {
+                        "text": "Article 6(1)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2186,
+                    "end": 2198,
+                    "id": 77,
+                    "features": {
+                        "text": "Article 6(1)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6968,
+                    "end": 6980,
+                    "id": 78,
+                    "features": {
+                        "text": "Article 6(1)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7085,
+                    "end": 7097,
+                    "id": 79,
+                    "features": {
+                        "text": "Article 6(1)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 11847,
+                    "end": 11859,
+                    "id": 80,
+                    "features": {
+                        "text": "Article 6(1)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 11964,
+                    "end": 11976,
+                    "id": 81,
+                    "features": {
+                        "text": "Article 6(1)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1091,
+                    "end": 1100,
+                    "id": 82,
+                    "features": {
+                        "text": "Article 2"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5990,
+                    "end": 5999,
+                    "id": 83,
+                    "features": {
+                        "text": "Article 2"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 17792,
+                    "end": 17801,
+                    "id": 84,
+                    "features": {
+                        "text": "Article 2"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 21629,
+                    "end": 21638,
+                    "id": 85,
+                    "features": {
+                        "text": "Article 2"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 30859,
+                    "end": 30868,
+                    "id": 86,
+                    "features": {
+                        "text": "Article 2"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2243,
+                    "end": 2253,
+                    "id": 87,
+                    "features": {
+                        "text": "Article 57"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7142,
+                    "end": 7152,
+                    "id": 88,
+                    "features": {
+                        "text": "Article 57"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 12021,
+                    "end": 12031,
+                    "id": 89,
+                    "features": {
+                        "text": "Article 57"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 25765,
+                    "end": 25775,
+                    "id": 90,
+                    "features": {
+                        "text": "Article 57"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3987,
+                    "end": 4012,
+                    "id": 91,
+                    "features": {
+                        "text": "Regulation (EU) 2022/2065"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 8886,
+                    "end": 8911,
+                    "id": 92,
+                    "features": {
+                        "text": "Regulation (EU) 2022/2065"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 13765,
+                    "end": 13790,
+                    "id": 93,
+                    "features": {
+                        "text": "Regulation (EU) 2022/2065"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4582,
+                    "end": 4606,
+                    "id": 94,
+                    "features": {
+                        "text": "Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 9481,
+                    "end": 9505,
+                    "id": 95,
+                    "features": {
+                        "text": "Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14360,
+                    "end": 14384,
+                    "id": 96,
+                    "features": {
+                        "text": "Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 23414,
+                    "end": 23438,
+                    "id": 97,
+                    "features": {
+                        "text": "Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 27898,
+                    "end": 27922,
+                    "id": 98,
+                    "features": {
+                        "text": "Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 28024,
+                    "end": 28048,
+                    "id": 99,
+                    "features": {
+                        "text": "Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 28122,
+                    "end": 28146,
+                    "id": 100,
+                    "features": {
+                        "text": "Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 23499,
+                    "end": 23524,
+                    "id": 101,
+                    "features": {
+                        "text": "Regulation (EU) 2018/1725"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4629,
+                    "end": 4649,
+                    "id": 102,
+                    "features": {
+                        "text": "Directive 2002/58/EC"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 9528,
+                    "end": 9548,
+                    "id": 103,
+                    "features": {
+                        "text": "Directive 2002/58/EC"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14407,
+                    "end": 14427,
+                    "id": 104,
+                    "features": {
+                        "text": "Directive 2002/58/EC"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 23454,
+                    "end": 23477,
+                    "id": 105,
+                    "features": {
+                        "text": "Directive (EU) 2016/680"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4689,
+                    "end": 4702,
+                    "id": 106,
+                    "features": {
+                        "text": "Article 10(5)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 9588,
+                    "end": 9601,
+                    "id": 107,
+                    "features": {
+                        "text": "Article 10(5)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14467,
+                    "end": 14480,
+                    "id": 108,
+                    "features": {
+                        "text": "Article 10(5)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4707,
+                    "end": 4717,
+                    "id": 109,
+                    "features": {
+                        "text": "Article 59"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 9606,
+                    "end": 9616,
+                    "id": 110,
+                    "features": {
+                        "text": "Article 59"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 14485,
+                    "end": 14495,
+                    "id": 111,
+                    "features": {
+                        "text": "Article 59"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 27873,
+                    "end": 27922,
+                    "id": 112,
+                    "features": {
+                        "text": "Article 4, point (1), of Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 27999,
+                    "end": 28048,
+                    "id": 113,
+                    "features": {
+                        "text": "Article 4, point (1), of Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 28097,
+                    "end": 28146,
+                    "id": 114,
+                    "features": {
+                        "text": "Article 4, point (4), of Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 21475,
+                    "end": 21500,
+                    "id": 115,
+                    "features": {
+                        "text": "Regulation (EU) 2019/1020"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 26861,
+                    "end": 26899,
+                    "id": 116,
+                    "features": {
+                        "text": "Commission Decision of 24 January 2024"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 30859,
+                    "end": 30908,
+                    "id": 117,
+                    "features": {
+                        "text": "Article 2, point (4), of Directive (EU) 2022/2557"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 16340,
+                    "end": 16348,
+                    "id": 118,
+                    "features": {
+                        "text": "provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17050,
+                    "end": 17058,
+                    "id": 119,
+                    "features": {
+                        "text": "provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17524,
+                    "end": 17532,
+                    "id": 120,
+                    "features": {
+                        "text": "provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17624,
+                    "end": 17632,
+                    "id": 121,
+                    "features": {
+                        "text": "provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 18318,
+                    "end": 18326,
+                    "id": 122,
+                    "features": {
+                        "text": "provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 18430,
+                    "end": 18438,
+                    "id": 123,
+                    "features": {
+                        "text": "provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 19116,
+                    "end": 19124,
+                    "id": 124,
+                    "features": {
+                        "text": "provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 19299,
+                    "end": 19307,
+                    "id": 125,
+                    "features": {
+                        "text": "provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 20566,
+                    "end": 20574,
+                    "id": 126,
+                    "features": {
+                        "text": "provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 20841,
+                    "end": 20849,
+                    "id": 127,
+                    "features": {
+                        "text": "provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 28429,
+                    "end": 28437,
+                    "id": 128,
+                    "features": {
+                        "text": "provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 30306,
+                    "end": 30314,
+                    "id": 129,
+                    "features": {
+                        "text": "provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 32471,
+                    "end": 32479,
+                    "id": 130,
+                    "features": {
+                        "text": "provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 32489,
+                    "end": 32497,
+                    "id": 131,
+                    "features": {
+                        "text": "provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 16684,
+                    "end": 16692,
+                    "id": 132,
+                    "features": {
+                        "text": "deployer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17656,
+                    "end": 17664,
+                    "id": 133,
+                    "features": {
+                        "text": "deployer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 18175,
+                    "end": 18183,
+                    "id": 134,
+                    "features": {
+                        "text": "deployer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 19139,
+                    "end": 19147,
+                    "id": 135,
+                    "features": {
+                        "text": "deployer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 30418,
+                    "end": 30426,
+                    "id": 136,
+                    "features": {
+                        "text": "deployer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 30485,
+                    "end": 30493,
+                    "id": 137,
+                    "features": {
+                        "text": "deployer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 16900,
+                    "end": 16925,
+                    "id": 138,
+                    "features": {
+                        "text": "authorised representative"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17666,
+                    "end": 17691,
+                    "id": 139,
+                    "features": {
+                        "text": "authorised representative"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 30352,
+                    "end": 30377,
+                    "id": 140,
+                    "features": {
+                        "text": "authorised representative"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17227,
+                    "end": 17235,
+                    "id": 141,
+                    "features": {
+                        "text": "importer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17540,
+                    "end": 17548,
+                    "id": 142,
+                    "features": {
+                        "text": "importer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17693,
+                    "end": 17701,
+                    "id": 143,
+                    "features": {
+                        "text": "importer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17443,
+                    "end": 17454,
+                    "id": 144,
+                    "features": {
+                        "text": "distributor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17705,
+                    "end": 17716,
+                    "id": 145,
+                    "features": {
+                        "text": "distributor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17606,
+                    "end": 17614,
+                    "id": 146,
+                    "features": {
+                        "text": "operator"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 30741,
+                    "end": 30749,
+                    "id": 147,
+                    "features": {
+                        "text": "operator"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1949,
+                    "end": 1965,
+                    "id": 148,
+                    "features": {
+                        "text": "affected persons"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6848,
+                    "end": 6864,
+                    "id": 149,
+                    "features": {
+                        "text": "affected persons"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11727,
+                    "end": 11743,
+                    "id": 150,
+                    "features": {
+                        "text": "affected persons"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 29039,
+                    "end": 29055,
+                    "id": 151,
+                    "features": {
+                        "text": "affected persons"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 16383,
+                    "end": 16399,
+                    "id": 152,
+                    "features": {
+                        "text": "public authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 16727,
+                    "end": 16743,
+                    "id": 153,
+                    "features": {
+                        "text": "public authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 25805,
+                    "end": 25821,
+                    "id": 154,
+                    "features": {
+                        "text": "public authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 26112,
+                    "end": 26128,
+                    "id": 155,
+                    "features": {
+                        "text": "public authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 27006,
+                    "end": 27034,
+                    "id": 156,
+                    "features": {
+                        "text": "national competent authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 26672,
+                    "end": 26681,
+                    "id": 157,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 26938,
+                    "end": 26947,
+                    "id": 158,
+                    "features": {
+                        "text": "AI Office"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 19677,
+                    "end": 19695,
+                    "id": 159,
+                    "features": {
+                        "text": "national authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 21392,
+                    "end": 21410,
+                    "id": 160,
+                    "features": {
+                        "text": "national authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 21351,
+                    "end": 21380,
+                    "id": 161,
+                    "features": {
+                        "text": "market surveillance authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 27069,
+                    "end": 27098,
+                    "id": 162,
+                    "features": {
+                        "text": "market surveillance authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 19646,
+                    "end": 19665,
+                    "id": 163,
+                    "features": {
+                        "text": "notifying authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 27044,
+                    "end": 27063,
+                    "id": 164,
+                    "features": {
+                        "text": "notifying authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 27339,
+                    "end": 27374,
+                    "id": 165,
+                    "features": {
+                        "text": "European Data Protection Supervisor"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 4373,
+                    "end": 4386,
+                    "id": 166,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 4449,
+                    "end": 4462,
+                    "id": 167,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 9272,
+                    "end": 9285,
+                    "id": 168,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 9348,
+                    "end": 9361,
+                    "id": 169,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 14151,
+                    "end": 14164,
+                    "id": 170,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 14227,
+                    "end": 14240,
+                    "id": 171,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 22592,
+                    "end": 22605,
+                    "id": 172,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 23330,
+                    "end": 23343,
+                    "id": 173,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 23369,
+                    "end": 23382,
+                    "id": 174,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 27824,
+                    "end": 27837,
+                    "id": 175,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 27845,
+                    "end": 27858,
+                    "id": 176,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 27934,
+                    "end": 27947,
+                    "id": 177,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 27971,
+                    "end": 27984,
+                    "id": 178,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 27930,
+                    "end": 27947,
+                    "id": 179,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 22570,
+                    "end": 22584,
+                    "id": 180,
+                    "features": {
+                        "text": "biometric data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 23003,
+                    "end": 23017,
+                    "id": 181,
+                    "features": {
+                        "text": "biometric data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 23040,
+                    "end": 23054,
+                    "id": 182,
+                    "features": {
+                        "text": "biometric data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 23248,
+                    "end": 23262,
+                    "id": 183,
+                    "features": {
+                        "text": "biometric data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 23286,
+                    "end": 23300,
+                    "id": 184,
+                    "features": {
+                        "text": "biometric data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 23923,
+                    "end": 23937,
+                    "id": 185,
+                    "features": {
+                        "text": "biometric data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 24087,
+                    "end": 24101,
+                    "id": 186,
+                    "features": {
+                        "text": "biometric data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 24420,
+                    "end": 24434,
+                    "id": 187,
+                    "features": {
+                        "text": "biometric data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 24444,
+                    "end": 24458,
+                    "id": 188,
+                    "features": {
+                        "text": "biometric data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 24623,
+                    "end": 24637,
+                    "id": 189,
+                    "features": {
+                        "text": "biometric data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 23308,
+                    "end": 23343,
+                    "id": 190,
+                    "features": {
+                        "text": "special categories of personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 23532,
+                    "end": 23558,
+                    "id": 191,
+                    "features": {
+                        "text": "sensitive operational data"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 542,
+                    "end": 563,
+                    "id": 192,
+                    "features": {
+                        "text": "placing on the market"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 868,
+                    "end": 889,
+                    "id": 193,
+                    "features": {
+                        "text": "placing on the market"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1152,
+                    "end": 1173,
+                    "id": 194,
+                    "features": {
+                        "text": "placing on the market"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1212,
+                    "end": 1233,
+                    "id": 195,
+                    "features": {
+                        "text": "placing on the market"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1734,
+                    "end": 1755,
+                    "id": 196,
+                    "features": {
+                        "text": "placing on the market"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4025,
+                    "end": 4046,
+                    "id": 197,
+                    "features": {
+                        "text": "placing on the market"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6051,
+                    "end": 6072,
+                    "id": 198,
+                    "features": {
+                        "text": "placing on the market"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6111,
+                    "end": 6132,
+                    "id": 199,
+                    "features": {
+                        "text": "placing on the market"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6633,
+                    "end": 6654,
+                    "id": 200,
+                    "features": {
+                        "text": "placing on the market"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 8924,
+                    "end": 8945,
+                    "id": 201,
+                    "features": {
+                        "text": "placing on the market"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10930,
+                    "end": 10951,
+                    "id": 202,
+                    "features": {
+                        "text": "placing on the market"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10990,
+                    "end": 11011,
+                    "id": 203,
+                    "features": {
+                        "text": "placing on the market"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 11512,
+                    "end": 11533,
+                    "id": 204,
+                    "features": {
+                        "text": "placing on the market"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 13803,
+                    "end": 13824,
+                    "id": 205,
+                    "features": {
+                        "text": "placing on the market"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 20431,
+                    "end": 20452,
+                    "id": 206,
+                    "features": {
+                        "text": "placing on the market"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 22386,
+                    "end": 22407,
+                    "id": 207,
+                    "features": {
+                        "text": "placing on the market"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 569,
+                    "end": 589,
+                    "id": 208,
+                    "features": {
+                        "text": "putting into service"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1177,
+                    "end": 1197,
+                    "id": 209,
+                    "features": {
+                        "text": "putting into service"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1759,
+                    "end": 1779,
+                    "id": 210,
+                    "features": {
+                        "text": "putting into service"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6076,
+                    "end": 6096,
+                    "id": 211,
+                    "features": {
+                        "text": "putting into service"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6658,
+                    "end": 6678,
+                    "id": 212,
+                    "features": {
+                        "text": "putting into service"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10955,
+                    "end": 10975,
+                    "id": 213,
+                    "features": {
+                        "text": "putting into service"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 11537,
+                    "end": 11557,
+                    "id": 214,
+                    "features": {
+                        "text": "putting into service"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 18090,
+                    "end": 18110,
+                    "id": 215,
+                    "features": {
+                        "text": "putting into service"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 20456,
+                    "end": 20476,
+                    "id": 216,
+                    "features": {
+                        "text": "putting into service"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 22411,
+                    "end": 22431,
+                    "id": 217,
+                    "features": {
+                        "text": "putting into service"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 25251,
+                    "end": 25283,
+                    "id": 218,
+                    "features": {
+                        "text": "testing in real-world conditions"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 28325,
+                    "end": 28357,
+                    "id": 219,
+                    "features": {
+                        "text": "testing in real-world conditions"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 29407,
+                    "end": 29439,
+                    "id": 220,
+                    "features": {
+                        "text": "testing in real-world conditions"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 29601,
+                    "end": 29633,
+                    "id": 221,
+                    "features": {
+                        "text": "testing in real-world conditions"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 17856,
+                    "end": 17886,
+                    "id": 222,
+                    "features": {
+                        "text": "making available on the market"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 19405,
+                    "end": 19431,
+                    "id": 223,
+                    "features": {
+                        "text": "withdrawal of an AI system"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 19221,
+                    "end": 19243,
+                    "id": 224,
+                    "features": {
+                        "text": "recall of an AI system"
+                    }
+                },
+                {
+                    "type": "RISK/IMPACT",
+                    "start": 713,
+                    "end": 733,
+                    "id": 225,
+                    "features": {
+                        "text": "high-risk AI systems"
+                    }
+                },
+                {
+                    "type": "RISK/IMPACT",
+                    "start": 2029,
+                    "end": 2049,
+                    "id": 226,
+                    "features": {
+                        "text": "high-risk AI systems"
+                    }
+                },
+                {
+                    "type": "RISK/IMPACT",
+                    "start": 2301,
+                    "end": 2321,
+                    "id": 227,
+                    "features": {
+                        "text": "high-risk AI systems"
+                    }
+                },
+                {
+                    "type": "RISK/IMPACT",
+                    "start": 5906,
+                    "end": 5926,
+                    "id": 228,
+                    "features": {
+                        "text": "high-risk AI systems"
+                    }
+                },
+                {
+                    "type": "RISK/IMPACT",
+                    "start": 6928,
+                    "end": 6948,
+                    "id": 229,
+                    "features": {
+                        "text": "high-risk AI systems"
+                    }
+                },
+                {
+                    "type": "RISK/IMPACT",
+                    "start": 7200,
+                    "end": 7220,
+                    "id": 230,
+                    "features": {
+                        "text": "high-risk AI systems"
+                    }
+                },
+                {
+                    "type": "RISK/IMPACT",
+                    "start": 10805,
+                    "end": 10825,
+                    "id": 231,
+                    "features": {
+                        "text": "high-risk AI systems"
+                    }
+                },
+                {
+                    "type": "RISK/IMPACT",
+                    "start": 11807,
+                    "end": 11827,
+                    "id": 232,
+                    "features": {
+                        "text": "high-risk AI systems"
+                    }
+                },
+                {
+                    "type": "RISK/IMPACT",
+                    "start": 12079,
+                    "end": 12099,
+                    "id": 233,
+                    "features": {
+                        "text": "high-risk AI systems"
+                    }
+                },
+                {
+                    "type": "RISK/IMPACT",
+                    "start": 15684,
+                    "end": 15704,
+                    "id": 234,
+                    "features": {
+                        "text": "high-risk AI systems"
+                    }
+                },
+                {
+                    "type": "RISK/IMPACT",
+                    "start": 31585,
+                    "end": 31598,
+                    "id": 235,
+                    "features": {
+                        "text": "systemic risk"
+                    }
+                }
+            ],
+            "next_annid": 236
+        }
+    },
+    "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nSubject matter`\n1. The purpose of this Regulation is to improve the functioning of the internal market and promote the uptake of human-centric and trustworthy artificial intelligence (AI), while ensuring a high level of protection of health, safety, fundamental rights enshrined in the Charter, including democracy, the rule of law and environmental protection, against the harmful effects of AI systems in the Union and supporting innovation.\n2. This Regulation lays down:\n(a) harmonised rules for the placing on the market, the putting into service, and the use of AI systems in the Union;\n12.7.2024\n(b) prohibitions of certain AI practices;\n(c) specific requirements for high-risk AI systems and obligations for operators of such systems;\n(d) harmonised transparency rules for certain AI systems;\n(e) harmonised rules for the placing on the market of general-purpose AI models;\n(f) rules on market monitoring, market surveillance, governance and enforcement;\n(g) measures to support innovation, with a particular focus on SMEs, including start-ups.\nArticle 2\nScope\n1. This Regulation applies to:\n(a) providers placing on the market or putting into service AI systems or placing on the market general-purpose AI models in the Union, irrespective of whether those providers are established or located within the Union or in a third country;\n(b) deployers of AI systems that have their place of establishment or are located within the Union;\n(c) providers and deployers of AI systems that have their place of establishment or are located in a third country, where the output produced by the AI system is used in the Union;\n(d) importers and distributors of AI systems;\n(e) product manufacturers placing on the market or putting into service an AI system together with their product and under their own name or trademark;\n(f) authorised representatives of providers, which are not established in the Union;\n(g) affected persons that are located in the Union.\n2. For AI systems classified as high-risk AI systems in accordance with Article 6(1) related to products covered by the Union harmonisation legislation listed in Section B of Annex I, only Article 6(1), Articles 102 to 109 and Article 112 apply.\nArticle 57 applies only in so far as the requirements for high-risk AI systems under this Regulation have been integrated in that Union harmonisation legislation.\n3. This Regulation does not apply to areas outside the scope of Union law, and shall not, in any event, affect the competences of the Member States concerning national security, regardless of the type of entity entrusted by the Member States with carrying out tasks in relation to those competences.\nThis Regulation does not apply to AI systems where and in so far they are placed on the market, put into service, or used with or without modification exclusively for military, defence or national security purposes, regardless of the type of entity carrying out those activities.\nThis Regulation does not apply to AI systems which are not placed on the market or put into service in the Union, where the output is used in the Union exclusively for military, defence or national security purposes, regardless of the type of entity carrying out those activities.\n4. This Regulation applies neither to public authorities in a third country nor to international organisations falling within the scope of this Regulation pursuant to paragraph 1, where those authorities or organisations use AI systems in the framework of international cooperation or agreements for law enforcement and judicial cooperation with the Union or with one or more Member States, provided that such a third country or international organisation provides adequate safeguards with respect to the protection of fundamental rights and freedoms of individuals.\n5. This Regulation shall not affect the application of the provisions on the liability of providers of intermediary services as set out in Chapter II of Regulation (EU) 2022/2065.\n12.7.2024 \u2018placing on the market\u2019 means the first making available of an AI system or a general-purpose AI model on the Union market;\n6. This Regulation does not apply to AI systems or AI models, including their output, specifically developed and put into service for the sole purpose of scientific research and development.\n7. Union law on the protection of personal data, privacy and the confidentiality of communications applies to personal data processed in connection with the rights and obligations laid down in this Regulation.\nThis Regulation shall not affect Regulation (EU) 2016/679 or (EU) 2018/1725, or Directive 2002/58/EC or (EU) 2016/680, without prejudice to Article 10(5) and Article 59 of this Regulation.\n8. This Regulation does not apply to any research, testing or development activity regarding AI systems or AI models prior to their being placed on the market or put into service.\nSuch activities shall be conducted in accordance with applicable Union law.\nTesting in real world conditions shall not be covered by that exclusion.\n9. This Regulation is without prejudice to the rules laid down by other Union legal acts related to consumer protection and product safety.\n10.\nThis Regulation does not apply to obligations of deployers who are natural persons using AI systems in the course of a purely personal non-professional activity.\n11.\nThis Regulation does not preclude the Union or Member States from maintaining or introducing laws, regulations or administrative provisions which are more favourable to workers in terms of protecting their rights in respect of the use of AI systems by employers, or from encouraging or allowing the application of collective agreements which are more favourable to workers.\n12.\nThis Regulation does not apply to AI systems released under free and open-source licences, unless they are placed on the market or put into service as high-risk AI systems or as an AI system that falls under Article 5 or 50.\nArticle 3\nArticle 2\nScope\n1. This Regulation applies to:\n(a) providers placing on the market or putting into service AI systems or placing on the market general-purpose AI models in the Union, irrespective of whether those providers are established or located within the Union or in a third country;\n(b) deployers of AI systems that have their place of establishment or are located within the Union;\n(c) providers and deployers of AI systems that have their place of establishment or are located in a third country, where the output produced by the AI system is used in the Union;\n(d) importers and distributors of AI systems;\n(e) product manufacturers placing on the market or putting into service an AI system together with their product and under their own name or trademark;\n(f) authorised representatives of providers, which are not established in the Union;\n(g) affected persons that are located in the Union.\n2. For AI systems classified as high-risk AI systems in accordance with Article 6(1) related to products covered by the Union harmonisation legislation listed in Section B of Annex I, only Article 6(1), Articles 102 to 109 and Article 112 apply.\nArticle 57 applies only in so far as the requirements for high-risk AI systems under this Regulation have been integrated in that Union harmonisation legislation.\n3. This Regulation does not apply to areas outside the scope of Union law, and shall not, in any event, affect the competences of the Member States concerning national security, regardless of the type of entity entrusted by the Member States with carrying out tasks in relation to those competences.\nThis Regulation does not apply to AI systems where and in so far they are placed on the market, put into service, or used with or without modification exclusively for military, defence or national security purposes, regardless of the type of entity carrying out those activities.\nThis Regulation does not apply to AI systems which are not placed on the market or put into service in the Union, where the output is used in the Union exclusively for military, defence or national security purposes, regardless of the type of entity carrying out those activities.\n4. This Regulation applies neither to public authorities in a third country nor to international organisations falling within the scope of this Regulation pursuant to paragraph 1, where those authorities or organisations use AI systems in the framework of international cooperation or agreements for law enforcement and judicial cooperation with the Union or with one or more Member States, provided that such a third country or international organisation provides adequate safeguards with respect to the protection of fundamental rights and freedoms of individuals.\n5. This Regulation shall not affect the application of the provisions on the liability of providers of intermediary services as set out in Chapter II of Regulation (EU) 2022/2065.\n12.7.2024 \u2018placing on the market\u2019 means the first making available of an AI system or a general-purpose AI model on the Union market;\n6. This Regulation does not apply to AI systems or AI models, including their output, specifically developed and put into service for the sole purpose of scientific research and development.\n7. Union law on the protection of personal data, privacy and the confidentiality of communications applies to personal data processed in connection with the rights and obligations laid down in this Regulation.\nThis Regulation shall not affect Regulation (EU) 2016/679 or (EU) 2018/1725, or Directive 2002/58/EC or (EU) 2016/680, without prejudice to Article 10(5) and Article 59 of this Regulation.\n8. This Regulation does not apply to any research, testing or development activity regarding AI systems or AI models prior to their being placed on the market or put into service.\nSuch activities shall be conducted in accordance with applicable Union law.\nTesting in real world conditions shall not be covered by that exclusion.\n9. This Regulation is without prejudice to the rules laid down by other Union legal acts related to consumer protection and product safety.\n10.\nThis Regulation does not apply to obligations of deployers who are natural persons using AI systems in the course of a purely personal non-professional activity.\n11.\nThis Regulation does not preclude the Union or Member States from maintaining or introducing laws, regulations or administrative provisions which are more favourable to workers in terms of protecting their rights in respect of the use of AI systems by employers, or from encouraging or allowing the application of collective agreements which are more favourable to workers.\n12.\nThis Regulation does not apply to AI systems released under free and open-source licences, unless they are placed on the market or put into service as high-risk AI systems or as an AI system that falls under Article 5 or 50.\nScope\n1. This Regulation applies to:\n(a) providers placing on the market or putting into service AI systems or placing on the market general-purpose AI models in the Union, irrespective of whether those providers are established or located within the Union or in a third country;\n(b) deployers of AI systems that have their place of establishment or are located within the Union;\n(c) providers and deployers of AI systems that have their place of establishment or are located in a third country, where the output produced by the AI system is used in the Union;\n(d) importers and distributors of AI systems;\n(e) product manufacturers placing on the market or putting into service an AI system together with their product and under their own name or trademark;\n(f) authorised representatives of providers, which are not established in the Union;\n(g) affected persons that are located in the Union.\n2. For AI systems classified as high-risk AI systems in accordance with Article 6(1) related to products covered by the Union harmonisation legislation listed in Section B of Annex I, only Article 6(1), Articles 102 to 109 and Article 112 apply.\nArticle 57 applies only in so far as the requirements for high-risk AI systems under this Regulation have been integrated in that Union harmonisation legislation.\n3. This Regulation does not apply to areas outside the scope of Union law, and shall not, in any event, affect the competences of the Member States concerning national security, regardless of the type of entity entrusted by the Member States with carrying out tasks in relation to those competences.\nThis Regulation does not apply to AI systems where and in so far they are placed on the market, put into service, or used with or without modification exclusively for military, defence or national security purposes, regardless of the type of entity carrying out those activities.\nThis Regulation does not apply to AI systems which are not placed on the market or put into service in the Union, where the output is used in the Union exclusively for military, defence or national security purposes, regardless of the type of entity carrying out those activities.\n4. This Regulation applies neither to public authorities in a third country nor to international organisations falling within the scope of this Regulation pursuant to paragraph 1, where those authorities or organisations use AI systems in the framework of international cooperation or agreements for law enforcement and judicial cooperation with the Union or with one or more Member States, provided that such a third country or international organisation provides adequate safeguards with respect to the protection of fundamental rights and freedoms of individuals.\n5. This Regulation shall not affect the application of the provisions on the liability of providers of intermediary services as set out in Chapter II of Regulation (EU) 2022/2065.\n12.7.2024 \u2018placing on the market\u2019 means the first making available of an AI system or a general-purpose AI model on the Union market;\n6. This Regulation does not apply to AI systems or AI models, including their output, specifically developed and put into service for the sole purpose of scientific research and development.\n7. Union law on the protection of personal data, privacy and the confidentiality of communications applies to personal data processed in connection with the rights and obligations laid down in this Regulation.\nThis Regulation shall not affect Regulation (EU) 2016/679 or (EU) 2018/1725, or Directive 2002/58/EC or (EU) 2016/680, without prejudice to Article 10(5) and Article 59 of this Regulation.\n8. This Regulation does not apply to any research, testing or development activity regarding AI systems or AI models prior to their being placed on the market or put into service.\nSuch activities shall be conducted in accordance with applicable Union law.\nTesting in real world conditions shall not be covered by that exclusion.\n9. This Regulation is without prejudice to the rules laid down by other Union legal acts related to consumer protection and product safety.\n10.\nThis Regulation does not apply to obligations of deployers who are natural persons using AI systems in the course of a purely personal non-professional activity.\n11.\nThis Regulation does not preclude the Union or Member States from maintaining or introducing laws, regulations or administrative provisions which are more favourable to workers in terms of protecting their rights in respect of the use of AI systems by employers, or from encouraging or allowing the application of collective agreements which are more favourable to workers.\n12.\nThis Regulation does not apply to AI systems released under free and open-source licences, unless they are placed on the market or put into service as high-risk AI systems or as an AI system that falls under Article 5 or 50.\nArticle 3\nDefinitions\nFor the purposes of this Regulation, the following definitions apply:\n(1) \u2018AI system\u2019 means a machine-based system that is designed to operate with varying levels of autonomy and that may exhibit adaptiveness after deployment, and that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments;\n(2) \u2018risk\u2019 means the combination of the probability of an occurrence of harm and the severity of that harm;\n(3) \u2018provider\u2019 means a natural or legal person, public authority, agency or other body that develops an AI system or a general-purpose AI model or that has an AI system or a general-purpose AI model developed and places it on the market or puts the AI system into service under its own name or trademark, whether for payment or free of charge;\n(4) \u2018deployer\u2019 means a natural or legal person, public authority, agency or other body using an AI system under its authority except where the AI system is used in the course of a personal non-professional activity;\n(5) \u2018authorised representative\u2019 means a natural or legal person located or established in the Union who has received and accepted a written mandate from a provider of an AI system or a general-purpose AI model to, respectively, perform and carry out on its behalf the obligations and procedures established by this Regulation;\n(6) \u2018importer\u2019 means a natural or legal person located or established in the Union that places on the market an AI system that bears the name or trademark of a natural or legal person established in a third country;\n(7) \u2018distributor\u2019 means a natural or legal person in the supply chain, other than the provider or the importer, that makes an AI system available on the Union market;\n\u2018operator\u2019 means a provider, product manufacturer, deployer, authorised representative, importer or distributor;\n12.7.2024 \u2018harmonised standard\u2019 means a harmonised standard as defined in Article 2(1), point (c), of Regulation (EU) No 1025/2012;\n(10) \u2018making available on the market\u2019 means the supply of an AI system or a general-purpose AI model for distribution or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;\n(11) \u2018putting into service\u2019 means the supply of an AI system for first use directly to the deployer or for own use in the Union for its intended purpose;\n(12) \u2018intended purpose\u2019 means the use for which an AI system is intended by the provider, including the specific context and conditions of use, as specified in the information supplied by the provider in the instructions for use, promotional or sales materials and statements, as well as in the technical documentation;\n(13) \u2018reasonably foreseeable misuse\u2019 means the use of an AI system in a way that is not in accordance with its intended purpose, but which may result from reasonably foreseeable human behaviour or interaction with other systems, including other AI systems;\n(14) \u2018safety component\u2019 means a component of a product or of an AI system which fulfils a safety function for that product or AI system, or the failure or malfunctioning of which endangers the health and safety of persons or property;\n(15) \u2018instructions for use\u2019 means the information provided by the provider to inform the deployer of, in particular, an AI system\u2019s intended purpose and proper use;\n(16) \u2018recall of an AI system\u2019 means any measure aiming to achieve the return to the provider or taking out of service or disabling the use of an AI system made available to deployers;\n(17) \u2018withdrawal of an AI system\u2019 means any measure aiming to prevent an AI system in the supply chain being made available on the market;\n(18) \u2018performance of an AI system\u2019 means the ability of an AI system to achieve its intended purpose;\n(19) \u2018notifying authority\u2019 means the national authority responsible for setting up and carrying out the necessary procedures for the assessment, designation and notification of conformity assessment bodies and for their monitoring;\n(20) \u2018conformity assessment\u2019 means the process of demonstrating whether the requirements set out in Chapter III, Section 2 relating to a high-risk AI system have been fulfilled;\n(21) \u2018conformity assessment body\u2019 means a body that performs third-party conformity assessment activities, including testing, certification and inspection;\n(22) \u2018notified body\u2019 means a conformity assessment body notified in accordance with this Regulation and other relevant Union harmonisation legislation;\n(23) \u2018substantial modification\u2019 means a change to an AI system after its placing on the market or putting into service which is not foreseen or planned in the initial conformity assessment carried out by the provider and as a result of which the compliance of the AI system with the requirements set out in Chapter III, Section 2 is affected or results in a modification to the intended purpose for which the AI system has been assessed;\n(24) \u2018CE marking\u2019 means a marking by which a provider indicates that an AI system is in conformity with the requirements set out in Chapter III, Section 2 and other applicable Union harmonisation legislation providing for its affixing;\n(25) \u2018post-market monitoring system\u2019 means all activities carried out by providers of AI systems to collect and review experience gained from the use of AI systems they place on the market or put into service for the purpose of identifying any need to immediately apply any necessary corrective or preventive actions;\n\u2018market surveillance authority\u2019 means the national authority carrying out the activities and taking the measures pursuant to Regulation (EU) 2019/1020;\n12.7.2024 \u2018law enforcement authority\u2019 means:\n(28) \u2018common specification\u2019 means a set of technical specifications as defined in Article 2, point (4) of Regulation (EU) No 1025/2012, providing means to comply with certain requirements established under this Regulation;\n(29) \u2018training data\u2019 means data used for training an AI system through fitting its learnable parameters;\n(30) \u2018validation data\u2019 means data used for providing an evaluation of the trained AI system and for tuning its non-learnable parameters and its learning process in order, inter alia, to prevent underfitting or overfitting;\n(31) \u2018validation data set\u2019 means a separate data set or part of the training data set, either as a fixed or variable split;\n(32) \u2018testing data\u2019 means data used for providing an independent evaluation of the AI system in order to confirm the expected performance of that system before its placing on the market or putting into service;\n(33) \u2018input data\u2019 means data provided to or directly acquired by an AI system on the basis of which the system produces an output;\n(34) \u2018biometric data\u2019 means personal data resulting from specific technical processing relating to the physical, physiological or behavioural characteristics of a natural person, such as facial images or dactyloscopic data;\n(35) \u2018biometric identification\u2019 means the automated recognition of physical, physiological, behavioural, or psychological human features for the purpose of establishing the identity of a natural person by comparing biometric data of that individual to biometric data of individuals stored in a database;\n(36) \u2018biometric verification\u2019 means the automated, one-to-one verification, including authentication, of the identity of natural persons by comparing their biometric data to previously provided biometric data;\n(37) \u2018special categories of personal data\u2019 means the categories of personal data referred to in Article 9(1) of Regulation (EU) 2016/679, Article 10 of Directive (EU) 2016/680 and Article 10(1) of Regulation (EU) 2018/1725;\n(38) \u2018sensitive operational data\u2019 means operational data related to activities of prevention, detection, investigation or prosecution of criminal offences, the disclosure of which could jeopardise the integrity of criminal proceedings;\n(39) \u2018emotion recognition system\u2019 means an AI system for the purpose of identifying or inferring emotions or intentions of natural persons on the basis of their biometric data;\n(40) \u2018biometric categorisation system\u2019 means an AI system for the purpose of assigning natural persons to specific categories on the basis of their biometric data, unless it is ancillary to another commercial service and strictly necessary for objective technical reasons;\n(41) \u2018remote biometric identification system\u2019 means an AI system for the purpose of identifying natural persons, without their active involvement, typically at a distance through the comparison of a person\u2019s biometric data with the biometric data contained in a reference database;\n(42) \u2018real-time remote biometric identification system\u2019 means a remote biometric identification system, whereby the capturing of biometric data, the comparison and the identification all occur without a significant delay, comprising not only instant identification, but also limited short delays in order to avoid circumvention;\n(43) \u2018post-remote biometric identification system\u2019 means a remote biometric identification system other than a real-time remote biometric identification system;\n\u2018publicly accessible space\u2019 means any publicly or privately owned physical place accessible to an undetermined number of natural persons, regardless of whether certain conditions for access may apply, and regardless of the potential capacity restrictions;\n12.7.2024 \u2018testing in real-world conditions\u2019 means the temporary testing of an AI system for its intended purpose in real-world conditions outside a laboratory or otherwise simulated environment, with a view to gathering reliable and robust data and to assessing and verifying the conformity of the AI system with the requirements of this Regulation and it does not qualify as placing the AI system on the market or putting it into service within the meaning of this Regulation, provided that all the conditions laid down in Article 57 or 60 are fulfilled;\n(a) any public authority competent for the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security; or\n(b) any other body or entity entrusted by Member State law to exercise public authority and public powers for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security;\n(46) \u2018law enforcement\u2019 means activities carried out by law enforcement authorities or on their behalf for the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including safeguarding against and preventing threats to public security;\n(47) \u2018AI Office\u2019 means the Commission\u2019s function of contributing to the implementation, monitoring and supervision of AI systems and general-purpose AI models, and AI governance, provided for in Commission Decision of 24 January 2024; references in this Regulation to the AI Office shall be construed as references to the Commission;\n(48) \u2018national competent authority\u2019 means a notifying authority or a market surveillance authority; as regards AI systems put into service or used by Union institutions, agencies, offices and bodies, references to national competent authorities or market surveillance authorities in this Regulation shall be construed as references to the European Data Protection Supervisor;\n(49) \u2018serious incident\u2019 means an incident or malfunctioning of an AI system that directly or indirectly leads to any of the following:\n(a) the death of a person, or serious harm to a person\u2019s health;\n(b) a serious and irreversible disruption of the management or operation of critical infrastructure;\n(c) the infringement of obligations under Union law intended to protect fundamental rights;\n(d) serious harm to property or the environment;\n(50) \u2018personal data\u2019 means personal data as defined in Article 4, point (1), of Regulation (EU) 2016/679;\n(51) \u2018non-personal data\u2019 means data other than personal data as defined in Article 4, point (1), of Regulation (EU) 2016/679;\n(52) \u2018profiling\u2019 means profiling as defined in Article 4, point (4), of Regulation (EU) 2016/679;\n(53) \u2018real-world testing plan\u2019 means a document that describes the objectives, methodology, geographical, population and temporal scope, monitoring, organisation and conduct of testing in real-world conditions;\n(54) \u2018sandbox plan\u2019 means a document agreed between the participating provider and the competent authority describing the objectives, conditions, timeframe, methodology and requirements for the activities carried out within the sandbox;\n(55) \u2018AI regulatory sandbox\u2019 means a controlled framework set up by a competent authority which offers providers or prospective providers of AI systems the possibility to develop, train, validate and test, where appropriate in real-world conditions, an innovative AI system, pursuant to a sandbox plan for a limited time under regulatory supervision;\n\u2018AI literacy\u2019 means skills, knowledge and understanding that allow providers, deployers and affected persons, taking into account their respective rights and obligations in the context of this Regulation, to make an informed deployment of AI systems, as well as to gain awareness about the opportunities and risks of AI and possible harm it can cause;\n12.7.2024\n(58) \u2018subject\u2019, for the purpose of real-world testing, means a natural person who participates in testing in real-world conditions;\n(59) \u2018informed consent\u2019 means a subject\u2019s freely given, specific, unambiguous and voluntary expression of his or her willingness to participate in a particular testing in real-world conditions, after having been informed of all aspects of the testing that are relevant to the subject\u2019s decision to participate;\n(60) \u2018deep fake\u2019 means AI-generated or manipulated image, audio or video content that resembles existing persons, objects, places, entities or events and would falsely appear to a person to be authentic or truthful;\n(61) \u2018widespread infringement\u2019 means any act or omission contrary to Union law protecting the interest of individuals, which:\n(a) has harmed or is likely to harm the collective interests of individuals residing in at least two Member States other than the Member State in which:\n(i) the act or omission originated or took place;\n(ii) the provider concerned, or, where applicable, its authorised representative is located or established; or\n(iii) the deployer is established, when the infringement is committed by the deployer;\n(b) has caused, causes or is likely to cause harm to the collective interests of individuals and has common features, including the same unlawful practice or the same interest being infringed, and is occurring concurrently, committed by the same operator, in at least three Member States;\n(62) \u2018critical infrastructure\u2019 means critical infrastructure as defined in Article 2, point (4), of Directive (EU) 2022/2557;\n(63) \u2018general-purpose AI model\u2019 means an AI model, including where such an AI model is trained with a large amount of data using self-supervision at scale, that displays significant generality and is capable of competently performing a wide range of distinct tasks regardless of the way the model is placed on the market and that can be integrated into a variety of downstream systems or applications, except AI models that are used for research, development or prototyping activities before they are placed on the market;\n(64) \u2018high-impact capabilities\u2019 means capabilities that match or exceed the capabilities recorded in the most advanced general-purpose AI models;\n(65) \u2018systemic risk\u2019 means a risk that is specific to the high-impact capabilities of general-purpose AI models, having a significant impact on the Union market due to their reach, or due to actual or reasonably foreseeable negative effects on public health, safety, public security, fundamental rights, or the society as a whole, that can be propagated at scale across the value chain;\n(66) \u2018general-purpose AI system\u2019 means an AI system which is based on a general-purpose AI model and which has the capability to serve a variety of purposes, both for direct use as well as for integration in other AI systems;\n(67) \u2018floating-point operation\u2019 means any mathematical operation or assignment involving floating-point numbers, which are a subset of the real numbers typically represented on computers by an integer of fixed precision scaled by an integer exponent of a fixed base;\n\u2018downstream provider\u2019 means a provider of an AI system, including a general-purpose AI system, which integrates an AI model, regardless of whether the AI model is provided by themselves and vertically integrated or provided by another entity based on contractual relations.\n12.7.2024\nArticle 4\nAI literacy Providers and deployers of AI systems shall take measures to ensure, to their best extent, a sufficient level of AI literacy of their staff and other persons dealing with the operation and use of AI systems on their behalf, taking into account their technical knowledge, experience, education and training and the context the AI systems are to be used in, and considering the persons or groups of persons on whom the AI systems are to be used.\n",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Regulation",
+                    "type": "REGULATION",
+                    "nelements": 76,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 1,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 2,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 3,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 4,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 5,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 6,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 7,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 8,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 9,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 10,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 11,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 12,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 13,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 14,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 15,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 16,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 17,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 18,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 19,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 20,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 21,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 22,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 23,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 24,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 25,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 26,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 27,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 28,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 29,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 30,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 31,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 32,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 33,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 34,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 35,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 36,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 37,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 38,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 39,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 40,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 41,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 42,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 43,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 44,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 45,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 46,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 47,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 48,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 49,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 50,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 51,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 52,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 53,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 54,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 55,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 56,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 57,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 58,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 59,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 60,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 61,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 62,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 63,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 64,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 65,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 66,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 67,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 68,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 69,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 70,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 71,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 72,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 73,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 74,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 75,
+                            "mention": "Regulation"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Article 6(1)",
+                    "type": "REGULATION",
+                    "nelements": 6,
+                    "mentions": [
+                        {
+                            "id": 76,
+                            "mention": "Article 6(1)"
+                        },
+                        {
+                            "id": 77,
+                            "mention": "Article 6(1)"
+                        },
+                        {
+                            "id": 78,
+                            "mention": "Article 6(1)"
+                        },
+                        {
+                            "id": 79,
+                            "mention": "Article 6(1)"
+                        },
+                        {
+                            "id": 80,
+                            "mention": "Article 6(1)"
+                        },
+                        {
+                            "id": 81,
+                            "mention": "Article 6(1)"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Article 2",
+                    "type": "REGULATION",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 82,
+                            "mention": "Article 2"
+                        },
+                        {
+                            "id": 83,
+                            "mention": "Article 2"
+                        },
+                        {
+                            "id": 84,
+                            "mention": "Article 2"
+                        },
+                        {
+                            "id": 85,
+                            "mention": "Article 2"
+                        },
+                        {
+                            "id": 86,
+                            "mention": "Article 2"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Article 57",
+                    "type": "REGULATION",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 87,
+                            "mention": "Article 57"
+                        },
+                        {
+                            "id": 88,
+                            "mention": "Article 57"
+                        },
+                        {
+                            "id": 89,
+                            "mention": "Article 57"
+                        },
+                        {
+                            "id": 90,
+                            "mention": "Article 57"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Regulation (EU) 2022/2065",
+                    "type": "REGULATION",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 91,
+                            "mention": "Regulation (EU) 2022/2065"
+                        },
+                        {
+                            "id": 92,
+                            "mention": "Regulation (EU) 2022/2065"
+                        },
+                        {
+                            "id": 93,
+                            "mention": "Regulation (EU) 2022/2065"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Regulation (EU) 2016/679",
+                    "type": "REGULATION",
+                    "nelements": 7,
+                    "mentions": [
+                        {
+                            "id": 94,
+                            "mention": "Regulation (EU) 2016/679"
+                        },
+                        {
+                            "id": 95,
+                            "mention": "Regulation (EU) 2016/679"
+                        },
+                        {
+                            "id": 96,
+                            "mention": "Regulation (EU) 2016/679"
+                        },
+                        {
+                            "id": 97,
+                            "mention": "Regulation (EU) 2016/679"
+                        },
+                        {
+                            "id": 98,
+                            "mention": "Regulation (EU) 2016/679"
+                        },
+                        {
+                            "id": 99,
+                            "mention": "Regulation (EU) 2016/679"
+                        },
+                        {
+                            "id": 100,
+                            "mention": "Regulation (EU) 2016/679"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "Regulation (EU) 2018/1725",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 101,
+                            "mention": "Regulation (EU) 2018/1725"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "Directive 2002/58/EC",
+                    "type": "REGULATION",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 102,
+                            "mention": "Directive 2002/58/EC"
+                        },
+                        {
+                            "id": 103,
+                            "mention": "Directive 2002/58/EC"
+                        },
+                        {
+                            "id": 104,
+                            "mention": "Directive 2002/58/EC"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "Directive (EU) 2016/680",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 105,
+                            "mention": "Directive (EU) 2016/680"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "Article 10(5)",
+                    "type": "REGULATION",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 106,
+                            "mention": "Article 10(5)"
+                        },
+                        {
+                            "id": 107,
+                            "mention": "Article 10(5)"
+                        },
+                        {
+                            "id": 108,
+                            "mention": "Article 10(5)"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "Article 59",
+                    "type": "REGULATION",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 109,
+                            "mention": "Article 59"
+                        },
+                        {
+                            "id": 110,
+                            "mention": "Article 59"
+                        },
+                        {
+                            "id": 111,
+                            "mention": "Article 59"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "Article 4, point (1), of Regulation (EU) 2016/679",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 112,
+                            "mention": "Article 4, point (1), of Regulation (EU) 2016/679"
+                        },
+                        {
+                            "id": 113,
+                            "mention": "Article 4, point (1), of Regulation (EU) 2016/679"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "title": "Article 4, point (4), of Regulation (EU) 2016/679",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 114,
+                            "mention": "Article 4, point (4), of Regulation (EU) 2016/679"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "title": "Regulation (EU) 2019/1020",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 115,
+                            "mention": "Regulation (EU) 2019/1020"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "title": "Commission Decision of 24 January 2024",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 116,
+                            "mention": "Commission Decision of 24 January 2024"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "title": "Article 2, point (4), of Directive (EU) 2022/2557",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 117,
+                            "mention": "Article 2, point (4), of Directive (EU) 2022/2557"
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "title": "provider",
+                    "type": "ROLE",
+                    "nelements": 14,
+                    "mentions": [
+                        {
+                            "id": 118,
+                            "mention": "provider"
+                        },
+                        {
+                            "id": 119,
+                            "mention": "provider"
+                        },
+                        {
+                            "id": 120,
+                            "mention": "provider"
+                        },
+                        {
+                            "id": 121,
+                            "mention": "provider"
+                        },
+                        {
+                            "id": 122,
+                            "mention": "provider"
+                        },
+                        {
+                            "id": 123,
+                            "mention": "provider"
+                        },
+                        {
+                            "id": 124,
+                            "mention": "provider"
+                        },
+                        {
+                            "id": 125,
+                            "mention": "provider"
+                        },
+                        {
+                            "id": 126,
+                            "mention": "provider"
+                        },
+                        {
+                            "id": 127,
+                            "mention": "provider"
+                        },
+                        {
+                            "id": 128,
+                            "mention": "provider"
+                        },
+                        {
+                            "id": 129,
+                            "mention": "provider"
+                        },
+                        {
+                            "id": 130,
+                            "mention": "provider"
+                        },
+                        {
+                            "id": 131,
+                            "mention": "provider"
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "title": "deployer",
+                    "type": "ROLE",
+                    "nelements": 6,
+                    "mentions": [
+                        {
+                            "id": 132,
+                            "mention": "deployer"
+                        },
+                        {
+                            "id": 133,
+                            "mention": "deployer"
+                        },
+                        {
+                            "id": 134,
+                            "mention": "deployer"
+                        },
+                        {
+                            "id": 135,
+                            "mention": "deployer"
+                        },
+                        {
+                            "id": 136,
+                            "mention": "deployer"
+                        },
+                        {
+                            "id": 137,
+                            "mention": "deployer"
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "title": "authorised representative",
+                    "type": "ROLE",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 138,
+                            "mention": "authorised representative"
+                        },
+                        {
+                            "id": 139,
+                            "mention": "authorised representative"
+                        },
+                        {
+                            "id": 140,
+                            "mention": "authorised representative"
+                        }
+                    ]
+                },
+                {
+                    "id": 20,
+                    "title": "importer",
+                    "type": "ROLE",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 141,
+                            "mention": "importer"
+                        },
+                        {
+                            "id": 142,
+                            "mention": "importer"
+                        },
+                        {
+                            "id": 143,
+                            "mention": "importer"
+                        }
+                    ]
+                },
+                {
+                    "id": 21,
+                    "title": "distributor",
+                    "type": "ROLE",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 144,
+                            "mention": "distributor"
+                        },
+                        {
+                            "id": 145,
+                            "mention": "distributor"
+                        }
+                    ]
+                },
+                {
+                    "id": 22,
+                    "title": "operator",
+                    "type": "ROLE",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 146,
+                            "mention": "operator"
+                        },
+                        {
+                            "id": 147,
+                            "mention": "operator"
+                        }
+                    ]
+                },
+                {
+                    "id": 23,
+                    "title": "affected persons",
+                    "type": "ROLE",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 148,
+                            "mention": "affected persons"
+                        },
+                        {
+                            "id": 149,
+                            "mention": "affected persons"
+                        },
+                        {
+                            "id": 150,
+                            "mention": "affected persons"
+                        },
+                        {
+                            "id": 151,
+                            "mention": "affected persons"
+                        }
+                    ]
+                },
+                {
+                    "id": 24,
+                    "title": "public authority",
+                    "type": "ROLE",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 152,
+                            "mention": "public authority"
+                        },
+                        {
+                            "id": 153,
+                            "mention": "public authority"
+                        },
+                        {
+                            "id": 154,
+                            "mention": "public authority"
+                        },
+                        {
+                            "id": 155,
+                            "mention": "public authority"
+                        }
+                    ]
+                },
+                {
+                    "id": 25,
+                    "title": "national competent authority",
+                    "type": "ROLE",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 156,
+                            "mention": "national competent authority"
+                        }
+                    ]
+                },
+                {
+                    "id": 26,
+                    "title": "AI Office",
+                    "type": "AUTHORITY",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 157,
+                            "mention": "AI Office"
+                        },
+                        {
+                            "id": 158,
+                            "mention": "AI Office"
+                        }
+                    ]
+                },
+                {
+                    "id": 27,
+                    "title": "national authority",
+                    "type": "AUTHORITY",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 159,
+                            "mention": "national authority"
+                        },
+                        {
+                            "id": 160,
+                            "mention": "national authority"
+                        }
+                    ]
+                },
+                {
+                    "id": 28,
+                    "title": "market surveillance authority",
+                    "type": "AUTHORITY",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 161,
+                            "mention": "market surveillance authority"
+                        },
+                        {
+                            "id": 162,
+                            "mention": "market surveillance authority"
+                        }
+                    ]
+                },
+                {
+                    "id": 29,
+                    "title": "notifying authority",
+                    "type": "AUTHORITY",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 163,
+                            "mention": "notifying authority"
+                        },
+                        {
+                            "id": 164,
+                            "mention": "notifying authority"
+                        }
+                    ]
+                },
+                {
+                    "id": 30,
+                    "title": "European Data Protection Supervisor",
+                    "type": "AUTHORITY",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 165,
+                            "mention": "European Data Protection Supervisor"
+                        }
+                    ]
+                },
+                {
+                    "id": 31,
+                    "title": "personal data",
+                    "type": "DATA.CAT",
+                    "nelements": 13,
+                    "mentions": [
+                        {
+                            "id": 166,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 167,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 168,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 169,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 170,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 171,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 172,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 173,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 174,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 175,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 176,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 177,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 178,
+                            "mention": "personal data"
+                        }
+                    ]
+                },
+                {
+                    "id": 32,
+                    "title": "non-personal data",
+                    "type": "DATA.CAT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 179,
+                            "mention": "non-personal data"
+                        }
+                    ]
+                },
+                {
+                    "id": 33,
+                    "title": "biometric data",
+                    "type": "DATA.CAT",
+                    "nelements": 10,
+                    "mentions": [
+                        {
+                            "id": 180,
+                            "mention": "biometric data"
+                        },
+                        {
+                            "id": 181,
+                            "mention": "biometric data"
+                        },
+                        {
+                            "id": 182,
+                            "mention": "biometric data"
+                        },
+                        {
+                            "id": 183,
+                            "mention": "biometric data"
+                        },
+                        {
+                            "id": 184,
+                            "mention": "biometric data"
+                        },
+                        {
+                            "id": 185,
+                            "mention": "biometric data"
+                        },
+                        {
+                            "id": 186,
+                            "mention": "biometric data"
+                        },
+                        {
+                            "id": 187,
+                            "mention": "biometric data"
+                        },
+                        {
+                            "id": 188,
+                            "mention": "biometric data"
+                        },
+                        {
+                            "id": 189,
+                            "mention": "biometric data"
+                        }
+                    ]
+                },
+                {
+                    "id": 34,
+                    "title": "special categories of personal data",
+                    "type": "DATA.CAT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 190,
+                            "mention": "special categories of personal data"
+                        }
+                    ]
+                },
+                {
+                    "id": 35,
+                    "title": "sensitive operational data",
+                    "type": "DATA.CAT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 191,
+                            "mention": "sensitive operational data"
+                        }
+                    ]
+                },
+                {
+                    "id": 36,
+                    "title": "placing on the market",
+                    "type": "DATA.OP",
+                    "nelements": 16,
+                    "mentions": [
+                        {
+                            "id": 192,
+                            "mention": "placing on the market"
+                        },
+                        {
+                            "id": 193,
+                            "mention": "placing on the market"
+                        },
+                        {
+                            "id": 194,
+                            "mention": "placing on the market"
+                        },
+                        {
+                            "id": 195,
+                            "mention": "placing on the market"
+                        },
+                        {
+                            "id": 196,
+                            "mention": "placing on the market"
+                        },
+                        {
+                            "id": 197,
+                            "mention": "placing on the market"
+                        },
+                        {
+                            "id": 198,
+                            "mention": "placing on the market"
+                        },
+                        {
+                            "id": 199,
+                            "mention": "placing on the market"
+                        },
+                        {
+                            "id": 200,
+                            "mention": "placing on the market"
+                        },
+                        {
+                            "id": 201,
+                            "mention": "placing on the market"
+                        },
+                        {
+                            "id": 202,
+                            "mention": "placing on the market"
+                        },
+                        {
+                            "id": 203,
+                            "mention": "placing on the market"
+                        },
+                        {
+                            "id": 204,
+                            "mention": "placing on the market"
+                        },
+                        {
+                            "id": 205,
+                            "mention": "placing on the market"
+                        },
+                        {
+                            "id": 206,
+                            "mention": "placing on the market"
+                        },
+                        {
+                            "id": 207,
+                            "mention": "placing on the market"
+                        }
+                    ]
+                },
+                {
+                    "id": 37,
+                    "title": "putting into service",
+                    "type": "DATA.OP",
+                    "nelements": 10,
+                    "mentions": [
+                        {
+                            "id": 208,
+                            "mention": "putting into service"
+                        },
+                        {
+                            "id": 209,
+                            "mention": "putting into service"
+                        },
+                        {
+                            "id": 210,
+                            "mention": "putting into service"
+                        },
+                        {
+                            "id": 211,
+                            "mention": "putting into service"
+                        },
+                        {
+                            "id": 212,
+                            "mention": "putting into service"
+                        },
+                        {
+                            "id": 213,
+                            "mention": "putting into service"
+                        },
+                        {
+                            "id": 214,
+                            "mention": "putting into service"
+                        },
+                        {
+                            "id": 215,
+                            "mention": "putting into service"
+                        },
+                        {
+                            "id": 216,
+                            "mention": "putting into service"
+                        },
+                        {
+                            "id": 217,
+                            "mention": "putting into service"
+                        }
+                    ]
+                },
+                {
+                    "id": 38,
+                    "title": "testing in real-world conditions",
+                    "type": "DATA.OP",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 218,
+                            "mention": "testing in real-world conditions"
+                        },
+                        {
+                            "id": 219,
+                            "mention": "testing in real-world conditions"
+                        },
+                        {
+                            "id": 220,
+                            "mention": "testing in real-world conditions"
+                        },
+                        {
+                            "id": 221,
+                            "mention": "testing in real-world conditions"
+                        }
+                    ]
+                },
+                {
+                    "id": 39,
+                    "title": "making available on the market",
+                    "type": "DATA.OP",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 222,
+                            "mention": "making available on the market"
+                        }
+                    ]
+                },
+                {
+                    "id": 40,
+                    "title": "withdrawal of an AI system",
+                    "type": "DATA.OP",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 223,
+                            "mention": "withdrawal of an AI system"
+                        }
+                    ]
+                },
+                {
+                    "id": 41,
+                    "title": "recall of an AI system",
+                    "type": "DATA.OP",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 224,
+                            "mention": "recall of an AI system"
+                        }
+                    ]
+                },
+                {
+                    "id": 42,
+                    "title": "high-risk AI systems",
+                    "type": "RISK/IMPACT",
+                    "nelements": 10,
+                    "mentions": [
+                        {
+                            "id": 225,
+                            "mention": "high-risk AI systems"
+                        },
+                        {
+                            "id": 226,
+                            "mention": "high-risk AI systems"
+                        },
+                        {
+                            "id": 227,
+                            "mention": "high-risk AI systems"
+                        },
+                        {
+                            "id": 228,
+                            "mention": "high-risk AI systems"
+                        },
+                        {
+                            "id": 229,
+                            "mention": "high-risk AI systems"
+                        },
+                        {
+                            "id": 230,
+                            "mention": "high-risk AI systems"
+                        },
+                        {
+                            "id": 231,
+                            "mention": "high-risk AI systems"
+                        },
+                        {
+                            "id": 232,
+                            "mention": "high-risk AI systems"
+                        },
+                        {
+                            "id": 233,
+                            "mention": "high-risk AI systems"
+                        },
+                        {
+                            "id": 234,
+                            "mention": "high-risk AI systems"
+                        }
+                    ]
+                },
+                {
+                    "id": 43,
+                    "title": "systemic risk",
+                    "type": "RISK/IMPACT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 235,
+                            "mention": "systemic risk"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "AIAct_Chapter_I"
+}

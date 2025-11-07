@@ -1,0 +1,1083 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 35,
+                    "end": 44,
+                    "id": 0,
+                    "features": {
+                        "text": "Article 5"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5176,
+                    "end": 5185,
+                    "id": 1,
+                    "features": {
+                        "text": "Article 9"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5189,
+                    "end": 5213,
+                    "id": 2,
+                    "features": {
+                        "text": "Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4972,
+                    "end": 4980,
+                    "id": 3,
+                    "features": {
+                        "text": "Annex II"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3354,
+                    "end": 3363,
+                    "id": 4,
+                    "features": {
+                        "text": "authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6670,
+                    "end": 6679,
+                    "id": 5,
+                    "features": {
+                        "text": "authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7312,
+                    "end": 7321,
+                    "id": 6,
+                    "features": {
+                        "text": "authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7355,
+                    "end": 7364,
+                    "id": 7,
+                    "features": {
+                        "text": "authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7991,
+                    "end": 8000,
+                    "id": 8,
+                    "features": {
+                        "text": "authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8034,
+                    "end": 8043,
+                    "id": 9,
+                    "features": {
+                        "text": "authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8568,
+                    "end": 8577,
+                    "id": 10,
+                    "features": {
+                        "text": "authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8611,
+                    "end": 8620,
+                    "id": 11,
+                    "features": {
+                        "text": "authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10558,
+                    "end": 10567,
+                    "id": 12,
+                    "features": {
+                        "text": "authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6654,
+                    "end": 6679,
+                    "id": 13,
+                    "features": {
+                        "text": "law enforcement authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 8586,
+                    "end": 8620,
+                    "id": 14,
+                    "features": {
+                        "text": "national data protection authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 8548,
+                    "end": 8577,
+                    "id": 15,
+                    "features": {
+                        "text": "market surveillance authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 7972,
+                    "end": 8000,
+                    "id": 16,
+                    "features": {
+                        "text": "competent judicial authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 7328,
+                    "end": 7364,
+                    "id": 17,
+                    "features": {
+                        "text": "independent administrative authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 8007,
+                    "end": 8043,
+                    "id": 18,
+                    "features": {
+                        "text": "independent administrative authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 10531,
+                    "end": 10567,
+                    "id": 19,
+                    "features": {
+                        "text": "independent administrative authority"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 3780,
+                    "end": 3794,
+                    "id": 20,
+                    "features": {
+                        "text": "biometric data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 4063,
+                    "end": 4077,
+                    "id": 21,
+                    "features": {
+                        "text": "biometric data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 4097,
+                    "end": 4111,
+                    "id": 22,
+                    "features": {
+                        "text": "biometric data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 5236,
+                    "end": 5250,
+                    "id": 23,
+                    "features": {
+                        "text": "biometric data"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 128,
+                    "end": 149,
+                    "id": 24,
+                    "features": {
+                        "text": "placing on the market"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 712,
+                    "end": 733,
+                    "id": 25,
+                    "features": {
+                        "text": "placing on the market"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1190,
+                    "end": 1211,
+                    "id": 26,
+                    "features": {
+                        "text": "placing on the market"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1923,
+                    "end": 1944,
+                    "id": 27,
+                    "features": {
+                        "text": "placing on the market"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2518,
+                    "end": 2539,
+                    "id": 28,
+                    "features": {
+                        "text": "placing on the market"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2761,
+                    "end": 2782,
+                    "id": 29,
+                    "features": {
+                        "text": "placing on the market"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3598,
+                    "end": 3619,
+                    "id": 30,
+                    "features": {
+                        "text": "placing on the market"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 155,
+                    "end": 175,
+                    "id": 31,
+                    "features": {
+                        "text": "putting into service"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 739,
+                    "end": 759,
+                    "id": 32,
+                    "features": {
+                        "text": "putting into service"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1217,
+                    "end": 1237,
+                    "id": 33,
+                    "features": {
+                        "text": "putting into service"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1950,
+                    "end": 1970,
+                    "id": 34,
+                    "features": {
+                        "text": "putting into service"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2545,
+                    "end": 2565,
+                    "id": 35,
+                    "features": {
+                        "text": "putting into service"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2788,
+                    "end": 2808,
+                    "id": 36,
+                    "features": {
+                        "text": "putting into service"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3625,
+                    "end": 3645,
+                    "id": 37,
+                    "features": {
+                        "text": "putting into service"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 183,
+                    "end": 186,
+                    "id": 38,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 767,
+                    "end": 770,
+                    "id": 39,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1245,
+                    "end": 1248,
+                    "id": 40,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2005,
+                    "end": 2008,
+                    "id": 41,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2600,
+                    "end": 2603,
+                    "id": 42,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2843,
+                    "end": 2846,
+                    "id": 43,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2970,
+                    "end": 2973,
+                    "id": 44,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3680,
+                    "end": 3683,
+                    "id": 45,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4152,
+                    "end": 4155,
+                    "id": 46,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4307,
+                    "end": 4310,
+                    "id": 47,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 5299,
+                    "end": 5302,
+                    "id": 48,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 5751,
+                    "end": 5754,
+                    "id": 49,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 5899,
+                    "end": 5902,
+                    "id": 50,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6064,
+                    "end": 6067,
+                    "id": 51,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6381,
+                    "end": 6384,
+                    "id": 52,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6437,
+                    "end": 6440,
+                    "id": 53,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6530,
+                    "end": 6533,
+                    "id": 54,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6886,
+                    "end": 6889,
+                    "id": 55,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7122,
+                    "end": 7125,
+                    "id": 56,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7424,
+                    "end": 7427,
+                    "id": 57,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7618,
+                    "end": 7621,
+                    "id": 58,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7816,
+                    "end": 7819,
+                    "id": 59,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7920,
+                    "end": 7923,
+                    "id": 60,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 8210,
+                    "end": 8213,
+                    "id": 61,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 8395,
+                    "end": 8398,
+                    "id": 62,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 8923,
+                    "end": 8926,
+                    "id": 63,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 9649,
+                    "end": 9652,
+                    "id": 64,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 9903,
+                    "end": 9906,
+                    "id": 65,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10088,
+                    "end": 10091,
+                    "id": 66,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10284,
+                    "end": 10287,
+                    "id": 67,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10730,
+                    "end": 10733,
+                    "id": 68,
+                    "features": {
+                        "text": "use"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2182,
+                    "end": 2191,
+                    "id": 69,
+                    "features": {
+                        "text": "profiling"
+                    }
+                },
+                {
+                    "type": "RISK/IMPACT",
+                    "start": 686,
+                    "end": 702,
+                    "id": 70,
+                    "features": {
+                        "text": "significant harm"
+                    }
+                },
+                {
+                    "type": "RISK/IMPACT",
+                    "start": 1164,
+                    "end": 1180,
+                    "id": 71,
+                    "features": {
+                        "text": "significant harm"
+                    }
+                }
+            ],
+            "next_annid": 72
+        }
+    },
+    "text": "CHAPTER II\nPROHIBITED AI PRACTICES\nArticle 5\nProhibited AI practices\n1. The following AI practices shall be prohibited:\n(a) the placing on the market, the putting into service or the use of an AI system that deploys subliminal techniques beyond a person\u2019s consciousness or purposefully manipulative or deceptive techniques, with the objective, or the effect of materially distorting the behaviour of a person or a group of persons by appreciably impairing their ability to make an informed decision, thereby causing them to take a decision that they would not have otherwise taken in a manner that causes or is reasonably likely to cause that person, another person or group of persons significant harm;\n(b) the placing on the market, the putting into service or the use of an AI system that exploits any of the vulnerabilities of a natural person or a specific group of persons due to their age, disability or a specific social or economic situation, with the objective, or the effect, of materially distorting the behaviour of that person or a person belonging to that group in a manner that causes or is reasonably likely to cause that person or another person significant harm;\n(c) the placing on the market, the putting into service or the use of AI systems for the evaluation or classification of natural persons or groups of persons over a certain period of time based on their social behaviour or known, inferred or predicted personal or personality characteristics, with the social score leading to either or both of the following:\n(i) detrimental or unfavourable treatment of certain natural persons or groups of persons in social contexts that are unrelated to the contexts in which the data was originally generated or collected;\n(ii) detrimental or unfavourable treatment of certain natural persons or groups of persons that is unjustified or disproportionate to their social behaviour or its gravity;\n(d) the placing on the market, the putting into service for this specific purpose, or the use of an AI system for making risk assessments of natural persons in order to assess or predict the risk of a natural person committing a criminal offence, based solely on the profiling of a natural person or on assessing their personality traits and characteristics; this prohibition shall not apply to AI systems used to support the human assessment of the involvement of a person in a criminal activity, which is already based on objective and verifiable facts directly linked to a criminal activity;\n(e) the placing on the market, the putting into service for this specific purpose, or the use of AI systems that create or expand facial recognition databases through the untargeted scraping of facial images from the internet or CCTV footage;\n(f) the placing on the market, the putting into service for this specific purpose, or the use of AI systems to infer emotions of a natural person in the areas of workplace and education institutions, except where the use of the AI system is intended to be put in place or into the market for medical or safety reasons;\n12.7.2024 objectives specified in paragraph 1, first subparagraph, point (h), as identified in the request and, in particular, remains limited to what is strictly necessary concerning the period of time as well as the geographic and personal scope.\nIn deciding on the request, that authority shall take into account the elements referred to in paragraph 2. No decision that produces an adverse legal effect on a person may be taken based solely on the output of the \u2018real-time\u2019 remote biometric identification system.\n(g) the placing on the market, the putting into service for this specific purpose, or the use of biometric categorisation systems that categorise individually natural persons based on their biometric data to deduce or infer their race, political opinions, trade union membership, religious or philosophical beliefs, sex life or sexual orientation; this prohibition does not cover any labelling or filtering of lawfully acquired biometric datasets, such as images, based on biometric data or categorizing of biometric data in the area of law enforcement;\n(h) the use of \u2018real-time\u2019 remote biometric identification systems in publicly accessible spaces for the purposes of law enforcement, unless and in so far as such use is strictly necessary for one of the following objectives:\n(i) the targeted search for specific victims of abduction, trafficking in human beings or sexual exploitation of human beings, as well as the search for missing persons;\n(ii) the prevention of a specific, substantial and imminent threat to the life or physical safety of natural persons or a genuine and present or genuine and foreseeable threat of a terrorist attack;\n(iii) the localisation or identification of a person suspected of having committed a criminal offence, for the purpose of conducting a criminal investigation or prosecution or executing a criminal penalty for offences referred to in Annex II and punishable in the Member State concerned by a custodial sentence or a detention order for a maximum period of at least four years.\nPoint (h) of the first subparagraph is without prejudice to Article 9 of Regulation (EU) 2016/679 for the processing of biometric data for purposes other than law enforcement.\n2. The use of \u2018real-time\u2019 remote biometric identification systems in publicly accessible spaces for the purposes of law enforcement for any of the objectives referred to in paragraph 1, first subparagraph, point (h), shall be deployed for the purposes set out in that point only to confirm the identity of the specifically targeted individual, and it shall take into account the following elements:\n(a) the nature of the situation giving rise to the possible use, in particular the seriousness, probability and scale of the harm that would be caused if the system were not used;\n(b) the consequences of the use of the system for the rights and freedoms of all persons concerned, in particular the seriousness, probability and scale of those consequences.\nIn addition, the use of \u2018real-time\u2019 remote biometric identification systems in publicly accessible spaces for the purposes of law enforcement for any of the objectives referred to in paragraph 1, first subparagraph, point (h), of this Article shall comply with necessary and proportionate safeguards and conditions in relation to the use in accordance with the national law authorising the use thereof, in particular as regards the temporal, geographic and personal limitations.\nThe use of the \u2018real-time\u2019 remote biometric identification system in publicly accessible spaces shall be authorised only if the law enforcement authority has completed a fundamental rights impact assessment as provided for in Article 27 and has registered the system in the EU database according to Article 49.\nHowever, in duly justified cases of urgency, the use of such systems may be commenced without the registration in the EU database, provided that such registration is completed without undue delay.\n3. For the purposes of paragraph 1, first subparagraph, point (h) and paragraph 2, each use for the purposes of law enforcement of a \u2018real-time\u2019 remote biometric identification system in publicly accessible spaces shall be subject to a prior authorisation granted by a judicial authority or an independent administrative authority whose decision is binding of the Member State in which the use is to take place, issued upon a reasoned request and in accordance with the detailed rules of national law referred to in paragraph 5.\nHowever, in a duly justified situation of urgency, the use of such system may be commenced without an authorisation provided that such authorisation is requested without undue delay, at the latest within 24 hours.\nIf such authorisation is rejected, the use shall be stopped with immediate effect and all the data, as well as the results and outputs of that use shall be immediately discarded and deleted.\nThe competent judicial authority or an independent administrative authority whose decision is binding shall grant the authorisation only where it is satisfied, on the basis of objective evidence or clear indications presented to it, that the use of the \u2018real-time\u2019 remote biometric identification system concerned is necessary for, and proportionate to, achieving one of the 12.7.2024 4.\nWithout prejudice to paragraph 3, each use of a \u2018real-time\u2019 remote biometric identification system in publicly accessible spaces for law enforcement purposes shall be notified to the relevant market surveillance authority and the national data protection authority in accordance with the national rules referred to in paragraph 5.\nThe notification shall, as a minimum, contain the information specified under paragraph 6 and shall not include sensitive operational data.\n5. A Member State may decide to provide for the possibility to fully or partially authorise the use of \u2018real-time\u2019 remote biometric identification systems in publicly accessible spaces for the purposes of law enforcement within the limits and under the conditions listed in paragraph 1, first subparagraph, point (h), and paragraphs 2 and 3.\nMember States concerned shall lay down in their national law the necessary detailed rules for the request, issuance and exercise of, as well as supervision and reporting relating to, the authorisations referred to in paragraph 3.\nThose rules shall also specify in respect of which of the objectives listed in paragraph 1, first subparagraph, point (h), including which of the criminal offences referred to in point (h)(iii) thereof, the competent authorities may be authorised to use those systems for the purposes of law enforcement.\nMember States shall notify those rules to the Commission at the latest 30 days following the adoption thereof.\nMember States may introduce, in accordance with Union law, more restrictive laws on the use of remote biometric identification systems.\n6. National market surveillance authorities and the national data protection authorities of Member States that have been notified of the use of \u2018real-time\u2019 remote biometric identification systems in publicly accessible spaces for law enforcement purposes pursuant to paragraph 4 shall submit to the Commission annual reports on such use.\nFor that purpose, the Commission shall provide Member States and national market surveillance and data protection authorities with a template, including information on the number of the decisions taken by competent judicial authorities or an independent administrative authority whose decision is binding upon requests for authorisations in accordance with paragraph 3 and their result.\n7. The Commission shall publish annual reports on the use of real-time remote biometric identification systems in publicly accessible spaces for law enforcement purposes, based on aggregated data in Member States on the basis of the annual reports referred to in paragraph 6.\nThose annual reports shall not include sensitive operational data of the related law enforcement activities.\n8. This Article shall not affect the prohibitions that apply where an AI practice infringes other Union law.\n",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Article 5",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Article 5"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Article 9",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 1,
+                            "mention": "Article 9"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Regulation (EU) 2016/679",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 2,
+                            "mention": "Regulation (EU) 2016/679"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Annex II",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 3,
+                            "mention": "Annex II"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "authority",
+                    "type": "ROLE",
+                    "nelements": 9,
+                    "mentions": [
+                        {
+                            "id": 4,
+                            "mention": "authority"
+                        },
+                        {
+                            "id": 5,
+                            "mention": "authority"
+                        },
+                        {
+                            "id": 6,
+                            "mention": "authority"
+                        },
+                        {
+                            "id": 7,
+                            "mention": "authority"
+                        },
+                        {
+                            "id": 8,
+                            "mention": "authority"
+                        },
+                        {
+                            "id": 9,
+                            "mention": "authority"
+                        },
+                        {
+                            "id": 10,
+                            "mention": "authority"
+                        },
+                        {
+                            "id": 11,
+                            "mention": "authority"
+                        },
+                        {
+                            "id": 12,
+                            "mention": "authority"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "law enforcement authority",
+                    "type": "AUTHORITY",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 13,
+                            "mention": "law enforcement authority"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "national data protection authority",
+                    "type": "AUTHORITY",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 14,
+                            "mention": "national data protection authority"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "market surveillance authority",
+                    "type": "AUTHORITY",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 15,
+                            "mention": "market surveillance authority"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "competent judicial authority",
+                    "type": "AUTHORITY",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 16,
+                            "mention": "competent judicial authority"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "independent administrative authority",
+                    "type": "AUTHORITY",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 17,
+                            "mention": "independent administrative authority"
+                        },
+                        {
+                            "id": 18,
+                            "mention": "independent administrative authority"
+                        },
+                        {
+                            "id": 19,
+                            "mention": "independent administrative authority"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "biometric data",
+                    "type": "DATA.CAT",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 20,
+                            "mention": "biometric data"
+                        },
+                        {
+                            "id": 21,
+                            "mention": "biometric data"
+                        },
+                        {
+                            "id": 22,
+                            "mention": "biometric data"
+                        },
+                        {
+                            "id": 23,
+                            "mention": "biometric data"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "placing on the market",
+                    "type": "DATA.OP",
+                    "nelements": 7,
+                    "mentions": [
+                        {
+                            "id": 24,
+                            "mention": "placing on the market"
+                        },
+                        {
+                            "id": 25,
+                            "mention": "placing on the market"
+                        },
+                        {
+                            "id": 26,
+                            "mention": "placing on the market"
+                        },
+                        {
+                            "id": 27,
+                            "mention": "placing on the market"
+                        },
+                        {
+                            "id": 28,
+                            "mention": "placing on the market"
+                        },
+                        {
+                            "id": 29,
+                            "mention": "placing on the market"
+                        },
+                        {
+                            "id": 30,
+                            "mention": "placing on the market"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "title": "putting into service",
+                    "type": "DATA.OP",
+                    "nelements": 7,
+                    "mentions": [
+                        {
+                            "id": 31,
+                            "mention": "putting into service"
+                        },
+                        {
+                            "id": 32,
+                            "mention": "putting into service"
+                        },
+                        {
+                            "id": 33,
+                            "mention": "putting into service"
+                        },
+                        {
+                            "id": 34,
+                            "mention": "putting into service"
+                        },
+                        {
+                            "id": 35,
+                            "mention": "putting into service"
+                        },
+                        {
+                            "id": 36,
+                            "mention": "putting into service"
+                        },
+                        {
+                            "id": 37,
+                            "mention": "putting into service"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "title": "use",
+                    "type": "DATA.OP",
+                    "nelements": 31,
+                    "mentions": [
+                        {
+                            "id": 38,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 39,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 40,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 41,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 42,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 43,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 44,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 45,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 46,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 47,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 48,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 49,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 50,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 51,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 52,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 53,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 54,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 55,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 56,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 57,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 58,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 59,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 60,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 61,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 62,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 63,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 64,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 65,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 66,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 67,
+                            "mention": "use"
+                        },
+                        {
+                            "id": 68,
+                            "mention": "use"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "title": "profiling",
+                    "type": "DATA.OP",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 69,
+                            "mention": "profiling"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "title": "significant harm",
+                    "type": "RISK/IMPACT",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 70,
+                            "mention": "significant harm"
+                        },
+                        {
+                            "id": 71,
+                            "mention": "significant harm"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "AIAct_Chapter_II"
+}

@@ -1,0 +1,2505 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 3782,
+                    "end": 3806,
+                    "id": 0,
+                    "features": {
+                        "text": "Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6848,
+                    "end": 6872,
+                    "id": 1,
+                    "features": {
+                        "text": "Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 8935,
+                    "end": 8959,
+                    "id": 2,
+                    "features": {
+                        "text": "Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 11287,
+                    "end": 11311,
+                    "id": 3,
+                    "features": {
+                        "text": "Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 17756,
+                    "end": 17780,
+                    "id": 4,
+                    "features": {
+                        "text": "Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 19843,
+                    "end": 19867,
+                    "id": 5,
+                    "features": {
+                        "text": "Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 22195,
+                    "end": 22219,
+                    "id": 6,
+                    "features": {
+                        "text": "Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3459,
+                    "end": 3479,
+                    "id": 7,
+                    "features": {
+                        "text": "Directive 2002/58/EC"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4650,
+                    "end": 4674,
+                    "id": 8,
+                    "features": {
+                        "text": "Directive (EU) 2023/1544"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4818,
+                    "end": 4842,
+                    "id": 9,
+                    "features": {
+                        "text": "Regulation (EU) 2015/847"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4847,
+                    "end": 4870,
+                    "id": 10,
+                    "features": {
+                        "text": "Directive (EU) 2015/849"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5567,
+                    "end": 5592,
+                    "id": 11,
+                    "features": {
+                        "text": "Regulation (EU) 2018/1807"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 200,
+                    "end": 204,
+                    "id": 12,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7296,
+                    "end": 7300,
+                    "id": 13,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8967,
+                    "end": 8971,
+                    "id": 14,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9890,
+                    "end": 9894,
+                    "id": 15,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10035,
+                    "end": 10039,
+                    "id": 16,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10391,
+                    "end": 10395,
+                    "id": 17,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10544,
+                    "end": 10548,
+                    "id": 18,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10634,
+                    "end": 10638,
+                    "id": 19,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10675,
+                    "end": 10679,
+                    "id": 20,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 18204,
+                    "end": 18208,
+                    "id": 21,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 19875,
+                    "end": 19879,
+                    "id": 22,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 20798,
+                    "end": 20802,
+                    "id": 23,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 20943,
+                    "end": 20947,
+                    "id": 24,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 21299,
+                    "end": 21303,
+                    "id": 25,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 21452,
+                    "end": 21456,
+                    "id": 26,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 21542,
+                    "end": 21546,
+                    "id": 27,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 21583,
+                    "end": 21587,
+                    "id": 28,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9171,
+                    "end": 9182,
+                    "id": 29,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9950,
+                    "end": 9961,
+                    "id": 30,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10047,
+                    "end": 10058,
+                    "id": 31,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10397,
+                    "end": 10408,
+                    "id": 32,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10829,
+                    "end": 10840,
+                    "id": 33,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 20079,
+                    "end": 20090,
+                    "id": 34,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 20858,
+                    "end": 20869,
+                    "id": 35,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 20955,
+                    "end": 20966,
+                    "id": 36,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 21305,
+                    "end": 21316,
+                    "id": 37,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 21737,
+                    "end": 21748,
+                    "id": 38,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9733,
+                    "end": 9747,
+                    "id": 39,
+                    "features": {
+                        "text": "data recipient"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 20641,
+                    "end": 20655,
+                    "id": 40,
+                    "features": {
+                        "text": "data recipient"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12467,
+                    "end": 12485,
+                    "id": 41,
+                    "features": {
+                        "text": "public sector body"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 23375,
+                    "end": 23393,
+                    "id": 42,
+                    "features": {
+                        "text": "public sector body"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14241,
+                    "end": 14277,
+                    "id": 43,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14354,
+                    "end": 14390,
+                    "id": 44,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14597,
+                    "end": 14633,
+                    "id": 45,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14895,
+                    "end": 14931,
+                    "id": 46,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15126,
+                    "end": 15162,
+                    "id": 47,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 25149,
+                    "end": 25185,
+                    "id": 48,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 25262,
+                    "end": 25298,
+                    "id": 49,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 25505,
+                    "end": 25541,
+                    "id": 50,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 25803,
+                    "end": 25839,
+                    "id": 51,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 26034,
+                    "end": 26070,
+                    "id": 52,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 393,
+                    "end": 407,
+                    "id": 53,
+                    "features": {
+                        "text": "the Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2216,
+                    "end": 2230,
+                    "id": 54,
+                    "features": {
+                        "text": "the Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 413,
+                    "end": 434,
+                    "id": 55,
+                    "features": {
+                        "text": "European Central Bank"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2236,
+                    "end": 2257,
+                    "id": 56,
+                    "features": {
+                        "text": "European Central Bank"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 439,
+                    "end": 451,
+                    "id": 57,
+                    "features": {
+                        "text": "Union bodies"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2262,
+                    "end": 2274,
+                    "id": 58,
+                    "features": {
+                        "text": "Union bodies"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 12244,
+                    "end": 12256,
+                    "id": 59,
+                    "features": {
+                        "text": "Union bodies"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 12268,
+                    "end": 12280,
+                    "id": 60,
+                    "features": {
+                        "text": "Union bodies"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 23152,
+                    "end": 23164,
+                    "id": 61,
+                    "features": {
+                        "text": "Union bodies"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 23176,
+                    "end": 23188,
+                    "id": 62,
+                    "features": {
+                        "text": "Union bodies"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3521,
+                    "end": 3544,
+                    "id": 63,
+                    "features": {
+                        "text": "supervisory authorities"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 709,
+                    "end": 722,
+                    "id": 64,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 868,
+                    "end": 881,
+                    "id": 65,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 1393,
+                    "end": 1406,
+                    "id": 66,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 1543,
+                    "end": 1556,
+                    "id": 67,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 3189,
+                    "end": 3202,
+                    "id": 68,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 3308,
+                    "end": 3321,
+                    "id": 69,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 3894,
+                    "end": 3907,
+                    "id": 70,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 4043,
+                    "end": 4056,
+                    "id": 71,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 6774,
+                    "end": 6787,
+                    "id": 72,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 6795,
+                    "end": 6808,
+                    "id": 73,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 6883,
+                    "end": 6896,
+                    "id": 74,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 6920,
+                    "end": 6933,
+                    "id": 75,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 17682,
+                    "end": 17695,
+                    "id": 76,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 17703,
+                    "end": 17716,
+                    "id": 77,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 17791,
+                    "end": 17804,
+                    "id": 78,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 17828,
+                    "end": 17841,
+                    "id": 79,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 705,
+                    "end": 722,
+                    "id": 80,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 864,
+                    "end": 881,
+                    "id": 81,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 1389,
+                    "end": 1406,
+                    "id": 82,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 1539,
+                    "end": 1556,
+                    "id": 83,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 6879,
+                    "end": 6896,
+                    "id": 84,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 17787,
+                    "end": 17804,
+                    "id": 85,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 155,
+                    "end": 167,
+                    "id": 86,
+                    "features": {
+                        "text": "product data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 7080,
+                    "end": 7092,
+                    "id": 87,
+                    "features": {
+                        "text": "product data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 9440,
+                    "end": 9452,
+                    "id": 88,
+                    "features": {
+                        "text": "product data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 10184,
+                    "end": 10196,
+                    "id": 89,
+                    "features": {
+                        "text": "product data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 10784,
+                    "end": 10796,
+                    "id": 90,
+                    "features": {
+                        "text": "product data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 17988,
+                    "end": 18000,
+                    "id": 91,
+                    "features": {
+                        "text": "product data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 20348,
+                    "end": 20360,
+                    "id": 92,
+                    "features": {
+                        "text": "product data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 21092,
+                    "end": 21104,
+                    "id": 93,
+                    "features": {
+                        "text": "product data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 21692,
+                    "end": 21704,
+                    "id": 94,
+                    "features": {
+                        "text": "product data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 172,
+                    "end": 192,
+                    "id": 95,
+                    "features": {
+                        "text": "related service data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 9456,
+                    "end": 9476,
+                    "id": 96,
+                    "features": {
+                        "text": "related service data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 10478,
+                    "end": 10498,
+                    "id": 97,
+                    "features": {
+                        "text": "related service data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 10801,
+                    "end": 10821,
+                    "id": 98,
+                    "features": {
+                        "text": "related service data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 20364,
+                    "end": 20384,
+                    "id": 99,
+                    "features": {
+                        "text": "related service data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 21386,
+                    "end": 21406,
+                    "id": 100,
+                    "features": {
+                        "text": "related service data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 21709,
+                    "end": 21729,
+                    "id": 101,
+                    "features": {
+                        "text": "related service data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 6645,
+                    "end": 6653,
+                    "id": 102,
+                    "features": {
+                        "text": "metadata"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 15902,
+                    "end": 15910,
+                    "id": 103,
+                    "features": {
+                        "text": "metadata"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 17553,
+                    "end": 17561,
+                    "id": 104,
+                    "features": {
+                        "text": "metadata"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 26810,
+                    "end": 26818,
+                    "id": 105,
+                    "features": {
+                        "text": "metadata"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4757,
+                    "end": 4767,
+                    "id": 106,
+                    "features": {
+                        "text": "collection"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7912,
+                    "end": 7922,
+                    "id": 107,
+                    "features": {
+                        "text": "collection"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 18820,
+                    "end": 18830,
+                    "id": 108,
+                    "features": {
+                        "text": "collection"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7962,
+                    "end": 7969,
+                    "id": 109,
+                    "features": {
+                        "text": "storage"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 18870,
+                    "end": 18877,
+                    "id": 110,
+                    "features": {
+                        "text": "storage"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 618,
+                    "end": 628,
+                    "id": 111,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1487,
+                    "end": 1497,
+                    "id": 112,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1596,
+                    "end": 1606,
+                    "id": 113,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2547,
+                    "end": 2557,
+                    "id": 114,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7223,
+                    "end": 7233,
+                    "id": 115,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7769,
+                    "end": 7779,
+                    "id": 116,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 8184,
+                    "end": 8194,
+                    "id": 117,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 8603,
+                    "end": 8613,
+                    "id": 118,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 8667,
+                    "end": 8677,
+                    "id": 119,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 13351,
+                    "end": 13361,
+                    "id": 120,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 13416,
+                    "end": 13426,
+                    "id": 121,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 13913,
+                    "end": 13923,
+                    "id": 122,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 14258,
+                    "end": 14268,
+                    "id": 123,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 14300,
+                    "end": 14310,
+                    "id": 124,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 14371,
+                    "end": 14381,
+                    "id": 125,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 14423,
+                    "end": 14433,
+                    "id": 126,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 14470,
+                    "end": 14480,
+                    "id": 127,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 14511,
+                    "end": 14521,
+                    "id": 128,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 14614,
+                    "end": 14624,
+                    "id": 129,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 14912,
+                    "end": 14922,
+                    "id": 130,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 15143,
+                    "end": 15153,
+                    "id": 131,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 15527,
+                    "end": 15537,
+                    "id": 132,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 15627,
+                    "end": 15637,
+                    "id": 133,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 15996,
+                    "end": 16006,
+                    "id": 134,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 16141,
+                    "end": 16151,
+                    "id": 135,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 16559,
+                    "end": 16569,
+                    "id": 136,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 16861,
+                    "end": 16871,
+                    "id": 137,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 18131,
+                    "end": 18141,
+                    "id": 138,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 18677,
+                    "end": 18687,
+                    "id": 139,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 19092,
+                    "end": 19102,
+                    "id": 140,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 19511,
+                    "end": 19521,
+                    "id": 141,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 19575,
+                    "end": 19585,
+                    "id": 142,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 24259,
+                    "end": 24269,
+                    "id": 143,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 24324,
+                    "end": 24334,
+                    "id": 144,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 24821,
+                    "end": 24831,
+                    "id": 145,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 25166,
+                    "end": 25176,
+                    "id": 146,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 25208,
+                    "end": 25218,
+                    "id": 147,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 25279,
+                    "end": 25289,
+                    "id": 148,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 25331,
+                    "end": 25341,
+                    "id": 149,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 25378,
+                    "end": 25388,
+                    "id": 150,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 25419,
+                    "end": 25429,
+                    "id": 151,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 25522,
+                    "end": 25532,
+                    "id": 152,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 25820,
+                    "end": 25830,
+                    "id": 153,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 26051,
+                    "end": 26061,
+                    "id": 154,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 26435,
+                    "end": 26445,
+                    "id": 155,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 26535,
+                    "end": 26545,
+                    "id": 156,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 26904,
+                    "end": 26914,
+                    "id": 157,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 27049,
+                    "end": 27059,
+                    "id": 158,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 27467,
+                    "end": 27477,
+                    "id": 159,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 27769,
+                    "end": 27779,
+                    "id": 160,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 135,
+                    "end": 151,
+                    "id": 161,
+                    "features": {
+                        "text": "making available"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 258,
+                    "end": 274,
+                    "id": 162,
+                    "features": {
+                        "text": "making available"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 327,
+                    "end": 343,
+                    "id": 163,
+                    "features": {
+                        "text": "making available"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 11319,
+                    "end": 11335,
+                    "id": 164,
+                    "features": {
+                        "text": "making available"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 11582,
+                    "end": 11598,
+                    "id": 165,
+                    "features": {
+                        "text": "making available"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 22227,
+                    "end": 22243,
+                    "id": 166,
+                    "features": {
+                        "text": "making available"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 22490,
+                    "end": 22506,
+                    "id": 167,
+                    "features": {
+                        "text": "making available"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 8027,
+                    "end": 8037,
+                    "id": 168,
+                    "features": {
+                        "text": "disclosure"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 18935,
+                    "end": 18945,
+                    "id": 169,
+                    "features": {
+                        "text": "disclosure"
+                    }
+                },
+                {
+                    "type": "RIGHT",
+                    "start": 3689,
+                    "end": 3722,
+                    "id": 170,
+                    "features": {
+                        "text": "rights of access by data subjects"
+                    }
+                },
+                {
+                    "type": "RIGHT",
+                    "start": 3727,
+                    "end": 3753,
+                    "id": 171,
+                    "features": {
+                        "text": "rights to data portability"
+                    }
+                },
+                {
+                    "type": "RISK/IMPACT",
+                    "start": 12699,
+                    "end": 12715,
+                    "id": 172,
+                    "features": {
+                        "text": "public emergency"
+                    }
+                },
+                {
+                    "type": "RISK/IMPACT",
+                    "start": 23607,
+                    "end": 23623,
+                    "id": 173,
+                    "features": {
+                        "text": "public emergency"
+                    }
+                }
+            ],
+            "next_annid": 174
+        }
+    },
+    "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nSubject matter and scope\n1. This Regulation lays down harmonised rules, inter alia, on:\n(a) the making available of product data and related service data to the user of the connected product or related service;\n(b) the making available of data by data holders to data recipients;\n(c) the making available of data by data holders to public sector bodies, the Commission, the European Central Bank and Union bodies, where there is an exceptional need for those data for the performance of a specific task carried out in the public interest;\n(d) facilitating switching between data processing services;\n(e) introducing safeguards against unlawful third-party access to non-personal data; and\n(f) the development of interoperability standards for data to be accessed, transferred and used.\n2. This Regulation covers personal and non-personal data, including the following types of data, in the following contexts:\n(a) Chapter II applies to data, with the exception of content, concerning the performance, use and environment of connected products and related services;\n(b) Chapter III applies to any private sector data that is subject to statutory data sharing obligations;\n(c) Chapter IV applies to any private sector data accessed and used on the basis of contract between enterprises;\n(d) Chapter V applies to any private sector data with a focus on non-personal data;\n(e) Chapter VI applies to any data and services processed by providers of data processing services;\n(f) Chapter VII applies to any non-personal data held in the Union by providers of data processing services.\n3. This Regulation applies to:\n(a) manufacturers of connected products placed on the market in the Union and providers of related services, irrespective of the place of establishment of those manufacturers and providers;\n(b) users in the Union of connected products or related services as referred to in point (a);\n(c) data holders, irrespective of their place of establishment, that make data available to data recipients in the Union;\n(d) data recipients in the Union to whom data are made available;\n22.12.2023 http://data.europa.eu/eli/reg/2023/2854/oj 34/71 Article 2\n(e) public sector bodies, the Commission, the European Central Bank and Union bodies that request data holders to make data available where there is an exceptional need for those data for the performance of a specific task carried out in the public interest and to the data holders that provide those data in response to such request;\n(f) providers of data processing services, irrespective of their place of establishment, providing such services to customers in the Union;\n(g) participants in data spaces and vendors of applications using smart contracts and persons whose trade, business or profession involves the deployment of smart contracts for others in the context of executing an agreement.\n4. Where this Regulation refers to connected products or related services, such references are also understood to include virtual assistants insofar as they interact with a connected product or related service.\n5. This Regulation is without prejudice to Union and national law on the protection of personal data, privacy and confidentiality of communications and integrity of terminal equipment, which shall apply to personal data processed in connection with the rights and obligations laid down herein, in particular Regulations (EU) 2016/679 and (EU) 2018/1725 and Directive 2002/58/EC, including the powers and competences of supervisory authorities and the rights of data subjects.\nInsofar as users are data subjects, the rights laid down in Chapter II of this Regulation shall complement the rights of access by data subjects and rights to data portability under Articles 15 and 20 of Regulation (EU) 2016/679.\nIn the event of a conflict between this Regulation and Union law on the protection of personal data or privacy, or national legislation adopted in accordance with such Union law, the relevant Union or national law on the protection of personal data or privacy shall prevail.\n6. This Regulation does not apply to or pre-empt voluntary arrangements for the exchange of data between private and public entities, in particular voluntary arrangements for data sharing.\nThis Regulation does not affect Union or national legal acts providing for the sharing of, access to and the use of data for the purpose of the prevention, investigation, detection or prosecution of criminal offences or for the execution of criminal penalties, or for customs and taxation purposes, in particular Regulations (EU) 2021/784, (EU) 2022/2065 and (EU) 2023/1543 and Directive (EU) 2023/1544, or international cooperation in that area.\nThis Regulation does not apply to the collection or sharing of, access to or the use of data under Regulation (EU) 2015/847 and Directive (EU) 2015/849.\nThis Regulation does not apply to areas that fall outside the scope of Union law and in any event does not affect the competences of the Member States concerning public security, defence or national security, regardless of the type of entity entrusted by the Member States to carry out tasks in relation to those competences, or their power to safeguard other essential State functions, including ensuring the territorial integrity of the State and the maintenance of law and order.\nThis Regulation does not affect the competences of the Member States concerning customs and tax administration or the health and safety of citizens.\n7. This Regulation complements the self-regulatory approach of Regulation (EU) 2018/1807 by adding generally applicable obligations on cloud switching.\n8. This Regulation is without prejudice to Union and national legal acts providing for the protection of intellectual property rights, in particular Directives 2001/29/EC, 2004/48/EC and (EU) 2019/790.\n9. This Regulation complements and is without prejudice to Union law which aims to promote the interests of consumers and ensure a high level of consumer protection, and to protect their health, safety and economic interests, in particular Directives 93/13/EEC, 2005/29/EC and 2011/83/EU.\n10.\nThis Regulation does not preclude the conclusion of voluntary lawful data sharing contracts, including contracts concluded on a reciprocal basis, which comply with the requirements laid down in this Regulation.\nDefinitions\nFor the purposes of this Regulation, the following definitions apply:\n(1) \u2018data\u2019 means any digital representation of acts, facts or information and any compilation of such acts, facts or information, including in the form of sound, visual or audio-visual recording;\n(2) \u2018metadata\u2019 means a structured description of the contents or the use of data facilitating the discovery or use of that data;\n(3) \u2018personal data\u2019 means personal data as defined in Article 4, point (1), of Regulation (EU) 2016/679;\n(4) \u2018non-personal data\u2019 means data other than personal data;\n(5) \u2018connected product\u2019 means an item that obtains, generates or collects data concerning its use or environment and that is able to communicate product data via an electronic communications service, physical connection or on-device access, and whose primary function is not the storing, processing or transmission of data on behalf of any party other than the user;\n(6) \u2018related service\u2019 means a digital service, other than an electronic communications service, including software, which is connected with the product at the time of the purchase, rent or lease in such a way that its absence would prevent the connected product from performing one or more of its functions, or which is subsequently connected to the product by the manufacturer or a third party to add to, update or adapt the functions of the connected product;\n(7) \u2018processing\u2019 means any operation or set of operations which is performed on data or on sets of data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination, or other means of making them available, alignment or combination, restriction, erasure or destruction;\n(8) \u2018data processing service\u2019 means a digital service that is provided to a customer and that enables ubiquitous and on-demand network access to a shared pool of configurable, scalable and elastic computing resources of a centralised, distributed or highly distributed nature that can be rapidly provisioned and released with minimal management effort or service provider interaction;\n(9) \u2018same service type\u2019 means a set of data processing services that share the same primary objective, data processing service model and main functionalities;\n(10) \u2018data intermediation service\u2019 means data intermediation service as defined in Article 2, point (11), of Regulation (EU) 2022/868;\n(11) \u2018data subject\u2019 means data subject as referred to in Article 4, point (1), of Regulation (EU) 2016/679;\n(12) \u2018user\u2019 means a natural or legal person that owns a connected product or to whom temporary rights to use that connected product have been contractually transferred, or that receives related services;\n(13) \u2018data holder\u2019 means a natural or legal person that has the right or obligation, in accordance with this Regulation, applicable Union law or national legislation adopted in accordance with Union law, to use and make available data, including, where contractually agreed, product data or related service data which it has retrieved or generated during the provision of a related service;\n22.12.2023 http://data.europa.eu/eli/reg/2023/2854/oj 36/71 \u2018customer\u2019 means a natural or legal person that has entered into a contractual relationship with a provider of data\n\u2018data recipient\u2019 means a natural or legal person, acting for purposes which are related to that person\u2019s trade, business, craft or profession, other than the user of a connected product or related service, to whom the data holder makes data available, including a third party following a request by the user to the data holder or in accordance with a legal obligation under Union law or national legislation adopted in accordance with Union law;\n(15) \u2018product data\u2019 means data generated by the use of a connected product that the manufacturer designed to be retrievable, via an electronic communications service, physical connection or on-device access, by a user, data holder or a third party, including, where relevant, the manufacturer;\n(16) \u2018related service data\u2019 means data representing the digitisation of user actions or of events related to the connected product, recorded intentionally by the user or generated as a by-product of the user\u2019s action during the provision of a related service by the provider;\n(17) \u2018readily available data\u2019 means product data and related service data that a data holder lawfully obtains or can lawfully obtain from the connected product or related service, without disproportionate effort going beyond a simple operation;\n(18) \u2018trade secret\u2019 means trade secret as defined in Article 2, point (1), of Directive (EU) 2016/943;\n(19) \u2018trade secret holder\u2019 means a trade secret holder as defined in Article 2, point (2), of Directive (EU) 2016/943;\n(20) \u2018profiling\u2019 means profiling as defined in Article 4, point (4), of Regulation (EU) 2016/679;\n(21) \u2018making available on the market\u2019 means any supply of a connected product for distribution, consumption or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;\n(22) \u2018placing on the market\u2019 means the first making available of a connected product on the Union market;\n(23) \u2018consumer\u2019 means any natural person who is acting for purposes which are outside that person\u2019s trade, business, craft or profession;\n(24) \u2018enterprise\u2019 means a natural or legal person that, in relation to contracts and practices covered by this Regulation, is acting for purposes which are related to that person\u2019s trade, business, craft or profession;\n(25) \u2018small enterprise\u2019 means a small enterprise as defined in Article 2(2) of the Annex to Recommendation 2003/361/EC;\n(26) \u2018microenterprise\u2019 means a microenterprise as defined in Article 2(3) of the Annex to Recommendation 2003/361/EC;\n(27) \u2018Union bodies\u2019 means the Union bodies, offices and agencies set up by or pursuant to acts adopted on the basis of the Treaty on European Union, the TFEU or the Treaty establishing the European Atomic Energy Community;\n(28) \u2018public sector body\u2019 means national, regional or local authorities of the Member States and bodies governed by public law of the Member States, or associations formed by one or more such authorities or one or more such bodies;\n(29) \u2018public emergency\u2019 means an exceptional situation, limited in time, such as a public health emergency, an emergency resulting from natural disasters, a human-induced major disaster, including a major cybersecurity incident, negatively affecting the population of the Union or the whole or part of a Member State, with a risk of serious and lasting repercussions for living conditions or economic stability, financial stability, or the substantial and immediate degradation of economic assets in the Union or the relevant Member State and which is determined or officially declared in accordance with the relevant procedures under Union or national law;\nprocessing services with the objective of using one or more data processing services;\n(31) \u2018virtual assistants\u2019 means software that can process demands, tasks or questions including those based on audio, written input, gestures or motions, and that, based on those demands, tasks or questions, provides access to other services or controls the functions of connected products;\n(32) \u2018digital assets\u2019 means elements in digital form, including applications, for which the customer has the right of use, independently from the contractual relationship with the data processing service it intends to switch from;\n(33) \u2018on-premises ICT infrastructure\u2019 means ICT infrastructure and computing resources owned, rented or leased by the customer, located in the data centre of the customer itself and operated by the customer or by a third-party;\n(34) \u2018switching\u2019 means the process involving a source provider of data processing services, a customer of a data processing service and, where relevant, a destination provider of data processing services, whereby the customer of a data processing service changes from using one data processing service to using another data processing service of the same service type, or other service, offered by a different provider of data processing services, or to an on-premises ICT infrastructure, including through extracting, transforming and uploading the data;\n(35) \u2018data egress charges\u2019 means data transfer fees charged to customers for extracting their data through the network from the ICT infrastructure of a provider of data processing services to the system of a different provider or to on-premises ICT infrastructure;\n(36) \u2018switching charges\u2019 means charges, other than standard service fees or early termination penalties, imposed by a provider of data processing services on a customer for the actions mandated by this Regulation for switching to the system of a different provider or to on-premises ICT infrastructure, including data egress charges;\n(37) \u2018functional equivalence\u2019 means re-establishing on the basis of the customer\u2019s exportable data and digital assets, a minimum level of functionality in the environment of a new data processing service of the same service type after the switching process, where the destination data processing service delivers a materially comparable outcome in response to the same input for shared features supplied to the customer under the contract;\n(38) \u2018exportable data\u2019, for the purpose of Articles 23 to 31 and Article 35, means the input and output data, including metadata, directly or indirectly generated, or cogenerated, by the customer\u2019s use of the data processing service, excluding any assets or data protected by intellectual property rights, or constituting a trade secret, of providers of data processing services or third parties;\n(39) \u2018smart contract\u2019 means a computer program used for the automated execution of an agreement or part thereof, using a sequence of electronic data records and ensuring their integrity and the accuracy of their chronological ordering;\n(40) \u2018interoperability\u2019 means the ability of two or more data spaces or communication networks, systems, connected products, applications, data processing services or components to exchange and use data in order to perform their functions;\nopen interoperability specification\u2019 means a technical specification in the field of information and communication technologies which is performance oriented towards achieving interoperability between data processing services;\n22.12.2023 http://data.europa.eu/eli/reg/2023/2854/oj 38/71\n\u2018common specifications\u2019 means a document, other than a standard, containing technical solutions providing a means to comply with certain requirements and obligations established under this Regulation;\n(43) \u2018harmonised standard\u2019 means a harmonised standard as defined in Article 2, point (1)(c), of Regulation (EU) No 1025/2012.\nDefinitions\nFor the purposes of this Regulation, the following definitions apply:\n(1) \u2018data\u2019 means any digital representation of acts, facts or information and any compilation of such acts, facts or information, including in the form of sound, visual or audio-visual recording;\n(2) \u2018metadata\u2019 means a structured description of the contents or the use of data facilitating the discovery or use of that data;\n(3) \u2018personal data\u2019 means personal data as defined in Article 4, point (1), of Regulation (EU) 2016/679;\n(4) \u2018non-personal data\u2019 means data other than personal data;\n(5) \u2018connected product\u2019 means an item that obtains, generates or collects data concerning its use or environment and that is able to communicate product data via an electronic communications service, physical connection or on-device access, and whose primary function is not the storing, processing or transmission of data on behalf of any party other than the user;\n(6) \u2018related service\u2019 means a digital service, other than an electronic communications service, including software, which is connected with the product at the time of the purchase, rent or lease in such a way that its absence would prevent the connected product from performing one or more of its functions, or which is subsequently connected to the product by the manufacturer or a third party to add to, update or adapt the functions of the connected product;\n(7) \u2018processing\u2019 means any operation or set of operations which is performed on data or on sets of data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination, or other means of making them available, alignment or combination, restriction, erasure or destruction;\n(8) \u2018data processing service\u2019 means a digital service that is provided to a customer and that enables ubiquitous and on-demand network access to a shared pool of configurable, scalable and elastic computing resources of a centralised, distributed or highly distributed nature that can be rapidly provisioned and released with minimal management effort or service provider interaction;\n(9) \u2018same service type\u2019 means a set of data processing services that share the same primary objective, data processing service model and main functionalities;\n(10) \u2018data intermediation service\u2019 means data intermediation service as defined in Article 2, point (11), of Regulation (EU) 2022/868;\n(11) \u2018data subject\u2019 means data subject as referred to in Article 4, point (1), of Regulation (EU) 2016/679;\n(12) \u2018user\u2019 means a natural or legal person that owns a connected product or to whom temporary rights to use that connected product have been contractually transferred, or that receives related services;\n(13) \u2018data holder\u2019 means a natural or legal person that has the right or obligation, in accordance with this Regulation, applicable Union law or national legislation adopted in accordance with Union law, to use and make available data, including, where contractually agreed, product data or related service data which it has retrieved or generated during the provision of a related service;\n22.12.2023 http://data.europa.eu/eli/reg/2023/2854/oj 36/71 \u2018customer\u2019 means a natural or legal person that has entered into a contractual relationship with a provider of data\n\u2018data recipient\u2019 means a natural or legal person, acting for purposes which are related to that person\u2019s trade, business, craft or profession, other than the user of a connected product or related service, to whom the data holder makes data available, including a third party following a request by the user to the data holder or in accordance with a legal obligation under Union law or national legislation adopted in accordance with Union law;\n(15) \u2018product data\u2019 means data generated by the use of a connected product that the manufacturer designed to be retrievable, via an electronic communications service, physical connection or on-device access, by a user, data holder or a third party, including, where relevant, the manufacturer;\n(16) \u2018related service data\u2019 means data representing the digitisation of user actions or of events related to the connected product, recorded intentionally by the user or generated as a by-product of the user\u2019s action during the provision of a related service by the provider;\n(17) \u2018readily available data\u2019 means product data and related service data that a data holder lawfully obtains or can lawfully obtain from the connected product or related service, without disproportionate effort going beyond a simple operation;\n(18) \u2018trade secret\u2019 means trade secret as defined in Article 2, point (1), of Directive (EU) 2016/943;\n(19) \u2018trade secret holder\u2019 means a trade secret holder as defined in Article 2, point (2), of Directive (EU) 2016/943;\n(20) \u2018profiling\u2019 means profiling as defined in Article 4, point (4), of Regulation (EU) 2016/679;\n(21) \u2018making available on the market\u2019 means any supply of a connected product for distribution, consumption or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;\n(22) \u2018placing on the market\u2019 means the first making available of a connected product on the Union market;\n(23) \u2018consumer\u2019 means any natural person who is acting for purposes which are outside that person\u2019s trade, business, craft or profession;\n(24) \u2018enterprise\u2019 means a natural or legal person that, in relation to contracts and practices covered by this Regulation, is acting for purposes which are related to that person\u2019s trade, business, craft or profession;\n(25) \u2018small enterprise\u2019 means a small enterprise as defined in Article 2(2) of the Annex to Recommendation 2003/361/EC;\n(26) \u2018microenterprise\u2019 means a microenterprise as defined in Article 2(3) of the Annex to Recommendation 2003/361/EC;\n(27) \u2018Union bodies\u2019 means the Union bodies, offices and agencies set up by or pursuant to acts adopted on the basis of the Treaty on European Union, the TFEU or the Treaty establishing the European Atomic Energy Community;\n(28) \u2018public sector body\u2019 means national, regional or local authorities of the Member States and bodies governed by public law of the Member States, or associations formed by one or more such authorities or one or more such bodies;\n(29) \u2018public emergency\u2019 means an exceptional situation, limited in time, such as a public health emergency, an emergency resulting from natural disasters, a human-induced major disaster, including a major cybersecurity incident, negatively affecting the population of the Union or the whole or part of a Member State, with a risk of serious and lasting repercussions for living conditions or economic stability, financial stability, or the substantial and immediate degradation of economic assets in the Union or the relevant Member State and which is determined or officially declared in accordance with the relevant procedures under Union or national law;\nprocessing services with the objective of using one or more data processing services;\n(31) \u2018virtual assistants\u2019 means software that can process demands, tasks or questions including those based on audio, written input, gestures or motions, and that, based on those demands, tasks or questions, provides access to other services or controls the functions of connected products;\n(32) \u2018digital assets\u2019 means elements in digital form, including applications, for which the customer has the right of use, independently from the contractual relationship with the data processing service it intends to switch from;\n(33) \u2018on-premises ICT infrastructure\u2019 means ICT infrastructure and computing resources owned, rented or leased by the customer, located in the data centre of the customer itself and operated by the customer or by a third-party;\n(34) \u2018switching\u2019 means the process involving a source provider of data processing services, a customer of a data processing service and, where relevant, a destination provider of data processing services, whereby the customer of a data processing service changes from using one data processing service to using another data processing service of the same service type, or other service, offered by a different provider of data processing services, or to an on-premises ICT infrastructure, including through extracting, transforming and uploading the data;\n(35) \u2018data egress charges\u2019 means data transfer fees charged to customers for extracting their data through the network from the ICT infrastructure of a provider of data processing services to the system of a different provider or to on-premises ICT infrastructure;\n(36) \u2018switching charges\u2019 means charges, other than standard service fees or early termination penalties, imposed by a provider of data processing services on a customer for the actions mandated by this Regulation for switching to the system of a different provider or to on-premises ICT infrastructure, including data egress charges;\n(37) \u2018functional equivalence\u2019 means re-establishing on the basis of the customer\u2019s exportable data and digital assets, a minimum level of functionality in the environment of a new data processing service of the same service type after the switching process, where the destination data processing service delivers a materially comparable outcome in response to the same input for shared features supplied to the customer under the contract;\n(38) \u2018exportable data\u2019, for the purpose of Articles 23 to 31 and Article 35, means the input and output data, including metadata, directly or indirectly generated, or cogenerated, by the customer\u2019s use of the data processing service, excluding any assets or data protected by intellectual property rights, or constituting a trade secret, of providers of data processing services or third parties;\n(39) \u2018smart contract\u2019 means a computer program used for the automated execution of an agreement or part thereof, using a sequence of electronic data records and ensuring their integrity and the accuracy of their chronological ordering;\n(40) \u2018interoperability\u2019 means the ability of two or more data spaces or communication networks, systems, connected products, applications, data processing services or components to exchange and use data in order to perform their functions;\nopen interoperability specification\u2019 means a technical specification in the field of information and communication technologies which is performance oriented towards achieving interoperability between data processing services;\n22.12.2023 http://data.europa.eu/eli/reg/2023/2854/oj 38/71\n\u2018common specifications\u2019 means a document, other than a standard, containing technical solutions providing a means to comply with certain requirements and obligations established under this Regulation;\n(43) \u2018harmonised standard\u2019 means a harmonised standard as defined in Article 2, point (1)(c), of Regulation (EU) No 1025/2012.\n",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Regulation (EU) 2016/679",
+                    "type": "REGULATION",
+                    "nelements": 7,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Regulation (EU) 2016/679"
+                        },
+                        {
+                            "id": 1,
+                            "mention": "Regulation (EU) 2016/679"
+                        },
+                        {
+                            "id": 2,
+                            "mention": "Regulation (EU) 2016/679"
+                        },
+                        {
+                            "id": 3,
+                            "mention": "Regulation (EU) 2016/679"
+                        },
+                        {
+                            "id": 4,
+                            "mention": "Regulation (EU) 2016/679"
+                        },
+                        {
+                            "id": 5,
+                            "mention": "Regulation (EU) 2016/679"
+                        },
+                        {
+                            "id": 6,
+                            "mention": "Regulation (EU) 2016/679"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Directive 2002/58/EC",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 7,
+                            "mention": "Directive 2002/58/EC"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Directive (EU) 2023/1544",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 8,
+                            "mention": "Directive (EU) 2023/1544"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Regulation (EU) 2015/847",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 9,
+                            "mention": "Regulation (EU) 2015/847"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Directive (EU) 2015/849",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 10,
+                            "mention": "Directive (EU) 2015/849"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Regulation (EU) 2018/1807",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 11,
+                            "mention": "Regulation (EU) 2018/1807"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "user",
+                    "type": "ROLE",
+                    "nelements": 17,
+                    "mentions": [
+                        {
+                            "id": 12,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 13,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 14,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 15,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 16,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 17,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 18,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 19,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 20,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 21,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 22,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 23,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 24,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 25,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 26,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 27,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 28,
+                            "mention": "user"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "data holder",
+                    "type": "ROLE",
+                    "nelements": 10,
+                    "mentions": [
+                        {
+                            "id": 29,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 30,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 31,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 32,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 33,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 34,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 35,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 36,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 37,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 38,
+                            "mention": "data holder"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "data recipient",
+                    "type": "ROLE",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 39,
+                            "mention": "data recipient"
+                        },
+                        {
+                            "id": 40,
+                            "mention": "data recipient"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "public sector body",
+                    "type": "ROLE",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 41,
+                            "mention": "public sector body"
+                        },
+                        {
+                            "id": 42,
+                            "mention": "public sector body"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "provider of data processing services",
+                    "type": "ROLE",
+                    "nelements": 10,
+                    "mentions": [
+                        {
+                            "id": 43,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 44,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 45,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 46,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 47,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 48,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 49,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 50,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 51,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 52,
+                            "mention": "provider of data processing services"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "the Commission",
+                    "type": "AUTHORITY",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 53,
+                            "mention": "the Commission"
+                        },
+                        {
+                            "id": 54,
+                            "mention": "the Commission"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "title": "European Central Bank",
+                    "type": "AUTHORITY",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 55,
+                            "mention": "European Central Bank"
+                        },
+                        {
+                            "id": 56,
+                            "mention": "European Central Bank"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "title": "Union bodies",
+                    "type": "AUTHORITY",
+                    "nelements": 6,
+                    "mentions": [
+                        {
+                            "id": 57,
+                            "mention": "Union bodies"
+                        },
+                        {
+                            "id": 58,
+                            "mention": "Union bodies"
+                        },
+                        {
+                            "id": 59,
+                            "mention": "Union bodies"
+                        },
+                        {
+                            "id": 60,
+                            "mention": "Union bodies"
+                        },
+                        {
+                            "id": 61,
+                            "mention": "Union bodies"
+                        },
+                        {
+                            "id": 62,
+                            "mention": "Union bodies"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "title": "supervisory authorities",
+                    "type": "AUTHORITY",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 63,
+                            "mention": "supervisory authorities"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "title": "personal data",
+                    "type": "DATA.CAT",
+                    "nelements": 16,
+                    "mentions": [
+                        {
+                            "id": 64,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 65,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 66,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 67,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 68,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 69,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 70,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 71,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 72,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 73,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 74,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 75,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 76,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 77,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 78,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 79,
+                            "mention": "personal data"
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "title": "non-personal data",
+                    "type": "DATA.CAT",
+                    "nelements": 6,
+                    "mentions": [
+                        {
+                            "id": 80,
+                            "mention": "non-personal data"
+                        },
+                        {
+                            "id": 81,
+                            "mention": "non-personal data"
+                        },
+                        {
+                            "id": 82,
+                            "mention": "non-personal data"
+                        },
+                        {
+                            "id": 83,
+                            "mention": "non-personal data"
+                        },
+                        {
+                            "id": 84,
+                            "mention": "non-personal data"
+                        },
+                        {
+                            "id": 85,
+                            "mention": "non-personal data"
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "title": "product data",
+                    "type": "DATA.CAT",
+                    "nelements": 9,
+                    "mentions": [
+                        {
+                            "id": 86,
+                            "mention": "product data"
+                        },
+                        {
+                            "id": 87,
+                            "mention": "product data"
+                        },
+                        {
+                            "id": 88,
+                            "mention": "product data"
+                        },
+                        {
+                            "id": 89,
+                            "mention": "product data"
+                        },
+                        {
+                            "id": 90,
+                            "mention": "product data"
+                        },
+                        {
+                            "id": 91,
+                            "mention": "product data"
+                        },
+                        {
+                            "id": 92,
+                            "mention": "product data"
+                        },
+                        {
+                            "id": 93,
+                            "mention": "product data"
+                        },
+                        {
+                            "id": 94,
+                            "mention": "product data"
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "title": "related service data",
+                    "type": "DATA.CAT",
+                    "nelements": 7,
+                    "mentions": [
+                        {
+                            "id": 95,
+                            "mention": "related service data"
+                        },
+                        {
+                            "id": 96,
+                            "mention": "related service data"
+                        },
+                        {
+                            "id": 97,
+                            "mention": "related service data"
+                        },
+                        {
+                            "id": 98,
+                            "mention": "related service data"
+                        },
+                        {
+                            "id": 99,
+                            "mention": "related service data"
+                        },
+                        {
+                            "id": 100,
+                            "mention": "related service data"
+                        },
+                        {
+                            "id": 101,
+                            "mention": "related service data"
+                        }
+                    ]
+                },
+                {
+                    "id": 20,
+                    "title": "metadata",
+                    "type": "DATA.CAT",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 102,
+                            "mention": "metadata"
+                        },
+                        {
+                            "id": 103,
+                            "mention": "metadata"
+                        },
+                        {
+                            "id": 104,
+                            "mention": "metadata"
+                        },
+                        {
+                            "id": 105,
+                            "mention": "metadata"
+                        }
+                    ]
+                },
+                {
+                    "id": 21,
+                    "title": "collection",
+                    "type": "DATA.OP",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 106,
+                            "mention": "collection"
+                        },
+                        {
+                            "id": 107,
+                            "mention": "collection"
+                        },
+                        {
+                            "id": 108,
+                            "mention": "collection"
+                        }
+                    ]
+                },
+                {
+                    "id": 22,
+                    "title": "storage",
+                    "type": "DATA.OP",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 109,
+                            "mention": "storage"
+                        },
+                        {
+                            "id": 110,
+                            "mention": "storage"
+                        }
+                    ]
+                },
+                {
+                    "id": 23,
+                    "title": "processing",
+                    "type": "DATA.OP",
+                    "nelements": 50,
+                    "mentions": [
+                        {
+                            "id": 111,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 112,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 113,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 114,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 115,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 116,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 117,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 118,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 119,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 120,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 121,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 122,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 123,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 124,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 125,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 126,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 127,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 128,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 129,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 130,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 131,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 132,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 133,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 134,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 135,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 136,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 137,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 138,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 139,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 140,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 141,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 142,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 143,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 144,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 145,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 146,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 147,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 148,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 149,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 150,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 151,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 152,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 153,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 154,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 155,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 156,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 157,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 158,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 159,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 160,
+                            "mention": "processing"
+                        }
+                    ]
+                },
+                {
+                    "id": 24,
+                    "title": "making available",
+                    "type": "DATA.OP",
+                    "nelements": 7,
+                    "mentions": [
+                        {
+                            "id": 161,
+                            "mention": "making available"
+                        },
+                        {
+                            "id": 162,
+                            "mention": "making available"
+                        },
+                        {
+                            "id": 163,
+                            "mention": "making available"
+                        },
+                        {
+                            "id": 164,
+                            "mention": "making available"
+                        },
+                        {
+                            "id": 165,
+                            "mention": "making available"
+                        },
+                        {
+                            "id": 166,
+                            "mention": "making available"
+                        },
+                        {
+                            "id": 167,
+                            "mention": "making available"
+                        }
+                    ]
+                },
+                {
+                    "id": 25,
+                    "title": "disclosure",
+                    "type": "DATA.OP",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 168,
+                            "mention": "disclosure"
+                        },
+                        {
+                            "id": 169,
+                            "mention": "disclosure"
+                        }
+                    ]
+                },
+                {
+                    "id": 26,
+                    "title": "rights of access by data subjects",
+                    "type": "RIGHT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 170,
+                            "mention": "rights of access by data subjects"
+                        }
+                    ]
+                },
+                {
+                    "id": 27,
+                    "title": "rights to data portability",
+                    "type": "RIGHT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 171,
+                            "mention": "rights to data portability"
+                        }
+                    ]
+                },
+                {
+                    "id": 28,
+                    "title": "public emergency",
+                    "type": "RISK/IMPACT",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 172,
+                            "mention": "public emergency"
+                        },
+                        {
+                            "id": 173,
+                            "mention": "public emergency"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "DataAct_Chapter_I"
+}

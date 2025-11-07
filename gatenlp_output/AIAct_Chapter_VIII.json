@@ -1,0 +1,653 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 50,
+                    "end": 60,
+                    "id": 0,
+                    "features": {
+                        "text": "Article 71"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 108,
+                    "end": 117,
+                    "id": 1,
+                    "features": {
+                        "text": "Annex III"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 339,
+                    "end": 351,
+                    "id": 2,
+                    "features": {
+                        "text": "Article 6(2)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 392,
+                    "end": 410,
+                    "id": 3,
+                    "features": {
+                        "text": "Articles 49 and 60"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 475,
+                    "end": 487,
+                    "id": 4,
+                    "features": {
+                        "text": "Article 6(3)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 532,
+                    "end": 544,
+                    "id": 5,
+                    "features": {
+                        "text": "Article 6(4)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 801,
+                    "end": 831,
+                    "id": 6,
+                    "features": {
+                        "text": "Sections A and B of Annex VIII"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 964,
+                    "end": 987,
+                    "id": 7,
+                    "features": {
+                        "text": "Section C of Annex VIII"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1131,
+                    "end": 1144,
+                    "id": 8,
+                    "features": {
+                        "text": "Article 49(3)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1206,
+                    "end": 1219,
+                    "id": 9,
+                    "features": {
+                        "text": "Article 49(4)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1224,
+                    "end": 1237,
+                    "id": 10,
+                    "features": {
+                        "text": "Article 60(4)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1861,
+                    "end": 1876,
+                    "id": 11,
+                    "features": {
+                        "text": "this Regulation"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 125,
+                    "end": 135,
+                    "id": 12,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 626,
+                    "end": 636,
+                    "id": 13,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 743,
+                    "end": 753,
+                    "id": 14,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1596,
+                    "end": 1606,
+                    "id": 15,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2109,
+                    "end": 2119,
+                    "id": 16,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 877,
+                    "end": 885,
+                    "id": 17,
+                    "features": {
+                        "text": "provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1631,
+                    "end": 1639,
+                    "id": 18,
+                    "features": {
+                        "text": "provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1643,
+                    "end": 1651,
+                    "id": 19,
+                    "features": {
+                        "text": "provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2051,
+                    "end": 2059,
+                    "id": 20,
+                    "features": {
+                        "text": "provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 915,
+                    "end": 940,
+                    "id": 21,
+                    "features": {
+                        "text": "authorised representative"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1033,
+                    "end": 1041,
+                    "id": 22,
+                    "features": {
+                        "text": "deployer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2067,
+                    "end": 2075,
+                    "id": 23,
+                    "features": {
+                        "text": "deployer"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1078,
+                    "end": 1094,
+                    "id": 24,
+                    "features": {
+                        "text": "public authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1096,
+                    "end": 1102,
+                    "id": 25,
+                    "features": {
+                        "text": "agency"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1106,
+                    "end": 1110,
+                    "id": 26,
+                    "features": {
+                        "text": "body"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2133,
+                    "end": 2143,
+                    "id": 27,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 1758,
+                    "end": 1771,
+                    "id": 28,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1804,
+                    "end": 1814,
+                    "id": 29,
+                    "features": {
+                        "text": "collecting"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1819,
+                    "end": 1829,
+                    "id": 30,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "RISK/IMPACT",
+                    "start": 29,
+                    "end": 49,
+                    "id": 31,
+                    "features": {
+                        "text": "HIGH-RISK AI SYSTEMS"
+                    }
+                },
+                {
+                    "type": "RISK/IMPACT",
+                    "start": 77,
+                    "end": 97,
+                    "id": 32,
+                    "features": {
+                        "text": "high-risk AI systems"
+                    }
+                },
+                {
+                    "type": "RISK/IMPACT",
+                    "start": 303,
+                    "end": 323,
+                    "id": 33,
+                    "features": {
+                        "text": "high-risk AI systems"
+                    }
+                }
+            ],
+            "next_annid": 34
+        }
+    },
+    "text": "CHAPTER VIII\nEU DATABASE FOR HIGH-RISK AI SYSTEMS\nArticle 71\nEU database for high-risk AI systems listed in Annex III\n1. The Commission shall, in collaboration with the Member States, set up and maintain an EU database containing information referred to in paragraphs 2 and 3 of this Article concerning high-risk AI systems referred to in Article 6(2) which are registered in accordance with Articles 49 and 60 and AI systems that are not considered as high-risk pursuant to Article 6(3) and which are registered in accordance with Article 6(4) and Article 49.\nWhen setting the functional specifications of such database, the Commission shall consult the relevant experts, and when updating the functional specifications of such database, the Commission shall consult the Board.\n2. The data listed in Sections A and B of Annex VIII shall be entered into the EU database by the provider or, where applicable, by the authorised representative.\n3. The data listed in Section C of Annex VIII shall be entered into the EU database by the deployer who is, or who acts on behalf of, a public authority, agency or body, in accordance with Article 49(3) and (4).\n4. With the exception of the section referred to in Article 49(4) and Article 60(4), point (c), the information contained in the EU database registered in accordance with Article 49 shall be accessible and publicly available in a user-friendly manner.\nThe information should be easily navigable and machine-readable.\nThe information registered in accordance with Article 60 shall be accessible only to market surveillance authorities and the Commission, unless the prospective provider or provider has given consent for also making the information accessible the public.\n5. The EU database shall contain personal data only in so far as necessary for collecting and processing information in accordance with this Regulation.\nThat information shall include the names and contact details of natural persons who are responsible for registering the system and have the legal authority to represent the provider or the deployer, as applicable.\n12.7.2024\n6. The Commission shall be the controller of the EU database.\nIt shall make available to providers, prospective providers and deployers adequate technical and administrative support.\nThe EU database shall comply with the applicable accessibility requirements.\n",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Article 71",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Article 71"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Annex III",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 1,
+                            "mention": "Annex III"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Article 6(2)",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 2,
+                            "mention": "Article 6(2)"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Articles 49 and 60",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 3,
+                            "mention": "Articles 49 and 60"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Article 6(3)",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 4,
+                            "mention": "Article 6(3)"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Article 6(4)",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 5,
+                            "mention": "Article 6(4)"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "Sections A and B of Annex VIII",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 6,
+                            "mention": "Sections A and B of Annex VIII"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "Section C of Annex VIII",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 7,
+                            "mention": "Section C of Annex VIII"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "Article 49(3)",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 8,
+                            "mention": "Article 49(3)"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "Article 49(4)",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 9,
+                            "mention": "Article 49(4)"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "Article 60(4)",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 10,
+                            "mention": "Article 60(4)"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "this Regulation",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 11,
+                            "mention": "this Regulation"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "title": "Commission",
+                    "type": "ROLE",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 12,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 13,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 14,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 15,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 16,
+                            "mention": "Commission"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "title": "provider",
+                    "type": "ROLE",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 17,
+                            "mention": "provider"
+                        },
+                        {
+                            "id": 18,
+                            "mention": "provider"
+                        },
+                        {
+                            "id": 19,
+                            "mention": "provider"
+                        },
+                        {
+                            "id": 20,
+                            "mention": "provider"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "title": "authorised representative",
+                    "type": "ROLE",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 21,
+                            "mention": "authorised representative"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "title": "deployer",
+                    "type": "ROLE",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 22,
+                            "mention": "deployer"
+                        },
+                        {
+                            "id": 23,
+                            "mention": "deployer"
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "title": "public authority",
+                    "type": "ROLE",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 24,
+                            "mention": "public authority"
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "title": "agency",
+                    "type": "ROLE",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 25,
+                            "mention": "agency"
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "title": "body",
+                    "type": "ROLE",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 26,
+                            "mention": "body"
+                        }
+                    ]
+                },
+                {
+                    "id": 20,
+                    "title": "controller",
+                    "type": "ROLE",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 27,
+                            "mention": "controller"
+                        }
+                    ]
+                },
+                {
+                    "id": 21,
+                    "title": "personal data",
+                    "type": "DATA.CAT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 28,
+                            "mention": "personal data"
+                        }
+                    ]
+                },
+                {
+                    "id": 22,
+                    "title": "collecting",
+                    "type": "DATA.OP",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 29,
+                            "mention": "collecting"
+                        }
+                    ]
+                },
+                {
+                    "id": 23,
+                    "title": "processing",
+                    "type": "DATA.OP",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 30,
+                            "mention": "processing"
+                        }
+                    ]
+                },
+                {
+                    "id": 24,
+                    "title": "HIGH-RISK AI SYSTEMS",
+                    "type": "RISK/IMPACT",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 31,
+                            "mention": "HIGH-RISK AI SYSTEMS"
+                        },
+                        {
+                            "id": 32,
+                            "mention": "high-risk AI systems"
+                        },
+                        {
+                            "id": 33,
+                            "mention": "high-risk AI systems"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "AIAct_Chapter_VIII"
+}

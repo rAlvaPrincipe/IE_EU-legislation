@@ -1,0 +1,142 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 445,
+                    "end": 469,
+                    "id": 0,
+                    "features": {
+                        "text": "REGULATION (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 893,
+                    "end": 917,
+                    "id": 1,
+                    "features": {
+                        "text": "REGULATION (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 670,
+                    "end": 688,
+                    "id": 2,
+                    "features": {
+                        "text": "Directive 95/46/EC"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1118,
+                    "end": 1136,
+                    "id": 3,
+                    "features": {
+                        "text": "Directive 95/46/EC"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 797,
+                    "end": 846,
+                    "id": 4,
+                    "features": {
+                        "text": "Corrigendum, OJ L 127, 23.5.2018, p. 2 (2016/679)"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 603,
+                    "end": 616,
+                    "id": 5,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 1051,
+                    "end": 1064,
+                    "id": 6,
+                    "features": {
+                        "text": "personal data"
+                    }
+                }
+            ],
+            "next_annid": 7
+        }
+    },
+    "text": "02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 1\nThis text is meant purely as a documentation tool and has no legal effect. The Union's institutions do not assume any liability\nfor its contents. The authentic versions of the relevant acts, including their preambles, are those published in the Official\nJournal of the European Union and available in EUR-Lex. Those official texts are directly accessible through the links\nembedded in this document\n\u25baB REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL\nof 27 April 2016\non the protection of natural persons with regard to the processing of personal data and on the free\nmovement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)\n(Text with EEA relevance)\n(OJ L 119, 4.5.2016, p. 1)\nCorrected by:\n\u25baC1 Corrigendum, OJ L 127, 23.5.2018, p. 2 (2016/679)\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 2\n\u25bcB\nREGULATION (EU) 2016/679 OF THE EUROPEAN\nPARLIAMENT AND OF THE COUNCIL\nof 27 April 2016\non the protection of natural persons with regard to the processing\nof personal data and on the free movement of such data, and\nrepealing Directive 95/46/EC (General Data Protection Regulation)\n(Text with EEA relevance)",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "REGULATION (EU) 2016/679",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "REGULATION (EU) 2016/679"
+                        },
+                        {
+                            "id": 1,
+                            "mention": "REGULATION (EU) 2016/679"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Directive 95/46/EC",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 2,
+                            "mention": "Directive 95/46/EC"
+                        },
+                        {
+                            "id": 3,
+                            "mention": "Directive 95/46/EC"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Corrigendum, OJ L 127, 23.5.2018, p. 2 (2016/679)",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 4,
+                            "mention": "Corrigendum, OJ L 127, 23.5.2018, p. 2 (2016/679)"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "personal data",
+                    "type": "DATA.CAT",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 5,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 6,
+                            "mention": "personal data"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "GDPR_intro"
+}

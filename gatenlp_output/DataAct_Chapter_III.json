@@ -1,0 +1,1573 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 298,
+                    "end": 307,
+                    "id": 0,
+                    "features": {
+                        "text": "Article 5"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2196,
+                    "end": 2205,
+                    "id": 1,
+                    "features": {
+                        "text": "Article 5"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4391,
+                    "end": 4400,
+                    "id": 2,
+                    "features": {
+                        "text": "Article 5"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4863,
+                    "end": 4872,
+                    "id": 3,
+                    "features": {
+                        "text": "Article 5"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 9366,
+                    "end": 9375,
+                    "id": 4,
+                    "features": {
+                        "text": "Article 5"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 11383,
+                    "end": 11392,
+                    "id": 5,
+                    "features": {
+                        "text": "Article 5"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 12382,
+                    "end": 12391,
+                    "id": 6,
+                    "features": {
+                        "text": "Article 5"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 94,
+                    "end": 103,
+                    "id": 7,
+                    "features": {
+                        "text": "Article 8"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2401,
+                    "end": 2410,
+                    "id": 8,
+                    "features": {
+                        "text": "Article 9"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 708,
+                    "end": 718,
+                    "id": 9,
+                    "features": {
+                        "text": "Article 10"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 8775,
+                    "end": 8785,
+                    "id": 10,
+                    "features": {
+                        "text": "Article 11"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 12179,
+                    "end": 12189,
+                    "id": 11,
+                    "features": {
+                        "text": "Article 12"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 956,
+                    "end": 966,
+                    "id": 12,
+                    "features": {
+                        "text": "Article 13"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4366,
+                    "end": 4378,
+                    "id": 13,
+                    "features": {
+                        "text": "Article 4(3)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4838,
+                    "end": 4850,
+                    "id": 14,
+                    "features": {
+                        "text": "Article 4(3)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2179,
+                    "end": 2191,
+                    "id": 15,
+                    "features": {
+                        "text": "Article 4(6)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2196,
+                    "end": 2208,
+                    "id": 16,
+                    "features": {
+                        "text": "Article 5(9)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 11383,
+                    "end": 11395,
+                    "id": 17,
+                    "features": {
+                        "text": "Article 5(9)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4391,
+                    "end": 4404,
+                    "id": 18,
+                    "features": {
+                        "text": "Article 5(12)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4863,
+                    "end": 4876,
+                    "id": 19,
+                    "features": {
+                        "text": "Article 5(12)"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 226,
+                    "end": 237,
+                    "id": 20,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1116,
+                    "end": 1127,
+                    "id": 21,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1313,
+                    "end": 1324,
+                    "id": 22,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1477,
+                    "end": 1488,
+                    "id": 23,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1639,
+                    "end": 1650,
+                    "id": 24,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2492,
+                    "end": 2503,
+                    "id": 25,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2696,
+                    "end": 2707,
+                    "id": 26,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3929,
+                    "end": 3940,
+                    "id": 27,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4982,
+                    "end": 4993,
+                    "id": 28,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5270,
+                    "end": 5281,
+                    "id": 29,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5385,
+                    "end": 5396,
+                    "id": 30,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8867,
+                    "end": 8878,
+                    "id": 31,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9607,
+                    "end": 9618,
+                    "id": 32,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9766,
+                    "end": 9777,
+                    "id": 33,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9921,
+                    "end": 9932,
+                    "id": 34,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10339,
+                    "end": 10350,
+                    "id": 35,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10475,
+                    "end": 10486,
+                    "id": 36,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10943,
+                    "end": 10954,
+                    "id": 37,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11047,
+                    "end": 11058,
+                    "id": 38,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11468,
+                    "end": 11479,
+                    "id": 39,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11549,
+                    "end": 11560,
+                    "id": 40,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11670,
+                    "end": 11681,
+                    "id": 41,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11785,
+                    "end": 11796,
+                    "id": 42,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12353,
+                    "end": 12364,
+                    "id": 43,
+                    "features": {
+                        "text": "data holder"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 277,
+                    "end": 291,
+                    "id": 44,
+                    "features": {
+                        "text": "data recipient"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 428,
+                    "end": 442,
+                    "id": 45,
+                    "features": {
+                        "text": "data recipient"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1361,
+                    "end": 1375,
+                    "id": 46,
+                    "features": {
+                        "text": "data recipient"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1527,
+                    "end": 1541,
+                    "id": 47,
+                    "features": {
+                        "text": "data recipient"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1686,
+                    "end": 1700,
+                    "id": 48,
+                    "features": {
+                        "text": "data recipient"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2336,
+                    "end": 2350,
+                    "id": 49,
+                    "features": {
+                        "text": "data recipient"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2510,
+                    "end": 2524,
+                    "id": 50,
+                    "features": {
+                        "text": "data recipient"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2716,
+                    "end": 2730,
+                    "id": 51,
+                    "features": {
+                        "text": "data recipient"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3254,
+                    "end": 3268,
+                    "id": 52,
+                    "features": {
+                        "text": "data recipient"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3338,
+                    "end": 3352,
+                    "id": 53,
+                    "features": {
+                        "text": "data recipient"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3959,
+                    "end": 3973,
+                    "id": 54,
+                    "features": {
+                        "text": "data recipient"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4086,
+                    "end": 4100,
+                    "id": 55,
+                    "features": {
+                        "text": "data recipient"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4962,
+                    "end": 4976,
+                    "id": 56,
+                    "features": {
+                        "text": "data recipient"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5095,
+                    "end": 5109,
+                    "id": 57,
+                    "features": {
+                        "text": "data recipient"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5299,
+                    "end": 5313,
+                    "id": 58,
+                    "features": {
+                        "text": "data recipient"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5516,
+                    "end": 5530,
+                    "id": 59,
+                    "features": {
+                        "text": "data recipient"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9691,
+                    "end": 9705,
+                    "id": 60,
+                    "features": {
+                        "text": "data recipient"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10851,
+                    "end": 10865,
+                    "id": 61,
+                    "features": {
+                        "text": "data recipient"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12038,
+                    "end": 12052,
+                    "id": 62,
+                    "features": {
+                        "text": "data recipient"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12512,
+                    "end": 12526,
+                    "id": 63,
+                    "features": {
+                        "text": "data recipient"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 998,
+                    "end": 1002,
+                    "id": 64,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1079,
+                    "end": 1083,
+                    "id": 65,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1768,
+                    "end": 1772,
+                    "id": 66,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4947,
+                    "end": 4951,
+                    "id": 67,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5082,
+                    "end": 5086,
+                    "id": 68,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5287,
+                    "end": 5291,
+                    "id": 69,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5504,
+                    "end": 5508,
+                    "id": 70,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9257,
+                    "end": 9261,
+                    "id": 71,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9871,
+                    "end": 9875,
+                    "id": 72,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10383,
+                    "end": 10387,
+                    "id": 73,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10519,
+                    "end": 10523,
+                    "id": 74,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10543,
+                    "end": 10547,
+                    "id": 75,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11602,
+                    "end": 11606,
+                    "id": 76,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11758,
+                    "end": 11762,
+                    "id": 77,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11972,
+                    "end": 11976,
+                    "id": 78,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12662,
+                    "end": 12666,
+                    "id": 79,
+                    "features": {
+                        "text": "user"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3654,
+                    "end": 3684,
+                    "id": 80,
+                    "features": {
+                        "text": "European Data Innovation Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3535,
+                    "end": 3545,
+                    "id": 81,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6756,
+                    "end": 6766,
+                    "id": 82,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6843,
+                    "end": 6853,
+                    "id": 83,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1182,
+                    "end": 1203,
+                    "id": 84,
+                    "features": {
+                        "text": "making data available"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1330,
+                    "end": 1351,
+                    "id": 85,
+                    "features": {
+                        "text": "making data available"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1960,
+                    "end": 1981,
+                    "id": 86,
+                    "features": {
+                        "text": "making data available"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2428,
+                    "end": 2449,
+                    "id": 87,
+                    "features": {
+                        "text": "making data available"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2529,
+                    "end": 2550,
+                    "id": 88,
+                    "features": {
+                        "text": "making data available"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3863,
+                    "end": 3884,
+                    "id": 89,
+                    "features": {
+                        "text": "making data available"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4534,
+                    "end": 4555,
+                    "id": 90,
+                    "features": {
+                        "text": "making data available"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6388,
+                    "end": 6409,
+                    "id": 91,
+                    "features": {
+                        "text": "making data available"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 9140,
+                    "end": 9161,
+                    "id": 92,
+                    "features": {
+                        "text": "making data available"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2372,
+                    "end": 2382,
+                    "id": 93,
+                    "features": {
+                        "text": "disclosure"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 8843,
+                    "end": 8853,
+                    "id": 94,
+                    "features": {
+                        "text": "disclosure"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10575,
+                    "end": 10585,
+                    "id": 95,
+                    "features": {
+                        "text": "disclosure"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10665,
+                    "end": 10675,
+                    "id": 96,
+                    "features": {
+                        "text": "disclosure"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10746,
+                    "end": 10756,
+                    "id": 97,
+                    "features": {
+                        "text": "disclosure"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 752,
+                    "end": 758,
+                    "id": 98,
+                    "features": {
+                        "text": "access"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4240,
+                    "end": 4246,
+                    "id": 99,
+                    "features": {
+                        "text": "access"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 5628,
+                    "end": 5634,
+                    "id": 100,
+                    "features": {
+                        "text": "access"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 8998,
+                    "end": 9004,
+                    "id": 101,
+                    "features": {
+                        "text": "access"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 9308,
+                    "end": 9314,
+                    "id": 102,
+                    "features": {
+                        "text": "access"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 9884,
+                    "end": 9889,
+                    "id": 103,
+                    "features": {
+                        "text": "erase"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10696,
+                    "end": 10706,
+                    "id": 104,
+                    "features": {
+                        "text": "compensate"
+                    }
+                },
+                {
+                    "type": "RIGHT",
+                    "start": 9264,
+                    "end": 9289,
+                    "id": 105,
+                    "features": {
+                        "text": "right to obtain a copy of"
+                    }
+                }
+            ],
+            "next_annid": 106
+        }
+    },
+    "text": "CHAPTER III\nOBLIGATIONS FOR DATA HOLDERS OBLIGED TO MAKE DATA AVAILABLE PURSUANT TO UNION LAW\nArticle 8\nConditions under which data holders make data available to data recipients\n1. Where, in business-to-business relations, a data holder is obliged to make data available to a data recipient under Article 5 or under other applicable Union law or national legislation adopted in accordance with Union law, it shall agree with a data recipient the arrangements for making the data available and shall do so under fair, reasonable and nondiscriminatory terms and conditions and in a transparent manner in accordance with this Chapter and Chapter IV.\n22.12.2023 http://data.europa.eu/eli/reg/2023/2854/oj 44/71 Article 10\n2. A contractual term concerning access to and the use of data, or liability and remedies for the breach or termination of data-related obligations, shall not be binding if it constitutes an unfair contractual term within the meaning of Article 13 or if, to the detriment of the user, it excludes the application of, derogates from or varies the effect of the user\u2019s rights under Chapter II.\n3. A data holder shall not discriminate regarding the arrangements for making data available between comparable categories of data recipients, including partner enterprises or linked enterprises of the data holder when making data available.\nWhere a data recipient considers that the conditions under which data has been made available to it are discriminatory, the data holder shall without undue delay provide the data recipient, upon its reasoned request, with information showing that there has been no discrimination.\n4. A data holder shall not make data available to a data recipient, including on an exclusive basis, unless requested to do so by the user under Chapter II.\n5. Data holders and data recipients shall not be required to provide any information beyond what is necessary to verify compliance with the contractual terms agreed for making data available or with their obligations under this Regulation or other applicable Union law or national legislation adopted in accordance with Union law.\n6. Unless otherwise provided for in Union law, including Article 4(6) and Article 5(9) of this Regulation, or by national legislation adopted in accordance with Union law, an obligation to make data available to a data recipient shall not oblige the disclosure of trade secrets.\nArticle 9\nCompensation for making data available\n1. Any compensation agreed upon between a data holder and a data recipient for making data available in business-tobusiness relations shall be non- discriminatory and reasonable and may include a margin.\n2. When agreeing on any compensation, the data holder and the data recipient shall take into account in particular:\n(a) costs incurred in making the data available, including, in particular, the costs necessary for the formatting of data, dissemination via electronic means and storage;\n(b) investments in the collection and production of data, where applicable, taking into account whether other parties contributed to obtaining, generating or collecting the data in question.\n3. The compensation referred to in paragraph 1 may also depend on the volume, format and nature of the data.\n4. Where the data recipient is an SME or a not-for-profit research organisation and where such a data recipient does not have partner enterprises or linked enterprises that do not qualify as SMEs, any compensation agreed shall not exceed the costs referred to in paragraph 2, point (a).\n5. The Commission shall adopt guidelines on the calculation of reasonable compensation, taking into account the advice of the European Data Innovation Board (EDIB) referred to in Article 42.\n6. This Article shall not preclude other Union law or national legislation adopted in accordance with Union law from excluding compensation for making data available or providing for lower compensation.\n7. The data holder shall provide the data recipient with information setting out the basis for the calculation of the compensation in sufficient detail so that the data recipient can assess whether the requirements of paragraphs 1 to 4 are met.\nDispute settlement\n1. Users, data holders and data recipients shall have access to a dispute settlement body, certified in accordance with paragraph 5 of this Article, to settle disputes pursuant to Article 4(3) and (9) and Article 5(12) as well as disputes relating to the fair, reasonable and non-discriminatory terms and conditions for, and transparent manner of, making data available in accordance with this Chapter and Chapter IV.\n2. Dispute settlement bodies shall make the fees, or the mechanisms used to determine the fees, known to the parties concerned before those parties request a decision.\n3. For disputes referred to a dispute settlement body pursuant to Article 4(3) and (9) and Article 5(12), where the dispute settlement body decides a dispute in favour of the user or of the data recipient, the data holder shall bear all the fees charged by the dispute settlement body and shall reimburse that user or that data recipient for any other reasonable expenses that it has incurred in relation to the dispute settlement.\nIf the dispute settlement body decides a dispute in favour of the data holder, the user or the data recipient shall not be required to reimburse any fees or other expenses that the data holder paid or is to pay in relation to the dispute settlement, unless the dispute settlement body finds that the user or the data recipient manifestly acted in bad faith.\n4. Customers and providers of data processing services shall have access to a dispute settlement body, certified in accordance with paragraph 5 of this Article, to settle disputes relating to breaches of the rights of customers and the obligations of providers of data processing services, in accordance with Articles 23 to 31.\n5. The Member State where the dispute settlement body is established shall, at the request of that body, certify that body where it has demonstrated that it meets all of the following conditions:\n(a) it is impartial and independent, and it is to issue its decisions in accordance with clear, non-discriminatory and fair rules of procedure;\n(b) it has the necessary expertise, in particular in relation to fair, reasonable and non-discriminatory terms and conditions, including compensation, and on making data available in a transparent manner, allowing the body to effectively determine those terms and conditions;\n(c) it is easily accessible through electronic communication technology;\n(d) it is capable of adopting its decisions in a swift, efficient and cost-effective manner in at least one official language of the Union.\n6. Member States shall notify to the Commission the dispute settlement bodies certified in accordance with paragraph 5.\nThe Commission shall publish a list of those bodies on a dedicated website and keep it updated.\n7. A dispute settlement body shall refuse to deal with a request to resolve a dispute that has already been brought before another dispute settlement body or before a court or tribunal of a Member State.\n8. A dispute settlement body shall grant parties the possibility, within a reasonable period of time, to express their points of view on the matters those parties have brought before that body.\nIn that context, each party to a dispute shall be provided with the submissions of the other party to their dispute and any statements made by experts.\nThe parties shall be given the possibility to comment on those submissions and statements.\n9. A dispute settlement body shall adopt its decision on a matter referred to it within 90 days of receipt of a request pursuant to paragraphs 1 and 4.\nThat decision shall be in writing or on a durable medium and shall be supported by a statement of reasons.\n22.12.2023 http://data.europa.eu/eli/reg/2023/2854/oj 46/71\n10.\nDispute settlement bodies shall draw up and make publicly available annual activity reports.\nSuch annual reports shall include, in particular, the following general information:\n(a) an aggregation of the outcomes of disputes;\n(b) the average time taken to resolve disputes;\n(c) the most common reasons for disputes.\n11.\nIn order to facilitate the exchange of information and best practices, a dispute settlement body may decide to include recommendations in the report referred to in paragraph 10 as to how problems can be avoided or resolved.\n12.\nThe decision of a dispute settlement body shall be binding on the parties only if the parties have explicitly consented to its binding nature prior to the start of the dispute settlement proceedings.\n13.\nThis Article does not affect the right of parties to seek an effective remedy before a court or tribunal of a Member State.\nArticle 11\nTechnical protection measures on the unauthorised use or disclosure of data\n1. A data holder may apply appropriate technical protection measures, including smart contracts and encryption, to prevent unauthorised access to data, including metadata, and to ensure compliance with Articles 4, 5, 6, 8 and 9, as well as with the agreed contractual terms for making data available.\nSuch technical protection measures shall not discriminate between data recipients or hinder a user\u2019s right to obtain a copy of, retrieve, use or access data, to provide data to third parties pursuant to Article 5 or any right of a third party under Union law or national legislation adopted in accordance with Union law.\nUsers, third parties and data recipients shall not alter or remove such technical protection measures unless agreed by the data holder.\n2. In the circumstances referred to in paragraph 3, the third party or data recipient shall comply, without undue delay, with the requests of the data holder and, where applicable and where they are not the same person, the trade secret holder or the user:\n(a) to erase the data made available by the data holder and any copies thereof;\n(b) to end the production, offering or placing on the market or use of goods, derivative data or services produced on the basis of knowledge obtained through such data, or the importation, export or storage of infringing goods for those purposes, and destroy any infringing goods, where there is a serious risk that the unlawful use of those data will cause significant harm to the data holder, the trade secret holder or the user or where such a measure would not be disproportionate in light of the interests of the data holder, the trade secret holder or the user;\n(c) to inform the user of the unauthorised use or disclosure of the data and of the measures taken to put an end to the unauthorised use or disclosure of the data;\n(d) to compensate the party suffering from the misuse or disclosure of such unlawfully accessed or used data.\n3. Paragraph 2 shall apply where a third party or a data recipient has:\n(a) for the purposes of obtaining data, provided false information to a data holder, deployed deceptive or coercive means or abused gaps in the technical infrastructure of the data holder designed to protect the data;\n(b) used the data made available for unauthorised purposes, including the development of a competing connected product within the meaning of Article 6(2), point (e);\n(c) unlawfully disclosed data to another party;\n(d) not maintained the technical and organisational measures agreed pursuant to Article 5(9); or\n(e) altered or removed technical protection measures applied by the data holder pursuant to paragraph 1 of this Article without the agreement of the data holder.\n4. Paragraph 2 shall also apply where a user alters or removes technical protection measures applied by the data holder or does not maintain the technical and organisational measures taken by the user in agreement with the data holder or, where they are not the same person, the trade secrets holder, in order to preserve trade secrets, as well as in respect of any other party that receives the data from the user by means of an infringement of this Regulation.\n5. Where the data recipient infringes Article 6(2), point (a) or (b), users shall have the same rights as data holders under paragraph 2 of this Article.\nArticle 12\nScope of obligations for data holders obliged pursuant to Union law to make data available\n1. This Chapter shall apply where, in business-to-business relations, a data holder is obliged under Article 5 or under applicable Union law or national legislation adopted in accordance with Union law, to make data available to a data recipient.\n2. A contractual term in a data sharing agreement which, to the detriment of one party, or, where applicable, to the detriment of the user, excludes the application of this Chapter, derogates from it, or varies its effect, shall not be binding on that party.\n",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Article 5",
+                    "type": "REGULATION",
+                    "nelements": 7,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Article 5"
+                        },
+                        {
+                            "id": 1,
+                            "mention": "Article 5"
+                        },
+                        {
+                            "id": 2,
+                            "mention": "Article 5"
+                        },
+                        {
+                            "id": 3,
+                            "mention": "Article 5"
+                        },
+                        {
+                            "id": 4,
+                            "mention": "Article 5"
+                        },
+                        {
+                            "id": 5,
+                            "mention": "Article 5"
+                        },
+                        {
+                            "id": 6,
+                            "mention": "Article 5"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Article 8",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 7,
+                            "mention": "Article 8"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Article 9",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 8,
+                            "mention": "Article 9"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Article 10",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 9,
+                            "mention": "Article 10"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Article 11",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 10,
+                            "mention": "Article 11"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Article 12",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 11,
+                            "mention": "Article 12"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "Article 13",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 12,
+                            "mention": "Article 13"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "Article 4(3)",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 13,
+                            "mention": "Article 4(3)"
+                        },
+                        {
+                            "id": 14,
+                            "mention": "Article 4(3)"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "Article 4(6)",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 15,
+                            "mention": "Article 4(6)"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "Article 5(9)",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 16,
+                            "mention": "Article 5(9)"
+                        },
+                        {
+                            "id": 17,
+                            "mention": "Article 5(9)"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "Article 5(12)",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 18,
+                            "mention": "Article 5(12)"
+                        },
+                        {
+                            "id": 19,
+                            "mention": "Article 5(12)"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "data holder",
+                    "type": "ROLE",
+                    "nelements": 24,
+                    "mentions": [
+                        {
+                            "id": 20,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 21,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 22,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 23,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 24,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 25,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 26,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 27,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 28,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 29,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 30,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 31,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 32,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 33,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 34,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 35,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 36,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 37,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 38,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 39,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 40,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 41,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 42,
+                            "mention": "data holder"
+                        },
+                        {
+                            "id": 43,
+                            "mention": "data holder"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "title": "data recipient",
+                    "type": "ROLE",
+                    "nelements": 20,
+                    "mentions": [
+                        {
+                            "id": 44,
+                            "mention": "data recipient"
+                        },
+                        {
+                            "id": 45,
+                            "mention": "data recipient"
+                        },
+                        {
+                            "id": 46,
+                            "mention": "data recipient"
+                        },
+                        {
+                            "id": 47,
+                            "mention": "data recipient"
+                        },
+                        {
+                            "id": 48,
+                            "mention": "data recipient"
+                        },
+                        {
+                            "id": 49,
+                            "mention": "data recipient"
+                        },
+                        {
+                            "id": 50,
+                            "mention": "data recipient"
+                        },
+                        {
+                            "id": 51,
+                            "mention": "data recipient"
+                        },
+                        {
+                            "id": 52,
+                            "mention": "data recipient"
+                        },
+                        {
+                            "id": 53,
+                            "mention": "data recipient"
+                        },
+                        {
+                            "id": 54,
+                            "mention": "data recipient"
+                        },
+                        {
+                            "id": 55,
+                            "mention": "data recipient"
+                        },
+                        {
+                            "id": 56,
+                            "mention": "data recipient"
+                        },
+                        {
+                            "id": 57,
+                            "mention": "data recipient"
+                        },
+                        {
+                            "id": 58,
+                            "mention": "data recipient"
+                        },
+                        {
+                            "id": 59,
+                            "mention": "data recipient"
+                        },
+                        {
+                            "id": 60,
+                            "mention": "data recipient"
+                        },
+                        {
+                            "id": 61,
+                            "mention": "data recipient"
+                        },
+                        {
+                            "id": 62,
+                            "mention": "data recipient"
+                        },
+                        {
+                            "id": 63,
+                            "mention": "data recipient"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "title": "user",
+                    "type": "ROLE",
+                    "nelements": 16,
+                    "mentions": [
+                        {
+                            "id": 64,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 65,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 66,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 67,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 68,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 69,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 70,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 71,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 72,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 73,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 74,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 75,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 76,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 77,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 78,
+                            "mention": "user"
+                        },
+                        {
+                            "id": 79,
+                            "mention": "user"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "title": "European Data Innovation Board",
+                    "type": "AUTHORITY",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 80,
+                            "mention": "European Data Innovation Board"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "title": "Commission",
+                    "type": "AUTHORITY",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 81,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 82,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 83,
+                            "mention": "Commission"
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "title": "making data available",
+                    "type": "DATA.OP",
+                    "nelements": 9,
+                    "mentions": [
+                        {
+                            "id": 84,
+                            "mention": "making data available"
+                        },
+                        {
+                            "id": 85,
+                            "mention": "making data available"
+                        },
+                        {
+                            "id": 86,
+                            "mention": "making data available"
+                        },
+                        {
+                            "id": 87,
+                            "mention": "making data available"
+                        },
+                        {
+                            "id": 88,
+                            "mention": "making data available"
+                        },
+                        {
+                            "id": 89,
+                            "mention": "making data available"
+                        },
+                        {
+                            "id": 90,
+                            "mention": "making data available"
+                        },
+                        {
+                            "id": 91,
+                            "mention": "making data available"
+                        },
+                        {
+                            "id": 92,
+                            "mention": "making data available"
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "title": "disclosure",
+                    "type": "DATA.OP",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 93,
+                            "mention": "disclosure"
+                        },
+                        {
+                            "id": 94,
+                            "mention": "disclosure"
+                        },
+                        {
+                            "id": 95,
+                            "mention": "disclosure"
+                        },
+                        {
+                            "id": 96,
+                            "mention": "disclosure"
+                        },
+                        {
+                            "id": 97,
+                            "mention": "disclosure"
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "title": "access",
+                    "type": "DATA.OP",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 98,
+                            "mention": "access"
+                        },
+                        {
+                            "id": 99,
+                            "mention": "access"
+                        },
+                        {
+                            "id": 100,
+                            "mention": "access"
+                        },
+                        {
+                            "id": 101,
+                            "mention": "access"
+                        },
+                        {
+                            "id": 102,
+                            "mention": "access"
+                        }
+                    ]
+                },
+                {
+                    "id": 20,
+                    "title": "erase",
+                    "type": "DATA.OP",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 103,
+                            "mention": "erase"
+                        }
+                    ]
+                },
+                {
+                    "id": 21,
+                    "title": "compensate",
+                    "type": "DATA.OP",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 104,
+                            "mention": "compensate"
+                        }
+                    ]
+                },
+                {
+                    "id": 22,
+                    "title": "right to obtain a copy of",
+                    "type": "RIGHT",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 105,
+                            "mention": "right to obtain a copy of"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "DataAct_Chapter_III"
+}

@@ -1,0 +1,650 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 89,
+                    "end": 99,
+                    "id": 0,
+                    "features": {
+                        "text": "Article 32"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 822,
+                    "end": 832,
+                    "id": 1,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1470,
+                    "end": 1480,
+                    "id": 2,
+                    "features": {
+                        "text": "Regulation"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 704,
+                    "end": 740,
+                    "id": 3,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1214,
+                    "end": 1250,
+                    "id": 4,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4004,
+                    "end": 4040,
+                    "id": 5,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4293,
+                    "end": 4329,
+                    "id": 6,
+                    "features": {
+                        "text": "provider of data processing services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1258,
+                    "end": 1267,
+                    "id": 7,
+                    "features": {
+                        "text": "addressee"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1558,
+                    "end": 1567,
+                    "id": 8,
+                    "features": {
+                        "text": "addressee"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2059,
+                    "end": 2068,
+                    "id": 9,
+                    "features": {
+                        "text": "addressee"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2556,
+                    "end": 2565,
+                    "id": 10,
+                    "features": {
+                        "text": "addressee"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3107,
+                    "end": 3116,
+                    "id": 11,
+                    "features": {
+                        "text": "addressee"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3457,
+                    "end": 3466,
+                    "id": 12,
+                    "features": {
+                        "text": "addressee"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3637,
+                    "end": 3646,
+                    "id": 13,
+                    "features": {
+                        "text": "addressee"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2621,
+                    "end": 2656,
+                    "id": 14,
+                    "features": {
+                        "text": "relevant national body or authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3036,
+                    "end": 3071,
+                    "id": 15,
+                    "features": {
+                        "text": "relevant national body or authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3282,
+                    "end": 3317,
+                    "id": 16,
+                    "features": {
+                        "text": "relevant national body or authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 4201,
+                    "end": 4236,
+                    "id": 17,
+                    "features": {
+                        "text": "relevant national body or authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3088,
+                    "end": 3098,
+                    "id": 18,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3797,
+                    "end": 3807,
+                    "id": 19,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 71,
+                    "end": 88,
+                    "id": 20,
+                    "features": {
+                        "text": "NON-PERSONAL DATA"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 367,
+                    "end": 384,
+                    "id": 21,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 771,
+                    "end": 788,
+                    "id": 22,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 1419,
+                    "end": 1436,
+                    "id": 23,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 3697,
+                    "end": 3714,
+                    "id": 24,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 59,
+                    "end": 67,
+                    "id": 25,
+                    "features": {
+                        "text": "TRANSFER"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 138,
+                    "end": 146,
+                    "id": 26,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 355,
+                    "end": 363,
+                    "id": 27,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 414,
+                    "end": 422,
+                    "id": 28,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 744,
+                    "end": 752,
+                    "id": 29,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1392,
+                    "end": 1400,
+                    "id": 30,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1650,
+                    "end": 1658,
+                    "id": 31,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2992,
+                    "end": 3000,
+                    "id": 32,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3674,
+                    "end": 3682,
+                    "id": 33,
+                    "features": {
+                        "text": "transfer"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 48,
+                    "end": 54,
+                    "id": 34,
+                    "features": {
+                        "text": "ACCESS"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 127,
+                    "end": 133,
+                    "id": 35,
+                    "features": {
+                        "text": "access"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 344,
+                    "end": 350,
+                    "id": 36,
+                    "features": {
+                        "text": "access"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 426,
+                    "end": 432,
+                    "id": 37,
+                    "features": {
+                        "text": "access"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 761,
+                    "end": 767,
+                    "id": 38,
+                    "features": {
+                        "text": "access"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1409,
+                    "end": 1415,
+                    "id": 39,
+                    "features": {
+                        "text": "access"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 1665,
+                    "end": 1671,
+                    "id": 40,
+                    "features": {
+                        "text": "access"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 3686,
+                    "end": 3692,
+                    "id": 41,
+                    "features": {
+                        "text": "access"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4421,
+                    "end": 4427,
+                    "id": 42,
+                    "features": {
+                        "text": "access"
+                    }
+                }
+            ],
+            "next_annid": 43
+        }
+    },
+    "text": "CHAPTER VII\nUNLAWFUL INTERNATIONAL GOVERNMENTAL ACCESS AND TRANSFER OF NON-PERSONAL DATA\nArticle 32\nInternational governmental access and transfer\n1. Providers of data processing services shall take all adequate technical, organisational and legal measures, including contracts, in order to prevent international and third-country governmental access and transfer of non-personal data held in the Union where such transfer or access would create a conflict with Union law or with the national law of the relevant Member State, without prejudice to paragraph 2 or 3.\n2. Any decision or judgment of a third-country court or tribunal and any decision of a third-country administrative authority requiring a provider of data processing services to transfer or give access to non-personal data falling within the scope of this Regulation held in the Union shall be recognised or enforceable in any manner only if based on an international agreement, such as a mutual legal assistance treaty, in force between the requesting third country and the Union, or any such agreement between the requesting third country and a Member State.\n3. In the absence of an international agreement as referred to in paragraph 2, where a provider of data processing services is the addressee of a decision or judgment of a third-country court or tribunal or a decision of a third-country administrative authority to transfer or give access to non-personal data falling within the scope of this Regulation held in the Union and compliance with such a decision would risk putting the addressee in conflict with Union law or with the national law of the relevant Member State, transfer to or access to such data by that third-country authority shall take place only where:\n(a) the third-country system requires the reasons and proportionality of such a decision or judgment to be set out and requires such a decision or judgment to be specific in character, for instance by establishing a sufficient link to certain suspected persons or infringements;\n(b) the reasoned objection of the addressee is subject to a review by a competent third-country court or tribunal; and\n(c) the competent third-country court or tribunal issuing the decision or judgment or reviewing the decision of an administrative authority is empowered under the law of that third country to take duly into account the relevant legal interests of the provider of the data protected by Union law or by the national law of the relevant Member State.\n22.12.2023 http://data.europa.eu/eli/reg/2023/2854/oj 60/71\nThe addressee of the decision or judgment may ask the opinion of the relevant national body or authority competent for international cooperation in legal matters, in order to determine whether the conditions laid down in the first subparagraph are met, in particular when it considers that the decision may relate to trade secrets and other commercially sensitive data as well as to content protected by intellectual property rights or the transfer may lead to re-identification.\nThe relevant national body or authority may consult the Commission.\nIf the addressee considers that the decision or judgment may impinge on the national security or defence interests of the Union or its Member States, it shall ask the opinion of the relevant national body or authority in order to determine whether the data requested concerns national security or defence interests of the Union or its Member States.\nIf the addressee has not received a reply within one month, or if the opinion of such body or authority concludes that the conditions laid down in the first subparagraph are not met, the addressee may reject the request for transfer or access, to non-personal data, on those grounds.\nThe EDIB referred to in Article 42 shall advise and assist the Commission in developing guidelines on the assessment of whether the conditions laid down in the first subparagraph of this paragraph are met.\n4. If the conditions laid down in paragraph 2 or 3 are met, the provider of data processing services shall provide the minimum amount of data permissible in response to a request, on the basis of the reasonable interpretation of that request by the provider or relevant national body or authority referred to in paragraph 3, second subparagraph.\n5. The provider of data processing services shall inform the customer about the existence of a request of a third-country authority to access its data before complying with that request, except where the request serves law enforcement purposes and for as long as this is necessary to preserve the effectiveness of the law enforcement activity.\n",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Article 32",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Article 32"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Regulation",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 1,
+                            "mention": "Regulation"
+                        },
+                        {
+                            "id": 2,
+                            "mention": "Regulation"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "provider of data processing services",
+                    "type": "ROLE",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 3,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 4,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 5,
+                            "mention": "provider of data processing services"
+                        },
+                        {
+                            "id": 6,
+                            "mention": "provider of data processing services"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "addressee",
+                    "type": "ROLE",
+                    "nelements": 7,
+                    "mentions": [
+                        {
+                            "id": 7,
+                            "mention": "addressee"
+                        },
+                        {
+                            "id": 8,
+                            "mention": "addressee"
+                        },
+                        {
+                            "id": 9,
+                            "mention": "addressee"
+                        },
+                        {
+                            "id": 10,
+                            "mention": "addressee"
+                        },
+                        {
+                            "id": 11,
+                            "mention": "addressee"
+                        },
+                        {
+                            "id": 12,
+                            "mention": "addressee"
+                        },
+                        {
+                            "id": 13,
+                            "mention": "addressee"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "relevant national body or authority",
+                    "type": "AUTHORITY",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 14,
+                            "mention": "relevant national body or authority"
+                        },
+                        {
+                            "id": 15,
+                            "mention": "relevant national body or authority"
+                        },
+                        {
+                            "id": 16,
+                            "mention": "relevant national body or authority"
+                        },
+                        {
+                            "id": 17,
+                            "mention": "relevant national body or authority"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Commission",
+                    "type": "AUTHORITY",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 18,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 19,
+                            "mention": "Commission"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "NON-PERSONAL DATA",
+                    "type": "DATA.CAT",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 20,
+                            "mention": "NON-PERSONAL DATA"
+                        },
+                        {
+                            "id": 21,
+                            "mention": "non-personal data"
+                        },
+                        {
+                            "id": 22,
+                            "mention": "non-personal data"
+                        },
+                        {
+                            "id": 23,
+                            "mention": "non-personal data"
+                        },
+                        {
+                            "id": 24,
+                            "mention": "non-personal data"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "TRANSFER",
+                    "type": "DATA.OP",
+                    "nelements": 9,
+                    "mentions": [
+                        {
+                            "id": 25,
+                            "mention": "TRANSFER"
+                        },
+                        {
+                            "id": 26,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 27,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 28,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 29,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 30,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 31,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 32,
+                            "mention": "transfer"
+                        },
+                        {
+                            "id": 33,
+                            "mention": "transfer"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "ACCESS",
+                    "type": "DATA.OP",
+                    "nelements": 9,
+                    "mentions": [
+                        {
+                            "id": 34,
+                            "mention": "ACCESS"
+                        },
+                        {
+                            "id": 35,
+                            "mention": "access"
+                        },
+                        {
+                            "id": 36,
+                            "mention": "access"
+                        },
+                        {
+                            "id": 37,
+                            "mention": "access"
+                        },
+                        {
+                            "id": 38,
+                            "mention": "access"
+                        },
+                        {
+                            "id": 39,
+                            "mention": "access"
+                        },
+                        {
+                            "id": 40,
+                            "mention": "access"
+                        },
+                        {
+                            "id": 41,
+                            "mention": "access"
+                        },
+                        {
+                            "id": 42,
+                            "mention": "access"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "DataAct_Chapter_VII"
+}

@@ -1,0 +1,1731 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 34,
+                    "end": 44,
+                    "id": 0,
+                    "features": {
+                        "text": "Article 77"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1408,
+                    "end": 1418,
+                    "id": 1,
+                    "features": {
+                        "text": "Article 77"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2313,
+                    "end": 2323,
+                    "id": 2,
+                    "features": {
+                        "text": "Article 77"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3979,
+                    "end": 3989,
+                    "id": 3,
+                    "features": {
+                        "text": "Article 77"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 704,
+                    "end": 714,
+                    "id": 4,
+                    "features": {
+                        "text": "Article 78"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 716,
+                    "end": 726,
+                    "id": 5,
+                    "features": {
+                        "text": "Article 78"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2071,
+                    "end": 2081,
+                    "id": 6,
+                    "features": {
+                        "text": "Article 79"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6851,
+                    "end": 6861,
+                    "id": 7,
+                    "features": {
+                        "text": "Article 79"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3010,
+                    "end": 3020,
+                    "id": 8,
+                    "features": {
+                        "text": "Article 80"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4174,
+                    "end": 4184,
+                    "id": 9,
+                    "features": {
+                        "text": "Article 81"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3626,
+                    "end": 3636,
+                    "id": 10,
+                    "features": {
+                        "text": "Article 82"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5121,
+                    "end": 5131,
+                    "id": 11,
+                    "features": {
+                        "text": "Article 82"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 6866,
+                    "end": 6876,
+                    "id": 12,
+                    "features": {
+                        "text": "Article 83"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 12742,
+                    "end": 12752,
+                    "id": 13,
+                    "features": {
+                        "text": "Article 83"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 12523,
+                    "end": 12533,
+                    "id": 14,
+                    "features": {
+                        "text": "Article 84"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1823,
+                    "end": 1851,
+                    "id": 15,
+                    "features": {
+                        "text": "Regulation (EC) No 1049/2001"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 176,
+                    "end": 188,
+                    "id": 16,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 387,
+                    "end": 399,
+                    "id": 17,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1111,
+                    "end": 1123,
+                    "id": 18,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1312,
+                    "end": 1324,
+                    "id": 19,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2330,
+                    "end": 2342,
+                    "id": 20,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2842,
+                    "end": 2854,
+                    "id": 21,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3060,
+                    "end": 3072,
+                    "id": 22,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4088,
+                    "end": 4100,
+                    "id": 23,
+                    "features": {
+                        "text": "data subject"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 79,
+                    "end": 100,
+                    "id": 24,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 238,
+                    "end": 259,
+                    "id": 25,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 504,
+                    "end": 525,
+                    "id": 26,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 775,
+                    "end": 796,
+                    "id": 27,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1189,
+                    "end": 1210,
+                    "id": 28,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1445,
+                    "end": 1466,
+                    "id": 29,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1743,
+                    "end": 1764,
+                    "id": 30,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3926,
+                    "end": 3947,
+                    "id": 31,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6938,
+                    "end": 6959,
+                    "id": 32,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8295,
+                    "end": 8316,
+                    "id": 33,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10975,
+                    "end": 10996,
+                    "id": 34,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11577,
+                    "end": 11598,
+                    "id": 35,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11964,
+                    "end": 11985,
+                    "id": 36,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2130,
+                    "end": 2140,
+                    "id": 37,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2610,
+                    "end": 2620,
+                    "id": 38,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2701,
+                    "end": 2711,
+                    "id": 39,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2901,
+                    "end": 2911,
+                    "id": 40,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4357,
+                    "end": 4367,
+                    "id": 41,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4625,
+                    "end": 4635,
+                    "id": 42,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5335,
+                    "end": 5345,
+                    "id": 43,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5391,
+                    "end": 5401,
+                    "id": 44,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5749,
+                    "end": 5759,
+                    "id": 45,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5766,
+                    "end": 5776,
+                    "id": 46,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5954,
+                    "end": 5964,
+                    "id": 47,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5989,
+                    "end": 5999,
+                    "id": 48,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6153,
+                    "end": 6163,
+                    "id": 49,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6294,
+                    "end": 6304,
+                    "id": 50,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6408,
+                    "end": 6418,
+                    "id": 51,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7936,
+                    "end": 7946,
+                    "id": 52,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8050,
+                    "end": 8060,
+                    "id": 53,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8231,
+                    "end": 8241,
+                    "id": 54,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8622,
+                    "end": 8632,
+                    "id": 55,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8762,
+                    "end": 8772,
+                    "id": 56,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9202,
+                    "end": 9212,
+                    "id": 57,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9768,
+                    "end": 9778,
+                    "id": 58,
+                    "features": {
+                        "text": "controller"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2144,
+                    "end": 2153,
+                    "id": 59,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2626,
+                    "end": 2635,
+                    "id": 60,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2715,
+                    "end": 2724,
+                    "id": 61,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2915,
+                    "end": 2924,
+                    "id": 62,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4371,
+                    "end": 4380,
+                    "id": 63,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4639,
+                    "end": 4648,
+                    "id": 64,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5349,
+                    "end": 5358,
+                    "id": 65,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5512,
+                    "end": 5521,
+                    "id": 66,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5780,
+                    "end": 5789,
+                    "id": 67,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5968,
+                    "end": 5977,
+                    "id": 68,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6006,
+                    "end": 6015,
+                    "id": 69,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6167,
+                    "end": 6176,
+                    "id": 70,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6308,
+                    "end": 6317,
+                    "id": 71,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6422,
+                    "end": 6431,
+                    "id": 72,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7950,
+                    "end": 7959,
+                    "id": 73,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8064,
+                    "end": 8073,
+                    "id": 74,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8245,
+                    "end": 8254,
+                    "id": 75,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8636,
+                    "end": 8645,
+                    "id": 76,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8776,
+                    "end": 8785,
+                    "id": 77,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9216,
+                    "end": 9225,
+                    "id": 78,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9787,
+                    "end": 9796,
+                    "id": 79,
+                    "features": {
+                        "text": "processor"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 79,
+                    "end": 100,
+                    "id": 80,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 238,
+                    "end": 259,
+                    "id": 81,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 504,
+                    "end": 525,
+                    "id": 82,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 775,
+                    "end": 796,
+                    "id": 83,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 1189,
+                    "end": 1210,
+                    "id": 84,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 1445,
+                    "end": 1466,
+                    "id": 85,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 1743,
+                    "end": 1764,
+                    "id": 86,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3926,
+                    "end": 3947,
+                    "id": 87,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6938,
+                    "end": 6959,
+                    "id": 88,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 8295,
+                    "end": 8316,
+                    "id": 89,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 10975,
+                    "end": 10996,
+                    "id": 90,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 11577,
+                    "end": 11598,
+                    "id": 91,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 11964,
+                    "end": 11985,
+                    "id": 92,
+                    "features": {
+                        "text": "supervisory authority"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 433,
+                    "end": 446,
+                    "id": 93,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 2531,
+                    "end": 2544,
+                    "id": 94,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 3419,
+                    "end": 3432,
+                    "id": 95,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 8439,
+                    "end": 8452,
+                    "id": 96,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 10515,
+                    "end": 10528,
+                    "id": 97,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 419,
+                    "end": 429,
+                    "id": 98,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 2506,
+                    "end": 2516,
+                    "id": 99,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4162,
+                    "end": 4172,
+                    "id": 100,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4334,
+                    "end": 4344,
+                    "id": 101,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 4602,
+                    "end": 4612,
+                    "id": 102,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 5414,
+                    "end": 5424,
+                    "id": 103,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 5466,
+                    "end": 5476,
+                    "id": 104,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 5563,
+                    "end": 5573,
+                    "id": 105,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6042,
+                    "end": 6052,
+                    "id": 106,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6136,
+                    "end": 6146,
+                    "id": 107,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 6526,
+                    "end": 6536,
+                    "id": 108,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7733,
+                    "end": 7743,
+                    "id": 109,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 9279,
+                    "end": 9289,
+                    "id": 110,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10351,
+                    "end": 10361,
+                    "id": 111,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10778,
+                    "end": 10788,
+                    "id": 112,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "RIGHT",
+                    "start": 45,
+                    "end": 71,
+                    "id": 113,
+                    "features": {
+                        "text": "Right to lodge a complaint"
+                    }
+                },
+                {
+                    "type": "RIGHT",
+                    "start": 204,
+                    "end": 230,
+                    "id": 114,
+                    "features": {
+                        "text": "right to lodge a complaint"
+                    }
+                },
+                {
+                    "type": "RIGHT",
+                    "start": 2245,
+                    "end": 2271,
+                    "id": 115,
+                    "features": {
+                        "text": "right to lodge a complaint"
+                    }
+                },
+                {
+                    "type": "RIGHT",
+                    "start": 727,
+                    "end": 764,
+                    "id": 116,
+                    "features": {
+                        "text": "Right to an effective judicial remedy"
+                    }
+                },
+                {
+                    "type": "RIGHT",
+                    "start": 2082,
+                    "end": 2119,
+                    "id": 117,
+                    "features": {
+                        "text": "Right to an effective judicial remedy"
+                    }
+                },
+                {
+                    "type": "RIGHT",
+                    "start": 3581,
+                    "end": 3610,
+                    "id": 118,
+                    "features": {
+                        "text": "right to receive compensation"
+                    }
+                },
+                {
+                    "type": "RIGHT",
+                    "start": 6727,
+                    "end": 6756,
+                    "id": 119,
+                    "features": {
+                        "text": "right to receive compensation"
+                    }
+                }
+            ],
+            "next_annid": 120
+        }
+    },
+    "text": "Remedies, liability and penalties\nArticle 77\nRight to lodge a complaint with a supervisory authority\n1. Without prejudice to any other administrative or judicial remedy,\nevery data subject shall have the right to lodge a complaint with a\nsupervisory authority, in particular in the Member State of his or her\nhabitual residence, place of work or place of the alleged infringement if\nthe data subject considers that the processing of personal data relating to\nhim or her infringes this Regulation.\n2. The supervisory authority with which the complaint has been\nlodged shall inform the complainant on the progress and the outcome\nof the complaint including the possibility of a judicial remedy pursuant\nto Article 78.\nArticle 78\nRight to an effective judicial remedy against a supervisory authority\n1. Without prejudice to any other administrative or non-judicial\nremedy, each natural or legal person shall have the right to an\neffective judicial remedy against a legally binding decision of a super\u00ad\nvisory authority concerning them.\n2. Without prejudice to any other administrative or non-judicial\nremedy, each data subject shall have the right to a an effective\njudicial remedy where the supervisory authority which is competent\npursuant to Articles 55 and 56 does not handle a complaint or does\nnot inform the data subject within three months on the progress or\noutcome of the complaint lodged pursuant to Article 77.\n3. Proceedings against a supervisory authority shall be brought\nbefore the courts of the Member State where the supervisory\nauthority is established.\n4. Where proceedings are brought against a decision of a supervisory\nauthority which was preceded by an opinion or a decision of the Board\nin the consistency mechanism, the supervisory authority shall forward\nthat opinion or decision to the court.\n(1 ) Regulation (EC) No 1049/2001 of the European Parliament and of the\nCouncil of 30 May 2001 regarding public access to European Parliament,\nCouncil and Commission documents (OJ L 145, 31.5.2001, p. 43).\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 69\n\u25bcB\nArticle 79\nRight to an effective judicial remedy against a controller or\nprocessor\n1. Without prejudice to any available administrative or non-judicial\nremedy, including the right to lodge a complaint with a supervisory\nauthority pursuant to Article 77, each data subject shall have the right\nto an effective judicial remedy where he or she considers that his or her\nrights under this Regulation have been infringed as a result of the\nprocessing of his or her personal data in non-compliance with this\nRegulation.\n2. Proceedings against a controller or a processor shall be brought\nbefore the courts of the Member State where the controller or processor\nhas an establishment. Alternatively, such proceedings may be brought\nbefore the courts of the Member State where the data subject has his or\nher habitual residence, unless the controller or processor is a public\nauthority of a Member State acting in the exercise of its public powers.\nArticle 80\nRepresentation of data subjects\n1. The data subject shall have the right to mandate a not-for-profit\nbody, organisation or association which has been properly constituted in\naccordance with the law of a Member State, has statutory objectives\nwhich are in the public interest, and is active in the field of the\nprotection of data subjects' rights and freedoms with regard to the\nprotection of their personal data to lodge the complaint on his or her\nbehalf, to exercise the rights referred to in Articles 77, 78 and 79 on his\nor her behalf, and to exercise the right to receive compensation referred\nto in Article 82 on his or her behalf where provided for by Member State\nlaw.\n2. Member States may provide that any body, organisation or asso\u00ad\nciation referred to in paragraph 1 of this Article, independently of a data\nsubject's mandate, has the right to lodge, in that Member State, a\ncomplaint with the supervisory authority which is competent pursuant\nto Article 77 and to exercise the rights referred to in Articles 78 and 79\nif it considers that the rights of a data subject under this Regulation\nhave been infringed as a result of the processing.\nArticle 81\nSuspension of proceedings\n1. Where a competent court of a Member State has information on\nproceedings, concerning the same subject matter as regards processing\nby the same controller or processor, that are pending in a court in\nanother Member State, it shall contact that court in the other\nMember State to confirm the existence of such proceedings.\n2. Where proceedings concerning the same subject matter as regards\nprocessing of the same controller or processor are pending in a court in\nanother Member State, any competent court other than the court first\nseized may suspend its proceedings.\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 70\n\u25bcB\n3. Where those proceedings are pending at first instance, any court\nother than the court first seized may also, on the application of one of\nthe parties, decline jurisdiction if the court first seized has jurisdiction\nover the actions in question and its law permits the consolidation\nthereof.\nArticle 82\nRight to compensation and liability\n1. Any person who has suffered material or non-material damage as a\nresult of an infringement of this Regulation shall have the right to\nreceive compensation from the controller or processor for the damage\nsuffered.\n2. Any controller involved in processing shall be liable for the\ndamage caused by processing which infringes this Regulation. A\nprocessor shall be liable for the damage caused by processing only\nwhere it has not complied with obligations of this Regulation\nspecifically directed to processors or where it has acted outside or\ncontrary to lawful instructions of the controller.\n3. A controller or processor shall be exempt from liability under\nparagraph 2 if it proves that it is not in any way responsible for the\nevent giving rise to the damage.\n4. Where more than one controller or processor, or both a controller\nand a processor, are involved in the same processing and where they\nare, under paragraphs 2 and 3, responsible for any damage caused by\nprocessing, each controller or processor shall be held liable for the\nentire damage in order to ensure effective compensation of the data\nsubject.\n5. Where a controller or processor has, in accordance with\nparagraph 4, paid full compensation for the damage suffered, that\ncontroller or processor shall be entitled to claim back from the other\ncontrollers or processors involved in the same processing that part of the\ncompensation corresponding to their part of responsibility for the\ndamage, in accordance with the conditions set out in paragraph 2.\n6. Court proceedings for exercising the right to receive compensation\nshall be brought before the courts competent under the law of the\nMember State referred to in Article 79(2).\nArticle 83\nGeneral conditions for imposing administrative fines\n1. Each supervisory authority shall ensure that the imposition of\nadministrative fines pursuant to this Article in respect of infringements\nof this Regulation referred to in paragraphs 4, 5 and 6 shall in each\nindividual case be effective, proportionate and dissuasive.\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 71\n\u25bcB\n2. Administrative fines shall, depending on the circumstances of each\nindividual case, be imposed in addition to, or instead of, measures\nreferred to in points (a) to (h) and (j) of Article 58(2). When\ndeciding whether to impose an administrative fine and deciding on\nthe amount of the administrative fine in each individual case due\nregard shall be given to the following:\n(a) the nature, gravity and duration of the infringement taking into\naccount the nature scope or purpose of the processing concerned\nas well as the number of data subjects affected and the level of\ndamage suffered by them;\n(b) the intentional or negligent character of the infringement;\n(c) any action taken by the controller or processor to mitigate the\ndamage suffered by data subjects;\n(d) the degree of responsibility of the controller or processor taking into\naccount technical and organisational measures implemented by them\npursuant to Articles 25 and 32;\n(e) any relevant previous infringements by the controller or processor;\n(f) the degree of cooperation with the supervisory authority, in order to\nremedy the infringement and mitigate the possible adverse effects of\nthe infringement;\n(g) the categories of personal data affected by the infringement;\n(h) the manner in which the infringement became known to the super\u00ad\nvisory authority, in particular whether, and if so to what extent, the\ncontroller or processor notified the infringement;\n(i) where measures referred to in Article 58(2) have previously been\nordered against the controller or processor concerned with regard to\nthe same subject-matter, compliance with those measures;\n(j) adherence to approved codes of conduct pursuant to Article 40 or\napproved certification mechanisms pursuant to Article 42; and\n(k) any other aggravating or mitigating factor applicable to the circum\u00ad\nstances of the case, such as financial benefits gained, or losses\navoided, directly or indirectly, from the infringement.\n3. If a controller or processor intentionally or negligently, for the\nsame or linked processing operations, infringes several provisions of\nthis Regulation, the total amount of the administrative fine shall not\nexceed the amount specified for the gravest infringement.\n4. Infringements of the following provisions shall, in accordance with\nparagraph 2, be subject to administrative fines up to 10 000 000 EUR,\nor in the case of an undertaking, up to 2 % of the total worldwide\nannual turnover of the preceding financial year, whichever is higher:\n(a) the obligations of the controller and the processor pursuant to\nArticles 8, 11, 25 to 39 and 42 and 43;\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 72\n\u25bcB\n(b) the obligations of the certification body pursuant to Articles 42\nand 43;\n(c) the obligations of the monitoring body pursuant to Article 41(4).\n5. Infringements of the following provisions shall, in accordance with\nparagraph 2, be subject to administrative fines up to 20 000 000 EUR,\nor in the case of an undertaking, up to 4 % of the total worldwide\nannual turnover of the preceding financial year, whichever is higher:\n(a) the basic principles for processing, including conditions for consent,\npursuant to Articles 5, 6, 7 and 9;\n(b) the data subjects' rights pursuant to Articles 12 to 22;\n(c) the transfers of personal data to a recipient in a third country or an\ninternational organisation pursuant to Articles 44 to 49;\n(d) any obligations pursuant to Member State law adopted under\nChapter IX;\n(e) non-compliance with an order or a temporary or definitive limitation\non processing or the suspension of data flows by the supervisory\nauthority pursuant to Article 58(2) or failure to provide access in\nviolation of Article 58(1).\n6. Non-compliance with an order by the supervisory authority as\nreferred to in Article 58(2) shall, in accordance with paragraph 2 of\nthis Article, be subject to administrative fines up to 20 000 000 EUR, or\nin the case of an undertaking, up to 4 % of the total worldwide annual\nturnover of the preceding financial year, whichever is higher.\n7. Without prejudice to the corrective powers of supervisory auth\u00ad\norities pursuant to Article 58(2), each Member State may lay down the\nrules on whether and to what extent administrative fines may be\nimposed on public authorities and bodies established in that\nMember State.\n8. The exercise by the supervisory authority of its powers under this\nArticle shall be subject to appropriate procedural safeguards in\naccordance with Union and Member State law, including effective\njudicial remedy and due process.\n9. Where the legal system of the Member State does not provide for\nadministrative fines, this Article may be applied in such a manner that\nthe fine is initiated by the competent supervisory authority and imposed\nby competent national courts, while ensuring that those legal remedies\nare effective and have an equivalent effect to the administrative fines\nimposed by supervisory authorities. In any event, the fines imposed\nshall be effective, proportionate and dissuasive. Those Member States\nshall notify to the Commission the provisions of their laws which they\nadopt pursuant to this paragraph by 25 May 2018 and, without delay,\nany subsequent amendment law or amendment affecting them.\n02016R0679 \u2014 EN \u2014 04.05.2016 \u2014 000.002 \u2014 73\n\u25bcB\nArticle 84\nPenalties\n1. Member States shall lay down the rules on other penalties\napplicable to infringements of this Regulation in particular for\ninfringements which are not subject to administrative fines pursuant to\nArticle 83, and shall take all measures necessary to ensure that they are\nimplemented. Such penalties shall be effective, proportionate and\ndissuasive.\n2. Each Member State shall notify to the Commission the provisions\nof its law which it adopts pursuant to paragraph 1, by 25 May 2018\nand, without delay, any subsequent amendment affecting them.",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Article 77",
+                    "type": "REGULATION",
+                    "nelements": 4,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Article 77"
+                        },
+                        {
+                            "id": 1,
+                            "mention": "Article 77"
+                        },
+                        {
+                            "id": 2,
+                            "mention": "Article 77"
+                        },
+                        {
+                            "id": 3,
+                            "mention": "Article 77"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Article 78",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 4,
+                            "mention": "Article 78"
+                        },
+                        {
+                            "id": 5,
+                            "mention": "Article 78"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Article 79",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 6,
+                            "mention": "Article 79"
+                        },
+                        {
+                            "id": 7,
+                            "mention": "Article 79"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Article 80",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 8,
+                            "mention": "Article 80"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Article 81",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 9,
+                            "mention": "Article 81"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Article 82",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 10,
+                            "mention": "Article 82"
+                        },
+                        {
+                            "id": 11,
+                            "mention": "Article 82"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "Article 83",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 12,
+                            "mention": "Article 83"
+                        },
+                        {
+                            "id": 13,
+                            "mention": "Article 83"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "Article 84",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 14,
+                            "mention": "Article 84"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "Regulation (EC) No 1049/2001",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 15,
+                            "mention": "Regulation (EC) No 1049/2001"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "data subject",
+                    "type": "ROLE",
+                    "nelements": 8,
+                    "mentions": [
+                        {
+                            "id": 16,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 17,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 18,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 19,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 20,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 21,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 22,
+                            "mention": "data subject"
+                        },
+                        {
+                            "id": 23,
+                            "mention": "data subject"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "supervisory authority",
+                    "type": "ROLE",
+                    "nelements": 13,
+                    "mentions": [
+                        {
+                            "id": 24,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 25,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 26,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 27,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 28,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 29,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 30,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 31,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 32,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 33,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 34,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 35,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 36,
+                            "mention": "supervisory authority"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "controller",
+                    "type": "ROLE",
+                    "nelements": 22,
+                    "mentions": [
+                        {
+                            "id": 37,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 38,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 39,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 40,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 41,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 42,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 43,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 44,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 45,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 46,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 47,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 48,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 49,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 50,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 51,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 52,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 53,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 54,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 55,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 56,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 57,
+                            "mention": "controller"
+                        },
+                        {
+                            "id": 58,
+                            "mention": "controller"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "title": "processor",
+                    "type": "ROLE",
+                    "nelements": 21,
+                    "mentions": [
+                        {
+                            "id": 59,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 60,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 61,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 62,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 63,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 64,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 65,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 66,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 67,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 68,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 69,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 70,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 71,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 72,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 73,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 74,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 75,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 76,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 77,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 78,
+                            "mention": "processor"
+                        },
+                        {
+                            "id": 79,
+                            "mention": "processor"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "title": "supervisory authority",
+                    "type": "AUTHORITY",
+                    "nelements": 13,
+                    "mentions": [
+                        {
+                            "id": 80,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 81,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 82,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 83,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 84,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 85,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 86,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 87,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 88,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 89,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 90,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 91,
+                            "mention": "supervisory authority"
+                        },
+                        {
+                            "id": 92,
+                            "mention": "supervisory authority"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "title": "personal data",
+                    "type": "DATA.CAT",
+                    "nelements": 5,
+                    "mentions": [
+                        {
+                            "id": 93,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 94,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 95,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 96,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 97,
+                            "mention": "personal data"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "title": "processing",
+                    "type": "DATA.OP",
+                    "nelements": 15,
+                    "mentions": [
+                        {
+                            "id": 98,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 99,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 100,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 101,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 102,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 103,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 104,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 105,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 106,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 107,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 108,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 109,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 110,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 111,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 112,
+                            "mention": "processing"
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "title": "Right to lodge a complaint",
+                    "type": "RIGHT",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 113,
+                            "mention": "Right to lodge a complaint"
+                        },
+                        {
+                            "id": 114,
+                            "mention": "right to lodge a complaint"
+                        },
+                        {
+                            "id": 115,
+                            "mention": "right to lodge a complaint"
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "title": "Right to an effective judicial remedy",
+                    "type": "RIGHT",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 116,
+                            "mention": "Right to an effective judicial remedy"
+                        },
+                        {
+                            "id": 117,
+                            "mention": "Right to an effective judicial remedy"
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "title": "right to receive compensation",
+                    "type": "RIGHT",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 118,
+                            "mention": "right to receive compensation"
+                        },
+                        {
+                            "id": 119,
+                            "mention": "right to receive compensation"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "GDPR_Chapter_VIII"
+}

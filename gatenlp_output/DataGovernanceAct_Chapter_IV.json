@@ -1,0 +1,2231 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 25,
+                    "end": 35,
+                    "id": 0,
+                    "features": {
+                        "text": "Article 16"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 689,
+                    "end": 699,
+                    "id": 1,
+                    "features": {
+                        "text": "Article 17"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1197,
+                    "end": 1207,
+                    "id": 2,
+                    "features": {
+                        "text": "Article 18"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1964,
+                    "end": 1974,
+                    "id": 3,
+                    "features": {
+                        "text": "Article 18"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2857,
+                    "end": 2867,
+                    "id": 4,
+                    "features": {
+                        "text": "Article 18"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3078,
+                    "end": 3088,
+                    "id": 5,
+                    "features": {
+                        "text": "Article 18"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3364,
+                    "end": 3374,
+                    "id": 6,
+                    "features": {
+                        "text": "Article 18"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5653,
+                    "end": 5663,
+                    "id": 7,
+                    "features": {
+                        "text": "Article 18"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5950,
+                    "end": 5960,
+                    "id": 8,
+                    "features": {
+                        "text": "Article 18"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2735,
+                    "end": 2745,
+                    "id": 9,
+                    "features": {
+                        "text": "Article 19"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2746,
+                    "end": 2756,
+                    "id": 10,
+                    "features": {
+                        "text": "Article 19"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7184,
+                    "end": 7194,
+                    "id": 11,
+                    "features": {
+                        "text": "Article 20"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 7195,
+                    "end": 7205,
+                    "id": 12,
+                    "features": {
+                        "text": "Article 20"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 8855,
+                    "end": 8865,
+                    "id": 13,
+                    "features": {
+                        "text": "Article 21"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 8866,
+                    "end": 8876,
+                    "id": 14,
+                    "features": {
+                        "text": "Article 21"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2608,
+                    "end": 2618,
+                    "id": 15,
+                    "features": {
+                        "text": "Article 22"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 10926,
+                    "end": 10936,
+                    "id": 16,
+                    "features": {
+                        "text": "Article 22"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 12222,
+                    "end": 12232,
+                    "id": 17,
+                    "features": {
+                        "text": "Article 23"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 13201,
+                    "end": 13211,
+                    "id": 18,
+                    "features": {
+                        "text": "Article 24"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 16982,
+                    "end": 16992,
+                    "id": 19,
+                    "features": {
+                        "text": "Article 25"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 17977,
+                    "end": 18001,
+                    "id": 20,
+                    "features": {
+                        "text": "Regulation (EU) 2016/679"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 731,
+                    "end": 758,
+                    "id": 21,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 811,
+                    "end": 838,
+                    "id": 22,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 912,
+                    "end": 939,
+                    "id": 23,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1012,
+                    "end": 1039,
+                    "id": 24,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1150,
+                    "end": 1177,
+                    "id": 25,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1385,
+                    "end": 1412,
+                    "id": 26,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1563,
+                    "end": 1590,
+                    "id": 27,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1822,
+                    "end": 1849,
+                    "id": 28,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2094,
+                    "end": 2121,
+                    "id": 29,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2784,
+                    "end": 2811,
+                    "id": 30,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2957,
+                    "end": 2984,
+                    "id": 31,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3231,
+                    "end": 3258,
+                    "id": 32,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3748,
+                    "end": 3775,
+                    "id": 33,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3992,
+                    "end": 4019,
+                    "id": 34,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4364,
+                    "end": 4391,
+                    "id": 35,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5815,
+                    "end": 5842,
+                    "id": 36,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6037,
+                    "end": 6064,
+                    "id": 37,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6238,
+                    "end": 6265,
+                    "id": 38,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6405,
+                    "end": 6432,
+                    "id": 39,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6590,
+                    "end": 6617,
+                    "id": 40,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6732,
+                    "end": 6759,
+                    "id": 41,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6917,
+                    "end": 6944,
+                    "id": 42,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7132,
+                    "end": 7159,
+                    "id": 43,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7901,
+                    "end": 7928,
+                    "id": 44,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12167,
+                    "end": 12194,
+                    "id": 45,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12279,
+                    "end": 12306,
+                    "id": 46,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12437,
+                    "end": 12464,
+                    "id": 47,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12516,
+                    "end": 12543,
+                    "id": 48,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12722,
+                    "end": 12749,
+                    "id": 49,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12947,
+                    "end": 12974,
+                    "id": 50,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 13290,
+                    "end": 13317,
+                    "id": 51,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 13371,
+                    "end": 13398,
+                    "id": 52,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 13496,
+                    "end": 13523,
+                    "id": 53,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 13589,
+                    "end": 13616,
+                    "id": 54,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 13727,
+                    "end": 13754,
+                    "id": 55,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 13815,
+                    "end": 13842,
+                    "id": 56,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14092,
+                    "end": 14119,
+                    "id": 57,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14466,
+                    "end": 14493,
+                    "id": 58,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14960,
+                    "end": 14987,
+                    "id": 59,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15241,
+                    "end": 15268,
+                    "id": 60,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15313,
+                    "end": 15340,
+                    "id": 61,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15557,
+                    "end": 15584,
+                    "id": 62,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15791,
+                    "end": 15818,
+                    "id": 63,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15964,
+                    "end": 15991,
+                    "id": 64,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 16182,
+                    "end": 16209,
+                    "id": 65,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 16398,
+                    "end": 16425,
+                    "id": 66,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 16517,
+                    "end": 16544,
+                    "id": 67,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 16654,
+                    "end": 16681,
+                    "id": 68,
+                    "features": {
+                        "text": "data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 767,
+                    "end": 786,
+                    "id": 69,
+                    "features": {
+                        "text": "competent authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5771,
+                    "end": 5790,
+                    "id": 70,
+                    "features": {
+                        "text": "competent authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6194,
+                    "end": 6213,
+                    "id": 71,
+                    "features": {
+                        "text": "competent authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6688,
+                    "end": 6707,
+                    "id": 72,
+                    "features": {
+                        "text": "competent authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 6873,
+                    "end": 6892,
+                    "id": 73,
+                    "features": {
+                        "text": "competent authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 7857,
+                    "end": 7876,
+                    "id": 74,
+                    "features": {
+                        "text": "competent authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 12903,
+                    "end": 12922,
+                    "id": 75,
+                    "features": {
+                        "text": "competent authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 13452,
+                    "end": 13471,
+                    "id": 76,
+                    "features": {
+                        "text": "competent authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14048,
+                    "end": 14067,
+                    "id": 77,
+                    "features": {
+                        "text": "competent authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14422,
+                    "end": 14441,
+                    "id": 78,
+                    "features": {
+                        "text": "competent authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 14916,
+                    "end": 14935,
+                    "id": 79,
+                    "features": {
+                        "text": "competent authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15513,
+                    "end": 15532,
+                    "id": 80,
+                    "features": {
+                        "text": "competent authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 15747,
+                    "end": 15766,
+                    "id": 81,
+                    "features": {
+                        "text": "competent authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 16354,
+                    "end": 16373,
+                    "id": 82,
+                    "features": {
+                        "text": "competent authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 16473,
+                    "end": 16492,
+                    "id": 83,
+                    "features": {
+                        "text": "competent authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 16610,
+                    "end": 16629,
+                    "id": 84,
+                    "features": {
+                        "text": "competent authority"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 317,
+                    "end": 330,
+                    "id": 85,
+                    "features": {
+                        "text": "data subjects"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 514,
+                    "end": 527,
+                    "id": 86,
+                    "features": {
+                        "text": "data subjects"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3779,
+                    "end": 3792,
+                    "id": 87,
+                    "features": {
+                        "text": "data subjects"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8936,
+                    "end": 8949,
+                    "id": 88,
+                    "features": {
+                        "text": "data subjects"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9049,
+                    "end": 9062,
+                    "id": 89,
+                    "features": {
+                        "text": "data subjects"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9992,
+                    "end": 10005,
+                    "id": 90,
+                    "features": {
+                        "text": "data subjects"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10735,
+                    "end": 10748,
+                    "id": 91,
+                    "features": {
+                        "text": "data subjects"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11148,
+                    "end": 11161,
+                    "id": 92,
+                    "features": {
+                        "text": "data subjects"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11965,
+                    "end": 11978,
+                    "id": 93,
+                    "features": {
+                        "text": "data subjects"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 17833,
+                    "end": 17846,
+                    "id": 94,
+                    "features": {
+                        "text": "data subjects"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3797,
+                    "end": 3809,
+                    "id": 95,
+                    "features": {
+                        "text": "data holders"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 8954,
+                    "end": 8966,
+                    "id": 96,
+                    "features": {
+                        "text": "data holders"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 9066,
+                    "end": 9078,
+                    "id": 97,
+                    "features": {
+                        "text": "data holders"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10055,
+                    "end": 10067,
+                    "id": 98,
+                    "features": {
+                        "text": "data holders"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10467,
+                    "end": 10479,
+                    "id": 99,
+                    "features": {
+                        "text": "data holders"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 10798,
+                    "end": 10810,
+                    "id": 100,
+                    "features": {
+                        "text": "data holders"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11166,
+                    "end": 11178,
+                    "id": 101,
+                    "features": {
+                        "text": "data holders"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 11948,
+                    "end": 11960,
+                    "id": 102,
+                    "features": {
+                        "text": "data holders"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 669,
+                    "end": 679,
+                    "id": 103,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 948,
+                    "end": 958,
+                    "id": 104,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 1463,
+                    "end": 1473,
+                    "id": 105,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6283,
+                    "end": 6293,
+                    "id": 106,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6319,
+                    "end": 6329,
+                    "id": 107,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 6962,
+                    "end": 6972,
+                    "id": 108,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 7068,
+                    "end": 7078,
+                    "id": 109,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 10953,
+                    "end": 10963,
+                    "id": 110,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 12640,
+                    "end": 12650,
+                    "id": 111,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 12812,
+                    "end": 12822,
+                    "id": 112,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 17106,
+                    "end": 17116,
+                    "id": 113,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3702,
+                    "end": 3775,
+                    "id": 114,
+                    "features": {
+                        "text": "competent authorities for the registration of data altruism organisations"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3946,
+                    "end": 4019,
+                    "id": 115,
+                    "features": {
+                        "text": "competent authorities for the registration of data altruism organisations"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 12233,
+                    "end": 12306,
+                    "id": 116,
+                    "features": {
+                        "text": "Competent authorities for the registration of data altruism organisations"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 12470,
+                    "end": 12543,
+                    "id": 117,
+                    "features": {
+                        "text": "competent authorities for the registration of data altruism organisations"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 12676,
+                    "end": 12749,
+                    "id": 118,
+                    "features": {
+                        "text": "competent authorities for the registration of data altruism organisations"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 13244,
+                    "end": 13317,
+                    "id": 119,
+                    "features": {
+                        "text": "competent authorities for the registration of data altruism organisations"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 13681,
+                    "end": 13754,
+                    "id": 120,
+                    "features": {
+                        "text": "competent authorities for the registration of data altruism organisations"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 15918,
+                    "end": 15991,
+                    "id": 121,
+                    "features": {
+                        "text": "competent authorities for the registration of data altruism organisations"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 16136,
+                    "end": 16209,
+                    "id": 122,
+                    "features": {
+                        "text": "competent authorities for the registration of data altruism organisations"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 17235,
+                    "end": 17265,
+                    "id": 123,
+                    "features": {
+                        "text": "European Data Protection Board"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 17305,
+                    "end": 17335,
+                    "id": 124,
+                    "features": {
+                        "text": "European Data Innovation Board"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 341,
+                    "end": 354,
+                    "id": 125,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 5521,
+                    "end": 5534,
+                    "id": 126,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 5571,
+                    "end": 5584,
+                    "id": 127,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 7530,
+                    "end": 7543,
+                    "id": 128,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 7558,
+                    "end": 7571,
+                    "id": 129,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 9281,
+                    "end": 9294,
+                    "id": 130,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 10333,
+                    "end": 10346,
+                    "id": 131,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 10548,
+                    "end": 10561,
+                    "id": 132,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 13125,
+                    "end": 13138,
+                    "id": 133,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 17747,
+                    "end": 17760,
+                    "id": 134,
+                    "features": {
+                        "text": "personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 7554,
+                    "end": 7571,
+                    "id": 135,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 10329,
+                    "end": 10346,
+                    "id": 136,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.CAT",
+                    "start": 10544,
+                    "end": 10561,
+                    "id": 137,
+                    "features": {
+                        "text": "non-personal data"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7516,
+                    "end": 7526,
+                    "id": 138,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7596,
+                    "end": 7606,
+                    "id": 139,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7684,
+                    "end": 7694,
+                    "id": 140,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 7742,
+                    "end": 7752,
+                    "id": 141,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 8412,
+                    "end": 8422,
+                    "id": 142,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 8608,
+                    "end": 8618,
+                    "id": 143,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 9092,
+                    "end": 9102,
+                    "id": 144,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 9344,
+                    "end": 9354,
+                    "id": 145,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 9469,
+                    "end": 9479,
+                    "id": 146,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 9522,
+                    "end": 9532,
+                    "id": 147,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 9767,
+                    "end": 9777,
+                    "id": 148,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10315,
+                    "end": 10325,
+                    "id": 149,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 10650,
+                    "end": 10660,
+                    "id": 150,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 11612,
+                    "end": 11622,
+                    "id": 151,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 13111,
+                    "end": 13121,
+                    "id": 152,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 17917,
+                    "end": 17927,
+                    "id": 153,
+                    "features": {
+                        "text": "processing"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 17059,
+                    "end": 17069,
+                    "id": 154,
+                    "features": {
+                        "text": "collection"
+                    }
+                },
+                {
+                    "type": "DATA.OP",
+                    "start": 17403,
+                    "end": 17413,
+                    "id": 155,
+                    "features": {
+                        "text": "collection"
+                    }
+                }
+            ],
+            "next_annid": 156
+        }
+    },
+    "text": "CHAPTER IV\nData altruism\nArticle 16\nNational arrangements for data altruism\nMember States may have in place organisational or technical arrangements, or both, to facilitate data altruism.\nTo that end, Member States may establish national policies for data altruism.\nThose national policies may, in particular, assist data subjects in making personal data related to them held by public sector bodies available voluntarily for data altruism, and set out the necessary information that is required to be provided to data subjects concerning the re-use of their data in the general interest.\n3.6.2022\nIf a Member State develops such national policies, it shall notify the Commission thereof.\nArticle 17\nPublic registers of recognised data altruism organisations\n1. Each competent authority for the registration of data altruism organisations shall keep and regularly update a public national register of recognised data altruism organisations.\n2. The Commission shall maintain a public Union register of recognised data altruism organisations for information purposes.\nProvided that an entity is registered in the public national register of recognised data altruism organisations in accordance with Article 18, it may use the label \u2018data altruism organisation recognised in the Union\u2019 in its written and spoken communication, as well as a common logo.\nIn order to ensure that recognised data altruism organisations are easily identifiable throughout the Union, the Commission shall, by means of implementing acts, establish a design for the common logo.\nRecognised data altruism organisations shall display the common logo clearly on every online and offline publication that relates to their data altruism activities.\nThe common logo shall be accompanied by a QR code with a link to the public Union register of recognised data altruism organisations.\nThose implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 33(2).\nArticle 18\nGeneral requirements for registration\nIn order to qualify for registration in a public national register of recognised data altruism organisations, an entity shall:\n(a) carry out data altruism activities;\n(b) be a legal person established pursuant to national law to meet objectives of general interest as provided for in national law, where applicable;\n(c) operate on a not-for-profit basis and be legally independent from any entity that operates on a for-profit basis;\n(d) carry out its data altruism activities through a structure that is functionally separate from its other activities;\n(e) comply with the rulebook referred to Article 22(1), at the latest 18 months after the date of entry into force of the delegated acts referred to in that paragraph.\nArticle 19\nArticle 19\nRegistration of recognised data altruism organisations\n1. An entity which meets the requirements of Article 18 may submit an application for registration in the public national register of recognised data altruism organisations in the Member State in which it is established.\n2. An entity which meets the requirements of Article 18 and has establishments in more than one Member State may submit an application for registration in the public national register of recognised data altruism organisations in the Member State in which it has its main establishment.\n3. An entity which meets the requirements of Article 18 but which is not established in the Union shall designate a legal representative in one of the Member States in which the data altruism services are offered.\nFor the purpose of ensuring compliance with this Regulation, the legal representative shall be mandated by the entity to be addressed in addition to or instead of it by competent authorities for the registration of data altruism organisations or data subjects and data holders, with regard to all issues related to that entity.\nThe legal representative shall cooperate with and comprehensively demonstrate to the competent authorities for the registration of data altruism organisations, upon request, the actions taken and provisions put in place by the entity to ensure compliance with this Regulation.\nThe entity shall be deemed to be under the jurisdiction of the Member State in which the legal representative is located.\nSuch an entity may submit an application for registration in the public national register of recognised data altruism organisations in that Member State.\nThe designation of a legal representative by the entity shall be without prejudice to any legal actions which could be initiated against the entity.\n4. Applications for registration referred to in paragraphs 1, 2 and 3 shall contain the following information:\n(a) the name of the entity;\n(b) the entity\u2019s legal status, form and, where the entity is registered in a public national register, registration number;\n(c) the statutes of the entity, where appropriate;\n(d) the entity\u2019s sources of income;\n(e) the address of the entity\u2019s main establishment in the Union, if any, and, where applicable, any secondary branch in another Member State or that of the legal representative;\n(f) a public website where complete and up-to-date information on the entity and the activities can be found, including as a minimum the information referred to in points (a), (b), (d), (e) and (h);\n(g) the entity\u2019s contact persons and contact details;\n(h) the objectives of general interest it intends to promote when collecting data;\n(i) the nature of the data that the entity intends to control or process, and, in the case of personal data, an indication of the categories of personal data;\n(j) any other documents which demonstrate that the requirements of Article 18 are met.\n5. Where the entity has submitted all necessary information pursuant to paragraph 4 and after the competent authority for the registration of data altruism organisations has evaluated the application for registration and found that the entity complies with the requirements of Article 18, it shall register the entity in the public national register of recognised data altruism organisations within 12 weeks after the receipt of the application for registration.\nThe registration shall be valid in all Member States.\nThe competent authority for the registration of data altruism organisations shall notify the Commission of any registration.\nThe Commission shall include that registration in the public Union register of recognised data altruism organisations.\n6. The information referred to in paragraph 4, points (a), (b), (f), (g) and (h), shall be published in the relevant public national register of recognised data altruism organisations.\n7. A recognised data altruism organisation shall notify the relevant competent authority for the registration of data altruism organisations of any changes to the information provided pursuant to paragraph 4 within 14 days of the date of the change.\nThe competent authority for the registration of data altruism organisations shall notify the Commission of each such notification by electronic means without delay.\nBased on such a notification, the Commission shall update the public Union register of recognised data altruism organisations without delay.\n3.6.2022\nArticle 20\nArticle 20\nTransparency requirements\n1. A recognised data altruism organisation shall keep full and accurate records concerning:\n(a) all natural or legal persons that were given the possibility to process data held by that recognised data altruism organisation, and their contact details;\n(b) the date or duration of the processing of personal data or use of non-personal data;\n(c) the purpose of the processing as declared by the natural or legal person that was given the possibility of processing;\n(d) the fees paid by natural or legal persons processing the data, if any.\n2. A recognised data altruism organisation shall draw up and transmit to the relevant competent authority for the registration of data altruism organisations an annual activity report which shall contain at least the following:\n(a) information on the activities of the recognised data altruism organisation;\n(b) a description of the way in which the objectives of general interest for which data was collected have been promoted during the given financial year;\n(c) a list of all natural and legal persons that were allowed to process data it holds, including a summary description of the objectives of general interest pursued by such data processing and the description of the technical means used for it, including a description of the techniques used to preserve privacy and data protection;\n(d) a summary of the results of the data processing allowed by the recognised data altruism organisation, where applicable;\n(e) information on sources of revenue of the recognised data altruism organisation, in particular all revenue from allowing access to the data, and on expenditure.\nArticle 21\nArticle 21\nSpecific requirements to safeguard rights and interests of data subjects and data holders with regard to their data\n1. A recognised data altruism organisation shall inform data subjects or data holders prior to any processing of their data in a clear and easily comprehensible manner of:\n(a) the objectives of general interest and, if applicable, the specified, explicit and legitimate purpose for which personal data is to be processed, and for which it permits the processing of their data by a data user;\n(b) the location of and the objectives of general interest for which it permits any processing carried out in a third country, where the processing is carried out by the recognised data altruism organisation.\n2. The recognised data altruism organisation shall not use the data for other objectives than those of general interest for which the data subject or data holder allows the processing.\nThe recognised data altruism organisation shall not use misleading marketing practices to solicit the provision of data.\n3. The recognised data altruism organisation shall provide tools for obtaining consent from data subjects or permissions to process data made available by data holders.\nThe recognised data altruism organisation shall also provide tools for easy withdrawal of such consent or permission.\n4. The recognised data altruism organisation shall take measures to ensure an appropriate level of security for the storage and processing of non-personal data that it has collected based on data altruism.\n5. The recognised data altruism organisation shall, without delay, inform data holders in the event of any unauthorised transfer, access or use of the non-personal data that it has shared.\n6. Where the recognised data altruism organisation facilitates data processing by third parties, including by providing tools for obtaining consent from data subjects or permissions to process data made available by data holders, it shall, where relevant, specify the third-country jurisdiction in which the data use is intended to take place.\nArticle 22\nRulebook\n1. The Commission shall adopt delegated acts in accordance with Article 32, supplementing this Regulation by establishing a rulebook laying down:\n(a) appropriate information requirements to ensure that data subjects and data holders are provided, before a consent or permission for data altruism is given, with sufficiently detailed, clear and transparent information regarding the use of data, the tools for giving and withdrawing consent or permission, and the measures taken to avoid misuse of the data shared with the data altruism organisation;\n(b) appropriate technical and security requirements to ensure the appropriate level of security for the storage and processing of data, as well as for the tools for giving and withdrawing consent or permission;\n(c) communication roadmaps taking a multi-disciplinary approach to raise awareness of data altruism, of the designation as a \u2018data altruism organisation recognised in the Union\u2019 and of the rulebook among relevant stakeholders, in particular data holders and data subjects that would potentially share their data;\n(d) recommendations on relevant interoperability standards.\n2. The rulebook referred to in paragraph 1 shall be prepared in close cooperation with data altruism organisations and relevant stakeholders.\nArticle 23\nCompetent authorities for the registration of data altruism organisations\n1. Each Member State shall designate one or more competent authorities responsible for its public national register of recognised data altruism organisations.\nThe competent authorities for the registration of data altruism organisations shall comply with the requirements set out in Article 26.\n2. Each Member State shall notify the Commission of the identity of their competent authorities for the registration of data altruism organisations by 24 September 2023.\nEach Member State shall also notify the Commission of any subsequent change to the identity of those competent authorities.\n3. The competent authority for the registration of data altruism organisations of a Member State shall undertake its tasks in cooperation with the relevant data protection authority, where such tasks are related to processing of personal data, and with relevant sectoral authorities of that Member State.\nArticle 24\nMonitoring of compliance\n1. The competent authorities for the registration of data altruism organisations shall monitor and supervise compliance of recognised data altruism organisations with the requirements laid down in this Chapter.\nThe competent authority for the registration of data altruism organisations may also monitor and supervise the compliance of such recognised data altruism organisations, on the basis of a request by a natural or legal person.\n2. The competent authorities for the registration of data altruism organisations shall have the power to request information from recognised data altruism organisations that is necessary to verify compliance with the requirements of this Chapter.\nAny request for information shall be proportionate to the performance of the task and shall be reasoned.\n3.6.2022\n3. Where the competent authority for the registration of data altruism organisations finds that a recognised data altruism organisation does not comply with one or more of the requirements of this Chapter, it shall notify the recognised data altruism organisation of those findings and give it the opportunity to state its views within 30 days of the receipt of the notification.\n4. The competent authority for the registration of data altruism organisations shall have the power to require the cessation of the infringement referred to in paragraph 3 either immediately or within a reasonable time limit and shall take appropriate and proportionate measures with the aim of ensuring compliance.\n5. If a recognised data altruism organisation does not comply with one or more of the requirements of this Chapter even after having been notified in accordance with paragraph 3 by the competent authority for the registration of data altruism organisations, that recognised data altruism organisation shall:\n(a) lose its right to use the label \u2018data altruism organisation recognised in the Union\u2019 in any written and spoken communication;\n(b) be removed from the relevant public national register of recognised data altruism organisations and the public Union register of recognised data altruism organisations.\nAny decision revoking the right to use the label \u2018data altruism organisation recognised in the Union\u2019 under the first subparagraph, point (a), shall be made public by the competent authority for the registration of data altruism organisations.\n6. If a recognised data altruism organisation has its main establishment or its legal representative in a Member State but is active in other Member States, the competent authority for the registration of data altruism organisations of the Member State of the main establishment or where the legal representative is located and the competent authorities for the registration of data altruism organisations of those other Member States shall cooperate and assist each other.\nSuch assistance and cooperation may cover information exchanges between the competent authorities for the registration of data altruism organisations concerned for the purposes of their tasks under this Regulation and reasoned requests to take the measures referred to in this Article.\nWhere a competent authority for the registration of data altruism organisations in one Member State requests assistance from a competent authority for the registration of data altruism organisations in another Member State, it shall submit a reasoned request.\nThe competent authority for the registration of data altruism organisations shall, upon such a request, provide a response without delay and within a timeframe proportionate to the urgency of the request.\nAny information exchanged in the context of assistance requested and provided under this paragraph shall be used only in respect of the matter for which it was requested.\nArticle 25\nEuropean data altruism consent form\n1. In order to facilitate the collection of data based on data altruism, the Commission shall adopt implementing acts establishing and developing a European data altruism consent form, after consulting the European Data Protection Board, taking into account the advice of the European Data Innovation Board and duly involving relevant stakeholders.\nThe form shall allow the collection of consent or permission across Member States in a uniform format.\nThose implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 33(2).\n2. The European data altruism consent form shall use a modular approach allowing customisation for specific sectors and for different purposes.\n3. Where personal data are provided, the European data altruism consent form shall ensure that data subjects are able to give consent to and withdraw consent from a specific data processing operation in compliance with the requirements of Regulation (EU) 2016/679.\n4. The form shall be available in a manner that can be printed on paper and is easily understandable as well as in an electronic, machine-readable form.\n",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Article 16",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Article 16"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Article 17",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 1,
+                            "mention": "Article 17"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Article 18",
+                    "type": "REGULATION",
+                    "nelements": 7,
+                    "mentions": [
+                        {
+                            "id": 2,
+                            "mention": "Article 18"
+                        },
+                        {
+                            "id": 3,
+                            "mention": "Article 18"
+                        },
+                        {
+                            "id": 4,
+                            "mention": "Article 18"
+                        },
+                        {
+                            "id": 5,
+                            "mention": "Article 18"
+                        },
+                        {
+                            "id": 6,
+                            "mention": "Article 18"
+                        },
+                        {
+                            "id": 7,
+                            "mention": "Article 18"
+                        },
+                        {
+                            "id": 8,
+                            "mention": "Article 18"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Article 19",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 9,
+                            "mention": "Article 19"
+                        },
+                        {
+                            "id": 10,
+                            "mention": "Article 19"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Article 20",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 11,
+                            "mention": "Article 20"
+                        },
+                        {
+                            "id": 12,
+                            "mention": "Article 20"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Article 21",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 13,
+                            "mention": "Article 21"
+                        },
+                        {
+                            "id": 14,
+                            "mention": "Article 21"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "Article 22",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 15,
+                            "mention": "Article 22"
+                        },
+                        {
+                            "id": 16,
+                            "mention": "Article 22"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "Article 23",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 17,
+                            "mention": "Article 23"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "Article 24",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 18,
+                            "mention": "Article 24"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "Article 25",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 19,
+                            "mention": "Article 25"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "Regulation (EU) 2016/679",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 20,
+                            "mention": "Regulation (EU) 2016/679"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "data altruism organisations",
+                    "type": "ROLE",
+                    "nelements": 48,
+                    "mentions": [
+                        {
+                            "id": 21,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 22,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 23,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 24,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 25,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 26,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 27,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 28,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 29,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 30,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 31,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 32,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 33,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 34,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 35,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 36,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 37,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 38,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 39,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 40,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 41,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 42,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 43,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 44,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 45,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 46,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 47,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 48,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 49,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 50,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 51,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 52,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 53,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 54,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 55,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 56,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 57,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 58,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 59,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 60,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 61,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 62,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 63,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 64,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 65,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 66,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 67,
+                            "mention": "data altruism organisations"
+                        },
+                        {
+                            "id": 68,
+                            "mention": "data altruism organisations"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "title": "competent authority",
+                    "type": "ROLE",
+                    "nelements": 16,
+                    "mentions": [
+                        {
+                            "id": 69,
+                            "mention": "competent authority"
+                        },
+                        {
+                            "id": 70,
+                            "mention": "competent authority"
+                        },
+                        {
+                            "id": 71,
+                            "mention": "competent authority"
+                        },
+                        {
+                            "id": 72,
+                            "mention": "competent authority"
+                        },
+                        {
+                            "id": 73,
+                            "mention": "competent authority"
+                        },
+                        {
+                            "id": 74,
+                            "mention": "competent authority"
+                        },
+                        {
+                            "id": 75,
+                            "mention": "competent authority"
+                        },
+                        {
+                            "id": 76,
+                            "mention": "competent authority"
+                        },
+                        {
+                            "id": 77,
+                            "mention": "competent authority"
+                        },
+                        {
+                            "id": 78,
+                            "mention": "competent authority"
+                        },
+                        {
+                            "id": 79,
+                            "mention": "competent authority"
+                        },
+                        {
+                            "id": 80,
+                            "mention": "competent authority"
+                        },
+                        {
+                            "id": 81,
+                            "mention": "competent authority"
+                        },
+                        {
+                            "id": 82,
+                            "mention": "competent authority"
+                        },
+                        {
+                            "id": 83,
+                            "mention": "competent authority"
+                        },
+                        {
+                            "id": 84,
+                            "mention": "competent authority"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "title": "data subjects",
+                    "type": "ROLE",
+                    "nelements": 10,
+                    "mentions": [
+                        {
+                            "id": 85,
+                            "mention": "data subjects"
+                        },
+                        {
+                            "id": 86,
+                            "mention": "data subjects"
+                        },
+                        {
+                            "id": 87,
+                            "mention": "data subjects"
+                        },
+                        {
+                            "id": 88,
+                            "mention": "data subjects"
+                        },
+                        {
+                            "id": 89,
+                            "mention": "data subjects"
+                        },
+                        {
+                            "id": 90,
+                            "mention": "data subjects"
+                        },
+                        {
+                            "id": 91,
+                            "mention": "data subjects"
+                        },
+                        {
+                            "id": 92,
+                            "mention": "data subjects"
+                        },
+                        {
+                            "id": 93,
+                            "mention": "data subjects"
+                        },
+                        {
+                            "id": 94,
+                            "mention": "data subjects"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "title": "data holders",
+                    "type": "ROLE",
+                    "nelements": 8,
+                    "mentions": [
+                        {
+                            "id": 95,
+                            "mention": "data holders"
+                        },
+                        {
+                            "id": 96,
+                            "mention": "data holders"
+                        },
+                        {
+                            "id": 97,
+                            "mention": "data holders"
+                        },
+                        {
+                            "id": 98,
+                            "mention": "data holders"
+                        },
+                        {
+                            "id": 99,
+                            "mention": "data holders"
+                        },
+                        {
+                            "id": 100,
+                            "mention": "data holders"
+                        },
+                        {
+                            "id": 101,
+                            "mention": "data holders"
+                        },
+                        {
+                            "id": 102,
+                            "mention": "data holders"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "title": "Commission",
+                    "type": "AUTHORITY",
+                    "nelements": 11,
+                    "mentions": [
+                        {
+                            "id": 103,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 104,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 105,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 106,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 107,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 108,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 109,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 110,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 111,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 112,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 113,
+                            "mention": "Commission"
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "title": "competent authorities for the registration of data altruism organisations",
+                    "type": "AUTHORITY",
+                    "nelements": 9,
+                    "mentions": [
+                        {
+                            "id": 114,
+                            "mention": "competent authorities for the registration of data altruism organisations"
+                        },
+                        {
+                            "id": 115,
+                            "mention": "competent authorities for the registration of data altruism organisations"
+                        },
+                        {
+                            "id": 116,
+                            "mention": "Competent authorities for the registration of data altruism organisations"
+                        },
+                        {
+                            "id": 117,
+                            "mention": "competent authorities for the registration of data altruism organisations"
+                        },
+                        {
+                            "id": 118,
+                            "mention": "competent authorities for the registration of data altruism organisations"
+                        },
+                        {
+                            "id": 119,
+                            "mention": "competent authorities for the registration of data altruism organisations"
+                        },
+                        {
+                            "id": 120,
+                            "mention": "competent authorities for the registration of data altruism organisations"
+                        },
+                        {
+                            "id": 121,
+                            "mention": "competent authorities for the registration of data altruism organisations"
+                        },
+                        {
+                            "id": 122,
+                            "mention": "competent authorities for the registration of data altruism organisations"
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "title": "European Data Protection Board",
+                    "type": "AUTHORITY",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 123,
+                            "mention": "European Data Protection Board"
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "title": "European Data Innovation Board",
+                    "type": "AUTHORITY",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 124,
+                            "mention": "European Data Innovation Board"
+                        }
+                    ]
+                },
+                {
+                    "id": 20,
+                    "title": "personal data",
+                    "type": "DATA.CAT",
+                    "nelements": 10,
+                    "mentions": [
+                        {
+                            "id": 125,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 126,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 127,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 128,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 129,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 130,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 131,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 132,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 133,
+                            "mention": "personal data"
+                        },
+                        {
+                            "id": 134,
+                            "mention": "personal data"
+                        }
+                    ]
+                },
+                {
+                    "id": 21,
+                    "title": "non-personal data",
+                    "type": "DATA.CAT",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 135,
+                            "mention": "non-personal data"
+                        },
+                        {
+                            "id": 136,
+                            "mention": "non-personal data"
+                        },
+                        {
+                            "id": 137,
+                            "mention": "non-personal data"
+                        }
+                    ]
+                },
+                {
+                    "id": 22,
+                    "title": "processing",
+                    "type": "DATA.OP",
+                    "nelements": 16,
+                    "mentions": [
+                        {
+                            "id": 138,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 139,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 140,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 141,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 142,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 143,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 144,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 145,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 146,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 147,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 148,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 149,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 150,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 151,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 152,
+                            "mention": "processing"
+                        },
+                        {
+                            "id": 153,
+                            "mention": "processing"
+                        }
+                    ]
+                },
+                {
+                    "id": 23,
+                    "title": "collection",
+                    "type": "DATA.OP",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 154,
+                            "mention": "collection"
+                        },
+                        {
+                            "id": 155,
+                            "mention": "collection"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "DataGovernanceAct_Chapter_IV"
+}

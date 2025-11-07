@@ -1,0 +1,669 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 58,
+                    "end": 68,
+                    "id": 0,
+                    "features": {
+                        "text": "Article 26"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 69,
+                    "end": 79,
+                    "id": 1,
+                    "features": {
+                        "text": "Article 26"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3390,
+                    "end": 3400,
+                    "id": 2,
+                    "features": {
+                        "text": "Article 27"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4209,
+                    "end": 4219,
+                    "id": 3,
+                    "features": {
+                        "text": "Article 28"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4221,
+                    "end": 4231,
+                    "id": 4,
+                    "features": {
+                        "text": "Article 28"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4232,
+                    "end": 4242,
+                    "id": 5,
+                    "features": {
+                        "text": "Article 28"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2884,
+                    "end": 2899,
+                    "id": 6,
+                    "features": {
+                        "text": "this Regulation"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3553,
+                    "end": 3568,
+                    "id": 7,
+                    "features": {
+                        "text": "this Regulation"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 134,
+                    "end": 188,
+                    "id": 8,
+                    "features": {
+                        "text": "competent authorities for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 441,
+                    "end": 495,
+                    "id": 9,
+                    "features": {
+                        "text": "competent authorities for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 731,
+                    "end": 785,
+                    "id": 10,
+                    "features": {
+                        "text": "Competent authorities for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1153,
+                    "end": 1207,
+                    "id": 11,
+                    "features": {
+                        "text": "competent authorities for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1817,
+                    "end": 1871,
+                    "id": 12,
+                    "features": {
+                        "text": "competent authorities for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2116,
+                    "end": 2170,
+                    "id": 13,
+                    "features": {
+                        "text": "competent authorities for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2432,
+                    "end": 2486,
+                    "id": 14,
+                    "features": {
+                        "text": "competent authorities for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2620,
+                    "end": 2674,
+                    "id": 15,
+                    "features": {
+                        "text": "competent authorities for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3213,
+                    "end": 3267,
+                    "id": 16,
+                    "features": {
+                        "text": "competent authorities for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4523,
+                    "end": 4577,
+                    "id": 17,
+                    "features": {
+                        "text": "competent authorities for data intermediation services"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 197,
+                    "end": 270,
+                    "id": 18,
+                    "features": {
+                        "text": "competent authorities for the registration of data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 504,
+                    "end": 577,
+                    "id": 19,
+                    "features": {
+                        "text": "competent authorities for the registration of data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 790,
+                    "end": 863,
+                    "id": 20,
+                    "features": {
+                        "text": "competent authorities for the registration of data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1216,
+                    "end": 1289,
+                    "id": 21,
+                    "features": {
+                        "text": "competent authorities for the registration of data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1880,
+                    "end": 1953,
+                    "id": 22,
+                    "features": {
+                        "text": "competent authorities for the registration of data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2179,
+                    "end": 2252,
+                    "id": 23,
+                    "features": {
+                        "text": "competent authorities for the registration of data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2495,
+                    "end": 2568,
+                    "id": 24,
+                    "features": {
+                        "text": "competent authorities for the registration of data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2683,
+                    "end": 2756,
+                    "id": 25,
+                    "features": {
+                        "text": "competent authorities for the registration of data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3271,
+                    "end": 3344,
+                    "id": 26,
+                    "features": {
+                        "text": "competent authorities for the registration of data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4768,
+                    "end": 4841,
+                    "id": 27,
+                    "features": {
+                        "text": "competent authorities for the registration of data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 340,
+                    "end": 377,
+                    "id": 28,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3698,
+                    "end": 3735,
+                    "id": 29,
+                    "features": {
+                        "text": "data intermediation services provider"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 381,
+                    "end": 418,
+                    "id": 30,
+                    "features": {
+                        "text": "recognised data altruism organisation"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3839,
+                    "end": 3876,
+                    "id": 31,
+                    "features": {
+                        "text": "recognised data altruism organisation"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4084,
+                    "end": 4095,
+                    "id": 32,
+                    "features": {
+                        "text": "complainant"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 4355,
+                    "end": 4389,
+                    "id": 33,
+                    "features": {
+                        "text": "affected natural and legal persons"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5478,
+                    "end": 5512,
+                    "id": 34,
+                    "features": {
+                        "text": "affected natural and legal persons"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 2605,
+                    "end": 2615,
+                    "id": 35,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "AUTHORITY",
+                    "start": 3188,
+                    "end": 3198,
+                    "id": 36,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "RIGHT",
+                    "start": 3401,
+                    "end": 3427,
+                    "id": 37,
+                    "features": {
+                        "text": "Right to lodge a complaint"
+                    }
+                },
+                {
+                    "type": "RIGHT",
+                    "start": 3472,
+                    "end": 3498,
+                    "id": 38,
+                    "features": {
+                        "text": "right to lodge a complaint"
+                    }
+                },
+                {
+                    "type": "RIGHT",
+                    "start": 4243,
+                    "end": 4280,
+                    "id": 39,
+                    "features": {
+                        "text": "Right to an effective judicial remedy"
+                    }
+                },
+                {
+                    "type": "RIGHT",
+                    "start": 4405,
+                    "end": 4442,
+                    "id": 40,
+                    "features": {
+                        "text": "right to an effective judicial remedy"
+                    }
+                },
+                {
+                    "type": "RIGHT",
+                    "start": 5569,
+                    "end": 5606,
+                    "id": 41,
+                    "features": {
+                        "text": "right to an effective judicial remedy"
+                    }
+                }
+            ],
+            "next_annid": 42
+        }
+    },
+    "text": "CHAPTER V\nCompetent authorities and procedural provisions\nArticle 26\nArticle 26\nRequirements relating to competent authorities\n1. The competent authorities for data intermediation services and the competent authorities for the registration of data altruism organisations shall be legally distinct from, and functionally independent of, any data intermediation services provider or recognised data altruism organisation.\nThe functions of the competent authorities for data intermediation services and the competent authorities for the registration of data altruism organisations may be carried out by the same authority.\nMember States may either establish one or more new authorities for those purposes or rely on existing ones.\n2. Competent authorities for data intermediation services and competent authorities for the registration of data altruism organisations shall exercise their tasks in an impartial, transparent, consistent, reliable and timely manner.\nWhere they exercise their tasks, they shall safeguard fair competition and non-discrimination.\n3. The top-level management and personnel responsible for carrying out the relevant tasks of the competent authorities for data intermediation services and the competent authorities for the registration of data altruism organisations shall not be the designer, manufacturer, supplier, installer, purchaser, owner, user or maintainer of the services which they evaluate, nor the authorised representative of any of those parties.\nThis shall not preclude the use of evaluated services that are necessary for the operations of the competent authority for data intermediation services and the competent authority for the registration of data altruism organisations or the use of such services for personal purposes.\n4. The top-level management and personnel of the competent authorities for data intermediation services and the competent authorities for the registration of data altruism organisations shall not engage in any activity that may conflict with their independence of judgment or integrity in relation to evaluation activities assigned to them.\n5. The competent authorities for data intermediation services and the competent authorities for the registration of data altruism organisations shall have at their disposal the adequate financial and human resources to carry out the tasks assigned to them, including the necessary technical knowledge and resources.\n6. The competent authorities for data intermediation services and the competent authorities for the registration of data altruism organisations of a Member State shall provide the Commission and competent authorities for data intermediation services and the competent authorities for the registration of data altruism organisations from other Member States, on reasoned request and without delay, with the information necessary to carry out their tasks under this Regulation.\nWhere a competent authority for data intermediation services or a competent authority for the registration of data altruism organisations considers the information requested to be confidential in accordance with Union and national law on commercial and professional confidentiality, the Commission and any other competent authorities for data intermediation services or competent authorities for the registration of data altruism organisations concerned shall ensure such confidentiality.\nArticle 27\nRight to lodge a complaint\n1. Natural and legal persons shall have the right to lodge a complaint in relation to any matter falling within the scope of this Regulation, individually or, where relevant, collectively, with the relevant competent authority for data intermediation services against a data intermediation services provider or with the relevant competent authority for the registration of data altruism organisations against a recognised data altruism organisation.\n3.6.2022\n2. The competent authority for data intermediation services or the competent authority for the registration of data altruism organisations with which the complaint has been lodged shall inform the complainant of:\n(a) the progress of the proceedings and of the decision taken; and\n(b) the judicial remedies provided for in Article 28.\nArticle 28\nArticle 28\nRight to an effective judicial remedy\n1. Notwithstanding any administrative or other non-judicial remedies, any affected natural and legal persons shall have the right to an effective judicial remedy with regard to legally binding decisions referred to in Article 14 taken by the competent authorities for data intermediation services in the management, control and enforcement of the notification regime for data intermediation services providers and legally binding decisions referred to in Articles 19 and 24 taken by the competent authorities for the registration of data altruism organisations in the monitoring of recognised data altruism organisations.\n2. Proceedings pursuant to this Article shall be brought before the courts or tribunals of the Member State of the competent authority for data intermediation services or the competent authority for the registration of data altruism organisations against which the judicial remedy is sought individually or, where relevant, collectively by the representatives of one or more natural or legal persons.\n3. Where a competent authority for data intermediation services or a competent authority for the registration of data altruism organisations fails to act on a complaint, any affected natural and legal persons shall, in accordance with national law, either have the right to an effective judicial remedy or access to review by an impartial body with the appropriate expertise.\nC",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Article 26",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Article 26"
+                        },
+                        {
+                            "id": 1,
+                            "mention": "Article 26"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Article 27",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 2,
+                            "mention": "Article 27"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Article 28",
+                    "type": "REGULATION",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 3,
+                            "mention": "Article 28"
+                        },
+                        {
+                            "id": 4,
+                            "mention": "Article 28"
+                        },
+                        {
+                            "id": 5,
+                            "mention": "Article 28"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "this Regulation",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 6,
+                            "mention": "this Regulation"
+                        },
+                        {
+                            "id": 7,
+                            "mention": "this Regulation"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "competent authorities for data intermediation services",
+                    "type": "ROLE",
+                    "nelements": 10,
+                    "mentions": [
+                        {
+                            "id": 8,
+                            "mention": "competent authorities for data intermediation services"
+                        },
+                        {
+                            "id": 9,
+                            "mention": "competent authorities for data intermediation services"
+                        },
+                        {
+                            "id": 10,
+                            "mention": "Competent authorities for data intermediation services"
+                        },
+                        {
+                            "id": 11,
+                            "mention": "competent authorities for data intermediation services"
+                        },
+                        {
+                            "id": 12,
+                            "mention": "competent authorities for data intermediation services"
+                        },
+                        {
+                            "id": 13,
+                            "mention": "competent authorities for data intermediation services"
+                        },
+                        {
+                            "id": 14,
+                            "mention": "competent authorities for data intermediation services"
+                        },
+                        {
+                            "id": 15,
+                            "mention": "competent authorities for data intermediation services"
+                        },
+                        {
+                            "id": 16,
+                            "mention": "competent authorities for data intermediation services"
+                        },
+                        {
+                            "id": 17,
+                            "mention": "competent authorities for data intermediation services"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "competent authorities for the registration of data altruism organisations",
+                    "type": "ROLE",
+                    "nelements": 10,
+                    "mentions": [
+                        {
+                            "id": 18,
+                            "mention": "competent authorities for the registration of data altruism organisations"
+                        },
+                        {
+                            "id": 19,
+                            "mention": "competent authorities for the registration of data altruism organisations"
+                        },
+                        {
+                            "id": 20,
+                            "mention": "competent authorities for the registration of data altruism organisations"
+                        },
+                        {
+                            "id": 21,
+                            "mention": "competent authorities for the registration of data altruism organisations"
+                        },
+                        {
+                            "id": 22,
+                            "mention": "competent authorities for the registration of data altruism organisations"
+                        },
+                        {
+                            "id": 23,
+                            "mention": "competent authorities for the registration of data altruism organisations"
+                        },
+                        {
+                            "id": 24,
+                            "mention": "competent authorities for the registration of data altruism organisations"
+                        },
+                        {
+                            "id": 25,
+                            "mention": "competent authorities for the registration of data altruism organisations"
+                        },
+                        {
+                            "id": 26,
+                            "mention": "competent authorities for the registration of data altruism organisations"
+                        },
+                        {
+                            "id": 27,
+                            "mention": "competent authorities for the registration of data altruism organisations"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "data intermediation services provider",
+                    "type": "ROLE",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 28,
+                            "mention": "data intermediation services provider"
+                        },
+                        {
+                            "id": 29,
+                            "mention": "data intermediation services provider"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "recognised data altruism organisation",
+                    "type": "ROLE",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 30,
+                            "mention": "recognised data altruism organisation"
+                        },
+                        {
+                            "id": 31,
+                            "mention": "recognised data altruism organisation"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "complainant",
+                    "type": "ROLE",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 32,
+                            "mention": "complainant"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "affected natural and legal persons",
+                    "type": "ROLE",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 33,
+                            "mention": "affected natural and legal persons"
+                        },
+                        {
+                            "id": 34,
+                            "mention": "affected natural and legal persons"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "Commission",
+                    "type": "AUTHORITY",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 35,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 36,
+                            "mention": "Commission"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "Right to lodge a complaint",
+                    "type": "RIGHT",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 37,
+                            "mention": "Right to lodge a complaint"
+                        },
+                        {
+                            "id": 38,
+                            "mention": "right to lodge a complaint"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "title": "Right to an effective judicial remedy",
+                    "type": "RIGHT",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 39,
+                            "mention": "Right to an effective judicial remedy"
+                        },
+                        {
+                            "id": 40,
+                            "mention": "right to an effective judicial remedy"
+                        },
+                        {
+                            "id": 41,
+                            "mention": "right to an effective judicial remedy"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "DataGovernanceAct_Chapter_V"
+}

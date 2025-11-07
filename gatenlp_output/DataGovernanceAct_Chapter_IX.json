@@ -1,0 +1,707 @@
+{
+    "annotation_sets": {
+        "entities_": {
+            "name": "entities_",
+            "annotations": [
+                {
+                    "type": "REGULATION",
+                    "start": 45,
+                    "end": 55,
+                    "id": 0,
+                    "features": {
+                        "text": "Article 34"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 2463,
+                    "end": 2473,
+                    "id": 1,
+                    "features": {
+                        "text": "Article 34"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 240,
+                    "end": 253,
+                    "id": 2,
+                    "features": {
+                        "text": "Article 5(14)"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 258,
+                    "end": 268,
+                    "id": 3,
+                    "features": {
+                        "text": "Article 31"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 352,
+                    "end": 362,
+                    "id": 4,
+                    "features": {
+                        "text": "Article 11"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 434,
+                    "end": 444,
+                    "id": 5,
+                    "features": {
+                        "text": "Article 12"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 540,
+                    "end": 551,
+                    "id": 6,
+                    "features": {
+                        "text": "Articles 18"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 553,
+                    "end": 555,
+                    "id": 7,
+                    "features": {
+                        "text": "20"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 557,
+                    "end": 559,
+                    "id": 8,
+                    "features": {
+                        "text": "21"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 564,
+                    "end": 566,
+                    "id": 9,
+                    "features": {
+                        "text": "22"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1967,
+                    "end": 1977,
+                    "id": 10,
+                    "features": {
+                        "text": "Article 35"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 1978,
+                    "end": 1988,
+                    "id": 11,
+                    "features": {
+                        "text": "Article 35"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3110,
+                    "end": 3135,
+                    "id": 12,
+                    "features": {
+                        "text": "Regulation (EU) 2018/1724"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3164,
+                    "end": 3189,
+                    "id": 13,
+                    "features": {
+                        "text": "Regulation (EU) 2018/1724"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 3086,
+                    "end": 3096,
+                    "id": 14,
+                    "features": {
+                        "text": "Article 36"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 4938,
+                    "end": 4948,
+                    "id": 15,
+                    "features": {
+                        "text": "Article 37"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5157,
+                    "end": 5167,
+                    "id": 16,
+                    "features": {
+                        "text": "Article 38"
+                    }
+                },
+                {
+                    "type": "REGULATION",
+                    "start": 5168,
+                    "end": 5178,
+                    "id": 17,
+                    "features": {
+                        "text": "Article 38"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 69,
+                    "end": 82,
+                    "id": 18,
+                    "features": {
+                        "text": "Member States"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 749,
+                    "end": 762,
+                    "id": 19,
+                    "features": {
+                        "text": "Member States"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 846,
+                    "end": 859,
+                    "id": 20,
+                    "features": {
+                        "text": "Member States"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1031,
+                    "end": 1044,
+                    "id": 21,
+                    "features": {
+                        "text": "Member States"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2437,
+                    "end": 2450,
+                    "id": 22,
+                    "features": {
+                        "text": "Member States"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2976,
+                    "end": 2989,
+                    "id": 23,
+                    "features": {
+                        "text": "Member States"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5472,
+                    "end": 5485,
+                    "id": 24,
+                    "features": {
+                        "text": "Member States"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 301,
+                    "end": 339,
+                    "id": 25,
+                    "features": {
+                        "text": "data intermediation services providers"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1157,
+                    "end": 1195,
+                    "id": 26,
+                    "features": {
+                        "text": "data intermediation services providers"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2535,
+                    "end": 2573,
+                    "id": 27,
+                    "features": {
+                        "text": "data intermediation services providers"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 1200,
+                    "end": 1238,
+                    "id": 28,
+                    "features": {
+                        "text": "recognised data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2578,
+                    "end": 2616,
+                    "id": 29,
+                    "features": {
+                        "text": "recognised data altruism organisations"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 900,
+                    "end": 910,
+                    "id": 30,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2037,
+                    "end": 2047,
+                    "id": 31,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3008,
+                    "end": 3018,
+                    "id": 32,
+                    "features": {
+                        "text": "Commission"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2145,
+                    "end": 2164,
+                    "id": 33,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5529,
+                    "end": 5548,
+                    "id": 34,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5643,
+                    "end": 5662,
+                    "id": 35,
+                    "features": {
+                        "text": "European Parliament"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 2176,
+                    "end": 2183,
+                    "id": 36,
+                    "features": {
+                        "text": "Council"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5559,
+                    "end": 5566,
+                    "id": 37,
+                    "features": {
+                        "text": "Council"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 5673,
+                    "end": 5680,
+                    "id": 38,
+                    "features": {
+                        "text": "Council"
+                    }
+                },
+                {
+                    "type": "ROLE",
+                    "start": 3372,
+                    "end": 3391,
+                    "id": 39,
+                    "features": {
+                        "text": "competent authority"
+                    }
+                }
+            ],
+            "next_annid": 40
+        }
+    },
+    "text": "CHAPTER IX\nFinal and transitional provisions\nArticle 34\nPenalties\n1. Member States shall lay down the rules on penalties applicable to infringements of the obligations regarding transfers of non-personal data to third countries pursuant to Article 5(14) and Article 31, the notification obligation of data intermediation services providers pursuant to Article 11, the conditions for providing data intermediation services pursuant to Article 12 and the conditions for the registration as a recognised data altruism organisation pursuant to Articles 18, 20, 21 and 22, and shall take all measures necessary to ensure that they are implemented.\nThe penalties provided for shall be effective, proportionate and dissuasive.\nIn their rules on penalties, Member States shall take into account the recommendations of the European Data Innovation Board.\nMember States shall, by 24 September 2023, notify the Commission of those rules and of those measures and shall notify it, without delay, of any subsequent amendment affecting them.\n2. Member States shall take into account the following non-exhaustive and indicative criteria for the imposition of penalties on data intermediation services providers and recognised data altruism organisations for infringements of this Regulation, where appropriate:\n(a) the nature, gravity, scale and duration of the infringement;\n(b) any action taken by the data intermediation services provider or recognised data altruism organisation to mitigate or remedy the damage caused by the infringement;\n(c) any previous infringements by the data intermediation services provider or recognised data altruism organisation;\n(d) the financial benefits gained or losses avoided by the data intermediation services provider or recognised data altruism organisation due to the infringement, insofar as such benefits or losses can be reliably established;\n(e) any other aggravating or mitigating factors applicable to the circumstances of the case.\nArticle 35\nArticle 35\nEvaluation and review\nBy 24 September 2025, the Commission shall carry out an evaluation of this Regulation and submit a report on its main findings to the European Parliament and to the Council as well as to the European Economic and Social Committee.\nThe report shall be accompanied, where necessary, by legislative proposals.\nThe report shall assess, in particular:\n(a) the application and functioning of the rules on penalties laid down by the Member States pursuant to Article 34;\n(b) the level of compliance of the legal representatives of data intermediation services providers and recognised data altruism organisations that are not established in the Union with this Regulation and the level of enforceability of penalties imposed on those providers and organisations;\n(c) the type of data altruism organisations registered under Chapter IV and an overview of the objectives of general interests for which data are shared in view of establishing clear criteria in that respect.\nMember States shall provide the Commission with the information necessary for the preparation of that report.\nArticle 36\nAmendment to Regulation (EU) 2018/1724\nIn the table in Annex II to Regulation (EU) 2018/1724, the entry \u2018Starting, running and closing a business\u2019 is replaced by the following:\n\n | Life events | Procedures | Expected output subject to an assessment of the application by the competent authority in accordance\n | --- | --- | ---\n | with national law, where relevant Starting, running and closing a business Notification of business activity, permission for exercising a business activity, changes of business activity and the termination of a business activity not involving insolvency or liquidation procedures, excluding the initial registration of a business activity with the business register and excluding procedures concerning the constitution of or any subsequent filing by companies or firms within the meaning of the second paragraph of Article 54 TFEU Confirmation of the receipt of notification or change, or of the request for permission for business activity\n | Registration of an employer (a natural person) with compulsory pension and insurance schemes Confirmation of registration or social security registration number\n | Registration of employees with compulsory pension and insurance schemes | Confirmation of registration or social security registration number\n | Submitting a corporate tax declaration | Confirmation of the receipt of the declaration\n | Notification to the social security schemes of the end of contract with an employee, excluding procedures for the collective termination of employee contracts Confirmation of the receipt of the notification\n | Payment of social contributions for employees Notification of a data intermediation services provider | Confirmation of the receipt of notification\n | Registration as a data altruism organisation recognised in the Union | Confirmation of the registration\n\nArticle 37\nTransitional arrangements\nEntities providing the data intermediation services referred to in Article 10 on 23 June 2022 shall comply with the obligations set out in Chapter III by 24 September 2025.\n3.6.2022\nArticle 38\nArticle 38\nEntry into force and application\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\nIt shall apply from 24 September 2023.\nThis Regulation shall be binding in its entirety and directly applicable in all Member States.\nDone at Brussels, 30 May 2022.\n | For the European Parliament | For the Council\n | The President | The President\n\nDone at Brussels, 30 May 2022.\n | For the European Parliament | For the Council\n | The President | The President\n\nR. METSOLA B\nB. LE MAIRE\n",
+    "features": {
+        "clusters": {
+            "entities_": [
+                {
+                    "id": 1,
+                    "title": "Article 34",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 0,
+                            "mention": "Article 34"
+                        },
+                        {
+                            "id": 1,
+                            "mention": "Article 34"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Article 5(14)",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 2,
+                            "mention": "Article 5(14)"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Article 31",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 3,
+                            "mention": "Article 31"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Article 11",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 4,
+                            "mention": "Article 11"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Article 12",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 5,
+                            "mention": "Article 12"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Articles 18",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 6,
+                            "mention": "Articles 18"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "20",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 7,
+                            "mention": "20"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "21",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 8,
+                            "mention": "21"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "22",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 9,
+                            "mention": "22"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "Article 35",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 10,
+                            "mention": "Article 35"
+                        },
+                        {
+                            "id": 11,
+                            "mention": "Article 35"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "Regulation (EU) 2018/1724",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 12,
+                            "mention": "Regulation (EU) 2018/1724"
+                        },
+                        {
+                            "id": 13,
+                            "mention": "Regulation (EU) 2018/1724"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "Article 36",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 14,
+                            "mention": "Article 36"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "title": "Article 37",
+                    "type": "REGULATION",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 15,
+                            "mention": "Article 37"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "title": "Article 38",
+                    "type": "REGULATION",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 16,
+                            "mention": "Article 38"
+                        },
+                        {
+                            "id": 17,
+                            "mention": "Article 38"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "title": "Member States",
+                    "type": "ROLE",
+                    "nelements": 7,
+                    "mentions": [
+                        {
+                            "id": 18,
+                            "mention": "Member States"
+                        },
+                        {
+                            "id": 19,
+                            "mention": "Member States"
+                        },
+                        {
+                            "id": 20,
+                            "mention": "Member States"
+                        },
+                        {
+                            "id": 21,
+                            "mention": "Member States"
+                        },
+                        {
+                            "id": 22,
+                            "mention": "Member States"
+                        },
+                        {
+                            "id": 23,
+                            "mention": "Member States"
+                        },
+                        {
+                            "id": 24,
+                            "mention": "Member States"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "title": "data intermediation services providers",
+                    "type": "ROLE",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 25,
+                            "mention": "data intermediation services providers"
+                        },
+                        {
+                            "id": 26,
+                            "mention": "data intermediation services providers"
+                        },
+                        {
+                            "id": 27,
+                            "mention": "data intermediation services providers"
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "title": "recognised data altruism organisations",
+                    "type": "ROLE",
+                    "nelements": 2,
+                    "mentions": [
+                        {
+                            "id": 28,
+                            "mention": "recognised data altruism organisations"
+                        },
+                        {
+                            "id": 29,
+                            "mention": "recognised data altruism organisations"
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "title": "Commission",
+                    "type": "ROLE",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 30,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 31,
+                            "mention": "Commission"
+                        },
+                        {
+                            "id": 32,
+                            "mention": "Commission"
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "title": "European Parliament",
+                    "type": "ROLE",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 33,
+                            "mention": "European Parliament"
+                        },
+                        {
+                            "id": 34,
+                            "mention": "European Parliament"
+                        },
+                        {
+                            "id": 35,
+                            "mention": "European Parliament"
+                        }
+                    ]
+                },
+                {
+                    "id": 20,
+                    "title": "Council",
+                    "type": "ROLE",
+                    "nelements": 3,
+                    "mentions": [
+                        {
+                            "id": 36,
+                            "mention": "Council"
+                        },
+                        {
+                            "id": 37,
+                            "mention": "Council"
+                        },
+                        {
+                            "id": 38,
+                            "mention": "Council"
+                        }
+                    ]
+                },
+                {
+                    "id": 21,
+                    "title": "competent authority",
+                    "type": "ROLE",
+                    "nelements": 1,
+                    "mentions": [
+                        {
+                            "id": 39,
+                            "mention": "competent authority"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "offset_type": "p",
+    "name": "DataGovernanceAct_Chapter_IX"
+}
