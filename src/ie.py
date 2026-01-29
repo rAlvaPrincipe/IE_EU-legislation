@@ -1,48 +1,78 @@
+from anyio import Path
+from langchain_core.messages import HumanMessage
 from langchain_openai import ChatOpenAI
-from langchain.schema import HumanMessage
-import re 
-import json
 from pathlib import Path
-
-openai_api_key=""
-model  = "gpt-4o-mini"
-prompt = "ner_extractor_v1.2.txt"   # "extractor" for a list of entitites, "annotator" for text with tags
+import json
+import os
 
 
-with open("prompts/" + prompt, "r", encoding="utf-8") as f:
-    prompt_template = f.read()
-llm = ChatOpenAI(model_name=model, temperature=0, openai_api_key=openai_api_key)
+
+MODEL = "gpt-4o-mini"
+
+CORPUS_DIR = Path("./data_philips")
+PROMPT_FILE = Path("./prompts/ner_extractor_philips_v1.2.txt")
+OUTPUT_DIR = Path("./entities")
+
+def load_env(path: Path = Path(".env")):
+    for line in path.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        key = key.strip()
+        value = value.strip().strip('"').strip("'")
+        if key and key not in os.environ:
+            os.environ[key] = value
 
 
-def extract_entities(doc):
-    prompt_filled = prompt_template.replace("<INPUT_TEXT>\n[put you text here]", f"<INPUT_TEXT>\n{doc}")
-    response = llm([HumanMessage(content=prompt_filled)])
-    raw_output = response.content
+
+def extract_entities(doc_text: str, prompt_template: str, llm: ChatOpenAI):
+    prompt_filled = prompt_template.replace(
+        "<INPUT_TEXT>\n[put you text here]",
+        f"<INPUT_TEXT>\n{doc_text}"
+    )
+
+    response = llm.invoke([HumanMessage(content=prompt_filled)])
+    raw_output = (response.content or "").strip()
 
     try:
-        entities = json.loads(raw_output)
+        return json.loads(raw_output)
     except json.JSONDecodeError:
-        entities = raw_output
-
-    return entities
+        return raw_output
 
 
+def save_output(result, out_base_path: Path):
+    out_base_path.parent.mkdir(parents=True, exist_ok=True)
 
-for doc_file in Path("./data").glob("*.txt"):
-    with open(doc_file, "r", encoding="utf-8") as f:
-        doc = f.read()
-        print(doc_file)
+    if isinstance(result, dict) or isinstance(result, list):
+        out_path = out_base_path.with_suffix(".json")
+        out_path.write_text(json.dumps(result, indent=2, ensure_ascii=False), encoding="utf-8")
+    else:
+        out_path = out_base_path.with_suffix(".txt")
+        out_path.write_text(str(result), encoding="utf-8")
 
-        entities = extract_entities(doc)
-        print(entities)
 
-        base_name = re.search(r"data/(.*)\.txt", str(doc_file)).group(1)
-        destination_file = Path("./entities/" + base_name)
-        destination_file.parent.mkdir(parents=True, exist_ok=True)
 
-        if isinstance(entities, dict):
-            with open(destination_file.with_suffix(".json"), "w", encoding="utf-8") as out:
-                json.dump(entities, out, indent=2, ensure_ascii=False)
-        else:
-            with open(destination_file.with_suffix(".txt"), "w", encoding="utf-8") as out:
-                out.write(entities)
+
+def main():
+    load_env()
+    openai_api_key = os.environ.get("OPENAI_API_KEY")
+    if not openai_api_key:
+        raise RuntimeError("OPENAI_API_KEY is not set. Add it to .env or your environment.")
+
+    prompt_template = PROMPT_FILE.read_text(encoding="utf-8")
+    llm = ChatOpenAI(model=MODEL,temperature=0, openai_api_key=openai_api_key)
+
+
+    for doc_path in sorted(CORPUS_DIR.glob("*.txt")):
+        print(f"Processing: {doc_path.name}")
+
+        doc_text = doc_path.read_text(encoding="utf-8")
+        result = extract_entities(doc_text, prompt_template, llm)
+
+        out_base = OUTPUT_DIR / doc_path.stem
+        save_output(result, out_base)
+
+
+if __name__ == "__main__":
+    main()
