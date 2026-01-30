@@ -14,15 +14,8 @@ PROMPT_FILE = Path("./prompts/ner_extractor_philips_v1.2.txt")
 OUTPUT_DIR = Path("./entities")
 
 def load_env(path: Path = Path(".env")):
-    for line in path.read_text(encoding="utf-8").splitlines():
-        line = line.strip()
-        if not line or line.startswith("#") or "=" not in line:
-            continue
-        key, value = line.split("=", 1)
-        key = key.strip()
-        value = value.strip().strip('"').strip("'")
-        if key and key not in os.environ:
-            os.environ[key] = value
+    key, value = path.read_text().strip().split("=", 1)
+    os.environ[key] = value.strip().strip('"').strip("'")
 
 
 
@@ -56,12 +49,8 @@ def save_output(result, out_base_path: Path):
 
 def main():
     load_env()
-    openai_api_key = os.environ.get("OPENAI_API_KEY")
-    if not openai_api_key:
-        raise RuntimeError("OPENAI_API_KEY is not set. Add it to .env or your environment.")
-
     prompt_template = PROMPT_FILE.read_text(encoding="utf-8")
-    llm = ChatOpenAI(model=MODEL,temperature=0, openai_api_key=openai_api_key)
+    llm = ChatOpenAI(model=MODEL,temperature=0, openai_api_key=os.environ.get("OPENAI_API_KEY"))
 
 
     for doc_path in sorted(CORPUS_DIR.glob("*.txt")):
